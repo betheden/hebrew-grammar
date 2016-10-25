@@ -1,1 +1,1 @@
-# Adjective
+# adjective
