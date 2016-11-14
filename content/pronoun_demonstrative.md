@@ -1,1 +1,0 @@
-# pronoun_demonstrative
