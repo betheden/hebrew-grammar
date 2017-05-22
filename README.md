@@ -19,3 +19,4 @@ Start fresh and provide descriptions of grammatical concepts that show up in [Op
 
 * Write syntax glossary and article entries
 * Tag text with syntax information
+
