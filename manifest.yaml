@@ -1,0 +1,42 @@
+---
+
+dublin_core:
+  conformsto: 'rc0.2'
+  contributor:
+    - 'Perry Oakes'
+  creator: ''
+  description: 'An open-licensed Hebrew grammar (reference first, eventually for teaching), providing information about Hebrew grammatical elements. It enables the global Church to gain the best possible understanding of the grammar of the original texts of the Old Testament.'
+  format: 'text/markdown'
+  identifier: 'uhg'
+  issued: ''
+  language:
+    identifier: 'en'
+    title: 'English'
+    direction: 'ltr'
+  modified: ''
+  publisher: 'unfoldingWord'
+  relation:
+    - 'en/uhb'
+  rights: 'CC BY-SA 4.0'
+  source:
+    -
+      identifier: 'uhg'
+      language: 'en'
+      version: '0'
+  subject: 'Hebrew Grammar'
+  title: 'Unlocked Hebrew Grammar'
+  type: 'man'
+  version: '0'
+
+checking:
+  checking_entity: []
+  checking_level: '1'
+
+projects:
+  -
+    categories: []
+    identifier: 'content'
+    path: './content'
+    sort: 0
+    title: 'Unlocked Hebrew Grammar'
+    versification:
