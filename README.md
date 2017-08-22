@@ -14,6 +14,15 @@ Start fresh and provide descriptions of grammatical concepts that show up in [Op
 ### Second stage
 
 * Tag the UHB with specific grammatical information (*interrogative* pronoun)
+* Evaluate (and adjust, if necessary) structural aspects of the morphological data scheme (see list below)
+
+**Items to evaluate:**
+* Add a "causal particle" classification?
+* Add a "conditional particle" classification?
+* Add a "discourse particle" classification?
+* Separate "preposition with definite article" (Rd) into two distinct morphological items, "preposition" (R) + "definite article" (Td)?
+
+
 
 ### Third stage
 
