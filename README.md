@@ -20,6 +20,7 @@ Start fresh and provide descriptions of grammatical concepts that show up in [Op
 * Add a "causal particle" classification?
 * Add a "conditional particle" classification?
 * Add a "discourse particle" classification?
+* Add a "compound conjunction" classification?
 * Add a "particle of existence" classification (יֵשׁ also Aram. איתי & copula)?
 * Add a "particle of non-existence" classification (אַיִן)?
 * Add a "construct particle" for Aramaic grammar (when דִּי joins two nouns in determined state)?
