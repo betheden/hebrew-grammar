@@ -20,6 +20,9 @@ Start fresh and provide descriptions of grammatical concepts that show up in [Op
 * Add a "causal particle" classification?
 * Add a "conditional particle" classification?
 * Add a "discourse particle" classification?
+* Add a "particle of existence" classification (יֵשׁ also Aram. איתי & copula)?
+* Add a "particle of non-existence" classification (אַיִן)?
+* Add a "construct particle" for Aramaic grammar (when דִּי joins two nouns in determined state)?
 * Separate "preposition with definite article" (Rd) into two distinct morphological items, "preposition" (R) + "definite article" (Td)?
 * Re-evaluate: should the category "determined state" be added into the parsing morphology?  How much information concerning the meaning of the determined state should be included in the grammar?  
 
