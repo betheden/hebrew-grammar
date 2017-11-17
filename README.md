@@ -19,7 +19,7 @@ Start fresh and provide descriptions of grammatical concepts that show up in [Op
 **Items to evaluate:**
 * Add the following to morphological parsing scheme?  causal particle; conditional particle; discourse particle; compound conjunction; particle of existence; particle of non-existence
 * Separate "preposition with definite article" (Rd) into two distinct morphological items, "preposition" (R) + "definite article" (Td)?
-* Re-evaluate: should the category "determined state" be included in the grammar, or should this be called "definiteness" instead? There is potential for confusion with Aramaic here.  In Hebrew, the "determined state" and "definite noun" are one and the same thing, but in Aramaic they are not.  Perhaps we should use the term "definite noun" in UHG in order to avoid confusion with the "determined state" in the UAG. 
+* Re-evaluate: should the category "determined state" be included in the grammar, or should this be called "definite" instead? There is potential for confusion with Aramaic here.  In Hebrew, the "determined state" and "definite" are one and the same thing, but in Aramaic they are not.  Perhaps we should use the term "definite" in UHG in order to avoid confusion with the "determined state" in the UAG. 
 
 
 ### Third stage
