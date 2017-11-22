@@ -17,7 +17,7 @@ Start fresh and provide descriptions of grammatical concepts that show up in [Op
 * Evaluate (and adjust, if necessary) structural aspects of the morphological data scheme (see list below)
 
 **Items to evaluate:**
-* Add the following to morphological parsing scheme?  causal particle; conditional particle; discourse particle; compound conjunction; particle of existence; particle of non-existence
+* Add the following to parsing morphology?  causal particle; conditional particle; discourse particle; compound conjunction; particle of existence; particle of non-existence
 * Separate "preposition with definite article" (Rd) into two distinct morphological items, "preposition" (R) + "definite article" (Td)?
 * Re-evaluate: should the category "determined state" be included in the grammar, or should this be called "definite" instead? There is potential for confusion with Aramaic here.  In Hebrew, the "determined state" and "definite" are one and the same thing, but in Aramaic they are not.  Perhaps we should use the term "definite" in UHG in order to avoid confusion with the "determined state" in the UAG. 
 * Parsing for questionable terms: H71 – proper name, feminine; H145 – common noun, masculine; H521 – common noun, feminine; H643 – common noun, masculine; H1847 - common noun, feminine (except masc. in Prov 2:10, 14:6, and Job 33:3); H2156 - common noun, feminine; H4530 – common noun, feminine; H4593 – common noun, feminine? (check textual problem); H5135 – Aramaic word, not Hebrew; H7452 – common noun, masculine; 
