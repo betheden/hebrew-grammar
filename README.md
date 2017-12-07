@@ -15,6 +15,7 @@ Start fresh and provide descriptions of grammatical concepts that show up in [Op
 
 * Tag the UHB with specific grammatical information (*interrogative* pronoun)
 * Evaluate (and adjust, if necessary) structural aspects of the morphological data scheme (see list below)
+* Sort all verbs parsed as imperfect in UHB for cohortative and jussive forms
 
 **Items to evaluate:**
 * Add the following to parsing morphology?  causal particle; conditional particle; discourse particle; compound conjunction; particle of existence; particle of non-existence
