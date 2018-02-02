@@ -7,7 +7,7 @@ This resource was designed by the [unfoldingWord Project](https://unfoldingword.
 * Daniel Bowman
 * Ethan Knapp
 * Joel D. Ruark (M.A.Th. Gordon-Conwell Theological Seminary; Th.M. Stellenbosch University; Ph.D. Candidate in Old Testament Studies, Stellenbosch University)
-* Jesse Griffin
+* Jesse Griffin (BA Biblical Studies, Liberty University; MA Biblical Languages, Gordon-Conwell Theological Seminary)
 * Kenny Hilliard
 * Perry Oakes
 * Stephen Andrews
