@@ -10,4 +10,4 @@ This resource was designed by the [unfoldingWord Project](https://unfoldingword.
 * Jesse Griffin (BA Biblical Studies, Liberty University; MA Biblical Languages, Gordon-Conwell Theological Seminary)
 * Kenny Hilliard
 * Perry Oakes (BA Biblical Studies, Taylor University; MA Theology, Fuller Seminary; MA Linguistics, University of Texas at Arlington; PhD Old Testament, Southwestern Baptist Theological Seminary)
-* Stephen Andrews (BA Carson-Newman; M.Div. Eastern Baptist Theological Seminary; Th.M. Southeastern Baptist Theological Seminary; Ph.D. Hebrew Union College)
+* Stephen J. Andrews (BA Carson-Newman; M.Div. Eastern Baptist Theological Seminary; Th.M. Southeastern Baptist Theological Seminary; Ph.D. Hebrew Union College)
