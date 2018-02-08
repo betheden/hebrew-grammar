@@ -4,7 +4,7 @@ This resource was designed by the [unfoldingWord Project](https://unfoldingword.
 
 * Bram van den Heuvel (BA Theology, Utrecht University; MA Biblical Studies, Utrecht University / University of Amsterdam; Ph.D. Candidate Old Testament, Evangelische Theologische Faculteit)
 * Chapel Presson
-* Daniel Bowman
+* Daniel Bowman (BA Ancient Languages, Cornerstone University; MDiv, Grand Rapids Theological Seminary)
 * Ethan Knapp
 * Joel D. Ruark (M.A.Th. Gordon-Conwell Theological Seminary; Th.M. Stellenbosch University; Ph.D. Candidate in Old Testament Studies, Stellenbosch University)
 * Jesse Griffin (BA Biblical Studies, Liberty University; MA Biblical Languages, Gordon-Conwell Theological Seminary)
