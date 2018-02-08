@@ -1,0 +1,1 @@
+Adjective Cardinal Number
