@@ -2,7 +2,7 @@
 
 This resource was designed by the [unfoldingWord Project](https://unfoldingword.org/) and built by the [Door43 World Missions Community](https://door43.org/).  At least the following people were instrumental in the creation of the UHG:
 
-* Bram van den Heuvel, M.A.
+* Bram van den Heuvel (BA Theology, Utrecht University; MA Biblical Studies, Utrecht University / University of Amsterdam; Ph.D. Candidate Old Testament, Evangelische Theologische Faculteit)
 * Chapel Presson
 * Daniel Bowman
 * Ethan Knapp
