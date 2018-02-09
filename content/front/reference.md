@@ -8,6 +8,6 @@ This resource was designed by the [unfoldingWord Project](https://unfoldingword.
 * Ethan Knapp
 * Joel D. Ruark (M.A.Th. Gordon-Conwell Theological Seminary; Th.M. Stellenbosch University; Ph.D. Candidate in Old Testament Studies, Stellenbosch University)
 * Jesse Griffin (BA Biblical Studies, Liberty University; MA Biblical Languages, Gordon-Conwell Theological Seminary)
-* Kenny Hilliard
+* Kenny Hilliard (BA Christian Studies, North Greenville University; MDiv Christian Ministry: Biblical Languages, Southeastern Baptist Theological Seminary; PHD Candidate Biblical Studies: Old Testament, Southeastern Baptist Theological Seminary)
 * Perry Oakes (BA Biblical Studies, Taylor University; MA Theology, Fuller Seminary; MA Linguistics, University of Texas at Arlington; PhD Old Testament, Southwestern Baptist Theological Seminary)
 * Stephen J. Andrews (BA Carson-Newman; M.Div. Eastern Baptist Theological Seminary; Th.M. Southeastern Baptist Theological Seminary; Ph.D. Hebrew Union College)
