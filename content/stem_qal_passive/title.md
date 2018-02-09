@@ -1,0 +1,1 @@
+Stem Qal Passive
