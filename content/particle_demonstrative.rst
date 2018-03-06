@@ -204,7 +204,7 @@ The demonstrative particle occurs at the beginning of a clause
 
       <td>
 
-   **Loook** his-reward with-him
+   **Look** his-reward with-him
 
    .. raw:: html
 
