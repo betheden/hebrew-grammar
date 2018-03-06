@@ -560,10 +560,11 @@ emphatic command than the use of the negative particle לֹא.
 ---------
 
 This term is used (especially with לְ) to negate :ref:`infinitive_construct`
-verbs, and is usually translated in English as "no" or "not". NOTE: This
-term is most often used as a concessive conjunction; a dictionary or
-lexicon will indicate the specific use of this particle in each
-individual context.
+verbs, and is usually translated in English as "no" or "not".
+
+.. note:: This term is most often used as a concessive conjunction;
+          a dictionary or lexicon will indicate the specific use of
+          this particle in each individual context.
 
 -  GEN 3:11
 

@@ -43,12 +43,11 @@ The shewa in וְ can lengthen to a vowel, usually pathah (when paired
 with the definite article) or qamets (when paired with both the article
 and a ה prefix), but others are also possible.
 
-NOTE: This conjunction is often left untranslated when it begins a
-sentence or clause, or when it appears within the sequential verbal
-forms (:ref:`verb_sequential_perfect`
-and :ref:`verb_sequential_imperfect`).
-Also, the conjunction is often added between every item of a list in
-Biblical Hebrew; but in English the וְ is not translated for each item.
+.. note:: This conjunction is often left untranslated when it begins a
+          sentence or clause, or when it appears within the sequential verbal
+          forms (:ref:`verb_sequential_perfect` and :ref:`verb_sequential_imperfect`).
+          Also, the conjunction is often added between every item of a list in
+          Biblical Hebrew; but in English the וְ is not translated for each item.
 
 Form
 ~~~~
@@ -1043,11 +1042,7 @@ usually translated as "or" in English.
 כִּי
 ----
 
-[NOTE: כִּי is one of the most flexible words in Biblical Hebrew in
-terms of its meaning. It can function either as a conjunction or as a
-particle, with many different potential meanings. If in doubt, it is
-recommended to *always* consult a dictionary or lexicon to confirm how
-the word is being used in any specific instance.]
+.. include:: ../includes/ci_flexible.txt
 
 The word כִּי is the standard causal conjunction in Biblical Hebrew, and
 is usually translated as "for" in English. However, it is also commonly
@@ -1637,10 +1632,10 @@ meaning of the word in any specific instance.
 אִם
 ---
 
-NOTE: Like the word כִּי, the word אִם in Biblical Hebrew is also
-extremely flexible in its meaning. If in doubt, it is recommended to
-always consult a dictionary or lexicon for the exact meaning of the word
-in any specific instance.
+.. note:: Like the word כִּי, the word אִם in Biblical Hebrew is also
+          extremely flexible in its meaning. If in doubt, it is recommended to
+          always consult a dictionary or lexicon for the exact meaning of the word
+          in any specific instance.
 
 Conditional
 ~~~~~~~~~~~
@@ -3179,12 +3174,12 @@ conveying a strong sense of affirmation or addition. This compound
 conjunction can appear with or without the prefix conjunction וְ
 ("and").
 
-NOTE: Like other particles, the words אַף and כִּי sometimes appear
-together but do NOT form a compound conjunction; in such cases, each
-word retains its individual meaning, usually as an affirmation particle
-(אַף) and a conditional conjunction (כִּי). These instances must be
-determined from the context. If in doubt, consult a dictionary or
-lexicon for the exact meaning of any specific occurrence.
+.. note:: Like other particles, the words אַף and כִּי sometimes appear
+          together but do NOT form a compound conjunction; in such cases, each
+          word retains its individual meaning, usually as an affirmation particle
+          (אַף) and a conditional conjunction (כִּי). These instances must be
+          determined from the context. If in doubt, consult a dictionary or
+          lexicon for the exact meaning of any specific occurrence.
 
 -  GEN 3:1
 

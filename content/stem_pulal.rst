@@ -24,8 +24,9 @@ The Pulal stem is formed from the Pual by repeating the 3rd radical
 (with a vowel change), thus making a verb that appears to have 4
 consonants. It is an extremely rare verbal form in Biblical Hebrew. Most
 of the Pulal verbs found in the Hebrew Bible are from the root אָמַל
-("to be weak"). It is recommended to *always* consult a dictionary or
-lexicon for the precise nuance of any verb in the Pulal stem.
+("to be weak").
+
+.. include:: ../includes/consult_dictionary.txt
 
 -  JOL 1:10
 

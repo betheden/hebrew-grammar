@@ -697,12 +697,10 @@ also singular; if the noun is
 :ref:`state_determined`,
 the adjective is also definite; and so on.
 
-NOTE: When
-:ref:`adjective_cardinal_number`
-and
-:ref:`adjective_ordinal_number`
-numbers are used as attributive adjectives, they sometimes come *before*
-the noun they describe instead of *after* the noun.
+.. note:: When :ref:`adjective_cardinal_number` and
+          :ref:`adjective_ordinal_number` numbers are used as attributive
+          adjectives, they sometimes come *before* the noun they describe
+          instead of *after* the noun.
 
 -  1SA 18:17
 
@@ -918,8 +916,8 @@ describe in both gender (masculine/feminine) and number
 (singular/plural). Unlike attributive adjectives, however, a predicative
 adjective can be indefinite even if it describes a definite noun.
 
-NOTE: Sometimes, predicative adjectives and attributive adjectives look
-identical and must be distinguished based only on the context.
+.. note:: Sometimes, predicative adjectives and attributive adjectives look
+          identical and must be distinguished based only on the context.
 
 -  2SA 14:20
 

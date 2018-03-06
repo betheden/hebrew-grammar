@@ -28,10 +28,7 @@ simple action in the Piel stem; some verbs express intensive action in
 the Piel stem; for some verbs, the Piel stem might express either simple
 action or intensive action, depending on the context; and so on.
 
-NOTE: It is recommended to *always* consult a dictionary or lexicon for
-the specific meaning of the Piel stem for any verb, because the Piel
-stem has potential to express many different kinds of action for various
-verbs.
+.. include:: ../includes/consult_dictionary.txt
 
 Form
 ----
@@ -2525,9 +2522,9 @@ you must slaughter
 
 **Jussive**
 
-NOTE: The jussive form in the Piel stem is recognizable only for certain
-verbs. Here the sample verb is גָּלָה (meaning "to uncover nakedness" in
-the Piel stem), where the 3rd radical (ה) has dropped out.
+.. note:: The jussive form in the Piel stem is recognizable only for certain
+          verbs. Here the sample verb is גָּלָה (meaning "to uncover nakedness" in
+          the Piel stem), where the 3rd radical (ה) has dropped out.
 
 .. raw:: html
 
@@ -3738,10 +3735,10 @@ in view. In Biblical Hebrew, the causative nature of the verbal action
 is expressed by the Piel form of the verb itself with no additional
 verbal element.
 
-NOTE: Causative action must be expressed by a :ref:`verb-transitive-verbs`,
-but non-causative action can be expressed by an :ref:`verb-intransitive-verbs`.
-Thus, a verb that is transitive in the Piel stem may be intransitive in
-the Qal and/or Niphal stems.
+.. note:: Causative action must be expressed by a :ref:`verb-transitive-verbs`,
+          but non-causative action can be expressed by an :ref:`verb-intransitive-verbs`.
+          Thus, a verb that is transitive in the Piel stem may be intransitive in
+          the Qal and/or Niphal stems.
 
 -  JOB 38:12 –– expressing causative action with a dynamic verb
 

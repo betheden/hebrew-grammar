@@ -30,12 +30,12 @@ governing the "definiteness" of words vary in different languages, so
 this particle must always be translated in accordance with the
 convention(s) of each individual language.
 
-NOTE: The definite article is only rarely found in Hebrew poetry. This
-may have been done for the sake of rhythmic meter, since the article
-almost always adds a syllable to a word. In Hebrew poetry, words can be
-in the determined state even without the definite article. Therefore, in
-Hebrew poetry, often the state (construct, absolute, or determined) of a
-particular word must be determined by the context.
+.. note:: The definite article is only rarely found in Hebrew poetry. This
+          may have been done for the sake of rhythmic meter, since the article
+          almost always adds a syllable to a word. In Hebrew poetry, words can be
+          in the determined state even without the definite article. Therefore, in
+          Hebrew poetry, often the state (construct, absolute, or determined) of a
+          particular word must be determined by the context.
 
 Standard form
 -------------

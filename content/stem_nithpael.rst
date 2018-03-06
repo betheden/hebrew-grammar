@@ -19,9 +19,10 @@ The Nithpael stem is a variation of the :ref:`stem_hithpael`
 and expresses the reflexive voice of the verbal action of the :ref:`stem_piel`.
 The Nithpael stem is formed from the Hithpael stem by inserting the נ
 from the Niphal stem into the Hithpael prefix (נִתְ). It is an extremely
-rare verbal form in Biblical Hebrew. It is recommended to *always*
-consult a dictionary or lexicon for the precise nuance of any verb in
-the Nithpael stem.
+rare verbal form in Biblical Hebrew.
+
+.. include:: ../includes/consult_dictionary.txt
+
 
 -  DEU 21:8
 

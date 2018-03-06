@@ -33,10 +33,10 @@ how the participle is being used in the sentence. Generally speaking,
 the meaning of the participle is clear even in cases where its specific
 grammatical function cannot be determined precisely.
 
-NOTE: Only the :ref:`stem_qal`
-has a distinct passive form for the participle; in all other cases, the
-passive (sometimes reflexive) meaning is determined by the stem
-formation and the specific verb.
+.. note:: Only the :ref:`stem_qal`
+          has a distinct passive form for the participle; in all other cases, the
+          passive (sometimes reflexive) meaning is determined by the stem
+          formation and the specific verb.
 
 Form
 ----

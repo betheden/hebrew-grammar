@@ -100,8 +100,8 @@ Non-finite verbs can sometimes describe an action or an event in such a
 way that the word functions like a
 :ref:`noun`.
 
-NOTE: In Biblical Hebrew, the non-finite verb forms are sometimes used
-as finite verbs.
+.. note:: In Biblical Hebrew, the non-finite verb forms are sometimes used
+          as finite verbs.
 
 Types of verbs II
 ~~~~~~~~~~~~~~~~~

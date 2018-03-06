@@ -430,9 +430,11 @@ Expresses purpose, result, or complementary action of a main verb (with preposit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This is by far the most common use of the infinitive construct, as a
-standard grammatical infinitive. NOTE: The infinitive construct can also
-be used with other prepositions to complement the main verb (such as the
-preposition עַל in the example below).
+standard grammatical infinitive.
+
+.. note:: The infinitive construct can also
+          be used with other prepositions to complement the main verb (such as the
+          preposition עַל in the example below).
 
 -  GEN 11:5 – expressing purpose for the action of the main verb
 

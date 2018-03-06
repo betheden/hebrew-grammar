@@ -31,10 +31,7 @@ derived from the same root is the object or result of the hiphil verb
 associated with that root. For example, the Hiphil verb הִמְטִיר means
 "to cause to rain down"; the noun מָטָר means "rain".
 
-NOTE: It is recommended to *always* consult a dictionary or lexicon for
-the specific meaning of the Hiphil stem for any verb, because the Hiphil
-stem has potential to express various nuances of action for various
-verbs.
+.. include:: ../includes/consult_dictionary.txt
 
 Form
 ----

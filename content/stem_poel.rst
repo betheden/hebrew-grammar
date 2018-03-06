@@ -17,12 +17,13 @@ Article
 The Poel stem is a variation of the :ref:`stem_piel`
 and has potential to express the same range of verbal action. The Poel
 stem is formed from the Piel by a vowel change and is a rare verbal form
-in Biblical Hebrew. It is recommended to *always* consult a dictionary
-or lexicon for the precise nuance of any verb in the Poel stem.
+in Biblical Hebrew.
 
-NOTE: The Poel stem appears exactly the same as the Poal stem in all
-conjugations; only the 3rd-person masculine singular forms are
-different.
+.. include:: ../includes/consult_dictionary.txt
+
+.. warning:: The Poel stem appears exactly the same as the Poal stem in all
+          conjugations; only the 3rd-person masculine singular forms are
+          different.
 
 Form
 ----

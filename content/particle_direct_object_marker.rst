@@ -31,12 +31,12 @@ the attached
 :ref:`conjunction`
 (i.e. the *waw* prefix, "and") and/or a :ref:`suffix_pronominal`.
 
-NOTE: the direct object marker is easily confused with the preposition
-אֵת ("with") which has an identical standard form. When taking a
-pronominal suffix, however, the two words can be distinguished by the
-vowel they each select. The direct object marker takes a holem/holem-waw
-vowel with an attached suffix (אוֹתִי or אֹתִי), whereas the preposition
-takes a hireq vowel (אִתִּי) with an attached suffix.
+.. note:: the direct object marker is easily confused with the preposition
+          אֵת ("with") which has an identical standard form. When taking a
+          pronominal suffix, however, the two words can be distinguished by the
+          vowel they each select. The direct object marker takes a holem/holem-waw
+          vowel with an attached suffix (אוֹתִי or אֹתִי), whereas the preposition
+          takes a hireq vowel (אִתִּי) with an attached suffix.
 
 -  GEN 1:1 –– marking individual nouns as direct objects
 

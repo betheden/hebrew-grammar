@@ -22,8 +22,8 @@ rare verbal form in Biblical Hebrew. It is recommended to *always*
 consult a dictionary or lexicon for the precise nuance of any verb in
 the Nithpael stem.
 
-NOTE: The Hithpolel stem conjugates exactly like the Polel stem, but
-with the reflexive prefix (הִתְ) added.
+.. note:: The Hithpolel stem conjugates exactly like the Polel stem, but
+          with the reflexive prefix (הִתְ) added.
 
 Form
 ----

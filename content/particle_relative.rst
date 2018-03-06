@@ -348,11 +348,7 @@ Sometimes there is no noun as an antecedent.
 כִּי
 ----
 
-NOTE: כִּי is one of the most flexible words in Biblical Hebrew in terms
-of its meaning. It can function either as a conjunction or as a
-particle, with many different potential meanings. If in doubt, it is
-recommended to *always* consult a dictionary or lexicon to confirm how
-the word is being used in any specific instance.
+.. include:: ../includes/ci_flexible.txt
 
 Biblical Hebrew uses the particle כִּי to introduce relative clauses
 that describe something that is seen, known, or somehow perceived by a

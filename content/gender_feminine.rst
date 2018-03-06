@@ -55,10 +55,10 @@ nouns end in patach-yod-hireq-final mem, as in יָדַיִם (hands). Feminine
 :ref:`number_plural`
 nouns and adjectives usually end in וֹת, as in תּוֹרוֹת (laws).
 
-NOTE: Some feminine nouns do NOT take feminine endings, even some common
-nouns such as אֵם (mother) and אֶרֶץ (earth). They appear to be
-masculine nouns, but they are actually feminine nouns. A dictionary or
-lexicon will indicate the proper gender for each word.
+.. note:: Some feminine nouns do NOT take feminine endings, even some common
+          nouns such as אֵם (mother) and אֶרֶץ (earth). They appear to be
+          masculine nouns, but they are actually feminine nouns. A dictionary or
+          lexicon will indicate the proper gender for each word.
 
 Paradigm
 ~~~~~~~~

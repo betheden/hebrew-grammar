@@ -20,9 +20,9 @@ stem is formed from the Piel by dropping the 2nd radical and repeating
 the 1st and 3rd radical, thus making a verb that appears to have 4
 consonants. It is a rare verbal form in Biblical Hebrew. Many of the
 occurrences of the Pilpel stem in the Hebrew Bible are from the root
-verb כּוּל ("to comprehend, contain"). It is recommended to *always*
-consult a dictionary or lexicon for the precise nuance of any verb in
-the Pilpel stem.
+verb כּוּל ("to comprehend, contain").
+
+.. include:: ../includes/consult_dictionary.txt
 
 Form
 ----

@@ -29,7 +29,7 @@ cardinal number can function as a noun and can appear in the :ref:`state_absolut
 the :ref:`state_construct`,
 and/or the :ref:`state_determined`.
 
-NOTE: Sometimes a cardinal form ("one", "two", "three", etc.) is used,
+.. note:: Sometimes a cardinal form ("one", "two", "three", etc.) is used,
 but an ordinal meaning ("first", "second", "third", etc.) is clearly
 indicated from the context.
 
@@ -1163,14 +1163,12 @@ two of
 3-10
 ----
 
-NOTE: These numbers have specialized uses when they take either a
-:ref:`number_dual`
-ending or a
-:ref:`number_plural`
-ending. When these numbers take a dual ending, they become simple
-multiples ("three-fold", "four-fold", "five-fold", etc.); but when they
-take a plural ending, they become multiples of ten ("thirty", "forty",
-"fifty", etc.).
+.. note:: These numbers have specialized uses when they take either a
+          :ref:`number_dual` ending or a :ref:`number_plural`
+          ending. When these numbers take a dual ending, they become simple
+          multiples ("three-fold", "four-fold", "five-fold", etc.); but when they
+          take a plural ending, they become multiples of ten ("thirty", "forty",
+          "fifty", etc.).
 
 .. raw:: html
 

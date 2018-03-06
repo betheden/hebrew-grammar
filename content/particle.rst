@@ -34,18 +34,13 @@ it is recommended to consult and dictionary or lexicon to determine
 whether any particular occurrence of a particle stands alone or as part
 of a compound conjunction.
 
-NOTE: The classification of these words (i.e. words called "particles"
-in this grammar) is a subject of much debate among Hebrew linguists.
-This is true even for particles which have a clear meaning and function.
-Other parsing systems may have different names for these groups of
-particles, may have different groupings, or may even parse an individual
-particle as another kind of word such as a
-:ref:`noun`,
-an
-:ref:`adverb`,
-a
-:ref:`conjunction`,
-or others.
+.. note:: The classification of these words (i.e. words called "particles"
+          in this grammar) is a subject of much debate among Hebrew linguists.
+          This is true even for particles which have a clear meaning and function.
+          Other parsing systems may have different names for these groups of
+          particles, may have different groupings, or may even parse an individual
+          particle as another kind of word such as a
+          :ref:`noun`, an :ref:`adverb`, a :ref:`conjunction`, or others.
 
 Types
 -----

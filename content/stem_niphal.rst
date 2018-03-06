@@ -30,9 +30,7 @@ reflexive action in the Niphal stem; for some verbs, the Niphal stem
 might express either passive action or reflexive action, depending on
 the context; and so on.
 
-NOTE: It is recommended to *always* consult a dictionary or lexicon for
-the specific meaning of the Niphal stem for any verb, because the Niphal
-stem expresses different kinds of action for various verbs.
+.. include:: ../includes/consult_dictionary.txt
 
 Form
 ----
@@ -2526,9 +2524,9 @@ you must be killed
 
 **Jussive**
 
-NOTE: The jussive form in the Niphal stem is recognizable only for
-select verbs. Here the sample verb is גָּלָה (to uncover), where the 3rd
-radical (ה) has dropped out.
+.. note:: The jussive form in the Niphal stem is recognizable only for
+          select verbs. Here the sample verb is גָּלָה (to uncover), where the 3rd
+          radical (ה) has dropped out.
 
 .. raw:: html
 

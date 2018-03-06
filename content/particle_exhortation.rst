@@ -460,8 +460,8 @@ particle could also be classified as an
 בִּי
 ----
 
-NOTE: This particle appears the same but should not be confused with the
-preposition בְּ with 1st common singular :ref:`suffix_pronominal`.
+.. note:: This particle appears the same but should not be confused with the
+          preposition בְּ with 1st common singular :ref:`suffix_pronominal`.
 
 When paired with a vocative, the word בִּי strengthens the emotive force
 of the statement that follows. It is used for addressing someone who is

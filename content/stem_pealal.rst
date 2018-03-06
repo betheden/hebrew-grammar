@@ -18,9 +18,9 @@ The Pealal stem is a variation of the :ref:`stem_piel`
 and has potential to express the same range of verbal action. The Pealal
 stem is formed from the Piel stem by simply repeating both the 2nd and
 3rd radicals, thus making a verb that appears to have 5 consonants. It
-is an extremely rare verbal form in Biblical Hebrew. It is recommended
-to *always* consult a dictionary or lexicon for the precise nuance of
-any verb in the Pilel stem.
+is an extremely rare verbal form in Biblical Hebrew.
+
+.. include:: ../includes/consult_dictionary.txt
 
 -  PSA 38:10 (PSA 38:11 in Hebrew) –– the root is סחר, and the 2nd and
    3rd radicals repeat

@@ -23,8 +23,8 @@ higher. Ordinal numbers function as :ref:`adjective_attributive`,
 but they may not always have the same grammatical form (gender, number,
 definiteness) as the noun they describe.
 
-NOTE: Sometimes a cardinal form is used, but an ordinal meaning is
-clearly indicated from the context (see examples below).
+.. note:: Sometimes a cardinal form is used, but an ordinal meaning is
+          clearly indicated from the context (see examples below).
 
 "First" through "Tenth"
 -----------------------

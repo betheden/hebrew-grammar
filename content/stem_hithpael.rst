@@ -26,10 +26,7 @@ the meaning of a verb in the Piel stem. However, the Hithpael stem is
 quite flexible in its use and can express other kinds of verbal action,
 depending on the context and the specific verb.
 
-NOTE: It is recommended to *always* consult a dictionary or lexicon for
-the specific meaning of the Hithpael stem for any verb, because the
-Hithpael stem has potential to express many different kinds of action
-for various verbs.
+.. include:: ../includes/consult_dictionary.txt
 
 Form
 ----
@@ -2523,10 +2520,10 @@ they must kill themselves
 
 **Jussive**
 
-NOTE: The Jussive form in the Hithpael stem is recognizable only for
-select verbs. Here the sample verb is גָּלָה (meaning "to uncover one's
-own nakedness" in the Hithpael stem), where the 3rd radical (ה) has
-dropped out.
+.. note:: The Jussive form in the Hithpael stem is recognizable only for
+          select verbs. Here the sample verb is גָּלָה (meaning "to uncover one's
+          own nakedness" in the Hithpael stem), where the 3rd radical (ה) has
+          dropped out.
 
 .. raw:: html
 

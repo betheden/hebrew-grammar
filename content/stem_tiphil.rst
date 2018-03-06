@@ -21,9 +21,9 @@ in active voice, similar to the more common
 :ref:`stem_hiphil`
 stem formation. It differs from the Hiphil by using a ת prefix before
 the 1st radical instead of a ה prefix. It is an extremely rare verbal
-form in Biblical Hebrew. It is recommended to *always* consult a
-dictionary or lexicon for the precise nuance of any verb in the Tiphil
-stem.
+form in Biblical Hebrew.
+
+.. include:: ../includes/consult_dictionary.txt
 
 -  JER 12:5
 

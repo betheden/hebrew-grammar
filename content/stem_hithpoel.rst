@@ -21,8 +21,8 @@ is an extremely rare verbal form in Biblical Hebrew. It is recommended
 to *always* consult a dictionary or lexicon for the precise nuance of
 any verb in the Hithpoel stem.
 
-NOTE: The Hithpoel stem conjugates exactly like the Poel stem, but with
-the reflexive prefix (הִתְ) added.
+.. note:: The Hithpoel stem conjugates exactly like the Poel stem, but with
+          the reflexive prefix (הִתְ) added.
 
 Form
 ----

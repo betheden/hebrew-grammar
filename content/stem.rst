@@ -233,10 +233,7 @@ Hithpael (intensive action, reflexive voice)
 
    </table>
 
-NOTE: It is advised to *always* check both the dictionary entry for the
-particular stem and the context to get the exact nuance. This is
-especially true for the Piel, Hiphil, Hophal, and Hithpael stems, which
-are often not easy to guess from the meaning of the Qal.
+.. include:: ../includes/consult_dictionary.txt
 
 Form
 ----
@@ -245,43 +242,43 @@ This is a brief overview on how to quickly recognize the simplest forms
 of each stem:
 
 :ref:`stem_qal`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^
 
 The simplest form of the verb, often has "a" vowels (qamets or patah).
 
 :ref:`stem_niphal`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
 
 Adds נִ (nun with hireq) to the beginning of the verb. If the form also
 adds a prefix (like in the prefix conjugation), the נ disappears and
 causes the 1st radical to double (with a daghesh).
 
 :ref:`stem_piel`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 
 Here the 2nd radical of the verb is doubled (with a daghesh), and
 usually have a shewa or a hireq under the 1st radical.
 
 :ref:`stem_pual`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 
 Also doubles the 2nd radical but often has a qibbuts under the 1st
 radical.
 
 :ref:`stem_hiphil`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
 
 Often has הִ (he with hireq) before the verb, or a patah under the
 letter that the form adds before the root.
 
 :ref:`stem_hophal`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
 
 Also adds a ה before the verb, but with a qamets hatuf (or sometimes
 qibbuts) vowel.
 
 :ref:`stem_hithpael`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 
 It adds הִתְ (he with hireq and taw with shewa) before the verb, and
 puts a qamets or patah under the 1st radical.

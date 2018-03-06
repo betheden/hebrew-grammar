@@ -19,9 +19,9 @@ and expresses the passive voice of the verbal action of the :ref:`stem_pilpel`.
 The Polpal stem is formed from the Pual by dropping the 2nd radical and
 repeating the 1st and 3rd radicals (with a vowel change), thus making a
 verb that appears to have 4 consonants. It is an extremely rare verbal
-form in Biblical Hebrew. It is recommended to *always* consult a
-dictionary or lexicon for the precise nuance of any verb in the Polpal
-stem.
+form in Biblical Hebrew.
+
+.. include:: ../includes/consult_dictionary.txt
 
 Form
 ----

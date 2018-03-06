@@ -28,10 +28,7 @@ In English, passive action is expressed using the helping verb "to be."
 In Biblical Hebrew, the passive nature of the verbal action is expressed
 by the Pual form of the verb itself without any helping verbs.
 
-NOTE: It is recommended to *always* consult a dictionary or lexicon for
-the specific meaning of the Pual stem for any specific verb, because the
-Pual stem has potential to express many different kinds of action for
-various verbs in different contexts.
+.. include:: ../includes/consult_dictionary.txt
 
 Form
 ----

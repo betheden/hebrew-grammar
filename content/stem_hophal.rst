@@ -35,10 +35,7 @@ be." In Biblical Hebrew, the passive nature of the verbal action is
 expressed by the Hophal form of the verb itself without any helping
 verbs.
 
-NOTE: It is recommended to *always* consult a dictionary or lexicon for
-the specific meaning of the Hophal stem for any specific verb, because
-the Hophal stem has potential to express different kinds of action for
-various verbs in various contexts.
+.. include:: ../includes/consult_dictionary.txt
 
 Form
 ----
@@ -46,9 +43,9 @@ Form
 Paradigm
 ~~~~~~~~
 
-NOTE: every form in the Hophal can have either a qamets hatuf or a
-qibbuts under the first letter (so הָ or הֻ). Here the qamets hatuf is
-used throughout.
+.. note:: every form in the Hophal can have either a qamets hatuf or a
+          qibbuts under the first letter (so הָ or הֻ). Here the qamets hatuf is
+          used throughout.
 
 **Suffix Conjugation**
 

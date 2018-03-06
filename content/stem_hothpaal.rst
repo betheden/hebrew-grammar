@@ -19,8 +19,9 @@ and generally expresses passive action. The Hothpaal stem is formed from
 the Hithpael stem by vowel changes and is an extremely rare verbal form
 in Biblical Hebrew. Many of the occurrences of the Hothpaal stem in the
 Hebrew Bible are from the root verb פָּקַד ("to visit, number, or
-appoint"). It is recommended to *always* consult a dictionary or lexicon
-for the precise nuance of any verb in the Hothpaal stem.
+appoint").
+
+.. include:: ../includes/consult_dictionary.txt
 
 -  LEV 13:55-56
 

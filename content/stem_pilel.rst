@@ -21,8 +21,9 @@ same stem formation as the
 only with a variant vocalization. The Pilel stem is formed from the Piel
 stem by repeating the 3rd radical, thus making a verb that can appear to
 have 4 consonants. It is an extremely rare verbal form in Biblical
-Hebrew. It is recommended to *always* consult a dictionary or lexicon
-for the precise nuance of any verb in the Pilel stem.
+Hebrew.
+
+.. include:: ../includes/consult_dictionary.txt
 
 -  GEN 21:16 –– כִּמְטַחֲוֵ֣י has two prefixed elements: כִּ is a bound
    preposition, and מְ is the participle prefix

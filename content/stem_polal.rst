@@ -18,13 +18,13 @@ The Polal stem is a variation of the :ref:`stem_pual`
 and expresses the passive voice of the verbal action of the :ref:`stem_polel`.
 The Polal stem is formed from the Pual by dropping the 2nd radical and
 repeating the 3rd radical (with a vowel change). It is an extremely rare
-verbal form in Biblical Hebrew. It is recommended to *always* consult a
-dictionary or lexicon for the precise nuance of any verb in the Polal
-stem.
+verbal form in Biblical Hebrew.
 
-NOTE: The Polal stem appears exactly the same as the Polel stem in all
-conjugations; only the 3rd-person masculine singular forms are
-different.
+.. include:: ../includes/consult_dictionary.txt
+
+.. warning:: The Polal stem appears exactly the same as the Polel stem in all
+          conjugations; only the 3rd-person masculine singular forms are
+          different.
 
 Form
 ----

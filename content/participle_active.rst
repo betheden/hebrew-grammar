@@ -1144,9 +1144,11 @@ When functioning as a verb, the participle is governed by the context
 and has the potential to be translated as past time, present time,
 future time, or even without a specified timeframe. A verbal participle
 can express stative, frequentive, durative, or imminent action as
-determined by the context. NOTE: The subject of a participle usually
-precedes the participle, in contrast to the normal conventions of
-:ref:`word_order`.
+determined by the context.
+
+.. note:: The subject of a participle usually
+          precedes the participle, in contrast to the normal conventions of
+          :ref:`word_order`.
 
 -  1SA 3:8 –– expressing frequentive action
 

@@ -4355,9 +4355,9 @@ you must be heavy
 
 **Jussive 1**
 
-NOTE: The jussive form in the Qal stem is recognizable only for select
-verbs. Here the sample verb is גָּלָה (to uncover), where the 3rd
-radical (ה) has dropped out.
+.. note:: The jussive form in the Qal stem is recognizable only for select
+          verbs. Here the sample verb is גָּלָה (to uncover), where the 3rd
+          radical (ה) has dropped out.
 
 .. raw:: html
 
