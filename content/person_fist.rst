@@ -2,7 +2,7 @@
 
 .. _person_fist:
 
-Person Fist
+Person First
 ===========
 
 Summary
