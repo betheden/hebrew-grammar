@@ -1,1 +1,0 @@
-Adjective Ordinal Number

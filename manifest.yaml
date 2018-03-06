@@ -13,7 +13,7 @@ dublin_core:
     - 'Daniel Bowman'
   creator: 'Door43 World Missions Community'
   description: 'An open-licensed Hebrew grammar (reference first, eventually for teaching), providing information about Hebrew grammatical elements. It enables the global Church to gain the best possible understanding of the grammar of the original texts of the Old Testament.'
-  format: 'text/markdown'
+  format: 'text/x-rst'
   identifier: 'uhg'
   issued: '2018-01-26'
   language:

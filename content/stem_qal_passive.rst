@@ -1,0 +1,231 @@
+:github_url: https://git.door43.org/Door43/en_uhg/src/branch/master/content/stem_qal_passive.rst
+
+.. _stem_qal_passive:
+
+Stem Qal Passive
+================
+
+Summary
+-------
+
+The Qal Passive is a passive form of the Qal stem. It looks similar to
+(and is sometimes identified as) the Pual or the Hophal stem.
+
+Article
+-------
+
+The Qal Passive form is a
+:ref:`stem`
+formation in Biblical Hebrew that expresses simple action in passive
+voice. There is some debate among scholars concerning all the
+:ref:`verb`
+that are parsed as Qal Passive, because they could also be identified as
+either a
+:ref:`stem_pual`
+or a
+:ref:`stem_hophal`.
+This distinction is not important for meaning or translation.
+
+-  GEN 6:1 –– alternatively identified as Pual
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וּבָנ֖וֹת **יֻלְּד֥וּ** לָהֶֽם׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   uvanoth **yulledu** lahem
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   and-daughters **were-born** to-them
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   and daughters **were born** to them
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+-  JDG 6:28 –– alternatively identified as Pual
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וְהָאֲשֵׁרָ֥ה אֲשֶׁר־עָלָ֖יו כֹּרָ֑תָה
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   weha'asherah 'asher-'alayw **korathah**
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   and-the-Asherah that\_beside-it **was-cut-down**
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   and the Asherah that was beside it **was cut down**
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>

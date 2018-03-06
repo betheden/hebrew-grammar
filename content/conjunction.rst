@@ -1,0 +1,3391 @@
+:github_url: https://git.door43.org/Door43/en_uhg/src/branch/master/content/conjunction.rst
+
+.. _conjunction:
+
+Conjunction
+===========
+
+Summary
+-------
+
+Conjunctions connect words, clauses, or phrases. Common conjunctions are
+"and," "but," "or."
+
+Article
+-------
+
+Biblical Hebrew contains only one primary conjunction (the prefix וְ),
+but a whole family of other words also function as conjunctions. A
+conjunction is a word that shows a relationship between two different
+things within a text; these "things" can be individual words or phrases,
+or even entire sentences or paragraphs. In Biblical Hebrew, particles
+are often combined with each other to form compound conjunctions.
+Compound conjunctions should not be considered merely as the sum of the
+components, but rather as a single grammatical entity with its own range
+of meanings which may or may not be different than the individual
+component words.
+
+-וְ
+---
+
+Sentences in Biblical Hebrew often begin with the conjunction ו (as
+either a consonant or a shureq vowel). This conjunction וְ ("and")
+cannot stand alone as an independent word but must be connected to
+another word as a prefix. This can be added to a
+:ref:`noun`,
+a
+:ref:`verb`,
+a
+:ref:`pronoun`,
+or a
+:ref:`particle`.
+The shewa in וְ can lengthen to a vowel, usually pathah (when paired
+with the definite article) or qamets (when paired with both the article
+and a ה prefix), but others are also possible.
+
+NOTE: This conjunction is often left untranslated when it begins a
+sentence or clause, or when it appears within the sequential verbal
+forms (:ref:`verb_sequential_perfect`
+and :ref:`verb_sequential_imperfect`).
+Also, the conjunction is often added between every item of a list in
+Biblical Hebrew; but in English the וְ is not translated for each item.
+
+Form
+~~~~
+
+The conjunction וְ can appear either as a prefix to a word or particle,
+or as part of a sequential verbal form.
+
+-  ZEC 3:3 –– as a prefix to a separate word
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וְעֹמֵ֖ד לִפְנֵ֥י הַמַּלְאָֽךְ‬
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **we'omed** lifne hammal'akh‬
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **and-he-was-standing** to-face-of the-angel
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **and he was standing** in front of the angel
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+-  GEN 1:13 –– as part of a sequential verbal form
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וַֽיְהִי־עֶ֥רֶב **וַֽיְהִי**\ ־בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **wayehi**-'erev **wayehi**\ voqer yom shelishi
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **And-there-was**\ \_evening, **and-there-was**\ \_morning, day
+   third.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **This was** evening and morning, the third day.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Function
+~~~~~~~~
+
+The conjunction וְ can express any of the following connective
+relationships:
+
+Copulative
+^^^^^^^^^^
+
+This connects two similar ideas and is usually translated as "and" in
+English.
+
+-  GEN 1:5
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם **וְלַחֹ֖שֶׁךְ** קָ֣רָא
+   לָ֑יְלָה
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   wayyiqra 'elohim la'or yom **welahoshekh** qara laylah
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   And-he-called God to-the-light day **and-to-the-darkness** he-called
+   night
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   He named the light "day," **and** he named **the darkness** "night."
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Disjunctive
+^^^^^^^^^^^
+
+This connects two opposite ideas and is usually translated as "and" in
+English.
+
+-  GEN 2:17
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וּמֵעֵ֗ץ הַדַּ֙עַת֙ ט֣וֹב **וָרָ֔ע** לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   ume'ets hadda'ath tov **wara'** lo thokhal mimmennu
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   But-from-tree-of the-knowledge-of good **and-evil** not you-shall-eat
+   from-it
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   But from the tree of the knowledge of good **and evil** you may not
+   eat
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Adversative
+^^^^^^^^^^^
+
+This contrasts two different ideas and is usually translated as “but” in
+English.
+
+-  GEN 6:8
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **wenoah** matsa hen be'ene yehwah
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **But-Noah** found favor in-eyes-of Yahweh.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **But Noah** found favor in the eyes of Yahweh.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Alternative
+^^^^^^^^^^^
+
+This compares two ideas as potentially equivalent and is usually
+translated as “or” in English.
+
+-  EXO 20:10
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   לֹֽ֣א־תַעֲשֶׂ֨ה כָל־מְלָאכָ֜ה אַתָּ֣ה ׀ **וּבִנְךָֽ֣־וּבִתֶּ֗ךָ**
+   עַבְדְּךָ֤ **וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖** אֲשֶׁ֥ר
+   בִּשְׁעָרֶֽיךָ׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   lo-tha'aseh khol-melakhah 'attah **uvinkha-wwvittekha** 'avdekha
+   **wa'amathekha uvehemtekha wegerekha** 'asher bish'areykha
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   Not\_you-shall-do any\_work you **nor-your-son\_nor-your-daughter**
+   your-male-servant **nor-your-female-servant nor-your-cattle
+   nor-foreigner** who in-your-gates.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   On it you must not do any work, you, **or your son, or your daughter,
+   or your male servant, or your female servant, or your cattle, or the
+   foreigner** who is within your gates.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Explicative
+^^^^^^^^^^^
+
+This provides additional information about one idea and is translated
+“even” (or is sometimes left untranslated) in English.
+
+-  GEN 4:4
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וְהֶ֨בֶל הֵבִ֥יא גַם־ה֛וּא מִבְּכֹר֥וֹת צֹאנ֖וֹ וּמֵֽחֶלְבֵהֶ֑ן
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   wehevel hevi gam-hu mibbekhoroth tsono **umehelvehen**
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   And-Abel brought also\_he from-firstborn-of his-flock
+   **even-from-fat**
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   As for Abel, he brought some of the firstborn of his flock **and some
+   of the fat**
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Circumstantial
+^^^^^^^^^^^^^^
+
+This connects clauses/phrases that happen at the same time; it is
+usually translated as “while” or “when” in English.
+
+-  GEN 45:14
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וַיִּפֹּ֛ל עַל־צַוְּארֵ֥י בִנְיָמִֽן־אָחִ֖יו וַיֵּ֑בְךְּ
+   **וּבִנְיָמִ֔ן** בָּכָ֖ה עַל־צַוָּארָֽיו׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   wayyippol 'al-tsawwere vinyamin-'ahiw wayyevk **uvinyamin** bakhah
+   'al-tsawwarayw
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   And-he-fell on\_neck-of Benjamin\_his-brother and-he-wept
+   **and-Benjamin** wept on\_his-neck.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   He hugged his brother Benjamin's neck and wept, **while Benjamin**
+   wept on his neck.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+ֹאו
+---
+
+The word אוֹ is the standard alternative conjunction in Biblical Hebrew,
+usually translated as "or" in English.
+
+-  EXO 21:32
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   אִם־עֶ֛בֶד יִגַּ֥ח הַשּׁ֖וֹר **א֣וֹ** אָמָ֑ה׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   'im-'eved yiggah hashor **'o** 'amah
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   If\_male-servant gores the-ox **or** female-servant
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   If a bull attacks and gores a male **or** female slave
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+כִּי
+----
+
+[NOTE: כִּי is one of the most flexible words in Biblical Hebrew in
+terms of its meaning. It can function either as a conjunction or as a
+particle, with many different potential meanings. If in doubt, it is
+recommended to *always* consult a dictionary or lexicon to confirm how
+the word is being used in any specific instance.]
+
+The word כִּי is the standard causal conjunction in Biblical Hebrew, and
+is usually translated as "for" in English. However, it is also commonly
+used as a conditional conjunction (usually translated, "if"). Often,
+כִּי is conditional when it occurs at the beginning of a sentence and
+causal when it occurs in the middle (or toward the end) of a sentence,
+but there are notable exceptions to this general rule.
+
+Causal
+~~~~~~
+
+This is the most common use of the word כִּי. However, sometimes it is
+extremely difficult to distinguish between a causal conjunction that
+expresses purpose and one that expresses result. When כִּי functions as
+a causal conjunction, it is often translated into English simply as
+"for", which can express either purpose or result.
+
+Expresses purpose
+^^^^^^^^^^^^^^^^^
+
+This means to express the purpose, reason, or cause for an action/event.
+In English, this kind of causal conjunction is usually translated as
+"for" or "because".
+
+-  GEN 3:14
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וַיֹּאמֶר֩ יְהֹוָ֨ה אֱלֹהִ֥ים ׀ אֶֽל־הַנָּחָשׁ֮ **כִּ֣י** עָשִׂ֣יתָ
+   זֹּאת֒ אָר֤וּר אַתָּה֙׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   wayyomer yehowah 'elohim 'el-hannahash **ki** 'asitha zoth 'arur
+   'attah
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   And-he-said Yahweh God to\_the-serpent **because** you-have-done this
+   cursed you
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   Then Yahweh God said to the snake, "**Because** you did this, I will
+   curse you."
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Expresses result
+^^^^^^^^^^^^^^^^
+
+This means to express the result or intended outcome of an action/event.
+In English, this kind of causal conjunction is usually translated as
+"for" or “so that”.
+
+-  GEN 20:10
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   מָ֣ה רָאִ֔יתָ **כִּ֥י** עָשִׂ֖יתָ אֶת־הַדָּבָ֥ר הַזֶּֽה׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   mah ra'itha **ki** 'asitha 'eth-haddavar hazzeh
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   What did-you-see **so-that** you-did [dir.obj]\_the-thing the-this?
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   What prompted you **to** do this thing?
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Conditional
+~~~~~~~~~~~
+
+This is also a very common use of the word כִּי in Biblical Hebrew. This
+conjunction can describe either a hypothetical condition or an actual
+condition, as determined by the context.
+
+Expresses a hypothetical condition
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A hypothetical condition expresses an imaginary action or event that has
+not actually happened in reality. This kind of conditional conjunction
+is usually translated as "if" in English. Hypothetical conditions have
+potential to convey many different nuances of possibility and/or
+desirability.
+
+-  2KI 4:29
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   כִּֽי־תִמְצָ֥א אִישׁ֙ לֹ֣א תְבָרְכֶ֔נּוּ **וְכִֽי**\ ־יְבָרֶכְךָ֥
+   אִ֖ישׁ לֹ֣א תַעֲנֶנּ֑וּ
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **ki**-thimtsa 'ish lo thevorkhennu **wekhi**-yevarekhkha 'ish lo
+   tha'anennu
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **If**\ \_you-meet man not\_greet-him **and-if**\ \_greets-you man
+   not answer-him.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **If** you meet any man, do not greet him, and **if** anyone greets
+   you, do not answer him.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Expresses an actual condition
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+An actual condition expresses an action or event that has actually
+happened in reality, and is usually translated as "when" or "while" in
+English. Usually, this kind of condition indicates something that is
+happening concurrently with the main action/event being described, or
+something that has happened in the past in certain circumstances.
+
+-  GEN 27:1
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וַיְהִי֙ **כִּֽי**\ ־זָקֵ֣ן יִצְחָ֔ק וַתִּכְהֶ֥יןָ עֵינָ֖יו מֵרְאֹ֑ת
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   wayhiy **ki**-zaqen yitshaq wattikhheyna 'enayw mere'oth
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   And-it-happened **when**\ \_old Isaac and-were-dim his-eyes
+   from-seeing
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **When** Isaac was old and his eyes were dim so that he could not see
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Other uses
+~~~~~~~~~~
+
+The word כִּי can also express other conjunctive meanings, often as an
+adversative following a negated statement. If in doubt, it is
+recommended to always consult a dictionary or lexicon for the exact
+meaning of the word in any specific instance.
+
+-  GEN 17:15
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   שָׂרַ֣י אִשְׁתְּךָ֔ לֹא־תִקְרָ֥א אֶת־שְׁמָ֖הּ שָׂרָ֑י **כִּ֥י**
+   שָׂרָ֖ה שְׁמָֽהּ׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   saray 'ishtekha lo-thiqra 'eth-shemah saray **ki** sarah shemah
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   Sarai your-wife not\_call [dir.obj]\_her-name Sarai **but** Sarah
+   her-name.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   As for Sarai your wife, do not call her Sarai any more. **Instead**,
+   her name will be Sarah.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+אִם
+---
+
+NOTE: Like the word כִּי, the word אִם in Biblical Hebrew is also
+extremely flexible in its meaning. If in doubt, it is recommended to
+always consult a dictionary or lexicon for the exact meaning of the word
+in any specific instance.
+
+Conditional
+~~~~~~~~~~~
+
+The word אִם is the standard conditional conjunction in Biblical Hebrew.
+It is most often used to describe a hypothetical condition and
+translated as "if" in English. However, this term can can be nuanced and
+translated in a variety of specific ways, and it can be joined with
+various other particles to form different compound conjunctions.
+Therefore, this word must be translated always with senstivity to the
+context to express the correct nuance.
+
+Expresses a hypothetical condition
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A hypothetical condition expresses an imaginary action or event that has
+not actually happened in reality. This kind of conditional conjunction
+is usually translated as "if" in English. Hypothetical conditions have
+potential to convey many different nuances of possibility and/or
+desirability.
+
+-  GEN 18:26
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   אִם־אֶמְצָ֥א בִסְדֹ֛ם חֲמִשִּׁ֥ים צַדִּיקִ֖ם בְּת֣וֹךְ הָעִ֑יר
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **'im**-'emtsa visdom hamishim tsaddiqim bethokh ha'ir
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **If**\ \_I-find in-Sodom fifty righteous in-place the-city
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **If** I find fifty people in Sodom who have done nothing wrong
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+-  JER 15:1 –– hypothetical condition as affirmation of an actual
+   condition
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   אִם־יַעֲמֹ֨ד מֹשֶׁ֤ה וּשְׁמוּאֵל֙ לְפָנַ֔י
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **'im**-ya'amod mosheh ushemu'el lefanay
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **Though**\ \_stood Moses and-Samuel before-me
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **Even if** Moses or Samuel were standing in front of me
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Expresses an actual condition
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+An actual condition expresses an action or event that has actually
+happened in reality, and is usually translated as "when" or "while" in
+English. Usually, this kind of condition indicates something that is
+happening concurrently with the main action/event being described, or
+something that has happened in the past in certain circumstances.
+
+-  NUM 21:9
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וְהָיָ֗ה **אִם**\ ־נָשַׁ֤ךְ הַנָּחָשׁ֙ אֶת־אִ֔ישׁ וְהִבִּ֛יט
+   אֶל־נְחַ֥שׁ הַנְּחֹ֖שֶׁת וָחָֽי׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   wehayah **'im**-nashakh hannahash 'eth-'ish wehibbit 'el-nehash
+   hannehosheth wahay
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   And-it-happened **when**\ \_he-had-bitten the-serpent [dir.obj]\_man
+   and-he-looked to\_serpent-of the-bronze and-he-lived
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **When** a snake bit any person, if he looked at the bronze snake, he
+   survived.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+-  GEN 31:8
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   אִם־כֹּ֣ה יֹאמַ֗ר נְקֻדִּים֙ יִהְיֶ֣ה שְׂכָרֶ֔ךָ וְיָלְד֥וּ
+   כָל־הַצֹּ֖אן נְקֻדִּ֑ים
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **'im**-koh yomar nequddim yihyeh sekharekha weyoldu khol-hatson
+   nequddim
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **When**\ \_thus he-said speckled-ones it-will-be your-wages
+   and-they-bore all\_the-flock speckled-ones
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **If** he said, 'The speckled animals will be your wages,' then all
+   the flock bore speckled young.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Alternative
+~~~~~~~~~~~
+
+This use of the conjunction אִם is often found in a question and is
+usually translated as "or" in English.
+
+-  JOS 5:13
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   הֲלָ֥נוּ אַתָּ֖ה **אִם**\ ־לְצָרֵֽינוּ׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   halanu 'attah **'im**-letsarenu
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   Are-for-us you **or**\ \_for-our-enemies?
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   Are you for us **or** for our enemies?
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+וְעַתָּה
+--------
+
+The word עַתָּה ("now") in Biblical Hebrew often functions as an adverb
+in a sentence. However, when עַתָּה appears at the beginning of a
+sentence or clause, it usually functions not as an adverb but as a
+conjunction, either standing alone or as a compound conjunction (when
+paired with the prefix וְ or with particles such as גַּם or כִּי). In
+either case, the term functions as a causal conjunction, indicating that
+what follows is based upon what has come before. This conjunction must
+be translated always with great sensitivity to the context to express
+the correct nuance; in English, this conjunction can be translated as
+"now", "so", "so now", "and now", "therefore", and others. A dictionary
+or lexicon will indicate the specific nuance of this term in individual
+contexts.
+
+-  GEN 31:13 –– as a stand-alone conjunction
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   עַתָּ֗ה ק֥וּם צֵא֙ מִן־הָאָ֣רֶץ הַזֹּ֔את
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **'attah** qum tse' min-ha'arets hazzoth
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **Now** rise-up go-out from\_the-land the-this
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **Now** rise up and leave this land
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+-  1KI 8:26 –– with prefix וְ
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וְעַתָּ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל יֵאָ֤מֶן נָא֙ דְּבָרֶיךָ אֲשֶׁ֣ר
+   דִּבַּ֔רְתָּ לְעַבְדְּךָ֖ דָּוִ֥ד אָבִֽי
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **we'attah** 'elohe yisra'el ye'amen na' devareykha 'asher dibbarta
+   le'avdekha dawid 'avi 
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **And-now** God-of Israel let-it-be-true [exh.prtc] your-words that
+   you-spoke to-your-servant David my-father
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **Now then**, God of Israel, I pray that the promise you made to your
+   servant David my father, will come true.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+-  GEN 44:10 –– in compound conjunction with גַּם
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וַיֹּ֕אמֶר **גַּם־עַתָּ֥ה** כְדִבְרֵיכֶ֖ם כֶּן־ה֑וּא
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   wayyomer **gam-'attah** khedivrekhem ken-hu
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   And-he-said **also\_now** as-your-words thus\_it
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **Now also** let it be according to your words.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+-  1SA 13:13 –– in compound conjunction with כִּי
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   כִּ֣י עַתָּ֗ה הֵכִ֨ין יְהוָ֧ה אֶת־מַֽמְלַכְתְּךָ֛
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **ki 'attah** hekhin yehwah 'eth-mamelakhtekha
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **For now** he-established Yahweh [dir.obj]\_your-reign
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **For then** Yahweh would have established your rule
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+לֽוּ
+----
+
+This term is a conditional conjunction, similar to אִם but used only to
+express hypothetical conditions. The word can also appear in the
+alternate forms לוּא and לֻא. This conjunction either: 1) expresses a
+condition that cannot (or probably will not) happen, usually translated
+"if" in English; or 2) conveys a strong desire for something to happen
+that cannot (or probably will not) be realized, usually translated "if
+only" in English.
+
+-  JDG 13:23
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   לוּ֩ חָפֵ֨ץ יְהוָ֤ה לַהֲמִיתֵ֙נוּ֙
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **lu** hafets yehwah lahamithenu
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **If** he-wanted Yahweh to-kill-us
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **If** Yahweh intended to kill us
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+-  NUM 14:2
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   לוּ֩־מַ֙תְנוּ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **lu**-mathnu be'erets mitsrayim
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **If-only** we-had-died in-the-land-of Egypt
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **We wish** we had died in the land of Egypt
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+פֶּן
+----
+
+This term is also a conditional conjunction, and it expresses a certain
+kind of hypothetical condition. The word can be used in two different
+ways: either 1) in warnings to express a potential condition that will
+take place if the warning is not heeded, usually translated "lest" in
+English; or 2) to express the reason for a certain action to prevent a
+possible condition from taking place, usually translated as "so
+that...not" (or similar phrasing) in English.
+
+-  GEN 3:3
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וְלֹ֥א תִגְּע֖וּ בּ֑וֹ **פֶּן**\ ־תְּמֻתֽוּן׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   welo thigge'u bo **pen**-temuthun
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   and-not you-will-touch in-it **so-that-not**\ \_you-will-die
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   nor may you touch it, **or** you will die.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+-  GEN 31:24
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   הִשָּׁ֧מֶר לְךָ֛ **פֶּן**\ ־תְּדַבֵּ֥ר עִֽם־יַעֲקֹ֖ב מִטּ֥וֹב
+   עַד־רָֽע
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   hishamer lekha **pen**-tedabber 'im-ya'aqov mittov 'ad-ra'
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   Be-guarded to-you **so-that-not**\ \_you-speak with\_Jacob from-good
+   until\_bad.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   Be careful **that** you speak to Jacob **neither** good **nor** bad.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+Compound conjunctions
+---------------------
+
+כִּי אִם
+~~~~~~~~
+
+This compound conjunction functions most often as a strong adversative
+or a strong concessive. In English, it is usually translated as "but",
+"but if", or "except". It is recommended to always consult a dictionary
+or lexicon for the exact meaning of any specific occurrence of this
+compound conjunction.
+
+-  2KI 23:9
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   כִּ֛י אִם־אָכְל֥וּ מַצֹּ֖ות בְּתֹ֥וךְ אֲחֵיהֶֽם׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **ki 'im**-'okhlu matsowth bethowkh 'ahehem
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **but if**\ \_they-ate unleavened-bread in-midst-of their-brothers.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **but** they ate unleavened bread among their brothers.
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+אַף כִּי
+~~~~~~~~
+
+Sometimes the words אַף and כִּי are paired together to form a compound
+conjunction that functions much like an :ref:`particle_affirmation`,
+conveying a strong sense of affirmation or addition. This compound
+conjunction can appear with or without the prefix conjunction וְ
+("and").
+
+NOTE: Like other particles, the words אַף and כִּי sometimes appear
+together but do NOT form a compound conjunction; in such cases, each
+word retains its individual meaning, usually as an affirmation particle
+(אַף) and a conditional conjunction (כִּי). These instances must be
+determined from the context. If in doubt, consult a dictionary or
+lexicon for the exact meaning of any specific occurrence.
+
+-  GEN 3:1
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **'af ki**-'amar 'elohim
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **indeed** he-has-said God
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   Has God **really** said
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>
+
+-  EZK 23:40
+
+   .. raw:: html
+
+      <table border="1" class="docutils">
+
+   .. raw:: html
+
+      <colgroup>
+
+   .. raw:: html
+
+      <col width="100%" />
+
+   .. raw:: html
+
+      </colgroup>
+
+   .. raw:: html
+
+      <tbody valign="top">
+
+   .. raw:: html
+
+      <tr class="row-odd" align="right">
+
+   .. raw:: html
+
+      <td>
+
+   וְאַ֗ף כִּ֤י־אַחֲרֵ֥י מוֹתִֽי׃
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **we'af ki**-'ahare mothi
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-odd">
+
+   .. raw:: html
+
+      <td>
+
+   **and-more** after my-death
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      <tr class="row-even">
+
+   .. raw:: html
+
+      <td>
+
+   **how much more** after my death?
+
+   .. raw:: html
+
+      </td>
+
+   .. raw:: html
+
+      </tr>
+
+   .. raw:: html
+
+      </tbody>
+
+   .. raw:: html
+
+      </table>

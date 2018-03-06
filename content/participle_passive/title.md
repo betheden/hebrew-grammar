@@ -1,1 +1,0 @@
-Participle Passive
