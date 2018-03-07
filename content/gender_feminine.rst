@@ -45,10 +45,8 @@ that exist as pairs (hand, foot, etc.).
 Form
 ----
 
-Feminine
-:ref:`number_singular``nouns <(https://git.door43.org/Door43/en-uhg/src/master/content/noun/02.md)>`__
-and
-`adjectives <(https://git.door43.org/Door43/en-uhg/src/master/content/adjective/02.md)>`__
+Feminine :ref:`number_singular` :ref:`noun`
+and :ref:`adjective`
 usually end in either ה or ת. Feminine
 :ref:`number_dual`
 nouns end in patach-yod-hireq-final mem, as in יָדַיִם (hands). Feminine

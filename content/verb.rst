@@ -110,6 +110,8 @@ Grammarians often distinguish between different types of verbs. When
 considering the best way to translate a sentence, it is helpful to
 understand whether a verb is describing an action or a state of being.
 
+.. _verb-dynamic-or-action-verbs:
+
 Dynamic (or Action) verbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -320,7 +322,7 @@ Dynamic verbs describe a subject performing an action. The subject is
 
       </table>
 
-.. _verb-stative-non-action-verbs:
+.. _verb-stative-or-non-action-verbs:
 
 Stative (or Non-action) verbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -533,7 +535,9 @@ doing anything.
 
       </table>
 
-Transitive verbs
+.. _verb-transitive-verbs:
+
+Transitive Verbs
 ~~~~~~~~~~~~~~~~
 
 A transitive verb is an action verb which requires an object that
@@ -746,7 +750,9 @@ complete without the object. Stative verbs are never transitive.
 
       </table>
 
-Intransitive verbs
+.. _verb-intransitive-verbs:
+
+Intransitive Verbs
 ~~~~~~~~~~~~~~~~~~
 
 An intransitive verb is a verb that does NOT require an object to

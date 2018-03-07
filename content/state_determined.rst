@@ -39,7 +39,7 @@ There are three types of nouns that are intrinsically determined:
 and :ref:`pronoun_demonstrative`.
 
 :ref:`noun_proper_name`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 
 -  1SA 9:17
 
@@ -676,7 +676,7 @@ the :ref:`suffix_pronominal`,
 and connected with another determined noun in the :ref:`state_construct`.
 
 :ref:`particle_definite_article`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  DEU 1:23
 
@@ -882,8 +882,10 @@ and connected with another determined noun in the :ref:`state_construct`.
 
       </table>
 
+.. _state_determined-pronominal-suffix:
+
 :ref:`suffix_pronominal`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  2SA 17:23
 

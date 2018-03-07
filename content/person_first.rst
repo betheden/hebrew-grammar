@@ -825,7 +825,7 @@ Related to a :ref:`verb`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Either :ref:`suffix_pronominal-direclty-to-the-verb`,
-or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker-`.
+or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
 
 -  1SA 17:9
 
@@ -930,7 +930,7 @@ or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker-`.
       </table>
 
 :ref:`suffix_pronominal-prepositions`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  ISA 46:9
 

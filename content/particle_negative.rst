@@ -331,6 +331,8 @@ is not"; but the English translation is often simplified to "is not"
 
       </table>
 
+.. _particle_negative-lo:
+
 לֹא
 ---
 
@@ -443,6 +445,8 @@ emphatic command than the use of the negative particle אַל.
    .. raw:: html
 
       </table>
+
+.. _particle_negative-al:
 
 אַל
 ---

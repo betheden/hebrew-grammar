@@ -2539,7 +2539,7 @@ Function
 The Hophal stem can express any of the following kinds of verbal action:
 
 Expresses the passive voice of the Hiphil stem
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For most verbs that appear in Hiphil stem in Biblical Hebrew, the Hophal
 stem expresses the same kind of simple or causative action as the Hiphil
@@ -2757,7 +2757,7 @@ action, active voice). Thus, in the Hophal stem, the verb בּוֹא means
       </table>
 
 Expresses simple action in passive voice
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Some verbs use the Hophal stem to express simple passive action. (This
 can be true even if the verb also appears in the Hiphil stem in Biblical
@@ -2874,7 +2874,7 @@ cases, a dictionary or lexicon will indicate the correct meaning.
       </table>
 
 Expresses various kinds of passive or stative action
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Sometimes the Pual form is used with specific verbs or in specific
 contexts to express a specialized meaning for the verbal action. A

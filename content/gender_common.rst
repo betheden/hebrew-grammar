@@ -26,7 +26,7 @@ Examples
 --------
 
 -  1KI 18:22 - with a :ref:`pronoun_personal`
-   :ref:`person_fist`
+   :ref:`person_first`
 
    .. raw:: html
 

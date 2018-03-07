@@ -1674,7 +1674,7 @@ introduce a clause that functions as an adjective.
       </table>
 
 Functions as a :ref:`verb-verbal-nouns`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When functioning as a noun, a participle will often take the
 :ref:`particle_definite_article`

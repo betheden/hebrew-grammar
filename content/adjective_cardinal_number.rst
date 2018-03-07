@@ -30,8 +30,8 @@ the :ref:`state_construct`,
 and/or the :ref:`state_determined`.
 
 .. note:: Sometimes a cardinal form ("one", "two", "three", etc.) is used,
-but an ordinal meaning ("first", "second", "third", etc.) is clearly
-indicated from the context.
+          but an ordinal meaning ("first", "second", "third", etc.) is clearly
+          indicated from the context.
 
 "One"
 -----

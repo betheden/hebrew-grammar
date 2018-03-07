@@ -28,7 +28,7 @@ of a Suffix Conjugation verb.
 When the
 :ref:`conjunction`
 *waw* (וְ "and") is added to the Suffix Conjugation as a prefix, this
-can indicate either the :ref:`verb_perfect-perfect-copulative-perfect-with-a-conjunction`
+can indicate either the :ref:`verb_perfect-suffix-conjugation-copulative`
 or the :ref:`verb_sequential_perfect`.
 The meaning of the verb is different in either case, and the context
 must be carefully considered to determine if it is a suffix conjugation
@@ -4133,7 +4133,7 @@ Stative actions (describing a state or condition)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This kind of action describes a state or a condition, usually with a
-:ref:`verb-stative-non-action-verbs`
+:ref:`verb-stative-or-non-action-verbs`
 or a passive
 :ref:`stem`.
 
@@ -4454,15 +4454,16 @@ utterances.
 
       </table>
 
+.. _verb_perfect-suffix-conjugation-copulative:
+
 Suffix conjugation copulative
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This form adds the
 :ref:`conjunction`
 *waw* (וְ "and") to the normal Suffix Conjugation and can express any of
-the above meanings. This form appears identical to the `Sequential
-Suffix
-Conjugation <https://git.door43.org/Door43/en-uhg/src/master/content/verb_sequential_perfect/02.md>`__.
+the above meanings. This form appears identical to the
+:ref:`verb_sequential_perfect`.
 
 -  1KI 12:32
 

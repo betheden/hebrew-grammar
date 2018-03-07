@@ -19,7 +19,7 @@ Biblical Hebrew contains two sets of numbers: :ref:`adjective_cardinal_number`
 and ordinal numbers. Ordinal numbers describe either a numeric
 rank/order or a portion of a whole. "First" through "tenth" have unique
 ordinal forms, but the cardinal forms are used from "eleventh" and
-higher. Ordinal numbers function as :ref:`adjective_attributive`,
+higher. Ordinal numbers function as :ref:`adjective-attributive`,
 but they may not always have the same grammatical form (gender, number,
 definiteness) as the noun they describe.
 

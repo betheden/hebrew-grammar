@@ -4221,7 +4221,7 @@ Stative actions
 ^^^^^^^^^^^^^^^
 
 This kind of action describes a state or condition, usually with a
-:ref:`verb-stative-non-action-verbs`
+:ref:`verb-stative-or-non-action-verbs`
 or in a passive
 :ref:`stem`.
 \* GEN 22:19

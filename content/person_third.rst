@@ -1251,7 +1251,7 @@ Related to a :ref:`verb`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Either :ref:`suffix_pronominal-direclty-to-the-verb`,
-or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker-`.
+or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
 
 -  GEN 37:14
 

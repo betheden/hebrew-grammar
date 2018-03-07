@@ -32,8 +32,8 @@ nuanced meaning of each instance of an Imperative verb.
 
 Biblical Hebrew does not use the Imperative form to express negative
 commands. Rather, prohibitions are expressed either with the :ref:`verb_imperfect`
-(with :ref:`particle_negative--1`)
-or with a Jussive verb in the 2nd person (with the :ref:`particle_negative--2`).
+(with :ref:`particle_negative-lo`)
+or with a Jussive verb in the 2nd person (with the :ref:`particle_negative-al`).
 Occasionally, the Imperative form will appear with a :ref:`suffix_paragogic_he`;
 in these cases, the meaning of the ה suffix is unknown.
 

@@ -904,6 +904,8 @@ the adjective is also definite; and so on.
 
       </table>
 
+.. _adjective-predicative:
+
 Predicative
 ~~~~~~~~~~~
 

@@ -1450,7 +1450,7 @@ Examples
 
       </table>
 
-.. _suffix_prepositions:
+.. _suffix_pronominal-prepositions:
 
 Prepositions
 ------------
@@ -3674,6 +3674,8 @@ slightly, but never much, from the standard suffixes in the
 :ref:`noun_common-paradigm`
 above.
 
+.. _suffix_pronominal-direclty-to-the-verb:
+
 Directly to the verb
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -3987,8 +3989,10 @@ for the :ref:`infinitive_absolute`.
 
       </table>
 
+.. _suffix_pronominal-with-a-direct-object-marker:
+
 With a :ref:`particle_direct_object_marker` (אֵת)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  1SA 17:9
 

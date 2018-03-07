@@ -283,6 +283,8 @@ qibbuts) vowel.
 It adds הִתְ (he with hireq and taw with shewa) before the verb, and
 puts a qamets or patah under the 1st radical.
 
+.. _stem-uncommon-stems:
+
 Uncommon stems
 --------------
 

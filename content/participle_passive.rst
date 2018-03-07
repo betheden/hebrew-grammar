@@ -1332,7 +1332,7 @@ Functions as a verbal adjective
 This is the most common use of the passive participle in Biblical
 Hebrew. When a passive participle functions as an adjective, it is
 usually either an :ref:`adjective-attributive`
-or a :ref:`adjective-predicative-or-verbal-adjective`.
+or a :ref:`adjective-predicative`.
 The context must determine whether a passive participle is functioning
 as a predicate adjective or as a finite verb, because both appear the
 same in many instances (compare EXO 5:16 and 1SA 19:11).

@@ -24,7 +24,7 @@ normal Suffix Conjugation but includes the
 *waw* (וְ "and") as a prefix. A Sequential Suffix Conjugation
 :ref:`verb`
 does not function like a normal Suffix Conjugation verb. Rather, it
-functions more like an *`Prefix Conjugation <http://>`__* verb, but with
+functions more like an :ref:`verb_imperfect` verb, but with
 the added sense of being connected to an earlier verb to form a sequence
 of time or a sequence of thought in narrative texts. In poetic texts
 this verb form can be understood in a variety of other ways as well.
@@ -32,7 +32,7 @@ Sequential Suffix Conjugation verbs often appear in a series following a
 clause with a Prefix Conjugation verb.
 
 There is a difference between (1) the Sequential Suffix Conjugation, (2)
-the :ref:`verb_perfect-perfect-copulative-perfect-with-a-conjunction`,
+the :ref:`verb_perfect-suffix-conjugation-copulative`,
 and (3) the normal Prefix Conjugation with the conjunction. (1) and (2)
 have an identical form, including the vocalization, so the reader must
 determine from the context which one is being used in any given

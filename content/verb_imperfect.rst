@@ -4052,6 +4052,8 @@ Actions in present time
 
       </table>
 
+.. _verb_imperfect-frequentive-or-durative-actions:
+
 Frequentive or durative actions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -4264,8 +4266,8 @@ specified time frame.
 
 .. _verb_imperfect-direct-negative-commands:
 
-Direct negative commands (especially with :ref:`particle_negative--1` to express an emphatic prohibition)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Direct negative commands (especially with :ref:`particle_negative-lo` to express an emphatic prohibition)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  JER 43:2
 

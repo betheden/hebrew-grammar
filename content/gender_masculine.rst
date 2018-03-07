@@ -8,29 +8,18 @@ Gender Masculine
 Summary
 -------
 
-In Biblical Hebrew, all
-:ref:`noun`,
-finite
-:ref:`adjective`,
-`pronouns <https://git.door43.org/Door43/en-uhg/src/master/content/pronoun/01.md>`__,
-:ref:`suffix_pronominal`,
-and some
-`particles <https://git.door43.org/Door43/en-uhg/src/master/content/particle/01.md>`__
+In Biblical Hebrew, all :ref:`noun`, finite :ref:`adjective`,
+:ref:`pronoun` :ref:`suffix_pronominal`,
+and some :ref:`particle`
 are grammatically marked for gender. This gender marking can be
-:ref:`gender_feminine`,
-:ref:`gender_common`,
-or
-:ref:`gender_both`.
+:ref:`gender_feminine`, :ref:`gender_common`, or :ref:`gender_both`.
 
 Article
 -------
 
-In Biblical Hebrew, every
-:ref:`noun`
+In Biblical Hebrew, every :ref:`noun`
 is classified according to gender, either masculine or
-:ref:`gender_feminine`
-or
-:ref:`gender_both`.
+:ref:`gender_feminine` or :ref:`gender_both`.
 Many other words change the way they look when they refer to that noun.
 :ref:`adjective`
 agree with the gender of the noun they refer to. The gender of a :ref:`verb-finite-verbs`
@@ -38,22 +27,16 @@ agrees with its subject. All references to male persons in Biblical
 Hebrew are grammatically marked as masculine. However, other things
 besides people can also be classified as grammatically-masculine. For
 example, abstract ideas are often expressed with a masculine
-:ref:`number_plural`
-form.
+:ref:`number_plural` form.
 
 Form
 ----
 
-Masculine
-:ref:`number_singular``nouns <(https://git.door43.org/Door43/en-uhg/src/master/content/noun/02.md)>`__
-and
-`adjectives <(https://git.door43.org/Door43/en-uhg/src/master/content/adjective/02.md)>`__
+Masculine :ref:`number_singular` :ref:`noun` and :ref:`adjective`
 have no special endings; they are the standard dictionary form.
-Masculine
-:ref:`number_dual`
+Masculine :ref:`number_dual`
 nouns end in pataq-yod-hireq-final mem, as in צָהֳרַיִם (noon).
-Masculine
-:ref:`number_plural`
+Masculine :ref:`number_plural`
 nouns and adjectives usually end in hireq-yod-final mem, as in אֲנָשִׁים
 (men).
 
