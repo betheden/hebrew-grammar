@@ -233,7 +233,7 @@ Hithpael (intensive action, reflexive voice)
 
    </table>
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 Form
 ----

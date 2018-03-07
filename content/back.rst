@@ -6,7 +6,7 @@ Bibliography
 ------------
 
 The following resources were consulted in the creation and revision of
-the Unlocked Hebrew Grammar.
+the unfoldingWord Hebrew Grammar.
 
 Arnold, B.T., and J. H. Choi. *A Guide to Biblical Hebrew Syntax.*
 Cambridge: Cambridge University, 2003.

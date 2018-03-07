@@ -23,7 +23,7 @@ stem formation. It differs from the Hiphil by using a ת prefix before
 the 1st radical instead of a ה prefix. It is an extremely rare verbal
 form in Biblical Hebrew.
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 -  JER 12:5
 

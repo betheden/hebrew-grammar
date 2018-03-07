@@ -56,7 +56,7 @@ Paradigm
 
    <th>
 
-word
+Parsing
 
 .. raw:: html
 

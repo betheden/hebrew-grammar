@@ -20,7 +20,7 @@ stem is formed from the Piel stem by simply repeating both the 2nd and
 3rd radicals, thus making a verb that appears to have 5 consonants. It
 is an extremely rare verbal form in Biblical Hebrew.
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 -  PSA 38:10 (PSA 38:11 in Hebrew) –– the root is סחר, and the 2nd and
    3rd radicals repeat

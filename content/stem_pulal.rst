@@ -26,7 +26,7 @@ consonants. It is an extremely rare verbal form in Biblical Hebrew. Most
 of the Pulal verbs found in the Hebrew Bible are from the root אָמַל
 ("to be weak").
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 -  JOL 1:10
 

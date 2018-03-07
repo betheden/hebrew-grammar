@@ -35,7 +35,7 @@ be." In Biblical Hebrew, the passive nature of the verbal action is
 expressed by the Hophal form of the verb itself without any helping
 verbs.
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 Form
 ----

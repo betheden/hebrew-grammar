@@ -20,7 +20,7 @@ stem is formed from the Piel stem by dropping the 2nd radical and
 repeating the 3rd radical (with a vowel change). It is a rare verbal
 form in Biblical Hebrew.
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 .. warning:: The Polel stem appears exactly the same as the Polal stem in all
           conjugations; only the 3rd-person masculine singular forms are

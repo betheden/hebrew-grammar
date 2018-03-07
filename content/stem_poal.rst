@@ -19,7 +19,7 @@ and expresses the passive voice of the verbal action of the :ref:`stem_poel`.
 The Poal stem is formed from the Pual by a vowel change. It is an
 extremely rare verbal form in Biblical Hebrew.
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 .. warning:: The Poal stem appears exactly the same as the Poel stem in all
           conjugations; only the 3rd-person masculine singular forms are

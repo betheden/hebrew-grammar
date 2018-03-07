@@ -21,7 +21,7 @@ The Nithpael stem is formed from the Hithpael stem by inserting the נ
 from the Niphal stem into the Hithpael prefix (נִתְ). It is an extremely
 rare verbal form in Biblical Hebrew.
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 
 -  DEU 21:8

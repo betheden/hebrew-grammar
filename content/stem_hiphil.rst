@@ -31,7 +31,7 @@ derived from the same root is the object or result of the hiphil verb
 associated with that root. For example, the Hiphil verb הִמְטִיר means
 "to cause to rain down"; the noun מָטָר means "rain".
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 Form
 ----

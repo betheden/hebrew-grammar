@@ -21,7 +21,7 @@ in Biblical Hebrew. Many of the occurrences of the Hothpaal stem in the
 Hebrew Bible are from the root verb פָּקַד ("to visit, number, or
 appoint").
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 -  LEV 13:55-56
 

@@ -1,0 +1,3 @@
+.. note:: It is recommended to *always* check a dictionary or lexicon for
+          the meaning of a specific verb, because this stem may express
+          many different kinds of action in different contexts.

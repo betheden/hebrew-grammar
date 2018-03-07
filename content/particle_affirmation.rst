@@ -665,7 +665,7 @@ concepts of affirmation or addition.
 כִּי
 ----
 
-.. include:: ../includes/ci_flexible.txt
+.. include:: includes/ci_flexible.txt
 
 -  EXO 3:12
 

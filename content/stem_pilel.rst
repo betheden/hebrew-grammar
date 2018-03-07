@@ -23,7 +23,7 @@ stem by repeating the 3rd radical, thus making a verb that can appear to
 have 4 consonants. It is an extremely rare verbal form in Biblical
 Hebrew.
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 -  GEN 21:16 –– כִּמְטַחֲוֵ֣י has two prefixed elements: כִּ is a bound
    preposition, and מְ is the participle prefix

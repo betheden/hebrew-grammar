@@ -1042,7 +1042,7 @@ usually translated as "or" in English.
 כִּי
 ----
 
-.. include:: ../includes/ci_flexible.txt
+.. include:: includes/ci_flexible.txt
 
 The word כִּי is the standard causal conjunction in Biblical Hebrew, and
 is usually translated as "for" in English. However, it is also commonly

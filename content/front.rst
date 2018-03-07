@@ -2,15 +2,15 @@
 
 .. _front:
 
-Unlocked Hebrew Grammar
-=======================
+unfoldingWord Hebrew Grammar
+============================
 
 Introduction
 ------------
 
-The Unlocked Hebrew Grammar (UHG) is a biblical Hebrew reference grammar
-based on the `morphologycodes <http://openscriptures.github.io/morphhb/parsing/HebrewMorphologyCodes.html>`__
-that appear in the `Open Scriptures HebrewBible <https://github.com/openscriptures/morphhb>`__. It enables the
+The unfoldingWord Hebrew Grammar (UHG) is a biblical Hebrew reference grammar
+based on the `morphology codes <http://openscriptures.github.io/morphhb/parsing/HebrewMorphologyCodes.html>`__
+that appear in the `Open Scriptures Hebrew Bible (OSHB) <https://github.com/openscriptures/morphhb>`__. It enables the
 global Church to gain the best possible understanding of the Hebrew
 grammar of the Old Testament.
 
@@ -19,7 +19,7 @@ Rationale
 
 The rationale behind creating the first version of the UHG was to
 provide an openly licensed and up to date reference grammar for direct
-use with the Open Scriptures Hebrew Bible. Such a grammar may be used in
+use with the OSHB. Such a grammar may be used in
 software to provide students and translators of Scripture with up to
 date and accurate descriptions of Hebrew grammar on an as needed basis.
 Because the articles are directly patterned after the morphological
@@ -54,13 +54,13 @@ English language.
 The work was completed using an online content creation and translation
 platform, the `Door43 Content Service <https://git.door43.org>`__.
 Because of this, all the work is under revision control, you can go back
-and see the `commithistory <https://git.door43.org/Door43/en_uhg/commits/branch/master>`__
+and see the `commit history <https://git.door43.org/Door43/en_uhg/commits/branch/master>`__
 if you'd like (it totals over 2500 commits at the time of writing).
 
 Future
 ------
 
-We plan to extend the UHG, in conjunction with the Unlocked Hebrew
+We plan to extend the UHG, in conjunction with the unfoldingWord Hebrew
 Bible, to cover higher level syntactic and semantic information. Rather
 than replacing the existing form-centric morphology of the OSHB, we
 would add another parsing layer on top of it that focuses on the
@@ -80,7 +80,7 @@ https://unfoldingword.org/contact/, we'd love to have your involvement!
 Contributors
 ------------
 
-This resource was designed by the `unfoldingWordProject <https://unfoldingword.org/>`__ and built by the `Door43 WorldMissions Community <https://door43.org/>`__. At least the following
+This resource was designed by the `unfoldingWord Project <https://unfoldingword.org/>`__ and built by the `Door43 World Missions Community <https://door43.org/>`__. At least the following
 people were instrumental in the creation of the UHG:
 
 -  Bram van den Heuvel (BA Theology, Utrecht University; MA Biblical

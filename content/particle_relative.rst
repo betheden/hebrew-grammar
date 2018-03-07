@@ -348,7 +348,7 @@ Sometimes there is no noun as an antecedent.
 כִּי
 ----
 
-.. include:: ../includes/ci_flexible.txt
+.. include:: includes/ci_flexible.txt
 
 Biblical Hebrew uses the particle כִּי to introduce relative clauses
 that describe something that is seen, known, or somehow perceived by a

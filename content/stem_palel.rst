@@ -24,7 +24,7 @@ verb that appears to have 4 consonants. It is an extremely rare verbal
 form in Biblical Hebrew. Many of the occurrences of the Palel stem in
 the Hebrew Bible are from the root verb שָׁאַן ("to ").
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 -  JER 48:11 –– the root is שאן, and the 3rd radical is repeated
 

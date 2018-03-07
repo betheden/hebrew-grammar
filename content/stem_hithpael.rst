@@ -26,7 +26,7 @@ the meaning of a verb in the Piel stem. However, the Hithpael stem is
 quite flexible in its use and can express other kinds of verbal action,
 depending on the context and the specific verb.
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 Form
 ----

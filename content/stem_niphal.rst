@@ -30,7 +30,7 @@ reflexive action in the Niphal stem; for some verbs, the Niphal stem
 might express either passive action or reflexive action, depending on
 the context; and so on.
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 Form
 ----

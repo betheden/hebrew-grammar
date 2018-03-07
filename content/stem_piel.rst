@@ -28,7 +28,7 @@ simple action in the Piel stem; some verbs express intensive action in
 the Piel stem; for some verbs, the Piel stem might express either simple
 action or intensive action, depending on the context; and so on.
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 Form
 ----

@@ -22,7 +22,7 @@ consonants. It is a rare verbal form in Biblical Hebrew. Many of the
 occurrences of the Pilpel stem in the Hebrew Bible are from the root
 verb כּוּל ("to comprehend, contain").
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 Form
 ----

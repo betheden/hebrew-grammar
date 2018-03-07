@@ -21,7 +21,7 @@ repeating the 1st and 3rd radicals (with a vowel change), thus making a
 verb that appears to have 4 consonants. It is an extremely rare verbal
 form in Biblical Hebrew.
 
-.. include:: ../includes/consult_dictionary.txt
+.. include:: includes/consult_dictionary.txt
 
 Form
 ----
