@@ -8,8 +8,8 @@ Verb Perfect
 Summary
 -------
 
-A verb with suffix conjugation is used generally to indicate a completed
-action, or an action that has occurred in the past. However, the suffix
+A verb with suffix conjugation communicates perfect or perfective aspect, and so is used normally to indicate a completed
+action, usually in the past. However, the suffix
 conjugation can also be used to describe other kinds of actions.
 
 Article
@@ -17,10 +17,10 @@ Article
 
 In Biblical Hebrew a Suffix Conjugation
 :ref:`verb`
-is generally used to describe actions that have occurred in the past or
-actions that are completed (even in present and future time). However,
+communicates perfect or perfective aspect, and is normally used to describe actions that have occurred in the past or
+actions that are seen as completed (even in present or future time). However,
 the Suffix Conjugation is also used to describe a variety of other kinds
-of actions. Thus, a Suffix Conjugation verb has the potential to be
+of actions. Thus, for tense-prominent languages, a Suffix Conjugation verb has the potential to be
 translated with the past tense, the present tense, or even the future
 tense. The context must determine the proper meaning for each instance
 of a Suffix Conjugation verb.
