@@ -1,9 +1,9 @@
-:github_url: https://git.door43.org/Door43/en_uhg/src/branch/master/content/person_fist.rst
+:github_url: https://git.door43.org/Door43/en_uhg/src/branch/master/content/person_first.rst
 
-.. _person_fist:
+.. _person_first:
 
 Person First
-===========
+============
 
 Summary
 -------

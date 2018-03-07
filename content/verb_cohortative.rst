@@ -18,7 +18,7 @@ Article
 The Cohortative form looks very similar to the :ref:`verb_imperfect`
 but functions in the sentence more like an
 :ref:`verb_imperative`.
-Cohortative verbs appear only in :ref:`person_fist`
+Cohortative verbs appear only in :ref:`person_first`
 forms. (Similarly, imperatives appear only in :ref:`person_second`
 forms, and
 :ref:`verb_jussive`

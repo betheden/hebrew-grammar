@@ -20,11 +20,9 @@ but functions in the sentence more like an
 :ref:`verb_imperative`.
 Jussive
 :ref:`verb`
-usually appear in `3rdperson <%5B3rd%20person%5D(https://git.door43.org/Door43/en-uhg/src/master/content/person_third/02.md)>`__
-forms. (Similarly, imperatives appear only in `2ndperson <%5B2nd%20person%5D(https://git.door43.org/Door43/en-uhg/src/master/content/person_second/02.md)>`__
-forms, and
-`cohortatives <%5Bcohortatives%5D(https://git.door43.org/Door43/en-uhg/src/master/content/verb_cohortative/02.md)>`__
-appear only in `1stperson <%5B1st%20person%5D(https://git.door43.org/Door43/en-uhg/src/master/content/person_fist/02.md)>`__
+usually appear in :ref:`person_third`
+forms. (Similarly, imperatives appear only in :ref:`person_second`
+forms, and :ref:`verb_cohortative` appear only in :ref:`person_first`,
 forms.) A Jussive verb does not carry the full force of a command ("He
 *must* do this!"), but it conveys a stronger meaning than a simple
 suggestion or statement of possibilty ("He *could* do this."). The

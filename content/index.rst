@@ -38,7 +38,7 @@ unfoldingWord Hebrew Grammar
    particle_interrogative
    particle_negative
    particle_relative
-   person_fist
+   person_first
    person_second
    person_third
    preposition_definite_article

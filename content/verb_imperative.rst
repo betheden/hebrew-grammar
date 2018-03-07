@@ -21,7 +21,7 @@ commands or instructions directed to another person(s). Thus, Imperative
 always appear only in the :ref:`person_second`.
 (Similarly,
 :ref:`verb_cohortative`
-appear only in the :ref:`person_fist`,
+appear only in the :ref:`person_first`,
 and
 :ref:`verb_jussive`
 usually appear in the :ref:`person_third`.)
