@@ -57,208 +57,22 @@ or as part of a sequential verbal form.
 
 -  ZEC 3:3 –– as a prefix to a separate word
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וְעֹמֵ֖ד לִפְנֵ֥י הַמַּלְאָֽךְ‬
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **we'omed** lifne hammal'akh‬
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **and-he-was-standing** to-face-of the-angel
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **and he was standing** in front of the angel
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  וְעֹמֵ֖ד לִפְנֵ֥י הַמַּלְאָֽךְ‬
+  **we'omed** lifne hammal'akh‬
+  **and-he-was-standing** to-face-of the-angel
+  **and he was standing** in front of the angel
 
 -  GEN 1:13 –– as part of a sequential verbal form
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וַֽיְהִי־עֶ֥רֶב **וַֽיְהִי**\ ־בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **wayehi**-'erev **wayehi**\ voqer yom shelishi
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **And-there-was**\ \_evening, **and-there-was**\ \_morning, day
-   third.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **This was** evening and morning, the third day.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  וַֽיְהִי־עֶ֥רֶב **וַֽיְהִי**\ ־בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי׃
+  **wayehi**-'erev **wayehi**\ voqer yom shelishi
+  "**And-there-was**\ \_evening, **and-there-was**\ \_morning, day
+     third."
+  "**This was** evening and morning, the third day."
 
 Function
 ~~~~~~~~
@@ -274,107 +88,14 @@ English.
 
 -  GEN 1:5
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם **וְלַחֹ֖שֶׁךְ** קָ֣רָא
-   לָ֑יְלָה
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   wayyiqra 'elohim la'or yom **welahoshekh** qara laylah
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   And-he-called God to-the-light day **and-to-the-darkness** he-called
-   night
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   He named the light "day," **and** he named **the darkness** "night."
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם **וְלַחֹ֖שֶׁךְ** קָ֣רָא
+     לָ֑יְלָה"
+  wayyiqra 'elohim la'or yom **welahoshekh** qara laylah
+  "And-he-called God to-the-light day **and-to-the-darkness** he-called
+     night"
+  "He named the light ""day,"" **and** he named **the darkness** ""night."""
 
 Disjunctive
 ^^^^^^^^^^^
@@ -384,107 +105,14 @@ English.
 
 -  GEN 2:17
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וּמֵעֵ֗ץ הַדַּ֙עַת֙ ט֣וֹב **וָרָ֔ע** לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   ume'ets hadda'ath tov **wara'** lo thokhal mimmennu
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   But-from-tree-of the-knowledge-of good **and-evil** not you-shall-eat
-   from-it
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   But from the tree of the knowledge of good **and evil** you may not
-   eat
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  וּמֵעֵ֗ץ הַדַּ֙עַת֙ ט֣וֹב **וָרָ֔ע** לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ
+  ume'ets hadda'ath tov **wara'** lo thokhal mimmennu
+  "But-from-tree-of the-knowledge-of good **and-evil** not you-shall-eat
+     from-it"
+  "But from the tree of the knowledge of good **and evil** you may not
+     eat"
 
 Adversative
 ^^^^^^^^^^^
@@ -494,105 +122,12 @@ English.
 
 -  GEN 6:8
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **wenoah** matsa hen be'ene yehwah
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **But-Noah** found favor in-eyes-of Yahweh.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **But Noah** found favor in the eyes of Yahweh.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה׃
+  **wenoah** matsa hen be'ene yehwah
+  **But-Noah** found favor in-eyes-of Yahweh.
+  **But Noah** found favor in the eyes of Yahweh.
 
 Alternative
 ^^^^^^^^^^^
@@ -602,112 +137,19 @@ translated as “or” in English.
 
 -  EXO 20:10
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   לֹֽ֣א־תַעֲשֶׂ֨ה כָל־מְלָאכָ֜ה אַתָּ֣ה ׀ **וּבִנְךָֽ֣־וּבִתֶּ֗ךָ**
-   עַבְדְּךָ֤ **וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖** אֲשֶׁ֥ר
-   בִּשְׁעָרֶֽיךָ׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   lo-tha'aseh khol-melakhah 'attah **uvinkha-wwvittekha** 'avdekha
-   **wa'amathekha uvehemtekha wegerekha** 'asher bish'areykha
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   Not\_you-shall-do any\_work you **nor-your-son\_nor-your-daughter**
-   your-male-servant **nor-your-female-servant nor-your-cattle
-   nor-foreigner** who in-your-gates.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   On it you must not do any work, you, **or your son, or your daughter,
-   or your male servant, or your female servant, or your cattle, or the
-   foreigner** who is within your gates.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "לֹֽ֣א־תַעֲשֶׂ֨ה כָל־מְלָאכָ֜ה אַתָּ֣ה ׀ **וּבִנְךָֽ֣־וּבִתֶּ֗ךָ**
+     עַבְדְּךָ֤ **וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖** אֲשֶׁ֥ר
+     בִּשְׁעָרֶֽיךָ׃"
+  "lo-tha'aseh khol-melakhah 'attah **uvinkha-wwvittekha** 'avdekha
+     **wa'amathekha uvehemtekha wegerekha** 'asher bish'areykha"
+  "Not\_you-shall-do any\_work you **nor-your-son\_nor-your-daughter**
+     your-male-servant **nor-your-female-servant nor-your-cattle
+     nor-foreigner** who in-your-gates."
+  "On it you must not do any work, you, **or your son, or your daughter,
+     or your male servant, or your female servant, or your cattle, or the
+     foreigner** who is within your gates."
 
 Explicative
 ^^^^^^^^^^^
@@ -717,107 +159,14 @@ This provides additional information about one idea and is translated
 
 -  GEN 4:4
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וְהֶ֨בֶל הֵבִ֥יא גַם־ה֛וּא מִבְּכֹר֥וֹת צֹאנ֖וֹ וּמֵֽחֶלְבֵהֶ֑ן
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   wehevel hevi gam-hu mibbekhoroth tsono **umehelvehen**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   And-Abel brought also\_he from-firstborn-of his-flock
-   **even-from-fat**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   As for Abel, he brought some of the firstborn of his flock **and some
-   of the fat**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  וְהֶ֨בֶל הֵבִ֥יא גַם־ה֛וּא מִבְּכֹר֥וֹת צֹאנ֖וֹ וּמֵֽחֶלְבֵהֶ֑ן
+  wehevel hevi gam-hu mibbekhoroth tsono **umehelvehen**
+  "And-Abel brought also\_he from-firstborn-of his-flock
+     **even-from-fat**"
+  "As for Abel, he brought some of the firstborn of his flock **and some
+     of the fat**"
 
 Circumstantial
 ^^^^^^^^^^^^^^
@@ -827,109 +176,16 @@ usually translated as “while” or “when” in English.
 
 -  GEN 45:14
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וַיִּפֹּ֛ל עַל־צַוְּארֵ֥י בִנְיָמִֽן־אָחִ֖יו וַיֵּ֑בְךְּ
-   **וּבִנְיָמִ֔ן** בָּכָ֖ה עַל־צַוָּארָֽיו׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   wayyippol 'al-tsawwere vinyamin-'ahiw wayyevk **uvinyamin** bakhah
-   'al-tsawwarayw
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   And-he-fell on\_neck-of Benjamin\_his-brother and-he-wept
-   **and-Benjamin** wept on\_his-neck.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   He hugged his brother Benjamin's neck and wept, **while Benjamin**
-   wept on his neck.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "וַיִּפֹּ֛ל עַל־צַוְּארֵ֥י בִנְיָמִֽן־אָחִ֖יו וַיֵּ֑בְךְּ
+     **וּבִנְיָמִ֔ן** בָּכָ֖ה עַל־צַוָּארָֽיו׃"
+  "wayyippol 'al-tsawwere vinyamin-'ahiw wayyevk **uvinyamin** bakhah
+     'al-tsawwarayw"
+  "And-he-fell on\_neck-of Benjamin\_his-brother and-he-wept
+     **and-Benjamin** wept on\_his-neck."
+  "He hugged his brother Benjamin's neck and wept, **while Benjamin**
+     wept on his neck."
 
 ֹאו
 ---
@@ -939,105 +195,12 @@ usually translated as "or" in English.
 
 -  EXO 21:32
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אִם־עֶ֛בֶד יִגַּ֥ח הַשּׁ֖וֹר **א֣וֹ** אָמָ֑ה׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   'im-'eved yiggah hashor **'o** 'amah
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   If\_male-servant gores the-ox **or** female-servant
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   If a bull attacks and gores a male **or** female slave
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  אִם־עֶ֛בֶד יִגַּ֥ח הַשּׁ֖וֹר **א֣וֹ** אָמָ֑ה׃
+  'im-'eved yiggah hashor **'o** 'amah
+  If\_male-servant gores the-ox **or** female-servant
+  If a bull attacks and gores a male **or** female slave
 
 כִּי
 ----
@@ -1069,109 +232,16 @@ In English, this kind of causal conjunction is usually translated as
 
 -  GEN 3:14
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וַיֹּאמֶר֩ יְהֹוָ֨ה אֱלֹהִ֥ים ׀ אֶֽל־הַנָּחָשׁ֮ **כִּ֣י** עָשִׂ֣יתָ
-   זֹּאת֒ אָר֤וּר אַתָּה֙׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   wayyomer yehowah 'elohim 'el-hannahash **ki** 'asitha zoth 'arur
-   'attah
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   And-he-said Yahweh God to\_the-serpent **because** you-have-done this
-   cursed you
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   Then Yahweh God said to the snake, "**Because** you did this, I will
-   curse you."
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "וַיֹּאמֶר֩ יְהֹוָ֨ה אֱלֹהִ֥ים ׀ אֶֽל־הַנָּחָשׁ֮ **כִּ֣י** עָשִׂ֣יתָ
+     זֹּאת֒ אָר֤וּר אַתָּה֙׃"
+  "wayyomer yehowah 'elohim 'el-hannahash **ki** 'asitha zoth 'arur
+     'attah"
+  "And-he-said Yahweh God to\_the-serpent **because** you-have-done this
+     cursed you"
+  "Then Yahweh God said to the snake, ""**Because** you did this, I will
+     curse you."""
 
 Expresses result
 ^^^^^^^^^^^^^^^^
@@ -1182,105 +252,12 @@ In English, this kind of causal conjunction is usually translated as
 
 -  GEN 20:10
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   מָ֣ה רָאִ֔יתָ **כִּ֥י** עָשִׂ֖יתָ אֶת־הַדָּבָ֥ר הַזֶּֽה׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   mah ra'itha **ki** 'asitha 'eth-haddavar hazzeh
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   What did-you-see **so-that** you-did [dir.obj]\_the-thing the-this?
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   What prompted you **to** do this thing?
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  מָ֣ה רָאִ֔יתָ **כִּ֥י** עָשִׂ֖יתָ אֶת־הַדָּבָ֥ר הַזֶּֽה׃
+  mah ra'itha **ki** 'asitha 'eth-haddavar hazzeh
+  What did-you-see **so-that** you-did [dir.obj]\_the-thing the-this?
+  What prompted you **to** do this thing?
 
 Conditional
 ~~~~~~~~~~~
@@ -1300,109 +277,16 @@ desirability.
 
 -  2KI 4:29
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   כִּֽי־תִמְצָ֥א אִישׁ֙ לֹ֣א תְבָרְכֶ֔נּוּ **וְכִֽי**\ ־יְבָרֶכְךָ֥
-   אִ֖ישׁ לֹ֣א תַעֲנֶנּ֑וּ
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **ki**-thimtsa 'ish lo thevorkhennu **wekhi**-yevarekhkha 'ish lo
-   tha'anennu
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **If**\ \_you-meet man not\_greet-him **and-if**\ \_greets-you man
-   not answer-him.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **If** you meet any man, do not greet him, and **if** anyone greets
-   you, do not answer him.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "כִּֽי־תִמְצָ֥א אִישׁ֙ לֹ֣א תְבָרְכֶ֔נּוּ **וְכִֽי**\ ־יְבָרֶכְךָ֥
+     אִ֖ישׁ לֹ֣א תַעֲנֶנּ֑וּ"
+  "**ki**-thimtsa 'ish lo thevorkhennu **wekhi**-yevarekhkha 'ish lo
+     tha'anennu"
+  "**If**\ \_you-meet man not\_greet-him **and-if**\ \_greets-you man
+     not answer-him."
+  "**If** you meet any man, do not greet him, and **if** anyone greets
+     you, do not answer him."
 
 Expresses an actual condition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1415,106 +299,13 @@ something that has happened in the past in certain circumstances.
 
 -  GEN 27:1
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וַיְהִי֙ **כִּֽי**\ ־זָקֵ֣ן יִצְחָ֔ק וַתִּכְהֶ֥יןָ עֵינָ֖יו מֵרְאֹ֑ת
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   wayhiy **ki**-zaqen yitshaq wattikhheyna 'enayw mere'oth
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   And-it-happened **when**\ \_old Isaac and-were-dim his-eyes
-   from-seeing
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **When** Isaac was old and his eyes were dim so that he could not see
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  וַיְהִי֙ **כִּֽי**\ ־זָקֵ֣ן יִצְחָ֔ק וַתִּכְהֶ֥יןָ עֵינָ֖יו מֵרְאֹ֑ת
+  wayhiy **ki**-zaqen yitshaq wattikhheyna 'enayw mere'oth
+  "And-it-happened **when**\ \_old Isaac and-were-dim his-eyes
+     from-seeing"
+  **When** Isaac was old and his eyes were dim so that he could not see
 
 Other uses
 ~~~~~~~~~~
@@ -1526,108 +317,15 @@ meaning of the word in any specific instance.
 
 -  GEN 17:15
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   שָׂרַ֣י אִשְׁתְּךָ֔ לֹא־תִקְרָ֥א אֶת־שְׁמָ֖הּ שָׂרָ֑י **כִּ֥י**
-   שָׂרָ֖ה שְׁמָֽהּ׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   saray 'ishtekha lo-thiqra 'eth-shemah saray **ki** sarah shemah
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   Sarai your-wife not\_call [dir.obj]\_her-name Sarai **but** Sarah
-   her-name.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   As for Sarai your wife, do not call her Sarai any more. **Instead**,
-   her name will be Sarah.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "שָׂרַ֣י אִשְׁתְּךָ֔ לֹא־תִקְרָ֥א אֶת־שְׁמָ֖הּ שָׂרָ֑י **כִּ֥י**
+     שָׂרָ֖ה שְׁמָֽהּ׃"
+  saray 'ishtekha lo-thiqra 'eth-shemah saray **ki** sarah shemah
+  "Sarai your-wife not\_call [dir.obj]\_her-name Sarai **but** Sarah
+     her-name."
+  "As for Sarai your wife, do not call her Sarai any more. **Instead**,
+     her name will be Sarah."
 
 אִם
 ---
@@ -1659,208 +357,22 @@ desirability.
 
 -  GEN 18:26
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אִם־אֶמְצָ֥א בִסְדֹ֛ם חֲמִשִּׁ֥ים צַדִּיקִ֖ם בְּת֣וֹךְ הָעִ֑יר
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **'im**-'emtsa visdom hamishim tsaddiqim bethokh ha'ir
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **If**\ \_I-find in-Sodom fifty righteous in-place the-city
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **If** I find fifty people in Sodom who have done nothing wrong
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  אִם־אֶמְצָ֥א בִסְדֹ֛ם חֲמִשִּׁ֥ים צַדִּיקִ֖ם בְּת֣וֹךְ הָעִ֑יר
+  **'im**-'emtsa visdom hamishim tsaddiqim bethokh ha'ir
+  **If**\ \_I-find in-Sodom fifty righteous in-place the-city
+  **If** I find fifty people in Sodom who have done nothing wrong
 
 -  JER 15:1 –– hypothetical condition as affirmation of an actual
    condition
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אִם־יַעֲמֹ֨ד מֹשֶׁ֤ה וּשְׁמוּאֵל֙ לְפָנַ֔י
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **'im**-ya'amod mosheh ushemu'el lefanay
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **Though**\ \_stood Moses and-Samuel before-me
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **Even if** Moses or Samuel were standing in front of me
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  אִם־יַעֲמֹ֨ד מֹשֶׁ֤ה וּשְׁמוּאֵל֙ לְפָנַ֔י
+  **'im**-ya'amod mosheh ushemu'el lefanay
+  **Though**\ \_stood Moses and-Samuel before-me
+  **Even if** Moses or Samuel were standing in front of me
 
 Expresses an actual condition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1873,215 +385,29 @@ something that has happened in the past in certain circumstances.
 
 -  NUM 21:9
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וְהָיָ֗ה **אִם**\ ־נָשַׁ֤ךְ הַנָּחָשׁ֙ אֶת־אִ֔ישׁ וְהִבִּ֛יט
-   אֶל־נְחַ֥שׁ הַנְּחֹ֖שֶׁת וָחָֽי׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   wehayah **'im**-nashakh hannahash 'eth-'ish wehibbit 'el-nehash
-   hannehosheth wahay
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   And-it-happened **when**\ \_he-had-bitten the-serpent [dir.obj]\_man
-   and-he-looked to\_serpent-of the-bronze and-he-lived
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **When** a snake bit any person, if he looked at the bronze snake, he
-   survived.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "וְהָיָ֗ה **אִם**\ ־נָשַׁ֤ךְ הַנָּחָשׁ֙ אֶת־אִ֔ישׁ וְהִבִּ֛יט
+     אֶל־נְחַ֥שׁ הַנְּחֹ֖שֶׁת וָחָֽי׃"
+  "wehayah **'im**-nashakh hannahash 'eth-'ish wehibbit 'el-nehash
+     hannehosheth wahay"
+  "And-it-happened **when**\ \_he-had-bitten the-serpent [dir.obj]\_man
+     and-he-looked to\_serpent-of the-bronze and-he-lived"
+  "**When** a snake bit any person, if he looked at the bronze snake, he
+     survived."
 
 -  GEN 31:8
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אִם־כֹּ֣ה יֹאמַ֗ר נְקֻדִּים֙ יִהְיֶ֣ה שְׂכָרֶ֔ךָ וְיָלְד֥וּ
-   כָל־הַצֹּ֖אן נְקֻדִּ֑ים
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **'im**-koh yomar nequddim yihyeh sekharekha weyoldu khol-hatson
-   nequddim
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **When**\ \_thus he-said speckled-ones it-will-be your-wages
-   and-they-bore all\_the-flock speckled-ones
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **If** he said, 'The speckled animals will be your wages,' then all
-   the flock bore speckled young.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "אִם־כֹּ֣ה יֹאמַ֗ר נְקֻדִּים֙ יִהְיֶ֣ה שְׂכָרֶ֔ךָ וְיָלְד֥וּ
+     כָל־הַצֹּ֖אן נְקֻדִּ֑ים"
+  "**'im**-koh yomar nequddim yihyeh sekharekha weyoldu khol-hatson
+     nequddim"
+  "**When**\ \_thus he-said speckled-ones it-will-be your-wages
+     and-they-bore all\_the-flock speckled-ones"
+  "**If** he said, 'The speckled animals will be your wages,' then all
+     the flock bore speckled young."
 
 Alternative
 ~~~~~~~~~~~
@@ -2091,105 +417,12 @@ usually translated as "or" in English.
 
 -  JOS 5:13
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   הֲלָ֥נוּ אַתָּ֖ה **אִם**\ ־לְצָרֵֽינוּ׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   halanu 'attah **'im**-letsarenu
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   Are-for-us you **or**\ \_for-our-enemies?
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   Are you for us **or** for our enemies?
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  הֲלָ֥נוּ אַתָּ֖ה **אִם**\ ־לְצָרֵֽינוּ׃
+  halanu 'attah **'im**-letsarenu
+  Are-for-us you **or**\ \_for-our-enemies?
+  Are you for us **or** for our enemies?
 
 וְעַתָּה
 --------
@@ -2209,415 +442,43 @@ contexts.
 
 -  GEN 31:13 –– as a stand-alone conjunction
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   עַתָּ֗ה ק֥וּם צֵא֙ מִן־הָאָ֣רֶץ הַזֹּ֔את
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **'attah** qum tse' min-ha'arets hazzoth
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **Now** rise-up go-out from\_the-land the-this
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **Now** rise up and leave this land
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  עַתָּ֗ה ק֥וּם צֵא֙ מִן־הָאָ֣רֶץ הַזֹּ֔את
+  **'attah** qum tse' min-ha'arets hazzoth
+  **Now** rise-up go-out from\_the-land the-this
+  **Now** rise up and leave this land
 
 -  1KI 8:26 –– with prefix וְ
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וְעַתָּ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל יֵאָ֤מֶן נָא֙ דְּבָרֶיךָ אֲשֶׁ֣ר
-   דִּבַּ֔רְתָּ לְעַבְדְּךָ֖ דָּוִ֥ד אָבִֽי
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **we'attah** 'elohe yisra'el ye'amen na' devareykha 'asher dibbarta
-   le'avdekha dawid 'avi 
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **And-now** God-of Israel let-it-be-true [exh.prtc] your-words that
-   you-spoke to-your-servant David my-father
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **Now then**, God of Israel, I pray that the promise you made to your
-   servant David my father, will come true.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "וְעַתָּ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל יֵאָ֤מֶן נָא֙ דְּבָרֶיךָ אֲשֶׁ֣ר
+     דִּבַּ֔רְתָּ לְעַבְדְּךָ֖ דָּוִ֥ד אָבִֽי"
+  "**we'attah** 'elohe yisra'el ye'amen na' devareykha 'asher dibbarta
+     le'avdekha dawid 'avi"
+  "**And-now** God-of Israel let-it-be-true [exh.prtc] your-words that
+     you-spoke to-your-servant David my-father"
+  "**Now then**, God of Israel, I pray that the promise you made to your
+     servant David my father, will come true."
 
 -  GEN 44:10 –– in compound conjunction with גַּם
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וַיֹּ֕אמֶר **גַּם־עַתָּ֥ה** כְדִבְרֵיכֶ֖ם כֶּן־ה֑וּא
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   wayyomer **gam-'attah** khedivrekhem ken-hu
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   And-he-said **also\_now** as-your-words thus\_it
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **Now also** let it be according to your words.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  וַיֹּ֕אמֶר **גַּם־עַתָּ֥ה** כְדִבְרֵיכֶ֖ם כֶּן־ה֑וּא
+  wayyomer **gam-'attah** khedivrekhem ken-hu
+  And-he-said **also\_now** as-your-words thus\_it
+  **Now also** let it be according to your words.
 
 -  1SA 13:13 –– in compound conjunction with כִּי
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   כִּ֣י עַתָּ֗ה הֵכִ֨ין יְהוָ֧ה אֶת־מַֽמְלַכְתְּךָ֛
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **ki 'attah** hekhin yehwah 'eth-mamelakhtekha
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **For now** he-established Yahweh [dir.obj]\_your-reign
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **For then** Yahweh would have established your rule
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  כִּ֣י עַתָּ֗ה הֵכִ֨ין יְהוָ֧ה אֶת־מַֽמְלַכְתְּךָ֛
+  **ki 'attah** hekhin yehwah 'eth-mamelakhtekha
+  **For now** he-established Yahweh [dir.obj]\_your-reign
+  **For then** Yahweh would have established your rule
 
 לֽוּ
 ----
@@ -2632,207 +493,21 @@ only" in English.
 
 -  JDG 13:23
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   לוּ֩ חָפֵ֨ץ יְהוָ֤ה לַהֲמִיתֵ֙נוּ֙
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **lu** hafets yehwah lahamithenu
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **If** he-wanted Yahweh to-kill-us
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **If** Yahweh intended to kill us
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  לוּ֩ חָפֵ֨ץ יְהוָ֤ה לַהֲמִיתֵ֙נוּ֙
+  **lu** hafets yehwah lahamithenu
+  **If** he-wanted Yahweh to-kill-us
+  **If** Yahweh intended to kill us
 
 -  NUM 14:2
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   לוּ֩־מַ֙תְנוּ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **lu**-mathnu be'erets mitsrayim
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **If-only** we-had-died in-the-land-of Egypt
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **We wish** we had died in the land of Egypt
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  לוּ֩־מַ֙תְנוּ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם
+  **lu**-mathnu be'erets mitsrayim
+  **If-only** we-had-died in-the-land-of Egypt
+  **We wish** we had died in the land of Egypt
 
 פֶּן
 ----
@@ -2847,209 +522,23 @@ that...not" (or similar phrasing) in English.
 
 -  GEN 3:3
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וְלֹ֥א תִגְּע֖וּ בּ֑וֹ **פֶּן**\ ־תְּמֻתֽוּן׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   welo thigge'u bo **pen**-temuthun
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   and-not you-will-touch in-it **so-that-not**\ \_you-will-die
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   nor may you touch it, **or** you will die.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  וְלֹ֥א תִגְּע֖וּ בּ֑וֹ **פֶּן**\ ־תְּמֻתֽוּן׃
+  welo thigge'u bo **pen**-temuthun
+  and-not you-will-touch in-it **so-that-not**\ \_you-will-die
+  "nor may you touch it, **or** you will die."
 
 -  GEN 31:24
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   הִשָּׁ֧מֶר לְךָ֛ **פֶּן**\ ־תְּדַבֵּ֥ר עִֽם־יַעֲקֹ֖ב מִטּ֥וֹב
-   עַד־רָֽע
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   hishamer lekha **pen**-tedabber 'im-ya'aqov mittov 'ad-ra'
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   Be-guarded to-you **so-that-not**\ \_you-speak with\_Jacob from-good
-   until\_bad.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   Be careful **that** you speak to Jacob **neither** good **nor** bad.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "הִשָּׁ֧מֶר לְךָ֛ **פֶּן**\ ־תְּדַבֵּ֥ר עִֽם־יַעֲקֹ֖ב מִטּ֥וֹב
+     עַד־רָֽע"
+  hishamer lekha **pen**-tedabber 'im-ya'aqov mittov 'ad-ra'
+  "Be-guarded to-you **so-that-not**\ \_you-speak with\_Jacob from-good
+     until\_bad."
+  Be careful **that** you speak to Jacob **neither** good **nor** bad.
 
 Compound conjunctions
 ---------------------
@@ -3065,105 +554,12 @@ compound conjunction.
 
 -  2KI 23:9
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   כִּ֛י אִם־אָכְל֥וּ מַצֹּ֖ות בְּתֹ֥וךְ אֲחֵיהֶֽם׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **ki 'im**-'okhlu matsowth bethowkh 'ahehem
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **but if**\ \_they-ate unleavened-bread in-midst-of their-brothers.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **but** they ate unleavened bread among their brothers.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  כִּ֛י אִם־אָכְל֥וּ מַצֹּ֖ות בְּתֹ֥וךְ אֲחֵיהֶֽם׃
+  **ki 'im**-'okhlu matsowth bethowkh 'ahehem
+  **but if**\ \_they-ate unleavened-bread in-midst-of their-brothers.
+  **but** they ate unleavened bread among their brothers.
 
 אַף כִּי
 ~~~~~~~~
@@ -3183,204 +579,18 @@ conjunction can appear with or without the prefix conjunction וְ
 
 -  GEN 3:1
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **'af ki**-'amar 'elohim
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **indeed** he-has-said God
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   Has God **really** said
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים
+  **'af ki**-'amar 'elohim
+  **indeed** he-has-said God
+  Has God **really** said
 
 -  EZK 23:40
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וְאַ֗ף כִּ֤י־אַחֲרֵ֥י מוֹתִֽי׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **we'af ki**-'ahare mothi
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **and-more** after my-death
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **how much more** after my death?
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  וְאַ֗ף כִּ֤י־אַחֲרֵ֥י מוֹתִֽי׃
+  **we'af ki**-'ahare mothi
+  **and-more** after my-death
+  **how much more** after my death?

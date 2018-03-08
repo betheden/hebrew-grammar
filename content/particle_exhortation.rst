@@ -32,210 +32,24 @@ When used with a command, נָא is usually translated as "now" in English
 
 -  ISA 51:21
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   לָכֵ֛ן שִׁמְעִי־\ **נָ֥א** זֹ֖את
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   lakhen shim'i-\ **na** zoth
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   Therefore listen\_\ **now** this
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   But **now** hear this
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  לָכֵ֛ן שִׁמְעִי־\ **נָ֥א** זֹ֖את
+  lakhen shim'i-\ **na** zoth
+  Therefore listen\_\ **now** this
+  But **now** hear this
 
 When used as part of a request, נָא is usually translated as "please" in
 English (or left untranslated).
 
 -  AMO 7:2
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אֲדֹנָ֤י יְהוִה֙ סְֽלַֽח־נָ֔א
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   'adonay yehwih selah-\ **na**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   Lord Yahweh forgive\_\ **please**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   Lord Yahweh, **please** forgive
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  אֲדֹנָ֤י יְהוִה֙ סְֽלַֽח־נָ֔א
+  'adonay yehwih selah-\ **na**
+  Lord Yahweh forgive\_\ **please**
+  "Lord Yahweh, **please** forgive"
 
 In some instances a translation with "now", "please", or "oh" is
 possible, but not necessary. The emotive context of each attestation
@@ -244,105 +58,12 @@ untranslated.
 
 -  JON 1:14
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אַל־\ **נָ֣א** נֹאבְדָ֗ה
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   'al-**na** novedah
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   not\_\ **now** let-us-perish
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   do not let us perish
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  אַל־\ **נָ֣א** נֹאבְדָ֗ה
+  'al-**na** novedah
+  not\_\ **now** let-us-perish
+  do not let us perish
 
 אָנָּא
 ------
@@ -355,107 +76,14 @@ particle could also be classified as an
 
 -  PSA 118:25
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אָנָּ֣א יְ֭הוָה הֹושִׁ֘יעָ֥ה **נָּ֑א אָֽנָּ֥א** יְ֝הוָ֗ה הַצְלִ֘יחָ֥ה
-   **נָּֽא**\ ׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **'onna** yehwah howshi'ah **na 'anna** yehwah hatslihah **na**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **Please** Yahweh give-help **oh please** Yahweh make-succeed **oh!**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **Please**, Yahweh, give us victory\ **! Please**, Yahweh, give us
-   success\ **!**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "אָנָּ֣א יְ֭הוָה הֹושִׁ֘יעָ֥ה **נָּ֑א אָֽנָּ֥א** יְ֝הוָ֗ה הַצְלִ֘יחָ֥ה
+     **נָּֽא**\ ׃"
+  **'onna** yehwah howshi'ah **na 'anna** yehwah hatslihah **na**
+  **Please** Yahweh give-help **oh please** Yahweh make-succeed **oh!**
+  "**Please**, Yahweh, give us victory\ **! Please**, Yahweh, give us
+     success\ **!**"
 
 בִּי
 ----
@@ -470,102 +98,9 @@ superior. In English, it can be translated as "oh" or "pray" or
 
 -  1KI 3:26
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   בִּ֣י אֲדֹנִ֗י תְּנוּ־לָהּ֙ אֶת־הַיָּל֣וּד הַחַ֔י
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **bi** 'adoni tenu-lah 'eth-hayyalud hahay
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **Oh** my-master give\_to-her [dir.obj]\_the-child living
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **Oh**, my master, give her the living child
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  בִּ֣י אֲדֹנִ֗י תְּנוּ־לָהּ֙ אֶת־הַיָּל֣וּד הַחַ֔י
+  **bi** 'adoni tenu-lah 'eth-hayyalud hahay
+  **Oh** my-master give\_to-her [dir.obj]\_the-child living
+  "**Oh**, my master, give her the living child"

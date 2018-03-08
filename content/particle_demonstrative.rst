@@ -34,315 +34,36 @@ The demonstrative particle occurs at the beginning of a clause
 
 -  JOS 3:11 - in front of a verbal clause
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   הִנֵּה֙ אֲרֹ֣ון הַבְּרִ֔ית אֲדֹ֖ון כָּל־הָאָ֑רֶץ עֹבֵ֥ר לִפְנֵיכֶ֖ם
-   בַּיַּרְדֵּֽן׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **hinneh** 'arown habberith 'adown kol-ha'arets 'over lifnekhem
-   bayyarden
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **Look** ark-of the-covenant-of lord-of all\_the-earth is-crossing
-   before-you into-the-Jordan.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **Look!** The ark of the covenant of the Lord of all the earth
-   crosses over ahead of you into the Jordan.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "הִנֵּה֙ אֲרֹ֣ון הַבְּרִ֔ית אֲדֹ֖ון כָּל־הָאָ֑רֶץ עֹבֵ֥ר לִפְנֵיכֶ֖ם
+     בַּיַּרְדֵּֽן׃"
+  "**hinneh** 'arown habberith 'adown kol-ha'arets 'over lifnekhem
+     bayyarden"
+  "**Look** ark-of the-covenant-of lord-of all\_the-earth is-crossing
+     before-you into-the-Jordan."
+  "**Look!** The ark of the covenant of the Lord of all the earth
+     crosses over ahead of you into the Jordan."
 
 -  ISA 40:10 - in front of a verbless clause
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   הִנֵּ֤ה שְׂכָרֹו֙ אִתֹּ֔ו
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **hinneh** sekharow 'ittow
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **Look** his-reward with-him
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **See**, his reward is with him
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  הִנֵּ֤ה שְׂכָרֹו֙ אִתֹּ֔ו
+  **hinneh** sekharow 'ittow
+  **Look** his-reward with-him
+  "**See**, his reward is with him"
 
 With a :ref:`suffix_pronominal`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  ISA 65:1
 
-   .. raw:: html
+.. csv-table::
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אָמַ֨רְתִּי֙ **הִנֵּ֣נִי הִנֵּ֔נִי** אֶל־גֹּ֖וי לֹֽא־קֹרָ֥א
-   בִשְׁמִֽי׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   'amartiy **hinneni hinneni** 'el-gowy lo-qora vishmi
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   I-said **look-me look-me** to\_nation not\_called by-my-name.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   I said, "**Here I am! Here I am!**" to a nation that did not call on
-   my name.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  "אָמַ֨רְתִּי֙ **הִנֵּ֣נִי הִנֵּ֔נִי** אֶל־גֹּ֖וי לֹֽא־קֹרָ֥א
+     בִשְׁמִֽי׃"
+  'amartiy **hinneni hinneni** 'el-gowy lo-qora vishmi
+  I-said **look-me look-me** to\_nation not\_called by-my-name.
+  "I said, ""**Here I am! Here I am!**"" to a nation that did not call on
+     my name."
