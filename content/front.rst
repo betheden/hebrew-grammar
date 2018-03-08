@@ -8,7 +8,7 @@ unfoldingWord Hebrew Grammar
 Introduction
 ------------
 
-The unfoldingWord Hebrew Grammar (UHG) is a biblical Hebrew reference grammar
+The unfoldingWord Hebrew Grammar (UHG) is a Biblical Hebrew reference grammar
 based on the `morphology codes <http://openscriptures.github.io/morphhb/parsing/HebrewMorphologyCodes.html>`__
 that appear in the `Open Scriptures Hebrew Bible (OSHB) <https://github.com/openscriptures/morphhb>`__. It enables the
 global Church to gain the best possible understanding of the Hebrew
