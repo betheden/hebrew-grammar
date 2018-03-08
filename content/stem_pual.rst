@@ -36,9 +36,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-**Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Pual Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -52,9 +50,7 @@ Paradigm
   feminine plural second person,קֻטַּלְתֶּן,quttalten,you were slaughtered
   common plural first person,קֻטַּלְנוּ,quttalnu,we were slaughtered
 
-**Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Pual Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -69,9 +65,7 @@ Paradigm
   feminine plural second person,תְּקֻטַּלְנָה,tequttalnah,you will be slaughtered
   common plural first person,נְקֻטַּל,nequttal,we will be slaughtered
 
-**Sequential Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Pual Sequential Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -85,9 +79,7 @@ Paradigm
   feminine plural second person,וְקֻטַּלְתֶּן,wequttalten,(and) you will be slaughtered
   common plural first person,וְקֻטַּלְנוּ,wequttalnu,(and) we will be slaughtered
 
-**Sequential Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Pual Sequential Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -102,9 +94,7 @@ Paradigm
   feminine plural second person,וַתְּקֻטַּלְנָה,wattequttalnah,(and) you were slaughtered
   common plural first person,וַנְּקֻטַּל,wannequttal,(and) we were slaughtered
 
-**Infinitive**
-
-.. csv-table::
+.. csv-table:: Pual Infinitive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -117,9 +107,7 @@ Paradigm
 
 **Cohortative** Not found
 
-**Participle (passive voice)**
-
-.. csv-table::
+.. csv-table:: Pual Participle (passive voice) Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

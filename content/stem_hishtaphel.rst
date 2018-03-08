@@ -26,7 +26,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-.. csv-table::
+.. csv-table:: Hishtaphel Paradigm
   :header-rows: 1
 
   Conjugation,Parsing,Hebrew,Transliteration,Gloss

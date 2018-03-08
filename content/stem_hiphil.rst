@@ -39,9 +39,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-**Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hiphil Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -55,9 +53,7 @@ Paradigm
   feminine plural second person,הִקְטַלְתֶּן,hiqtalten,you caused to kill
   common plural first person,הִקְטַלְנוּ,hiqtalnu,we caused to kill
 
-**Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hiphil Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -72,9 +68,7 @@ Paradigm
   feminine plural second person,תַּקְטֵלְנָה,taqtelenah,you will cause to kill
   common plural first person,נַקְטִיל,naqtil,we will cause to kill
 
-**Sequential Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hiphil Sequential Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -88,9 +82,7 @@ Paradigm
   feminine plural second person,וְהִקְטַלְתֶּן,wehiqtalten,(and) you will cause to kill
   common plural first person,וְהִקְטַלְנוּ,wehiqtalnu,(and) we will cause to kill
 
-**Sequential Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hiphil Sequential Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -105,18 +97,14 @@ Paradigm
   feminine plural second person,וַתַּקְטֵלְנָה,wattaqtelenah,(and) you caused to kill
   common plural first person,וַנַּקְטִיל,wannaqtil,(and) we caused to kill
 
-**Infinitive**
-
-.. csv-table::
+.. csv-table:: Hiphil Infinitive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
   Infinitive Construct,הַקְטִיל,haqtil,cause to kill
   Infinitive Absolute,הַקְטֵל,haqtel,cause to kill
 
-**Imperative**
-
-.. csv-table::
+.. csv-table:: Hiphil Imperative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -125,9 +113,7 @@ Paradigm
   masculine plural,הַקְטִילוּ,haqtilu,you must cause to kill
   feminine plural,הַקְטֵלְנָה,haqtelenah,you must cause to kill
 
-**Jussive**
-
-.. csv-table::
+.. csv-table:: Hiphil Jussive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -140,18 +126,14 @@ Paradigm
   masculine plural second person,תַּקְטֵלוּ,taqtelu,may you cause to kill
   feminine plural second person,תַּקְטֵלְנָה,taqtelenah,may you cause to kill
 
-**Cohortative**
-
-.. csv-table::
+.. csv-table:: Hiphil Cohortative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
   common singular first person,אַקְטִילָה,'aqtilah,let me cause to kill
   common plural first person,נַקְטִילָה,naqtilah,let us cause to kill
 
-**Participle (active voice)**
-
-.. csv-table::
+.. csv-table:: Hiphil Participle (active voice) Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

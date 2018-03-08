@@ -36,9 +36,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-**Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Piel Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -52,9 +50,7 @@ Paradigm
   feminine plural second person,קִטַּלְתֶּן,qittalten,you slaughtered
   common plural first person,קִטַּלְנוּ,qittalnu,we slaughtered
 
-**Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Piel Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -69,9 +65,7 @@ Paradigm
   feminine plural second person,תְּקַטַּלְנָה,tiqattalnah,you will slaughter
   common plural first person,נְקַטֵּל,niqattel,we will slaughter
 
-**Sequential Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Piel Sequential Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -85,9 +79,7 @@ Paradigm
   feminine plural second person,וְקִטַּלְתֶּן,weqittalten,(and) you will slaughter
   common plural first person,וְקִטַּלְנוּ,weqittalnu,(and) we will slaughter
 
-**Sequential Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Piel Sequential Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -102,18 +94,14 @@ Paradigm
   feminine plural second person,וַתְּקַטַּלְנָה,watteqattelnah,(and) you slaughtered
   common plural first person,וַנְּקַטֵּל,wanneqattel,(and) we slaughtered
 
-**Infinitive**
-
-.. csv-table::
+.. csv-table:: Piel Infinitive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
   Infinitive Construct,קַטֵּל,qattel,slaughter
   Infinitive Absolute,קַטֵּל / קַטֹּל,qattel / qattol,slaughter
 
-**Imperative**
-
-.. csv-table::
+.. csv-table:: Piel Imperative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -141,18 +129,14 @@ Paradigm
   masculine plural second person,תְּגַלוּ,tegalnu,may you uncover nakedness
   feminine plural second person,תְּגַלְנָה,tegalnah,may you uncover nakedness
 
-**Cohortative**
-
-.. csv-table::
+.. csv-table:: Piel Cohortative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
   common singular,אֲקַטֵּלָה,'eqattelah,let me slaughter
   common plural,נְקַטֵּלָה,niqattelah,let us slaughter
 
-**Participle (active voice)**
-
-.. csv-table::
+.. csv-table:: Piel Participle (active voice) Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

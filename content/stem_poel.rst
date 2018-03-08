@@ -28,9 +28,7 @@ in Biblical Hebrew.
 Form
 ----
 
-**Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Poel Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -44,9 +42,7 @@ Form
   feminine plural second person,הוֹלַלְתֶּן,holalten,you humiliated
   common plural first person,הוֹלַלְנוּ,holalnu,we humiliated
 
-**Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Poel Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -61,9 +57,7 @@ Form
   feminine plural second person,תְּהוֹלַלְנָה,teholalnah,you will humiliate
   common plural first person,נְהוֹלֵל,neholel,we will humiliate
 
-**Participle**
-
-.. csv-table::
+.. csv-table:: Poel Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

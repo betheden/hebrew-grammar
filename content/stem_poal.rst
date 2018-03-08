@@ -28,7 +28,7 @@ extremely rare verbal form in Biblical Hebrew.
 Form
 ----
 
-.. csv-table::
+.. csv-table:: Poal Paradigm
   :header-rows: 1
 
   Conjugation,Parsing,Hebrew,Transliteration,Gloss

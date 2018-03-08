@@ -47,9 +47,7 @@ Paradigm
           qibbuts under the first letter (so הָ or הֻ). Here the qamets hatuf is
           used throughout.
 
-**Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hophal Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -63,9 +61,7 @@ Paradigm
   feminine plural second person,הָקְטַלְתֶּן,hoqtalten,you were caused to kill
   common plural first person,הָקְטַלְנוּ,hoqtalnu,we were caused to kill
 
-**Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hophal Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -80,9 +76,7 @@ Paradigm
   feminine plural second person,תָּקְטַלְנָה,toqtalnah,you will be caused to kill
   common plural first person,נָקְטַל,noqtal,we will be caused to kill
 
-**Sequential Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hophal Sequential Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -96,9 +90,7 @@ Paradigm
   feminine plural second person,וְהָקְטַלְתֶּן,wehoqtalten,(and) you will be caused to kill
   common plural first person,וְהָקְטַלְנוּ,wehoqtalnu,(and) we will be caused to kill
 
-**Sequential Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hophal Sequential Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -113,9 +105,7 @@ Paradigm
   feminine plural second person,וַתָּקְטַלְנָה,wattoqtalnah,(and) you were caused to kill
   common plural first person,וַנָּקְטַל,wannoqtal,(and) we were caused to kill
 
-**Infinitive**
-
-.. csv-table::
+.. csv-table:: Hophal Infinitive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -128,9 +118,7 @@ Paradigm
 
 **Cohortative** Not found
 
-**Participle (passive voice)**
-
-.. csv-table::
+.. csv-table:: Hophal Participle (passive voice) Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

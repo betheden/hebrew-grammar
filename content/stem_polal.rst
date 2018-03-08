@@ -29,7 +29,7 @@ verbal form in Biblical Hebrew.
 Form
 ----
 
-.. csv-table::
+.. csv-table:: Polal Paradigm
   :header-rows: 1
 
   Conjugation,Parsing,Hebrew,Transliteration,Gloss

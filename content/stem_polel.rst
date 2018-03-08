@@ -29,9 +29,7 @@ form in Biblical Hebrew.
 Form
 ----
 
-**Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Polel Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -45,9 +43,7 @@ Form
   feminine plural second person,כּוֹנַנְתֶּן,konanten,you established
   common plural first person,כּוֹנַנּוּ,konannu,we established
 
-**Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Polel Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -62,9 +58,7 @@ Form
   feminine plural second person,תְּכוֹנֵנָּה,tekhonennah,you will establish
   common plural first person,נְכוֹנֵן,nekhonen,we will establish
 
-**Sequential Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Polel Sequential Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -79,9 +73,7 @@ Form
   feminine plural second person,וַתְּכוֹנֵנָּה,wattkhonennah,(and) you established
   common plural first person,וַנְּכוֹנֵן,wannekhonen,(and) we established
 
-**Imperative**
-
-.. csv-table::
+.. csv-table:: Polel Imperative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -90,9 +82,7 @@ Form
   masculine plural,כּוֹנֲנוּ,konanu,you must establish
   feminine plural,כּוֹנֵנָּה,konennah,you must establish
 
-**Participle**
-
-.. csv-table::
+.. csv-table:: Polel Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

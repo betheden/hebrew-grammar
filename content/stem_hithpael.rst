@@ -34,9 +34,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-**Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hithpael Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -50,9 +48,7 @@ Paradigm
   feminine plural second person,הִתְקַטַּלְתֶּן,hithqattalten,you killed yourselves
   common plural first person,הִתְקַטַּלְנוּ,hithqattalnu,we killed ourselves
 
-**Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hithpael Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -67,9 +63,7 @@ Paradigm
   feminine plural second person,תִּתְקַטֵּלְנָה,tithqattelnah,you will kill yourselves
   common plural first person,נִתְקַטֵּל,nithqattel,we will kill ourselves
 
-**Sequential Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hithpael Sequential Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -83,9 +77,7 @@ Paradigm
   feminine plural second person,וְהִתְקַטַּלְתֶּן,wehithqattalten,(and) you will kill yourselves
   common plural first person,וְהִתְקַטַּלְנוּ,wehithqattalnu,(and) we will kill ourselves
 
-**Sequential Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hithpael Sequential Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -100,18 +92,14 @@ Paradigm
   feminine plural second person,וַתִּתְקַטֵּלְנָה,wattithqattelnah,(and) you killed yourselves
   common plural first person,וַנְּתְקַטֵּל,wannithqattel,(and) we killed ourselves
 
-**Infinitive**
-
-.. csv-table::
+.. csv-table:: Hithpael Infinitive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
   Infinitive Construct,הִתְקַטֵּל,hitqattel,kill oneself
   Infinitive Absolute,הִתְקַטֵּל,hitqattel,kill oneself
 
-**Imperative**
-
-.. csv-table::
+.. csv-table:: Hithpael Imperative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -140,18 +128,14 @@ Paradigm
   masculine plural second person,תִּתְגַּלוּ,,may you uncover your own nakedness
   feminine plural second person,תִּתְגַּלְנָה,,may you uncover your own nakedness
 
-**Cohortative**
-
-.. csv-table::
+.. csv-table:: Hithpael Cohortative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
   common singular,אֶתְקַטֵּלָה,'ethqattelah,let me kill myself
   common plural,נִתְקַטֵּלָה,nithqattelah,let us kill ourselves
 
-**Participle**
-
-.. csv-table::
+.. csv-table:: Hithpael Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

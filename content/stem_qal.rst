@@ -37,9 +37,7 @@ Depending on the verb form, there are often two or three different ways
 of conjugating a verb in the Qal stem. Which way is used depends on
 which verb it is.
 
-**Suffix Conjugation 1**
-
-.. csv-table::
+.. csv-table:: Qal Suffix Conjugation Paradigm 1
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -53,9 +51,7 @@ which verb it is.
   feminine plural second person,קְטַלְתֶּן,qetalten,you killed
   common plural first person,קָטַלְנוּ,qatalnu,we killed
 
-**Suffix Conjugation 2**
-
-.. csv-table::
+.. csv-table:: Qal Suffix Conjugation Paradigm 2
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -69,9 +65,7 @@ which verb it is.
   feminine plural second person,כְּבַדְתֶּן,kevadten,you heavy
   common plural first person,כָּבַדְנוּ,kavadnu,we were heavy
 
-**Suffix Conjugation 3**
-
-.. csv-table::
+.. csv-table:: Qal Suffix Conjugation Paradigm 3
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -85,9 +79,7 @@ which verb it is.
   feminine plural second person,קְטָנְתֶּן,qetanten,you were small
   common plural first person,קָטֹנּוּ,qatonnu,we were small
 
-**Prefix Conjugation 1**
-
-.. csv-table::
+.. csv-table:: Qal Prefix Conjugation Paradigm 1
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -102,9 +94,7 @@ which verb it is.
   feminine plural second person,תִּקְטֹלְנָה,tiqtolenah,you will kill
   common plural first person,נִקְטֹל,niqtol,we will kill
 
-**Prefix Conjugation 2**
-
-.. csv-table::
+.. csv-table:: Qal Prefix Conjugation Paradigm 2
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -119,9 +109,7 @@ which verb it is.
   feminine plural second person,תִּכְבַּדְנָה,tikhbadnah,you will be heavy
   common plural first person,נִכְבַּד,nikhbad,we will be heavy
 
-**Sequential Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Qal Sequential Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -135,9 +123,7 @@ which verb it is.
   feminine plural second person,וּקְטַלְתֶּן,uqetalten,(and) you will kill
   common plural first person,וְקָטַלְנוּ,weqatalnu,(and) we will kill
 
-**Sequential Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Qal Sequential Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -152,9 +138,7 @@ which verb it is.
   feminine plural second person,וַתִּקְטֹלְנָה,wattiqtolenah,(and) you killed
   common plural first person,וַנִּקְטֹל,wanniqtol,(and) we killed
 
-**Infinitive**
-
-.. csv-table::
+.. csv-table:: Qal Infinitive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -162,9 +146,7 @@ which verb it is.
   Infinitive Construct 2,שְׁכַב,shekhav,lie down
   Infinitive Absolute,קָטוֹל,qatol,kill
 
-**Imperative 1**
-
-.. csv-table::
+.. csv-table:: Qal Imperative Paradigm 1
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -173,9 +155,7 @@ which verb it is.
   masculine plural,יִקְטְלוּ,yiqtelu,you must kill
   feminine plural,קְטֹלְנָה,qetolenah,you must kill
 
-**Imperative 2**
-
-.. csv-table::
+.. csv-table:: Qal Imperative Paradigm 2
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -190,7 +170,7 @@ which verb it is.
           verbs. Here the sample verb is גָּלָה (to uncover), where the 3rd
           radical (ה) has dropped out.
 
-.. csv-table::
+.. csv-table:: Qal Jussive Paradigm 1
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -208,7 +188,7 @@ which verb it is.
 Here the sample verb is קוּם (to rise up), where the 2nd radical (a
 shureq vowel) shortens to a holem vowel.
 
-.. csv-table::
+.. csv-table:: Qal Jussive Paradigm 2
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -226,7 +206,7 @@ shureq vowel) shortens to a holem vowel.
 Here the sample verb is שִׂים (to set), where the 2nd radical (a
 hireq-yod vowel) shortens to a tsere vowel.
 
-.. csv-table::
+.. csv-table:: Qal Jussive Paradigm 3
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -239,18 +219,14 @@ hireq-yod vowel) shortens to a tsere vowel.
   masculine plural second person,תָּשֵׂמוּ,tasemu,may you set
   feminine plural second person,תְּשֵׂמֶינָה,tesemeynah,may you set
 
-**Cohortative**
-
-.. csv-table::
+.. csv-table:: Qal Cohortative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
   common singular,אֶקְטֹלָה,'eqtolah,let me kill
   common plural,נִקְטֹהלָה,niqtohlah,let us kill
 
-**Participle 1 (active voice)**
-
-.. csv-table::
+.. csv-table:: Qal Participle 1 (active voice) Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -259,9 +235,7 @@ hireq-yod vowel) shortens to a tsere vowel.
   masculine plural absolute,קֹטְלִים,qotelim,killing / killers
   feminine plural absolute,קֹטְלוֹת,qoteloth,killing / killers
 
-**Participle 2 (active voice)**
-
-.. csv-table::
+.. csv-table:: Qal Participle 2 (active voice) Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -270,9 +244,7 @@ hireq-yod vowel) shortens to a tsere vowel.
   masculine plural absolute,כָּבְדִים,kavdim,being heavy
   feminine plural absolute,כָּבְדוֹת,kavdoth,being heavy
 
-**Participle 3 (active voice)**
-
-.. csv-table::
+.. csv-table:: Qal Participle 3 (active voice) Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -281,9 +253,7 @@ hireq-yod vowel) shortens to a tsere vowel.
   masculine plural absolute,קָטְנִים,qatnim,being small
   feminine plural absolute,קָטְנוֹת,qatnoth,being small
 
-**Passive Participle (passive voice)**
-
-.. csv-table::
+.. csv-table:: Qal Passive Participle (passive voice) Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

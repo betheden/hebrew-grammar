@@ -38,9 +38,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-**Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Niphal Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -54,9 +52,7 @@ Paradigm
   feminine plural second person,נִקְטַלְתֶּן,niqtalten,you were killed
   common plural first person,נִקְטַלְתֶּנוּ,niqtaltenu,we were killed
 
-**Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Niphal Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -71,9 +67,7 @@ Paradigm
   feminine plural second person,תִּקָּטַלְנָה,tiqqatalnah,you will be killed
   common plural first person,נִקָּטֵל,niqqatel,we will be killed
 
-**Sequential Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Niphal Sequential Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -87,9 +81,7 @@ Paradigm
   feminine plural second person,וְנִקְטַלְתֶּן,weniqtalten,(and) you will be killed
   common plural first person,וְנִקְטַלְתֶּנוּ,weniqtaltenu,(and) we will be killed
 
-**Sequential Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Niphal Sequential Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -104,18 +96,14 @@ Paradigm
   feminine plural second person,וַתִּקָּטַלְנָה,wattiqqatalnah,(and) you were killed
   common plural first person,וַנִּקָּטֵל,wanniqqatel,(and) we were killed
 
-**Infinitive**
-
-.. csv-table::
+.. csv-table:: Niphal Infinitive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
   Infinitive Construct,הִקָּטֵל,hiqqatel,be killed
   Infinitive Absolute,הִקָּטֹל / נִקְטֹל,hiqqatol / niqtol,be killed
 
-**Imperative**
-
-.. csv-table::
+.. csv-table:: Niphal Imperative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -143,18 +131,14 @@ Paradigm
   masculine plural second person,תִּגָּלוּ,tiggalu,may you be uncovered
   feminine plural second person,תִּגָּלְנָה,tiggalnah,may you be uncovered
 
-**Cohortative**
-
-.. csv-table::
+.. csv-table:: Niphal Cohortative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
   common singular,אֶקָּטֵלָה,'eqqatelah,let me be killed
   common plural,נִקָּטֵלָה,niqqatelah,let us be killed
 
-**Participle**
-
-.. csv-table::
+.. csv-table:: Niphal Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

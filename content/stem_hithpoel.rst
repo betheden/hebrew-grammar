@@ -27,7 +27,7 @@ any verb in the Hithpoel stem.
 Form
 ----
 
-.. csv-table::
+.. csv-table:: Hithpoel Paradigm
   :header-rows: 1
 
   Conjugation,Parsing,Hebrew,Transliteration,Gloss

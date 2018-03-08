@@ -29,7 +29,7 @@ Form
 
 **From the root כּוּל, meaning "to sustain" in the Pilpel stem**
 
-.. csv-table::
+.. csv-table:: Hithpalpel Paradigm
   :header-rows: 1
 
   Conjugation,Parsing,Hebrew,Transliteration,Gloss

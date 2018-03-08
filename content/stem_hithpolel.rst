@@ -28,9 +28,7 @@ the Nithpael stem.
 Form
 ----
 
-**Suffix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hithpolel Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -44,9 +42,7 @@ Form
   feminine plural second person,הִתְכּוֹנַנְתֶּן,hithkonanten,you established yourselves
   common plural first person,הִתְכּוֹנַנּוּ,hithkonannu,we established ourselves
 
-**Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hithpolel Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -61,9 +57,7 @@ Form
   feminine plural second person,תִּתְכּוֹנֵנָּה,tithkonennah,you will establish yourselves
   common plural first person,נִתְכּוֹנֵן,nithkonen,we will establish ourselves
 
-**Sequential Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Hithpolel Sequential Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -78,9 +72,7 @@ Form
   feminine plural second person,וַתִּתְכּוֹנֵנָּה,watithkonennah,(and) you established yourselves
   common plural first person,וַנִּתְכּוֹנֵן,wannithkonen,(and) we established ourselves
 
-**Imperative**
-
-.. csv-table::
+.. csv-table:: Hithpolel Imperative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -89,9 +81,7 @@ Form
   masculine plural,הִתְכּוֹנֲנוּ,hithkonanu,you must establish yourselves
   feminine plural,הִתְכּוֹנֵנָּה,hithkonennah,you must establish yourselves
 
-**Participle**
-
-.. csv-table::
+.. csv-table:: Hithpolel Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

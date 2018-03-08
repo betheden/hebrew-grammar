@@ -27,10 +27,10 @@ verb כּוּל ("to comprehend, contain").
 Form
 ----
 
-**Suffix Conjugation (from the root כּוּל, meaning "to sustain" in the
-Pilpel stem)**
+These paradigms use the root כּוּל, meaning "to sustain" in the
+Pilpel stem.
 
-.. csv-table::
+.. csv-table:: Pilpel Suffix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -44,9 +44,7 @@ Pilpel stem)**
   feminine plural second person,כִּלְכַּלְתֶּן,kilkalten,you sustained
   common plural first person,כִּלכַּלְנוּ,kilkalnu,we sustained
 
-**Prefix Conjugation**
-
-.. csv-table::
+.. csv-table:: Pilpel Prefix Conjugation Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -61,9 +59,7 @@ Pilpel stem)**
   feminine plural second person,תְּכַלְכֵּלְנָה,tekhalkelnah,you will sustain
   common plural first person,נְכַלְכֵּל,nekhalkel,we will sustain
 
-**Participle**
-
-.. csv-table::
+.. csv-table:: Pilpel Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
