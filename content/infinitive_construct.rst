@@ -18,7 +18,7 @@ Article
 
 The infinitive construct generally functions as a verbal complement to a
 :ref:`verb-finite-verbs`,
-but in rare cases it also functions independently as a :ref:`verb-verbal-nouns`.
+but in rare cases it also functions independently as a verbal :ref:`noun`.
 The infinitive construct is described as being in the construct state
 because it can occur in various constructions with prepositions,
 :ref:`suffix`,
@@ -158,8 +158,8 @@ Infinitive construct with preposition עַד to express durative action (until a
   and-he-said myself I-will-remain until **you-return**
   "Yahweh said, ""I will wait until **you return**"""
 
-Functions as a :ref:`verb-verbal-nouns`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Functions as a Verbal :ref:`noun`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The infinitive construct sometimes functions as an independent
 :ref:`noun`.

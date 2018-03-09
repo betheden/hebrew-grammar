@@ -16,22 +16,7 @@ adjective.
 Article
 -------
 
-Properly speaking, participles in Biblical Hebrew are :ref:`verb-verbal-nouns`.
-Like the infinitive forms, they conjugate in the passive
-:ref:`stem`
-(Niphal, Pual, Hophal, etc.). They also inflect for person and gender
-like both
-:ref:`adjective`
-and
-:ref:`noun`.
-Furthermore, they can also appear in either the :ref:`state_absolute`
-or the :ref:`state_construct`,
-like nouns. Thus, participles have potential to function as a verbal
-complement, a :ref:`verb-finite-verbs`,
-an adjective, or a noun. In most cases, the context will clearly show
-how the participle is being used in the sentence. Generally speaking,
-the meaning of the participle is clear even in cases where its specific
-grammatical function cannot be determined precisely.
+.. include:: includes/participle_article.txt
 
 .. note:: Only the :ref:`stem_qal`
           has a distinct passive form for the participle; in all other cases, the
@@ -179,8 +164,8 @@ Functions as a verbal complement
   she **being-brought-out** and-she sent to\_her-father-in-law saying
   "When she **was brought out**, she sent to her father-in-law a message"
 
-Functions as a :ref:`verb-verbal-nouns`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Functions as a Verbal :ref:`noun`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 8:34
 

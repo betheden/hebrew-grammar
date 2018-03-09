@@ -16,21 +16,7 @@ action.
 Article
 -------
 
-Properly speaking, participles in Biblical Hebrew are :ref:`verb-verbal-nouns`.
-Like the infinitive forms, they conjugate in the various
-:ref:`stem`
-formations. They also inflect for person and gender like both
-:ref:`adjective`
-and
-:ref:`noun`.
-Furthermore, they can also appear in either the :ref:`state_absolute`
-or the :ref:`state_construct`,
-like nouns. Thus, active participles are extremely flexible in their
-grammatical use and can function as a verbal complement, a :ref:`verb-finite-verbs`,
-an adjective, or a noun. In most cases, the context will clearly show
-how the participle is being used in the sentence. The meaning of a
-participle is usually clear, even in cases where its specific
-grammatical function cannot be determined precisely.
+.. include:: includes/participle_article.txt
 
 Form
 ----
@@ -178,8 +164,8 @@ introduce a clause that functions as an adjective.
   "The earth produced vegetation, plants **producing** seed after their
      kind"
 
-Functions as a :ref:`verb-verbal-nouns`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Functions as a Verbal :ref:`noun`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When functioning as a noun, a participle will often take the
 :ref:`particle_definite_article`

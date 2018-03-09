@@ -196,8 +196,8 @@ or continuance of the action of a main verb.
   And-he-walked **going and-eating**
   "He ... went on, **eating as he went**"
 
-Functions as a :ref:`verb-verbal-nouns`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Functions as a Verbal :ref:`noun`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This is an extremely rare use of the infinitive absolute.
 
