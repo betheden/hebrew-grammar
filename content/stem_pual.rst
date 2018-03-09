@@ -98,14 +98,10 @@ Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
-  Infinitive Construct,Not found,,
   Infinitive Absolute,קֻטֹּל,quttol,be slaughtered
 
-**Imperative** Not found
-
-**Jussive** Not found
-
-**Cohortative** Not found
+The infinitive construct, imperative, jussive, and cohortative
+are not found in the Pual stem in Biblical Hebrew.
 
 .. csv-table:: Pual Participle (passive voice) Paradigm
   :header-rows: 1

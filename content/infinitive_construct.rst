@@ -40,10 +40,11 @@ Form
   Qal,קְטֹל,qetol,kill
   Niphal,הִקָּטֵל,hiqqatel,be killed
   Hiphil,הַקְטִיל,haqtil,cause to kill
-  Hophal,Not found,,
   Piel,קַטֵּל,qattel,slaughter
-  Pual,Not found,,
   Hithpael,הִתְקַטֵּל,hitqattel,kill oneself
+
+The infinitive construct is not found in the Hophal or Pual stems in
+Biblical Hebrew.
 
 Function
 --------
