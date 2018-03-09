@@ -94,18 +94,14 @@ Form
 Examples
 --------
 
--  PRO 14:34
-
-.. csv-table::
+.. csv-table:: Example: PRO 14:34
 
   צְדָקָ֥ה **תְרֹֽומֵֽם**\ ־גֹּ֑וי
   tsedaqah **therowmem**-gowy
   Righteousness **exalts**\ \_nation
   Doing what is right **exalts** a nation
 
--  JOB 35:14
-
-.. csv-table::
+.. csv-table:: Example: JOB 35:14
 
   וּתְחֹ֥ולֵֽל לֹֽו׃
   **uthehowlel** low

@@ -90,27 +90,21 @@ With a plural noun
 Examples
 ~~~~~~~~
 
--  2SA 17:23
-
-.. csv-table::
+.. csv-table:: Example: 2SA 17:23
 
   וַיָּ֜קָם וַיֵּ֤לֶךְ אֶל־\ **בֵּיתוֹ֙** אֶל־עִיר֔וֹ
   wayyaqom wayyelekh 'el-**betho** 'el-**'iro**
   And-he-stood-up and-went to\_\ **his-house** to\_\ **his-city**
   He went **home** to **his own city**
 
--  2SA 19:4 (2SA 19:1 in Hebrew)
-
-.. csv-table::
+.. csv-table:: Example: 2SA 19:4 (2SA 19:1 in Hebrew)
 
   בְּנִ֤י אַבְשָׁלֹום֙ בְּנִ֣י בְנִ֣י
   **beni** 'avshalowm **beni veni**
   **My-son** Absalom **my-son my-son**
   "**My son** Absalom, **my son**, **my son**!"
 
--  EZR 9:12
-
-.. csv-table::
+.. csv-table:: Example: EZR 9:12
 
   "וְ֠עַתָּה **בְּֽנֹותֵיכֶ֞ם** אַל־תִּתְּנ֣וּ **לִבְנֵיהֶ֗ם
      וּבְנֹֽתֵיהֶם֙** אַל־תִּשְׂא֣וּ לִבְנֵיכֶ֔ם"
@@ -139,18 +133,14 @@ above.
 
 In, into
 
--  1SA 25:28
-
-.. csv-table::
+.. csv-table:: Example: 1SA 25:28
 
   וְרָעָ֛ה לֹא־תִמָּצֵ֥א **בְךָ֖** מִיָּמֶֽיךָ׃
   wera'ah lo-thimmatse **vekha** miyyameykha
   and-evil not\_will-be-found **in-you** from-your-days
   and evil will not be found **in you** so long as you live.
 
--  JOB 39:12
-
-.. csv-table::
+.. csv-table:: Example: JOB 39:12
 
   הֲתַאֲמִ֣ין בֹּ֖ו
   hatha'amin **bow**
@@ -162,9 +152,7 @@ In, into
 
 Like, just as
 
--  2KI 17:15
-
-.. csv-table::
+.. csv-table:: Example: 2KI 17:15
 
   אֲשֶׁ֨ר צִוָּ֤ה יְהוָה֙ אֹתָ֔ם לְבִלְתִּ֖י עֲשֹׂ֥ות כָּהֶֽם׃
   'asher tsiwwah yehwah 'otham levilti 'asowth **kahem**
@@ -172,9 +160,7 @@ Like, just as
      **like-them**"
   those that Yahweh had commanded them not to do **like them**.
 
--  ISA 46:9
-
-.. csv-table::
+.. csv-table:: Example: ISA 46:9
 
   וְאֶ֥פֶס **כָּמֹֽונִי**\ ׃
   we'efes **kamowni**
@@ -189,9 +175,7 @@ To, toward
 Possession
 ''''''''''
 
--  EXO 19:5
-
-.. csv-table::
+.. csv-table:: Example: EXO 19:5
 
   כִּי־\ **לִ֖י** כָּל־הָאָֽרֶץ׃
   ki-\ **li** kol-ha'arets
@@ -201,18 +185,14 @@ Possession
 Indirect Object
 '''''''''''''''
 
--  EXO 9:13
-
-.. csv-table::
+.. csv-table:: Example: EXO 9:13
 
   וְאָמַרְתָּ֣ אֵלָ֗יו
   we'amarta **'elayw**
   and-say **to-him**
   and say **to him**
 
--  JDG 11:36
-
-.. csv-table::
+.. csv-table:: Example: JDG 11:36
 
   וַתֹּ֣אמֶר אֵלָ֗יו
   wattomer **'elayw**
@@ -224,18 +204,14 @@ Indirect Object
 
 On, upon, over
 
--  DEU 17:14
-
-.. csv-table::
+.. csv-table:: Example: DEU 17:14
 
   אָשִׂ֤ימָה **עָלַי֙** מֶ֔לֶךְ
   'asimah **'alay** melekh
   I-will-set **over-me** king
   I will set a king **over myself**
 
--  ISA 62:5
-
-.. csv-table::
+.. csv-table:: Example: ISA 62:5
 
   יָשִׂ֥ישׂ **עָלַ֖יִךְ** אֱלֹהָֽיִךְ׃
   yasis **'alayikh** 'elohayikh
@@ -247,18 +223,14 @@ On, upon, over
 
 After, behind
 
--  2CH 8:8
-
-.. csv-table::
+.. csv-table:: Example: 2CH 8:8
 
   אֲשֶׁ֨ר נֹותְר֤וּ **אַחֲרֵיהֶם֙** בָּאָ֔רֶץ
   'asher nowthru **'aharehem** ba'arets
   who were-left **after-them** in-the-land
   who were left **after them** in the land
 
--  JER 9:16 (JER 9:15 in Hebrew)
-
-.. csv-table::
+.. csv-table:: Example: JER 9:16 (JER 9:15 in Hebrew)
 
   וְשִׁלַּחְתִּ֤י **אַֽחֲרֵיהֶם֙** אֶת־הַחֶ֔רֶב
   weshillahti **'aharehem** 'eth-haherev
@@ -270,18 +242,14 @@ After, behind
 
 Beneath, under, in place of
 
--  DEU 28:23
-
-.. csv-table::
+.. csv-table:: Example: DEU 28:23
 
   וְהָאָ֥רֶץ אֲשֶׁר־\ **תַּחְתֶּ֖יךָ** בַּרְזֶֽל׃
   weha'arets 'asher-**tahteykha** barzel
   and-the-earth which\_\ **under-you** will-be-iron.
   and the earth that is **under you** will be iron.
 
--  PSA 47:3 (PSA 47:4 in Hebrew)
-
-.. csv-table::
+.. csv-table:: Example: PSA 47:3 (PSA 47:4 in Hebrew)
 
   יַדְבֵּ֣ר עַמִּ֣ים תַּחְתֵּ֑ינוּ
   yadber 'ammim **tahtenu**
@@ -293,18 +261,14 @@ Beneath, under, in place of
 
 Unto, until, as far as
 
--  NUM 23:18
-
-.. csv-table::
+.. csv-table:: Example: NUM 23:18
 
   הַאֲזִ֥ינָה **עָדַ֖י** בְּנֹ֥ו צִפֹּֽר׃
   ha'azinah **'aday** benow tsippor
   Listen **unto-me** son-of Zippor.
   "Listen **to me**, you son of Zippor."
 
--  AMO 4:10
-
-.. csv-table::
+.. csv-table:: Example: AMO 4:10
 
   וְלֹֽא־שַׁבְתֶּ֥ם עָדַ֖י
   welo-shavtem **'aday**
@@ -316,9 +280,7 @@ Unto, until, as far as
 
 From
 
--  GEN 22:12
-
-.. csv-table::
+.. csv-table:: Example: GEN 22:12
 
   וְלֹ֥א חָשַׂ֛כְתָּ אֶת־בִּנְךָ֥ אֶת־יְחִידְךָ֖ **מִמֶּֽנִּי**\ ׃
   welo hasakhta 'eth-binkha 'eth-yehidekha **mimmenni**
@@ -326,9 +288,7 @@ From
      **from-me**."
   "you have not withheld your son, your only son, **from me**."
 
--  1CH 29:14
-
-.. csv-table::
+.. csv-table:: Example: 1CH 29:14
 
   כִּֽי־\ **מִמְּךָ֣** הַכֹּ֔ל
   ki-\ **mimmekha** hakkol
@@ -340,18 +300,14 @@ From
 
 With
 
--  PSA 50:18
-
-.. csv-table::
+.. csv-table:: Example: PSA 50:18
 
   וַתִּ֣רֶץ עִמֹּ֑ו
   wattirets **'immow**
   and-you-are-pleased **with-him**
   you agree **with him**
 
--  ZEC 14:5
-
-.. csv-table::
+.. csv-table:: Example: ZEC 14:5
 
   כָּל־קְדֹשִׁ֖ים **עִמָּֽךְ**\ ׃
   kol-qedoshim **'immakh**
@@ -363,18 +319,14 @@ With
 
 With
 
--  PSA 12:4
-
-.. csv-table::
+.. csv-table:: Example: PSA 12:4
 
   שְׂפָתֵ֣ינוּ אִתָּ֑נוּ
   sefathenu **'ittanu**
   our-lips **with-us**.
   our lips speak and they **make us prevail**.
 
--  PRO 1:11
-
-.. csv-table::
+.. csv-table:: Example: PRO 1:11
 
   לְכָ֪ה אִ֫תָּ֥נוּ
   lekhah **'ittanu**
@@ -400,9 +352,7 @@ Directly to the verb
 The pronominal suffix can be attached to any verb conjugation, except
 for the :ref:`infinitive_absolute`.
 
--  GEN 37:14
-
-.. csv-table::
+.. csv-table:: Example: GEN 37:14
 
   וַיִּשְׁלָחֵ֨הוּ֙ מֵעֵ֣מֶק חֶבְרֹ֔ון וַיָּבֹ֖א שְׁכֶֽמָה׃
   **wayyishlahehu** me'emeq hevrown wayyavo shekhemah
@@ -410,18 +360,14 @@ for the :ref:`infinitive_absolute`.
   "**So he sent him out** of the Valley of Hebron, and he went to
      Shechem."
 
--  2CH 15:2
-
-.. csv-table::
+.. csv-table:: Example: 2CH 15:2
 
   וְאִֽם־\ **תִּדְרְשֻׁ֨הוּ֙** יִמָּצֵ֣א לָכֶ֔ם
   we'im-\ **tidreshuhu** yimmatse lakhem
   And-if\_\ **you-seek-him** he-will-be-found by-you
   "If **you seek him**, he will be found by you"
 
--  HOS 8:7
-
-.. csv-table::
+.. csv-table:: Example: HOS 8:7
 
   זָרִ֖ים **יִבְלָעֻֽהוּ**\ ׃
   zarim **yivla'uhu**
@@ -433,18 +379,14 @@ for the :ref:`infinitive_absolute`.
 With a :ref:`particle_direct_object_marker` (אֵת)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  1SA 17:9
-
-.. csv-table::
+.. csv-table:: Example: 1SA 17:9
 
   וַעֲבַדְתֶּ֖ם **אֹתָֽנוּ**\ ׃
   wa'avadtem **'othanu**
   and-you-will-serve **[dir.obj]-us**.
   then you will serve **us**.
 
--  JDG 10:13
-
-.. csv-table::
+.. csv-table:: Example: JDG 10:13
 
   וְאַתֶּם֙ עֲזַבְתֶּ֣ם אֹותִ֔י
   we'attem 'azavtem **'owthi**

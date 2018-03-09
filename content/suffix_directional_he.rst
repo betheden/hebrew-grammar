@@ -26,9 +26,7 @@ toward.
 In space
 --------
 
--  GEN 15:5
-
-.. csv-table::
+.. csv-table:: Example: GEN 15:5
 
   הַבֶּט־נָ֣א הַשָּׁמַ֗יְמָה
   habbet-na **hashamaymah**
@@ -38,9 +36,7 @@ In space
 In time
 -------
 
--  EXO 13:10
-
-.. csv-table::
+.. csv-table:: Example: EXO 13:10
 
   מִיָּמִ֖ים **יָמִֽימָה**\ ׃
   miyyamim **yamimah**

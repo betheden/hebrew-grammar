@@ -26,18 +26,14 @@ the Hebrew Bible are from the root verb שָׁאַן ("to ").
 
 .. include:: includes/consult_dictionary.txt
 
--  JER 48:11 –– the root is שאן, and the 3rd radical is repeated
-
-.. csv-table::
+.. csv-table:: Example: JER 48:11 –– the root is שאן, and the 3rd radical is repeated
 
   שַׁאֲנַ֨ן מֹואָ֜ב מִנְּעוּרָ֗יו
   **sha'anan** mow'av minne'urayw
   **He-felt-secure** Moab from-its-youth.
   Moab **has felt secure** since he was young.
 
--  JOB 15:32 –– the root is רען, and the 3rd radical is repeated
-
-.. csv-table::
+.. csv-table:: Example: JOB 15:32 –– the root is רען, and the 3rd radical is repeated
 
   וְ֝כִפָּת֗וֹ לֹ֣א רַעֲנָֽנָה
   wekhippatho lo **ra'ananah**

@@ -122,27 +122,21 @@ The context must determine whether a passive participle is functioning
 as a predicate adjective or as a finite verb, because both appear the
 same in many instances (compare EXO 5:16 and 1SA 19:11).
 
--  PSA 149:9 –– functioning as an attributive adjective
-
-.. csv-table::
+.. csv-table:: Example: PSA 149:9 –– functioning as an attributive adjective
 
   לַעֲשׂ֤וֹת בָּהֶ֨ם׀ מִשְׁפָּ֬ט כָּת֗וּב
   la'asoth bahem mishpat **kathuv**
   to-do to-them judgment **written**
   They will execute the judgment **that is written**
 
--  EXO 5:16 –– functioning as a predicate adjective
-
-.. csv-table::
+.. csv-table:: Example: EXO 5:16 –– functioning as a predicate adjective
 
   וְהִנֵּ֧ה עֲבָדֶ֛יךָ מֻכִּ֖ים
   wehinneh 'avadeykha **mukkim**\ ‮‬
   and-behold your-servants **beaten**
   "We, your servants, are even **beaten** now"
 
--  PSA 22:7 –– introducing clauses functioning as predicate adjectives
-
-.. csv-table::
+.. csv-table:: Example: PSA 22:7 –– introducing clauses functioning as predicate adjectives
 
   "וְאָנֹכִ֣י תוֹלַ֣עַת וְלֹא־אִ֑ישׁ **חֶרְפַּ֥ת** אָ֝דָ֗ם **וּבְז֥וּי**
      עָֽם׃"
@@ -170,9 +164,7 @@ same in many instances (compare 1SA 19:11 and EXO 5:16).
   **being-forsaken** cities-of Aroer
   The cities of Aroer **will be abandoned**
 
--  1SA 19:11
-
-.. csv-table::
+.. csv-table:: Example: 1SA 19:11
 
   מָחָ֖ר אַתָּ֥ה מוּמָֽת
   mahar 'attah **mumath**
@@ -182,9 +174,7 @@ same in many instances (compare 1SA 19:11 and EXO 5:16).
 Functions as a verbal complement
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  GEN 38:25
-
-.. csv-table::
+.. csv-table:: Example: GEN 38:25
 
   הִ֣וא **מוּצֵ֗את** וְהִ֨יא שָׁלְחָ֤ה אֶל־חָמִ֙יהָ֙ לֵאמֹ֔ר
   hiw **mutseth** wehi sholhah 'el-hamiha lemor
@@ -194,9 +184,7 @@ Functions as a verbal complement
 Functions as a :ref:`verb-verbal-nouns`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  JOS 8:34
-
-.. csv-table::
+.. csv-table:: Example: JOS 8:34
 
   כְּכָל־\ **הַכָּת֖וּב** בְּסֵ֥פֶר הַתּוֹרָֽה׃
   kekhol-\ **hakkathuv** ‮‬besefer hattowrah‮‬

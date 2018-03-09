@@ -61,9 +61,7 @@ The Cohortative form can indicate any of the following kinds of actions:
 Indirect commands
 ^^^^^^^^^^^^^^^^^
 
--  ISA 2:5
-
-.. csv-table::
+.. csv-table:: Example: ISA 2:5
 
   בֵּ֖ית יַעֲקֹ֑ב לְכ֥וּ **וְנֵלְכָ֖ה** בְּא֥וֹר יְהוָֽה
   beth ya'aqov lekhu **wenelekhah** be'or yehwah
@@ -76,27 +74,21 @@ Actions of greater or lesser desirability
 These may include instructions, requests, permissions, invitations,
 assurances, wishes, etc.
 
--  JER 40:15
-
-.. csv-table::
+.. csv-table:: Example: JER 40:15
 
   אֵ֤לְכָה נָּא֙ וְאַכֶּה֙ אֶת־יִשְׁמָעֵ֣אל בֶּן־נְתַנְיָ֔ה
   **'elekhah** na' we'akkeh 'eth-yishma'el ben-nethanyah
   **Let-me-go** oh and-I-will-kill [dir.obj]\_Ishmael son-of\_Nethaniah
   **Allow me to go** kill Ishmael son of Nethaniah.
 
--  EXO 3:3
-
-.. csv-table::
+.. csv-table:: Example: EXO 3:3
 
   וַיֹּ֣אמֶר מֹשֶׁ֔ה **אָסֻֽרָה**\ ־נָּ֣א וְאֶרְאֶ֔ה
   wayyomer mosheh **'asurah**-nna **we'er'eh**
   And-he-said Moses **let-me-turn-aside**\ \_oh **and-let-me-see**
   "Moses said, ""**I will turn aside and see**"""
 
--  PSA 25:2
-
-.. csv-table::
+.. csv-table:: Example: PSA 25:2
 
   אֱלֹהַ֗י בְּךָ֣ בָ֭טַחְתִּי אַל־אֵב֑וֹשָׁה
   'elohay bekha vatahti 'al-**'evoshah**

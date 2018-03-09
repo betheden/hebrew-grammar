@@ -179,9 +179,7 @@ stem and the *Hiphil* stem). For some verbs, the Hophal and/or Pual
 forms can both function as a passive of the Qal stem. In all these
 cases, a dictionary or lexicon will indicate the correct meaning.
 
--  GEN 4:26 –– the Hophal stem of יָצַק ("to pour") means "to be poured"
-
-.. csv-table::
+.. csv-table:: Example: GEN 4:26 –– the Hophal stem of יָצַק ("to pour") means "to be poured"
 
   ה֣וּצַק חֵ֭ן בְּשְׂפְתוֹתֶ֑יךָ
   **hutsaq** hen besfethotheykha

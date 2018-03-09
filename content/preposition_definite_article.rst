@@ -59,9 +59,7 @@ Form
 Examples
 --------
 
--  GEN 1:1 –– בְּ preposition without definite article
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:1 –– בְּ preposition without definite article
 
   בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
   **bereshith** bara 'elohim
@@ -88,18 +86,14 @@ Examples
   And-he-called **to-the-light** day
   "God called **the light** ""day"""
 
--  GEN 1:18 –– לְ preposition with infinitive construct verb
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:18 –– לְ preposition with infinitive construct verb
 
   וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה
   **welimshol** bayyom uvallaylah
   **and to rule** in the day and in the night
   **to rule** over the day and over the night
 
--  GEN 1:2 –– independent preposition
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:2 –– independent preposition
 
   וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת **עַל**\ ־פְּנֵ֥י הַמָּֽיִם
   weruah 'elohim merahefeth **'al**-pene hammayim

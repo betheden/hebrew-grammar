@@ -23,18 +23,14 @@ and a Qamets under the preceding letter. This is perhaps added for extra
 emphasis, but does not give any extra meaning or a different
 translation.
 
--  GEN 39:7
-
-.. csv-table::
+.. csv-table:: Example: GEN 39:7
 
   שִׁכְבָ֥ה עִמִּֽי׃
   **shikhvah** 'immi
   **Lie** with-me.
   **Sleep** with me.
 
--  PSA 17:1
-
-.. csv-table::
+.. csv-table:: Example: PSA 17:1
 
   שִׁמְעָ֤ה יְהוָ֨ה׀ צֶ֗דֶק
   **shim'ah** yehwah tsedeq

@@ -165,9 +165,7 @@ kinds of actions:
 Incomplete actions, in present or future time
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  JER 43:12
-
-.. csv-table::
+.. csv-table:: Example: JER 43:12
 
   וְהִצַּ֣תִּי אֵ֗שׁ בְּבָתֵּי֙ אֱלֹהֵ֣י מִצְרַ֔יִם
   **wehitsatti** 'esh bevottey 'elohe mitsrayim
@@ -229,9 +227,7 @@ Direct or indirect commands
 Imaginary, possible, or conditional actions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  EXO 21:20
-
-.. csv-table::
+.. csv-table:: Example: EXO 21:20
 
   "וְכִֽי־יַכֶּה֩ אִ֨ישׁ אֶת־עַבְדּ֜וֹ א֤וֹ אֶת־אֲמָתוֹ֙ בַּשֵּׁ֔בֶט
      וּמֵ֖ת"

@@ -24,9 +24,7 @@ frequently.
 הָהּ or אֲהָהּ
 --------------
 
--  EZE 30:2 –– expressing strong fear or anger
-
-.. csv-table::
+.. csv-table:: Example: EZE 30:2 –– expressing strong fear or anger
 
   הֵילִ֖ילוּ **הָ֥הּ** לַיֹּֽום׃
   helilu **hah** layyowm
@@ -36,9 +34,7 @@ frequently.
 הוֹ
 ---
 
--  AMO 5:16 –– expressing strong sadness or lament
-
-.. csv-table::
+.. csv-table:: Example: AMO 5:16 –– expressing strong sadness or lament
 
   וּבְכָל־חוּצֹ֖ות יֹאמְר֣וּ הֹו־הֹ֑ו
   uvekhol-hutsowth yomeru **how-how**
@@ -48,9 +44,7 @@ frequently.
 הֶאָח
 -----
 
--  EZE 26:2 –– expressing strong joy or gloating
-
-.. csv-table::
+.. csv-table:: Example: EZE 26:2 –– expressing strong joy or gloating
 
   הֶאָ֔ח נִשְׁבְּרָ֛ה דַּלְתֹ֥ות הָעַמִּ֖ים
   **he'ah** nishberah dalthowth ha'ammim
@@ -63,9 +57,7 @@ frequently.
 This term can potentially function as an interjection, an :ref:`particle_exhortation`,
 or perhaps both.
 
--  EXO 32:31
-
-.. csv-table::
+.. csv-table:: Example: EXO 32:31
 
   אָ֣נָּ֗א חָטָ֞א הָעָ֤ם הַזֶּה֙ חֲטָאָ֣ה גְדֹלָ֔ה
   **'onna** hata ha'am hazzeh hata'ah gedolah

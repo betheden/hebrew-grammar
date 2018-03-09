@@ -53,9 +53,7 @@ By itself
 If a noun occurs "by itself" as the only word of a subject or object, it
 is in the absolute state.
 
--  GEN 1:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:1
 
   בָּרָ֣א **אֱלֹהִ֑ים** אֵ֥ת **הַשָּׁמַ֖יִם** וְאֵ֥ת **הָאָֽרֶץ**\ ׃
   bara **'elohim** 'eth **hashamayim** we'eth **ha'arets**
@@ -84,18 +82,14 @@ Indefinite
 If all nouns form a construct chain and both are indefinite you can
 sometimes translate with an indefinite article.
 
--  2SA 17:25
-
-.. csv-table::
+.. csv-table:: Example: 2SA 17:25
 
   וַעֲמָשָׂ֣א **בֶן**\ ־אִ֗ישׁ וּשְׁמֹו֙ יִתְרָ֣א
   wa'amasa **ven**-'ish ushemow yithra
   and-Amasa **son-of**\ \_man and-his-name Jether
   Amasa was **a son of** a man named Jether
 
--  EXO 15:3
-
-.. csv-table::
+.. csv-table:: Example: EXO 15:3
 
   אִ֣ישׁ מִלְחָמָ֑ה
   'ish **milhamah**
@@ -111,9 +105,7 @@ sometimes translate with an indefinite article.
 If the final, absolute, noun in a constuct chain is definite, the whole
 chain is definite.
 
--  2SA 14:26
-
-.. csv-table::
+.. csv-table:: Example: 2SA 14:26
 
   בְּאֶ֥בֶן **הַמֶּֽלֶךְ**\ ׃
   be'even **hammelekh**

@@ -95,9 +95,7 @@ stative, frequentive, durative, or imminent action as determined by the
 context. The subject of a participle usually precedes the participle, in
 contrast to the normal conventions of :ref:`word_order`.
 
--  HOS 2:10 –– expressing stative action
-
-.. csv-table::
+.. csv-table:: Example: HOS 2:10 –– expressing stative action
 
   "יָעַ֥צְתָּ בֹּ֖שֶׁת לְבֵיתֶ֑ךָ קְצוֹת־עַמִּ֥ים רַבִּ֖ים **וְחוֹטֵ֥א**
      נַפְשֶֽׁךָ"
@@ -108,9 +106,7 @@ contrast to the normal conventions of :ref:`word_order`.
   "You have devised shame for your house by cutting off many people,
      **and have sinned** against yourself"
 
--  1SA 28:14 –– expressing simple durative action
-
-.. csv-table::
+.. csv-table:: Example: 1SA 28:14 –– expressing simple durative action
 
   "עוֹדֶ֖נּוּ **מְדַבֵּ֣ר** עִמָּ֑ם וְרָחֵ֣ל׀ בָּ֗אָה עִם־הַצֹּאן֙
      אֲשֶׁ֣ר לְאָבִ֔יהָ"
@@ -120,9 +116,7 @@ contrast to the normal conventions of :ref:`word_order`.
   "While Jacob **was** still **speaking** with them, Rachel came with
      her father's sheep,"
 
--  NEH 1:4 –– two participles paired with finite verb היה
-
-.. csv-table::
+.. csv-table:: Example: NEH 1:4 –– two participles paired with finite verb היה
 
   וָֽאֱהִ֥י **צָם֙ וּמִתְפַּלֵּ֔ל** לִפְנֵ֖י אֱלֹהֵ֥י הַשָּׁמָֽיִם
   wa'ehi **tsam umithpallel** lifne 'elohe hashamayim
@@ -142,27 +136,21 @@ determined by the context.
           precedes the participle, in contrast to the normal conventions of
           :ref:`word_order`.
 
--  1SA 3:8 –– expressing frequentive action
-
-.. csv-table::
+.. csv-table:: Example: 1SA 3:8 –– expressing frequentive action
 
   וַיָּ֣בֶן עֵלִ֔י כִּ֥י יְהוָ֖ה **קֹרֵ֥א** לַנָּֽעַר
   wayyaven 'eli ki yehwah **qore** lanna'ar
   and-he-understood Eli that Yahweh **was-calling** to-the-boy
   Then Eli realized that Yahweh **had called** the boy.
 
--  1SA 28:14 –– expressing simple durative action
-
-.. csv-table::
+.. csv-table:: Example: 1SA 28:14 –– expressing simple durative action
 
   וַתֹּ֗אמֶר אִ֤ישׁ זָקֵן֙ עֹלֶ֔ה
   wattomer 'ish zaqen **'oleh**
   and-she-said man old **is-going-up**
   "She said, ""An old man **is coming up**"
 
--  1SA 3:11 –– expressing imminent action
-
-.. csv-table::
+.. csv-table:: Example: 1SA 3:11 –– expressing imminent action
 
   הִנֵּ֧ה אָנֹכִ֛י **עֹשֶׂ֥ה** דָבָ֖ר בְּיִשְׂרָאֵ֑ל
   hinneh 'anokhi **'oseh** davar beyisra'el
@@ -178,9 +166,7 @@ attributive position and matches the noun in gender, number, and
 The participle can either function as an adjective by itself or
 introduce a clause that functions as an adjective.
 
--  DEU 4:24 –– a participle functioning by itself as an adjective
-
-.. csv-table::
+.. csv-table:: Example: DEU 4:24 –– a participle functioning by itself as an adjective
 
   כִּ֚י יְהוָ֣ה אֱלֹהֶ֔יךָ אֵ֥שׁ אֹכְלָ֖ה
   ki yehwah 'eloheykha 'esh **'okhelah**
@@ -208,9 +194,7 @@ When functioning as a noun, a participle will often take the
 (but not always). The participle can either function as a noun by itself
 or introduce a relative clause that functions as a noun.
 
--  GEN 1:30 –– a participle functioning by itself as a noun
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:30 –– a participle functioning by itself as a noun
 
   וּלְכֹ֣ל׀ **רוֹמֵ֣שׂ** עַל־הָאָ֗רֶץ
   ulekhol **romes** 'al-ha'arets

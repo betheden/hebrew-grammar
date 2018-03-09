@@ -55,18 +55,14 @@ Form
 The conjunction וְ can appear either as a prefix to a word or particle,
 or as part of a sequential verbal form.
 
--  ZEC 3:3 –– as a prefix to a separate word
-
-.. csv-table::
+.. csv-table:: Example: ZEC 3:3 –– as a prefix to a separate word
 
   וְעֹמֵ֖ד לִפְנֵ֥י הַמַּלְאָֽךְ‬
   **we'omed** lifne hammal'akh‬
   **and-he-was-standing** to-face-of the-angel
   **and he was standing** in front of the angel
 
--  GEN 1:13 –– as part of a sequential verbal form
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:13 –– as part of a sequential verbal form
 
   וַֽיְהִי־עֶ֥רֶב **וַֽיְהִי**\ ־בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי׃
   **wayehi**-'erev **wayehi**\ voqer yom shelishi
@@ -86,9 +82,7 @@ Copulative
 This connects two similar ideas and is usually translated as "and" in
 English.
 
--  GEN 1:5
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:5
 
   "וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם **וְלַחֹ֖שֶׁךְ** קָ֣רָא
      לָ֑יְלָה"
@@ -103,9 +97,7 @@ Disjunctive
 This connects two opposite ideas and is usually translated as "and" in
 English.
 
--  GEN 2:17
-
-.. csv-table::
+.. csv-table:: Example: GEN 2:17
 
   וּמֵעֵ֗ץ הַדַּ֙עַת֙ ט֣וֹב **וָרָ֔ע** לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ
   ume'ets hadda'ath tov **wara'** lo thokhal mimmennu
@@ -120,9 +112,7 @@ Adversative
 This contrasts two different ideas and is usually translated as “but” in
 English.
 
--  GEN 6:8
-
-.. csv-table::
+.. csv-table:: Example: GEN 6:8
 
   וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה׃
   **wenoah** matsa hen be'ene yehwah
@@ -135,9 +125,7 @@ Alternative
 This compares two ideas as potentially equivalent and is usually
 translated as “or” in English.
 
--  EXO 20:10
-
-.. csv-table::
+.. csv-table:: Example: EXO 20:10
 
   "לֹֽ֣א־תַעֲשֶׂ֨ה כָל־מְלָאכָ֜ה אַתָּ֣ה ׀ **וּבִנְךָֽ֣־וּבִתֶּ֗ךָ**
      עַבְדְּךָ֤ **וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖** אֲשֶׁ֥ר
@@ -157,9 +145,7 @@ Explicative
 This provides additional information about one idea and is translated
 “even” (or is sometimes left untranslated) in English.
 
--  GEN 4:4
-
-.. csv-table::
+.. csv-table:: Example: GEN 4:4
 
   וְהֶ֨בֶל הֵבִ֥יא גַם־ה֛וּא מִבְּכֹר֥וֹת צֹאנ֖וֹ וּמֵֽחֶלְבֵהֶ֑ן
   wehevel hevi gam-hu mibbekhoroth tsono **umehelvehen**
@@ -174,9 +160,7 @@ Circumstantial
 This connects clauses/phrases that happen at the same time; it is
 usually translated as “while” or “when” in English.
 
--  GEN 45:14
-
-.. csv-table::
+.. csv-table:: Example: GEN 45:14
 
   "וַיִּפֹּ֛ל עַל־צַוְּארֵ֥י בִנְיָמִֽן־אָחִ֖יו וַיֵּ֑בְךְּ
      **וּבִנְיָמִ֔ן** בָּכָ֖ה עַל־צַוָּארָֽיו׃"
@@ -193,9 +177,7 @@ usually translated as “while” or “when” in English.
 The word אוֹ is the standard alternative conjunction in Biblical Hebrew,
 usually translated as "or" in English.
 
--  EXO 21:32
-
-.. csv-table::
+.. csv-table:: Example: EXO 21:32
 
   אִם־עֶ֛בֶד יִגַּ֥ח הַשּׁ֖וֹר **א֣וֹ** אָמָ֑ה׃
   'im-'eved yiggah hashor **'o** 'amah
@@ -230,9 +212,7 @@ This means to express the purpose, reason, or cause for an action/event.
 In English, this kind of causal conjunction is usually translated as
 "for" or "because".
 
--  GEN 3:14
-
-.. csv-table::
+.. csv-table:: Example: GEN 3:14
 
   "וַיֹּאמֶר֩ יְהֹוָ֨ה אֱלֹהִ֥ים ׀ אֶֽל־הַנָּחָשׁ֮ **כִּ֣י** עָשִׂ֣יתָ
      זֹּאת֒ אָר֤וּר אַתָּה֙׃"
@@ -250,9 +230,7 @@ This means to express the result or intended outcome of an action/event.
 In English, this kind of causal conjunction is usually translated as
 "for" or “so that”.
 
--  GEN 20:10
-
-.. csv-table::
+.. csv-table:: Example: GEN 20:10
 
   מָ֣ה רָאִ֔יתָ **כִּ֥י** עָשִׂ֖יתָ אֶת־הַדָּבָ֥ר הַזֶּֽה׃
   mah ra'itha **ki** 'asitha 'eth-haddavar hazzeh
@@ -275,9 +253,7 @@ is usually translated as "if" in English. Hypothetical conditions have
 potential to convey many different nuances of possibility and/or
 desirability.
 
--  2KI 4:29
-
-.. csv-table::
+.. csv-table:: Example: 2KI 4:29
 
   "כִּֽי־תִמְצָ֥א אִישׁ֙ לֹ֣א תְבָרְכֶ֔נּוּ **וְכִֽי**\ ־יְבָרֶכְךָ֥
      אִ֖ישׁ לֹ֣א תַעֲנֶנּ֑וּ"
@@ -297,9 +273,7 @@ English. Usually, this kind of condition indicates something that is
 happening concurrently with the main action/event being described, or
 something that has happened in the past in certain circumstances.
 
--  GEN 27:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 27:1
 
   וַיְהִי֙ **כִּֽי**\ ־זָקֵ֣ן יִצְחָ֔ק וַתִּכְהֶ֥יןָ עֵינָ֖יו מֵרְאֹ֑ת
   wayhiy **ki**-zaqen yitshaq wattikhheyna 'enayw mere'oth
@@ -315,9 +289,7 @@ adversative following a negated statement. If in doubt, it is
 recommended to always consult a dictionary or lexicon for the exact
 meaning of the word in any specific instance.
 
--  GEN 17:15
-
-.. csv-table::
+.. csv-table:: Example: GEN 17:15
 
   "שָׂרַ֣י אִשְׁתְּךָ֔ לֹא־תִקְרָ֥א אֶת־שְׁמָ֖הּ שָׂרָ֑י **כִּ֥י**
      שָׂרָ֖ה שְׁמָֽהּ׃"
@@ -355,9 +327,7 @@ is usually translated as "if" in English. Hypothetical conditions have
 potential to convey many different nuances of possibility and/or
 desirability.
 
--  GEN 18:26
-
-.. csv-table::
+.. csv-table:: Example: GEN 18:26
 
   אִם־אֶמְצָ֥א בִסְדֹ֛ם חֲמִשִּׁ֥ים צַדִּיקִ֖ם בְּת֣וֹךְ הָעִ֑יר
   **'im**-'emtsa visdom hamishim tsaddiqim bethokh ha'ir
@@ -383,9 +353,7 @@ English. Usually, this kind of condition indicates something that is
 happening concurrently with the main action/event being described, or
 something that has happened in the past in certain circumstances.
 
--  NUM 21:9
-
-.. csv-table::
+.. csv-table:: Example: NUM 21:9
 
   "וְהָיָ֗ה **אִם**\ ־נָשַׁ֤ךְ הַנָּחָשׁ֙ אֶת־אִ֔ישׁ וְהִבִּ֛יט
      אֶל־נְחַ֥שׁ הַנְּחֹ֖שֶׁת וָחָֽי׃"
@@ -396,9 +364,7 @@ something that has happened in the past in certain circumstances.
   "**When** a snake bit any person, if he looked at the bronze snake, he
      survived."
 
--  GEN 31:8
-
-.. csv-table::
+.. csv-table:: Example: GEN 31:8
 
   "אִם־כֹּ֣ה יֹאמַ֗ר נְקֻדִּים֙ יִהְיֶ֣ה שְׂכָרֶ֔ךָ וְיָלְד֥וּ
      כָל־הַצֹּ֖אן נְקֻדִּ֑ים"
@@ -415,9 +381,7 @@ Alternative
 This use of the conjunction אִם is often found in a question and is
 usually translated as "or" in English.
 
--  JOS 5:13
-
-.. csv-table::
+.. csv-table:: Example: JOS 5:13
 
   הֲלָ֥נוּ אַתָּ֖ה **אִם**\ ־לְצָרֵֽינוּ׃
   halanu 'attah **'im**-letsarenu
@@ -440,18 +404,14 @@ the correct nuance; in English, this conjunction can be translated as
 or lexicon will indicate the specific nuance of this term in individual
 contexts.
 
--  GEN 31:13 –– as a stand-alone conjunction
-
-.. csv-table::
+.. csv-table:: Example: GEN 31:13 –– as a stand-alone conjunction
 
   עַתָּ֗ה ק֥וּם צֵא֙ מִן־הָאָ֣רֶץ הַזֹּ֔את
   **'attah** qum tse' min-ha'arets hazzoth
   **Now** rise-up go-out from\_the-land the-this
   **Now** rise up and leave this land
 
--  1KI 8:26 –– with prefix וְ
-
-.. csv-table::
+.. csv-table:: Example: 1KI 8:26 –– with prefix וְ
 
   "וְעַתָּ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל יֵאָ֤מֶן נָא֙ דְּבָרֶיךָ אֲשֶׁ֣ר
      דִּבַּ֔רְתָּ לְעַבְדְּךָ֖ דָּוִ֥ד אָבִֽי"
@@ -462,18 +422,14 @@ contexts.
   "**Now then**, God of Israel, I pray that the promise you made to your
      servant David my father, will come true."
 
--  GEN 44:10 –– in compound conjunction with גַּם
-
-.. csv-table::
+.. csv-table:: Example: GEN 44:10 –– in compound conjunction with גַּם
 
   וַיֹּ֕אמֶר **גַּם־עַתָּ֥ה** כְדִבְרֵיכֶ֖ם כֶּן־ה֑וּא
   wayyomer **gam-'attah** khedivrekhem ken-hu
   And-he-said **also\_now** as-your-words thus\_it
   **Now also** let it be according to your words.
 
--  1SA 13:13 –– in compound conjunction with כִּי
-
-.. csv-table::
+.. csv-table:: Example: 1SA 13:13 –– in compound conjunction with כִּי
 
   כִּ֣י עַתָּ֗ה הֵכִ֨ין יְהוָ֧ה אֶת־מַֽמְלַכְתְּךָ֛
   **ki 'attah** hekhin yehwah 'eth-mamelakhtekha
@@ -491,18 +447,14 @@ condition that cannot (or probably will not) happen, usually translated
 that cannot (or probably will not) be realized, usually translated "if
 only" in English.
 
--  JDG 13:23
-
-.. csv-table::
+.. csv-table:: Example: JDG 13:23
 
   לוּ֩ חָפֵ֨ץ יְהוָ֤ה לַהֲמִיתֵ֙נוּ֙
   **lu** hafets yehwah lahamithenu
   **If** he-wanted Yahweh to-kill-us
   **If** Yahweh intended to kill us
 
--  NUM 14:2
-
-.. csv-table::
+.. csv-table:: Example: NUM 14:2
 
   לוּ֩־מַ֙תְנוּ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם
   **lu**-mathnu be'erets mitsrayim
@@ -520,18 +472,14 @@ English; or 2) to express the reason for a certain action to prevent a
 possible condition from taking place, usually translated as "so
 that...not" (or similar phrasing) in English.
 
--  GEN 3:3
-
-.. csv-table::
+.. csv-table:: Example: GEN 3:3
 
   וְלֹ֥א תִגְּע֖וּ בּ֑וֹ **פֶּן**\ ־תְּמֻתֽוּן׃
   welo thigge'u bo **pen**-temuthun
   and-not you-will-touch in-it **so-that-not**\ \_you-will-die
   "nor may you touch it, **or** you will die."
 
--  GEN 31:24
-
-.. csv-table::
+.. csv-table:: Example: GEN 31:24
 
   "הִשָּׁ֧מֶר לְךָ֛ **פֶּן**\ ־תְּדַבֵּ֥ר עִֽם־יַעֲקֹ֖ב מִטּ֥וֹב
      עַד־רָֽע"
@@ -552,9 +500,7 @@ or a strong concessive. In English, it is usually translated as "but",
 or lexicon for the exact meaning of any specific occurrence of this
 compound conjunction.
 
--  2KI 23:9
-
-.. csv-table::
+.. csv-table:: Example: 2KI 23:9
 
   כִּ֛י אִם־אָכְל֥וּ מַצֹּ֖ות בְּתֹ֥וךְ אֲחֵיהֶֽם׃
   **ki 'im**-'okhlu matsowth bethowkh 'ahehem
@@ -577,18 +523,14 @@ conjunction can appear with or without the prefix conjunction וְ
           determined from the context. If in doubt, consult a dictionary or
           lexicon for the exact meaning of any specific occurrence.
 
--  GEN 3:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 3:1
 
   אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים
   **'af ki**-'amar 'elohim
   **indeed** he-has-said God
   Has God **really** said
 
--  EZK 23:40
-
-.. csv-table::
+.. csv-table:: Example: EZK 23:40
 
   וְאַ֗ף כִּ֤י־אַחֲרֵ֥י מוֹתִֽי׃
   **we'af ki**-'ahare mothi

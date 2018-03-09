@@ -39,9 +39,7 @@ Form
 Example
 -------
 
--  1KI 20:27
-
-.. csv-table::
+.. csv-table:: Example: 1KI 20:27
 
   וּבְנֵ֣י יִשְׂרָאֵ֗ל הָתְפָּקְדוּ֙ וְכָלְכְּל֔וּ
   uvene yisra'el hothpoqdu **wekholkelu**

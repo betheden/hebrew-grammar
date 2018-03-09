@@ -99,9 +99,7 @@ Noun
 Normal singular
 ^^^^^^^^^^^^^^^
 
--  ISA 1:3
-
-.. csv-table::
+.. csv-table:: Example: ISA 1:3
 
   יָדַ֥ע שֹׁור֙ קֹנֵ֔הוּ וַחֲמֹ֖ור אֵב֣וּס בְּעָלָ֑יו
   yada' **showr qonehu wahamowr 'evus be'alayw**
@@ -112,18 +110,14 @@ Normal singular
 Proper nouns (names) are always singular, even if the referent is
 plural:
 
--  OBA 1:1
-
-.. csv-table::
+.. csv-table:: Example: OBA 1:1
 
   חֲזֹ֖ון עֹֽבַדְיָ֑ה
   hazown **'ovadyah**
   Vision-of **Obadiah**
   The vision of **Obadiah**
 
--  1SA 29:1
-
-.. csv-table::
+.. csv-table:: Example: 1SA 29:1
 
   וְיִשְׂרָאֵ֣ל חֹנִ֔ים בַּעַ֖יִן אֲשֶׁ֥ר **בְּיִזְרְעֶֽאל**\ ׃
   **weyisra'el** honim ba'ayin 'asher **beyizre'el**
@@ -136,18 +130,14 @@ Collective
 Some nouns can be singular or plural even though they look singular. For
 example, עוֹף֙ can mean bird or birds.
 
--  GEN 1:21 singular
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:21 singular
 
   וְאֵ֨ת כָּל־ע֤וֹף **כָּנָף֙** לְמִינֵ֔הוּ
   we'eth kol-'of **kanaf** leminehu
   and-[dir.obj] every\_winged **bird** after-its-kind.
   every kind of **bird** that has wings
 
--  GEN 40:17 plural
-
-.. csv-table::
+.. csv-table:: Example: GEN 40:17 plural
 
   וְהָע֗וֹף אֹכֵ֥ל אֹתָ֛ם מִן־הַסַּ֖ל מֵעַ֥ל רֹאשִֽׁי
   **weha'of** 'okhel 'otham min-hassal me'al roshi
@@ -165,9 +155,7 @@ Name
 sentence, the verb is singular, and so are the adjectives that are
 connected with it.
 
--  GEN 1:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:1
 
   בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
   bereshith bara **'elohim**
@@ -179,9 +167,7 @@ plural
 
 אֱלֹהִים can also mean "gods"
 
--  JDG 5:8
-
-.. csv-table::
+.. csv-table:: Example: JDG 5:8
 
   יִבְחַר֙ **אֱלֹהִ֣ים** חֲדָשִׁ֔ים
   yivhar **'elohim** hadashim
@@ -194,9 +180,7 @@ Adjectives
 If the noun or person to which the adjective relates is singular, the
 adjective is also singular.
 
--  2KI 20:19
-
-.. csv-table::
+.. csv-table:: Example: 2KI 20:19
 
   טֹ֥וב דְּבַר־יְהוָ֖ה אֲשֶׁ֣ר דִּבַּ֑רְתָּ
   **towv** devar-yehwah 'asher dibbarta
@@ -209,9 +193,7 @@ Verbs
 If the noun or person to which the verb relates is singular, the verb is
 also singular.
 
--  GEN 13:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 13:1
 
   וַיַּעַל֩ אַבְרָ֨ם מִמִּצְרַ֜יִם
   **wayya'al** 'avram mimmitsrayim
@@ -221,18 +203,14 @@ also singular.
 Personal pronouns and suffixes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  JER 37:2
-
-.. csv-table::
+.. csv-table:: Example: JER 37:2
 
   וְלֹ֥א שָׁמַ֛ע **ה֥וּא** וַעֲבָדָ֖יו וְעַ֣ם הָאָ֑רֶץ
   welo shama' **hu** wa'avadayw we'am ha'arets
   and-not he-listened **he** and-his-servants and-people-of the-land
   "but he, his servants, and the people of the land did not listen"
 
--  2SA 19:4 (2SA 19:1 in Hebrew)
-
-.. csv-table::
+.. csv-table:: Example: 2SA 19:4 (2SA 19:1 in Hebrew)
 
   בְּנִ֤י אַבְשָׁלֹום֙ בְּנִ֣י בְנִ֣י
   **beni** 'avshalowm **beni veni**

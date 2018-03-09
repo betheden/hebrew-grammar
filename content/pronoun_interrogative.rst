@@ -31,18 +31,14 @@ Asking for a person (מִי)
 
 "who?"
 
--  GEN 24:65
-
-.. csv-table::
+.. csv-table:: Example: GEN 24:65
 
   מִֽי־הָאִ֤ישׁ הַלָּזֶה֙
   **mi**-ha'ish hallazeh
   **Who**\ \_the-man the-that
   **Who** is that man?
 
--  EXO 15:11
-
-.. csv-table::
+.. csv-table:: Example: EXO 15:11
 
   מִֽי־כָמֹ֤כָה בָּֽאֵלִם֙ יְהוָ֔ה
   **mi**-khamokhah ba'elim yehwah
@@ -54,9 +50,7 @@ With לְ preposition
 
 "to whom?"
 
--  GEN 32:18
-
-.. csv-table::
+.. csv-table:: Example: GEN 32:18
 
   לְמִי־אַ֙תָּה֙
   **lemi**-'attoh
@@ -68,18 +62,14 @@ Wish or optative
 
 "I wish that someone" or "if only someone"
 
--  2SA 15:4
-
-.. csv-table::
+.. csv-table:: Example: 2SA 15:4
 
   מִי־יְשִׂמֵ֥נִי שֹׁפֵ֖ט בָּאָ֑רֶץ
   **mi**-yesimeni shofet ba'arets
   **Who**\ \_will-put-me judge in-the-land
   **I wish that** I were made judge in the land!
 
--  2SA 23:15
-
-.. csv-table::
+.. csv-table:: Example: 2SA 23:15
 
   מִ֚י יַשְׁקֵ֣נִי מַ֔יִם
   **mi** yashqeni mayim
@@ -91,9 +81,7 @@ Wish or optative
 
 Functioning like an interrogative adverb of manner "how"
 
--  AMO 7:2
-
-.. csv-table::
+.. csv-table:: Example: AMO 7:2
 
   מִ֥י יָק֖וּם יַֽעֲקֹ֑ב
   **mi** yaqum ya'aqov
@@ -105,18 +93,14 @@ Asking for a thing (מָה)
 
 "what?"
 
--  1SA 20:1
-
-.. csv-table::
+.. csv-table:: Example: 1SA 20:1
 
   מַה־פִּשְׁעִי֙
   **mah**-ppish'iy
   **What**\ \_my-iniquity
   **What** is my iniquity?
 
--  JDG 18:18
-
-.. csv-table::
+.. csv-table:: Example: JDG 18:18
 
   מָ֥ה אַתֶּ֖ם עֹשִֽׂים
   **mah** 'attem 'osim
@@ -129,9 +113,7 @@ with prepositions
 by what / how (בַּמָּה)
 '''''''''''''''''''''''
 
--  GEN 15:8
-
-.. csv-table::
+.. csv-table:: Example: GEN 15:8
 
   בַּמָּ֥ה אֵדַ֖ע
   **bammah** 'eda'
@@ -141,9 +123,7 @@ by what / how (בַּמָּה)
 like what / how many, how much (כַּמָּה)
 ''''''''''''''''''''''''''''''''''''''''
 
--  GEN 47:8
-
-.. csv-table::
+.. csv-table:: Example: GEN 47:8
 
   כַּמָּ֕ה יְמֵ֖י שְׁנֵ֥י חַיֶּֽיךָ
   **kammah** yeme shene hayyeykha
@@ -153,9 +133,7 @@ like what / how many, how much (כַּמָּה)
 for what / why (לָמָּה)
 '''''''''''''''''''''''
 
--  GEN 4:6
-
-.. csv-table::
+.. csv-table:: Example: GEN 4:6
 
   לָ֚מָּה חָ֣רָה לָ֔ךְ **וְלָ֖מָּה** נָפְל֥וּ פָנֶֽיךָ
   **lommah** harah lakh **welammah** noflu faneykha
@@ -165,9 +143,7 @@ for what / why (לָמָּה)
 until what / how long (עַד־מָה)
 '''''''''''''''''''''''''''''''
 
--  PSA 79:5
-
-.. csv-table::
+.. csv-table:: Example: PSA 79:5
 
   עַד־מָ֣ה יְ֭הוָה תֶּאֱנַ֣ף לָנֶ֑צַח
   **'ad-mah** yehwah te'enaf lanetsah
@@ -177,9 +153,7 @@ until what / how long (עַד־מָה)
 upon what / why (עַל־מָה)
 '''''''''''''''''''''''''
 
--  NUM 22:32
-
-.. csv-table::
+.. csv-table:: Example: NUM 22:32
 
   עַל־מָ֗ה הִכִּ֙יתָ֙ אֶת־אֲתֹ֣נְךָ֔
   **'al-mah** hikkitha 'eth-'athonekha
@@ -191,9 +165,7 @@ upon what / why (עַל־מָה)
 
 Functioning like an interrogative adverb of manner "how"
 
--  GEN 44:16
-
-.. csv-table::
+.. csv-table:: Example: GEN 44:16
 
   וּמַה־נִּצְטַדָּ֑ק
   **wumah**-nnitstaddaq
@@ -203,9 +175,7 @@ Functioning like an interrogative adverb of manner "how"
 why
 ^^^
 
--  EXO 14:15
-
-.. csv-table::
+.. csv-table:: Example: EXO 14:15
 
   מַה־תִּצְעַ֖ק אֵלָ֑י
   **mah**-tits'aq 'ela
@@ -220,18 +190,14 @@ Adverb of manner "how?"
 
 אֵיךְ
 
--  PSA 137:4
-
-.. csv-table::
+.. csv-table:: Example: PSA 137:4
 
   אֵ֗יךְ נָשִׁ֥יר
   **'ekh** nashir
   **How** can-we-sing
   **How** could we sing?
 
--  1KI 12:6
-
-.. csv-table::
+.. csv-table:: Example: 1KI 12:6
 
   אֵ֚יךְ אַתֶּ֣ם נֽוֹעָצִ֔ים
   **'ekh** 'attem no'atsim
@@ -243,27 +209,21 @@ Adverb of place "where?"
 
 אַיֵּה / אֵי
 
--  GEN 18:9
-
-.. csv-table::
+.. csv-table:: Example: GEN 18:9
 
   אַיֵּ֖ה שָׂרָ֣ה אִשְׁתֶּ֑ךָ
   **'ayyeh** sarah 'ishtekha
   **Where** Sarah your-wife
   **Where** is Sarah your wife?
 
--  Gen 4:9
-
-.. csv-table::
+.. csv-table:: Example: Gen 4:9
 
   אֵ֖י הֶ֣בֶל אָחִ֑יךָ
   **'e** hevel 'ahikha
   **Where** Abel your-brother
   "**Where** is Abel, your brother?"
 
--  GEN 19:5
-
-.. csv-table::
+.. csv-table:: Example: GEN 19:5
 
   אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר־בָּ֥אוּ אֵלֶ֖יךָ
   **'ayyeh** ha'anashim 'asher-ba'u 'eleykha

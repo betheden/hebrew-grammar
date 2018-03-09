@@ -28,9 +28,7 @@ of the Pulal verbs found in the Hebrew Bible are from the root אָמַל
 
 .. include:: includes/consult_dictionary.txt
 
--  JOL 1:10
-
-.. csv-table::
+.. csv-table:: Example: JOL 1:10
 
   הוֹבִ֥ישׁ תִּיר֖וֹשׁ **אֻמְלַ֥ל** יִצְהָֽר
   hovish tirosh **'umlal** yitshar

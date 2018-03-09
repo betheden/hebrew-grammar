@@ -93,9 +93,7 @@ The subject in a sentence is the person who does the action.
 In the :ref:`verb` form
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  JER 43:10
-
-.. csv-table::
+.. csv-table:: Example: JER 43:10
 
   מִמַּ֛עַל לָאֲבָנִ֥ים הָאֵ֖לֶּה אֲשֶׁ֣ר טָמָ֑נְתִּי
   mimma'al la'avanim ha'elleh 'asher **tamanti**
@@ -105,9 +103,7 @@ In the :ref:`verb` form
 As a :ref:`pronoun_personal`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  JER 12:1
-
-.. csv-table::
+.. csv-table:: Example: JER 12:1
 
   צַדִּ֤יק אַתָּה֙
   tsaddiq **'attah**
@@ -128,9 +124,7 @@ Related to a :ref:`verb`
 Either :ref:`suffix_pronominal-direclty-to-the-verb`,
 or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
 
--  2CH 15:2
-
-.. csv-table::
+.. csv-table:: Example: 2CH 15:2
 
   וְאִֽם־\ **תִּדְרְשֻׁ֨הוּ֙** יִמָּצֵ֣א לָכֶ֔ם
   we'im-\ **tidreshuhu** yimmatse **lakhem**
@@ -140,9 +134,7 @@ or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
 :ref:`suffix_pronominal-prepositions`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  GEN 6:20
-
-.. csv-table::
+.. csv-table:: Example: GEN 6:20
 
   שְׁנַ֧יִם מִכֹּ֛ל יָבֹ֥אוּ אֵלֶ֖יךָ
   shenayim mikkol yavo'u **'eleykha**
@@ -157,9 +149,7 @@ Indicating possession is done by the :ref:`suffix_pronominal`:
 :ref:`suffix_pronominal-nouns`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  1CH 29:12
-
-.. csv-table::
+.. csv-table:: Example: 1CH 29:12
 
   וּבְיָדְךָ֖ כֹּ֣חַ וּגְבוּרָ֑ה
   **uveyodkha** koah ugevurah
@@ -169,9 +159,7 @@ Indicating possession is done by the :ref:`suffix_pronominal`:
 :ref:`suffix_pronominal-prepositions`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  PSA 74:16
-
-.. csv-table::
+.. csv-table:: Example: PSA 74:16
 
   לְךָ֣ יֹ֭ום אַף־\ **לְךָ֥** לָ֑יְלָה
   **lekha** yowm 'af-**lekha** laylah

@@ -25,18 +25,14 @@ form in Biblical Hebrew.
 
 .. include:: includes/consult_dictionary.txt
 
--  JER 12:5
-
-.. csv-table::
+.. csv-table:: Example: JER 12:5
 
   וְאֵ֥יךְ **תְּתַֽחֲרֶ֖ה** אֶת־הַסּוּסִ֑ים
   we'ekh **tethahareh** 'eth-hassusim
   and-how **can-you-compete** with\_the-horses?
   how **can you compete** against horses?
 
--  HOS 11:3
-
-.. csv-table::
+.. csv-table:: Example: HOS 11:3
 
   וְאָנֹכִ֤י **תִרְגַּ֙לְתִּי֙** לְאֶפְרַ֔יִם
   we'anokhi **thirgaltiy** le'efrayim

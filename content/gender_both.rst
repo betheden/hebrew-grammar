@@ -56,18 +56,14 @@ A single word with both masculine and feminine forms
 A single form that can be either masculine or feminine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  GEN 15:17 –– the noun שֶׁמֶשׁ (sun) can be grammatically feminine
-
-.. csv-table::
+.. csv-table:: Example: GEN 15:17 –– the noun שֶׁמֶשׁ (sun) can be grammatically feminine
 
   וַיְהִ֤י **הַשֶּׁ֙מֶשׁ֙** בָּ֔אָה
   wayhi **hashemesh** ba'ah
   And-it-happened **the-sun** it-went
   When **the sun** had gone down
 
--  GEN 19:23 –– the noun שֶׁמֶשׁ (sun) can be grammatically masculine
-
-.. csv-table::
+.. csv-table:: Example: GEN 19:23 –– the noun שֶׁמֶשׁ (sun) can be grammatically masculine
 
   הַשֶּׁ֖מֶשׁ יָצָ֣א עַל־הָאָ֑רֶץ
   **hashemesh** yatsa 'al-ha'arets

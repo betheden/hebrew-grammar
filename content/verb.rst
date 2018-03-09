@@ -118,18 +118,14 @@ Dynamic (or Action) verbs
 Dynamic verbs describe a subject performing an action. The subject is
 *doing* something.
 
--  2KI 1:5
-
-.. csv-table::
+.. csv-table:: Example: 2KI 1:5
 
   וַיָּשׁ֥וּבוּ הַמַּלְאָכִ֖ים אֵלָ֑יו
   **wayyashuvu** hammal'akhim 'elayw
   **And-they-returned** the-messangers to-him
   When the messengers **returned** to him
 
--  JON 1:4
-
-.. csv-table::
+.. csv-table:: Example: JON 1:4
 
   וַֽיהוָ֗ה **הֵטִ֤יל** רֽוּחַ־גְּדֹולָה֙ אֶל־הַיָּ֔ם
   wayhwah **hetil** ruah-gedowlah 'el-hayyam
@@ -145,18 +141,14 @@ Rather than describing a specific action, stative verbs describe the
 subject's state of being (the way the subject is). The subject is *not*
 doing anything.
 
--  GEN 48:10 –– stative verb "to be heavy"
-
-.. csv-table::
+.. csv-table:: Example: GEN 48:10 –– stative verb "to be heavy"
 
   וְעֵינֵ֤י יִשְׂרָאֵל֙ **כָּבְד֣וּ** מִזֹּ֔קֶן
   we'ene yisra'el **kovdu** mizzoqen
   And-the-eyes-of Israel **were-heavy** from-age
   Now Israel's eyes **were failing** because of his age
 
--  NUM 13:33 –– stative verb "to be"
-
-.. csv-table::
+.. csv-table:: Example: NUM 13:33 –– stative verb "to be"
 
   וַנְּהִ֤י בְעֵינֵ֨ינוּ֙ כַּֽחֲגָבִ֔ים
   **wannehi** ve'enenu kahagavim
@@ -202,18 +194,14 @@ receive the verbal action. A sentence with an intransitive verb is
 complete without an object. Dynamic verbs can be either transitive or
 intransitive, but stative verbs are always intransitive.
 
--  EXO 11:1
-
-.. csv-table::
+.. csv-table:: Example: EXO 11:1
 
   וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁ֗ה
   **wayyomer** yehwah 'el-mosheh
   **And-he-said** Yahweh to\_Moses
   Then Yahweh **said** to Moses
 
--  DAN 9:4
-
-.. csv-table::
+.. csv-table:: Example: DAN 9:4
 
   וָֽאֶתְפַּֽלְלָ֛ה לַיהוָ֥ה אֱלֹהַ֖י
   **wa'ethpalelah** layhwah 'elohay
@@ -232,18 +220,14 @@ or a noun and an
 Hebrew has very few linking verbs, so often a linking verb has to be
 supplied in English.
 
--  RUT 2:6 –– linking verb "is", not present in the Hebrew text
-
-.. csv-table::
+.. csv-table:: Example: RUT 2:6 –– linking verb "is", not present in the Hebrew text
 
   נַעֲרָ֤ה מֹֽואֲבִיָּה֙ הִ֔יא
   na'arah mow'aviyyah hi
   Young-woman Moabite she
   She **is** the young Moabite woman
 
--  1SA 11:10 –– linking verb "seems", not present in the Hebrew text
-
-.. csv-table::
+.. csv-table:: Example: 1SA 11:10 –– linking verb "seems", not present in the Hebrew text
 
   כְּכָל־הַטֹּ֖וב בְּעֵינֵיכֶֽם׃
   kekhol-hattowv be'enekhem

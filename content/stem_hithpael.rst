@@ -164,9 +164,7 @@ known" (causative action, active voice). Thus, in the Hithpael stem, the
 verb יָדַע means "to make oneself known" (causative action, reflexive
 voice).
 
--  GEN 45:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 45:1
 
   בְּהִתְוַדַּ֥ע יוֹסֵ֖ף אֶל־אֶחָֽיו
   **behithwadda**' yosef 'el-'ehayw
@@ -217,9 +215,7 @@ oneself"), as shown in the example below.
   **And-he-mourned** over\_his-son days many
   **He mourned** for his son many days.
 
--  ISA 45:1 –– expressing simple action "to constrain oneself"
-
-.. csv-table::
+.. csv-table:: Example: ISA 45:1 –– expressing simple action "to constrain oneself"
 
   וְלֹֽא־יָכֹ֨ל יוֹסֵ֜ף לְהִתְאַפֵּ֗ק
   welo-yakhol yosef **lehith'appeq**
@@ -238,18 +234,14 @@ for the definitions of these kinds of verbal action.) A dictionary or
 lexicon will indicate the correct meaning in these instances of the
 Hithpael stem.
 
--  GEN 42:1 –– expressing reciprocal action
-
-.. csv-table::
+.. csv-table:: Example: GEN 42:1 –– expressing reciprocal action
 
   לָ֫מָּה **תִּתְרָאוּ**\ ׃
   lammah **tithra'u**
   Why **you-look-at-each-other**
   Why **do you look at one another**?
 
--  PRO 31:30 –– expressing passive (or possibly stative) action
-
-.. csv-table::
+.. csv-table:: Example: PRO 31:30 –– expressing passive (or possibly stative) action
 
   הִיא **הִתְהַלָּל**\ ׃
   hi **hithhallal**

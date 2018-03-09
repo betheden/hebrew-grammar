@@ -60,9 +60,7 @@ standard grammatical infinitive.
           be used with other prepositions to complement the main verb (such as the
           preposition עַל in the example below).
 
--  GEN 11:5 – expressing purpose for the action of the main verb
-
-.. csv-table::
+.. csv-table:: Example: GEN 11:5 – expressing purpose for the action of the main verb
 
   וַיֵּ֣רֶד יְהוָ֔ה **לִרְאֹ֥ת** אֶת־הָעִ֖יר וְאֶת־הַמִּגְדָּ֑ל
   wayyered yehwah **lir'oth** 'eth-ha'ir we'eth-hammigdal
@@ -70,18 +68,14 @@ standard grammatical infinitive.
      and-[dir.obj]\_the-tower"
   So Yahweh came down **to see** the city and the tower
 
--  EXO 3:4 – expressing result of the action of the main verb
-
-.. csv-table::
+.. csv-table:: Example: EXO 3:4 – expressing result of the action of the main verb
 
   וַיַּ֥רְא יְהוָ֖ה כִּ֣י סָ֣ר לִרְא֑וֹת
   wayyar yehwah ki sar **lir'oth**
   and-he-saw Yahweh that he-had-turned-aside **to-see**
   When Yahweh saw that he had turned aside **to look**
 
--  EXO 3:8 – expressing complementary action of the main verb
-
-.. csv-table::
+.. csv-table:: Example: EXO 3:8 – expressing complementary action of the main verb
 
   "וָאֵרֵ֞ד **לְהַצִּיל֣וֹ**\ ׀ מִיַּ֣ד מִצְרַ֗יִם **וּֽלְהַעֲלֹתוֹ֮**
      מִן־הָאָ֣רֶץ הַהִוא֒"
@@ -123,9 +117,7 @@ those included below) to provide temporal reference. In those cases, the
 context and the meaning of the preposition generally make clear the
 specific temporal nuance being indicated.
 
--  1SA 2:27 – with preposition בְּ to express simultaneous action
-
-.. csv-table::
+.. csv-table:: Example: 1SA 2:27 – with preposition בְּ to express simultaneous action
 
   "הֲנִגְלֹ֤ה נִגְלֵ֙יתִי֙ אֶל־בֵּ֣ית אָבִ֔יךָ **בִּֽהְיוֹתָ֥ם**
      בְּמִצְרַ֖יִם"
@@ -135,9 +127,7 @@ specific temporal nuance being indicated.
   "Did I not reveal myself to the house of your ancestor, **when they
      were** in Egypt?"
 
--  GEN 12:14 – with preposition כְּ to express commencing action
-
-.. csv-table::
+.. csv-table:: Example: GEN 12:14 – with preposition כְּ to express commencing action
 
   וַיְהִ֕י **כְּב֥וֹא** אַבְרָ֖ם מִצְרָ֑יְמָה
   wayhi **kevo** 'avram mitsraymah
@@ -161,18 +151,14 @@ The infinitive construct sometimes functions as an independent
 :ref:`noun`
 or introduces an entire clause that functions as a noun.
 
--  1SA 15:22 – functioning as a noun
-
-.. csv-table::
+.. csv-table:: Example: 1SA 15:22 – functioning as a noun
 
   שְׁמֹ֙עַ֙ מִזֶּ֣בַח ט֔וֹב
   **shemo'a** mizzevah tov
   **obeying** from-sacrifice good
   **Obedience** is better than sacrifice
 
--  GEN 2:17 – introducing a clause functioning as a noun
-
-.. csv-table::
+.. csv-table:: Example: GEN 2:17 – introducing a clause functioning as a noun
 
   כִּ֗י בְּי֛וֹם **אֲכָלְךָ֥** מִמֶּ֖נּוּ מ֥וֹת תָּמֽוּת
   ki beyom **'akholkha** mimmennu moth tamuth
@@ -182,9 +168,7 @@ or introduces an entire clause that functions as a noun.
 Introduces direct speech (אמר + לְ)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  GEN 1:22
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:22
 
   וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר
   wayvarekh 'otham 'elohim **lemor**
@@ -210,9 +194,7 @@ main verb), as determined by the context.
   "Did you not do this to yourselves when **you abandoned** Yahweh your
      God?"
 
--  RUT 1:16 – infinitive construct with suffix as *object* of the action
-
-.. csv-table::
+.. csv-table:: Example: RUT 1:16 – infinitive construct with suffix as *object* of the action
 
   וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ
   wattomer ruth 'al-tifge'i-vi **le'ozvekh**

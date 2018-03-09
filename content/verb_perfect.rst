@@ -162,27 +162,21 @@ The Suffix Conjugation can be translated as simple past action, present
 perfect (= completed) action ("he has done"), or past perfect action
 ("he had done").
 
--  JER 43:7 — Suffix Conjugation translated as simple past
-
-.. csv-table::
+.. csv-table:: Example: JER 43:7 — Suffix Conjugation translated as simple past
 
   כִּ֛י לֹ֥א **שָׁמְע֖וּ** בְּק֣וֹל יְהוָ֑ה
   ki lo **shom'u** beqol yehwah
   for not **they-listened** to-voice-of Yahweh.
   because **they** did not **listen** to Yahweh's voice.
 
--  JER 43:10 — Suffix Conjugation translated as present perfect
-
-.. csv-table::
+.. csv-table:: Example: JER 43:10 — Suffix Conjugation translated as present perfect
 
   מִמַּ֛עַל לָאֲבָנִ֥ים הָאֵ֖לֶּה אֲשֶׁ֣ר טָמָ֑נְתִּי
   mimma'al la'avanim ha'elleh 'asher **tamanti**
   from-over to-the-stones the-these that **you-buried**.
   over these stones that **you have buried**.
 
--  JER 43:5 — Suffix Conjugation translated as past perfect
-
-.. csv-table::
+.. csv-table:: Example: JER 43:5 — Suffix Conjugation translated as past perfect
 
   כָּל־שְׁאֵרִ֣ית יְהוּדָ֑ה אֲשֶׁר־\ **שָׁ֗בוּ** מִכָּל־הַגּוֹיִם֙
   kol-she'erith yehudah 'asher-**shavu** mikkol-haggoyim
@@ -193,9 +187,7 @@ perfect (= completed) action ("he has done"), or past perfect action
 Completed actions in present/future time
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  GEN 28:15
-
-.. csv-table::
+.. csv-table:: Example: GEN 28:15
 
   עַ֚ד אֲשֶׁ֣ר אִם־\ **עָשִׂ֔יתִי** אֵ֥ת אֲשֶׁר־דִּבַּ֖רְתִּי לָֽךְ
   'ad 'asher 'im-**'asithi** 'eth 'asher-dibbarti lakh
@@ -207,18 +199,14 @@ Imaginary actions
 
 This is an action described as a hypothetical situation.
 
--  RUT 1:12
-
-.. csv-table::
+.. csv-table:: Example: RUT 1:12
 
   כִּ֤י **אָמַ֙רְתִּי֙** יֶשׁ־לִ֣י תִקְוָ֔ה
   ki **'amartiy** yesh-li thiqwah
   if **I-said** there-is\_for-me hope
   "If **I said**, 'I hope I get a husband tonight,'"
 
--  1SA 14:30
-
-.. csv-table::
+.. csv-table:: Example: 1SA 14:30
 
   אַ֗ף כִּ֡י לוּא֩ אָכֹ֨ל **אָכַ֤ל** הַיּוֹם֙ הָעָ֔ם
   'af ki lu' 'akhol **'akhal** hayyom ha'am
@@ -233,9 +221,7 @@ This kind of action describes a state or a condition, usually with a
 or a passive
 :ref:`stem`.
 
--  LAM 1:1
-
-.. csv-table::
+.. csv-table:: Example: LAM 1:1
 
   אֵיכָ֣ה׀ **יָשְׁבָ֣ה** בָדָ֗ד הָעִיר֙
   'ekhah **yoshvah** vadad ha'ir
@@ -247,9 +233,7 @@ Performative actions
 
 This is an action that is performed by speaking it.
 
--  GEN 23:11
-
-.. csv-table::
+.. csv-table:: Example: GEN 23:11
 
   הַשָּׂדֶה֙ **נָתַ֣תִּי** לָ֔ךְ
   hassadeh **nathatti** lakh
@@ -262,9 +246,7 @@ Prophetic actions
 This is a very rare use of the perfect, occurring in prophetic
 utterances.
 
--  ISA 11:9
-
-.. csv-table::
+.. csv-table:: Example: ISA 11:9
 
   כִּֽי־\ **מָלְאָ֣ה** הָאָ֗רֶץ דֵּעָה֙ אֶת־יְהוָ֔ה
   ki-\ **mol'ah** ha'arets de'ah 'eth-yehwah
@@ -282,18 +264,14 @@ This form adds the
 the above meanings. This form appears identical to the
 :ref:`verb_sequential_perfect`.
 
--  1KI 12:32
-
-.. csv-table::
+.. csv-table:: Example: 1KI 12:32
 
   וְהֶעֱמִיד֙ בְּבֵ֣ית אֵ֔ל אֶת־כֹּהֲנֵ֥י
   **wehe'emid** beveth 'el 'eth-kohane
   **and-he-set-up** in-Bethel [dir.obj]\_priests
   **and he placed** priests in Bethel
 
--  ISA 1:2
-
-.. csv-table::
+.. csv-table:: Example: ISA 1:2
 
   בָּנִים֙ גִּדַּ֣לְתִּי וְרֹומַ֔מְתִּי
   banim giddalti **werowmamti**

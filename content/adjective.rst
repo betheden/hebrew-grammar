@@ -83,18 +83,14 @@ the adjective is also definite; and so on.
           adjectives, they sometimes come *before* the noun they describe
           instead of *after* the noun.
 
--  1SA 18:17
-
-.. csv-table::
+.. csv-table:: Example: 1SA 18:17
 
   בִתִּ֨י הַגְּדוֹלָ֤ה
   vitti **haggedolah**
   my-daughter **the-old**
   my **older** daughter
 
--  JOS 10:2
-
-.. csv-table::
+.. csv-table:: Example: JOS 10:2
 
   כִּ֣י עִ֤יר **גְּדוֹלָה֙** גִּבְע֔וֹן
   
@@ -118,18 +114,14 @@ adjective can be indefinite even if it describes a definite noun.
 .. note:: Sometimes, predicative adjectives and attributive adjectives look
           identical and must be distinguished based only on the context.
 
--  2SA 14:20
-
-.. csv-table::
+.. csv-table:: Example: 2SA 14:20
 
   וַאדֹנִ֣י חָכָ֗ם
   wadoni **hakham**
   And-my-lord **wise**
   My master is **wise**
 
--  2KI 20:19
-
-.. csv-table::
+.. csv-table:: Example: 2KI 20:19
 
   טֹ֥וב דְּבַר־יְהוָ֖ה אֲשֶׁ֣ר דִּבַּ֑רְתָּ
   **towv** devar-yehwah 'asher dibbarta
@@ -144,18 +136,14 @@ Substantive
 A substantive adjective is an adjective that functions as a noun in the
 sentence. This is a common occurrence in Biblical Hebrew.
 
--  PSA 3:2
-
-.. csv-table::
+.. csv-table:: Example: PSA 3:2
 
   רַ֝בִּ֗ים קָמִ֥ים עָלָֽי
   **rabbim** qamim 'alay
   **many** are-rising-up against-me
   **many people** are rising up against me
 
--  ISA 30:12
-
-.. csv-table::
+.. csv-table:: Example: ISA 30:12
 
   לָכֵ֗ן כֹּ֤ה אָמַר֙ **קְד֣וֹשׁ** יִשְׂרָאֵ֔ל
   
@@ -169,9 +157,7 @@ An adverbial adjective is an adjective that functions as an adverb,
 meaning that it describes a verb instead of a noun. This is a rare
 occurrence in Biblical Hebrew.
 
--  JOS 21:10
-
-.. csv-table::
+.. csv-table:: Example: JOS 21:10
 
   כִּ֥י לָהֶ֛ם הָיָ֥ה הַגּוֹרָ֖ל רִיאשֹׁנָֽה
   
@@ -188,18 +174,14 @@ In Biblical Hebrew, adjectives are often used with either the
 preposition מִן ("from") or the phrase מִכֹּל ("from all") to express a
 comparison between two or more items.
 
--  JDG 14:18
-
-.. csv-table::
+.. csv-table:: Example: JDG 14:18
 
   מַה־\ **מָּת֣וֹק** מִדְּבַ֔שׁ וּמֶ֥ה **עַ֖ז** מֵאֲרִ֑י
   mah-\ **mmathoq** middevash umeh **'az** me'ari
   What\_\ **sweet** than-honey and-what **strong** from-lion
   "What is **sweeter** than honey, and what is **stronger** than a lion"
 
--  GEN 3:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 3:1
 
   וְהַנָּחָשׁ֙ הָיָ֣ה **עָר֔וּם מִכֹּל֙** חַיַּ֣ת הַשָּׂדֶ֔ה
   wehannahash hayah **'arum mikkol** hayyath hassadeh
@@ -213,18 +195,14 @@ In Biblical Hebrew, the meaning of an adjective can be strengthened by
 pairing it either with the word מְאֹד ("very") or with the phrase
 לֵאלֹהִים ("to God").
 
--  GEN 1:31
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:31
 
   וְהִנֵּה־ט֖וֹב מְאֹ֑ד
   wehinneh-\ **tov me'od**
   And-behold\_\ **good very**
   "Behold, it was **very good**"
 
--  JON 3:3
-
-.. csv-table::
+.. csv-table:: Example: JON 3:3
 
   עִיר־גְּדוֹלָה֙ לֵֽאלֹהִ֔ים
   'ir-**gedolah lelohim**
@@ -240,27 +218,21 @@ Biblical Hebrew utilizes different ways to strengthen an adjective to
 its greatest degree ("the smallest", "the greatest", etc.). Usually, the
 superlative meaning of an adjective must be determined from the context.
 
--  1SA 16:11 –– adjective with the :ref:`preposition_definite_article`
-
-.. csv-table::
+.. csv-table:: Example: 1SA 16:11 –– adjective with the :ref:`preposition_definite_article`
 
   עֹ֚וד שָׁאַ֣ר הַקָּטָ֔ן
   'owd sha'ar **haqqatan**
   Still remains **the-young**
   There remains yet **the youngest**
 
--  MIC 7:4 –– adjective with a :ref:`suffix_pronominal`
-
-.. csv-table::
+.. csv-table:: Example: MIC 7:4 –– adjective with a :ref:`suffix_pronominal`
 
   טוֹבָ֣ם כְּחֵ֔דֶק
   **tovam** kehedeq
   **good-their** like-brier
   **the best of them** is like a brier
 
--  SNG 1:8 –– adjective with a prepositional phrase
-
-.. csv-table::
+.. csv-table:: Example: SNG 1:8 –– adjective with a prepositional phrase
 
   הַיָּפָ֖ה בַּנָּשִׁ֑ים
   **hayyafah** bannashim

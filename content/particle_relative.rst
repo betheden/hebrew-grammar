@@ -31,18 +31,14 @@ For example, if the noun is a place, אֲשֶׁר means “where,” if the noun
 is a person, it means “who”, and if the noun is an object, it means
 “that”, “what” or “which.”
 
--  EXO 3:5
-
-.. csv-table::
+.. csv-table:: Example: EXO 3:5
 
   הַמָּק֗וֹם \ **אֲשֶׁ֤ר** אַתָּה֙ עוֹמֵ֣ד עָלָ֔יו
   hammaqom **'asher** 'attah 'omed 'alayw
   the-place **where** you are-standing on-it
   the place **where** you are standing
 
--  1KI 21:4
-
-.. csv-table::
+.. csv-table:: Example: 1KI 21:4
 
   "וַיָּבֹא֩ אַחְאָ֨ב אֶל־בֵּיתֹ֜ו סַ֣ר וְזָעֵ֗ף עַל־הַדָּבָר֙
      **אֲשֶׁר**\ ־דִּבֶּ֣ר אֵלָ֗יו נָבֹות֙ הַיִּזְרְעֵאלִ֔י"
@@ -55,9 +51,7 @@ is a person, it means “who”, and if the noun is an object, it means
 
 Sometimes there is no noun as an antecedent.
 
--  NUM 22:6
-
-.. csv-table::
+.. csv-table:: Example: NUM 22:6
 
   כִּ֣י יָדַ֗עְתִּי אֵ֤ת \ **אֲשֶׁר**\ ־תְּבָרֵךְ֙ מְבֹרָ֔ךְ \ **וַאֲשֶׁ֥ר** תָּאֹ֖ר יוּאָֽר
   ki yada'ti 'eth **'asher**-tevarekh mevorakh **wa'asher** ta'or yu'ar
@@ -77,18 +71,14 @@ person. Therefore, כִּי usually follows verbs of seeing/perceiving where
 a reader might expect to find אֲשֶׁר. In English, it is usually
 translated as “that” in these cases.
 
--  GEN 1:3
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:3
 
   וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר **כִּי**\ ־ט֑וֹב
   wayyar 'elohim 'eth-ha'or **ki**-tov
   And-he-saw God [dir.obj]\_the-light **that**\ \_good
   "God saw the light, **that** it was good."
 
--  GEN 22:12
-
-.. csv-table::
+.. csv-table:: Example: GEN 22:12
 
   עַתָּ֣ה יָדַ֗עְתִּי **כִּֽי**\ ־יְרֵ֤א אֱלֹהִים֙ אַ֔תָּה
   'attah yada'ti **ki**-yere 'elohim 'attah
@@ -102,18 +92,14 @@ translated as “that” in these cases.
 the next consonant and follows similar rules regarding the vowel
 patterns as the :ref:`particle_definite_article`.
 
--  ECC 1:7
-
-.. csv-table::
+.. csv-table:: Example: ECC 1:7
 
   אֶל־מְקֹ֗ום \ **שֶׁ֤הַנְּחָלִים֙** הֹֽלְכִ֔ים
   'el-meqowm **shehannehalim** holekhim
   To\_place **where-the-rivers** go
   To the place **where the rivers** go
 
--  ECC 1:9
-
-.. csv-table::
+.. csv-table:: Example: ECC 1:9
 
   מַה־\ **שֶּֽׁהָיָה֙** ה֣וּא שֶׁיִּהְיֶ֔ה
   mah-\ **shehayah** hu **sheyyihyeh**

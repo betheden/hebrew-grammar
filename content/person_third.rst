@@ -83,9 +83,7 @@ The subject in a sentence is the person who does the action.
 In the :ref:`verb` form
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  GEN 12:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 12:1
 
   וַיֹּ֤אמֶר יְהוָה֙ אֶל־אַבְרָ֔ם
   **wayyomer** yehwah 'el-'avram
@@ -95,9 +93,7 @@ In the :ref:`verb` form
 As a :ref:`pronoun_personal`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  GEN 36:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 36:1
 
   עֵשָׂ֖ו \ **ה֥וּא** אֱדֽוֹם
   'esaw **hu** 'edom
@@ -118,9 +114,7 @@ Related to a :ref:`verb`
 Either :ref:`suffix_pronominal-direclty-to-the-verb`,
 or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
 
--  GEN 37:14
-
-.. csv-table::
+.. csv-table:: Example: GEN 37:14
 
   וַיִּשְׁלָחֵ֨הוּ֙ מֵעֵ֣מֶק חֶבְרֹ֔ון וַיָּבֹ֖א שְׁכֶֽמָה׃
   **wayyishlahehu** me'emeq hevrown wayyavo shekhemah
@@ -131,9 +125,7 @@ or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
 :ref:`suffix_pronominal-prepositions`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  JOB 39:12
-
-.. csv-table::
+.. csv-table:: Example: JOB 39:12
 
   הֲתַאֲמִ֣ין בֹּ֖ו
   hatha'amin **bow**
@@ -148,9 +140,7 @@ Indicating possession is done by the :ref:`suffix_pronominal`:
 :ref:`suffix_pronominal-nouns`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  2SA 17:23
-
-.. csv-table::
+.. csv-table:: Example: 2SA 17:23
 
   וַיָּ֜קָם וַיֵּ֤לֶךְ אֶל־\ **בֵּיתוֹ֙** אֶל־עִיר֔וֹ
   wayyaqom wayyelekh 'el-**betho** 'el-**'iro**
@@ -160,9 +150,7 @@ Indicating possession is done by the :ref:`suffix_pronominal`:
 :ref:`suffix_pronominal-prepositions`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  2KI 17:15
-
-.. csv-table::
+.. csv-table:: Example: 2KI 17:15
 
   אֲשֶׁ֨ר צִוָּ֤ה יְהוָה֙ אֹתָ֔ם לְבִלְתִּ֖י עֲשֹׂ֥ות כָּהֶֽם׃
   'asher tsiwwah yehwah 'otham levilti 'asowth kahem

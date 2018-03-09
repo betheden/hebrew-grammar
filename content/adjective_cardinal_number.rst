@@ -44,27 +44,21 @@ and/or the :ref:`state_determined`.
   feminine singular absolute,אַחַת,'ahath,one
   feminine singular construct,אַחַת,'ahath,one of
 
--  JDG 18:19
-
-.. csv-table::
+.. csv-table:: Example: JDG 18:19
 
   אִ֣ישׁ אֶחָ֔ד
   'ish **'ehad**
   man **one**
   **one** man
 
--  1SA 13:17
-
-.. csv-table::
+.. csv-table:: Example: 1SA 13:17
 
   הָרֹ֨אשׁ אֶחָ֥ד
   harosh **'ehad**
   The-group **one**
   **One** group
 
--  GEN 19:9 –– cardinal number "one" functioning as a noun
-
-.. csv-table::
+.. csv-table:: Example: GEN 19:9 –– cardinal number "one" functioning as a noun
 
   הָאֶחָ֤ד בָּֽא־לָגוּר֙
   **ha'ehad** ba-lagur
@@ -87,27 +81,21 @@ form.
   feminine dual absolute,שְׁתַּיִם,shetayim,two
   feminine dual construct,שְׁתֵּי,shete,two of
 
--  1CH 4:5
-
-.. csv-table::
+.. csv-table:: Example: 1CH 4:5
 
   שְׁתֵּ֣י נָשִׁ֑ים
   **shete** nashim
   **two** women
   **two** women
 
--  2CH 3:15
-
-.. csv-table::
+.. csv-table:: Example: 2CH 3:15
 
   עַמּוּדִ֣ים שְׁנַ֔יִם
   'ammudim **shenayim**
   pillars **two**
   **two** pillars
 
--  GEN 3:7 –– a cardinal number with a :ref:`suffix_pronominal`
-
-.. csv-table::
+.. csv-table:: Example: GEN 3:7 –– a cardinal number with a :ref:`suffix_pronominal`
 
   שְׁנֵיהֶ֔ם
   **shenehem**
@@ -160,36 +148,28 @@ form.
   feminine singular absolute,עֲשָׂרָה,'asarah,ten
   feminine singular construct,עֲשֶׂרֶת,'asereth,ten of
 
--  JOS 21:18
-
-.. csv-table::
+.. csv-table:: Example: JOS 21:18
 
   עָרִ֖ים אַרְבַּֽע׃
   'arim **'arba'**
   cities **four**
   **four** cities
 
--  JOB 1:2
-
-.. csv-table::
+.. csv-table:: Example: JOB 1:2
 
   שִׁבְעָ֥ה בָנִ֖ים **וְשָׁל֥וֹשׁ** בָּנֽוֹת
   **shiv'ah** vanim **weshalosh** banoth
   **seven** sons **and-three** daughters
   **seven** sons **and three** daughters
 
--  GEN 4:15
-
-.. csv-table::
+.. csv-table:: Example: GEN 4:15
 
   כָּל־הֹרֵ֣ג קַ֔יִן **שִׁבְעָתַ֖יִם** יֻקָּ֑ם
   kol-horeg qayin **shiv'athayim** yuqqam
   all\_he-who-kills Cain **sevenfold** he-will-be-avenged
   "If anyone kills Cain, vengeance will be taken on him **sevenfold**."
 
--  2SA 12:6
-
-.. csv-table::
+.. csv-table:: Example: 2SA 12:6
 
   וְאֶת־הַכִּבְשָׂ֖ה יְשַׁלֵּ֣ם אַרְבַּעְתָּ֑יִם
   we'eth-hakkivsah yeshallem **'arba'tayim**
@@ -225,27 +205,21 @@ number 10. Thus, in Biblical Hebrew the number "eleven" is written as
   masculine,תִּשְׁעָה עָשָׂר,tish'ah 'asar,nineteen
   feminine,תְּשַׁע עֶשְׂרֵה,tesha' 'esreh,nineteen
 
--  JOS 15:41
-
-.. csv-table::
+.. csv-table:: Example: JOS 15:41
 
   עָרִ֥ים שֵׁשׁ־עֶשְׂרֵ֖ה
   'arim **shesh-'esreh**
   cities **six\_ten**
   **sixteen** cities
 
--  2SA 9:10
-
-.. csv-table::
+.. csv-table:: Example: 2SA 9:10
 
   חֲמִשָּׁ֥ה עָשָׂ֛ר בָּנִ֖ים
   **hamishah 'asar** banim
   **five ten** sons
   **fifteen** sons
 
--  JOS 4:4
-
-.. csv-table::
+.. csv-table:: Example: JOS 4:4
 
   וַיִּקְרָ֣א יְהֹושֻׁ֗עַ אֶל־\ **שְׁנֵ֤ים הֶֽעָשָׂר֙** אִ֔ישׁ
   wayyiqra yehowshua' 'el-**shenem he'asar** 'ish
@@ -270,9 +244,7 @@ Multiples of ten (20, 30, 40, etc.)
   gender both,שְׁמֹנִים,shemonim,eighty
   gender both,תִּשְׁעִים,tish'im,ninety
 
--  GEN 18:31
-
-.. csv-table::
+.. csv-table:: Example: GEN 18:31
 
   לֹ֣א אַשְׁחִ֔ית בַּעֲב֖וּר הָֽעֶשְׂרִֽים׃
   lo 'ashhith ba'avur **ha'esrim**
@@ -297,18 +269,14 @@ Thus, the number "twenty-one" is written as "one twenty"; the number
 "thirty-two" is written as "two thirty"; the number "forty-three" is
 writen as "three forty", etc.
 
--  GEN 5:20
-
-.. csv-table::
+.. csv-table:: Example: GEN 5:20
 
   שְׁתַּ֤יִם וְשִׁשִּׁים֙ שָׁנָ֔ה
   **shetayim weshishim** shanah
   **two and-sixty** year
   **sixty-two** years
 
--  DAN 9:26
-
-.. csv-table::
+.. csv-table:: Example: DAN 9:26
 
   וְאַחֲרֵ֤י הַשָּׁבֻעִים֙ שִׁשִּׁ֣ים וּשְׁנַ֔יִם
   we'ahare hashavu'im **shishim ushenayim**
@@ -339,9 +307,7 @@ grammatically-feminine.
   gender both plural absolute,אֲלָפַיִם,'alafayim,thousands
   gender both plural construct,אַלְפֵי,'alfe,thousands of
 
--  GEN 5:5
-
-.. csv-table::
+.. csv-table:: Example: GEN 5:5
 
   "וַיִּֽהְי֞וּ כָּל־יְמֵ֤י אָדָם֙ אֲשֶׁר־חַ֔י תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה
   וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיָּמֹֽת"
@@ -351,27 +317,21 @@ grammatically-feminine.
   and-thirty year and-he-died."
   "Adam lived 930 years altogether, and then he died."
 
--  GEN 11:17
-
-.. csv-table::
+.. csv-table:: Example: GEN 11:17
 
   וַֽיְחִי־עֵ֗בֶר ... שְׁלֹשִׁ֣ים שָׁנָ֔ה וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה
   wayehi-'ever ... sheloshim shanah we'arba' me'oth shanah
   And-he-lived Eber ... thirty year and-four hundred year
   Eber ... lived 430 more years
 
--  GEN 20:16
-
-.. csv-table::
+.. csv-table:: Example: GEN 20:16
 
   נָתַ֜תִּי אֶ֤לֶף כֶּ֙סֶף֙ לְאָחִ֔יךְ
   nathatti 'elef kesef le'ahikh
   I-have-given thousand-of silver to-your-brother
   I have given your brother a thousand pieces of silver.
 
--  1SA 29:2
-
-.. csv-table::
+.. csv-table:: Example: 1SA 29:2
 
   וְסַרְנֵ֤י פְלִשְׁתִּים֙ עֹֽבְרִ֔ים לְמֵא֖וֹת וְלַאֲלָפִ֑ים
   wesarne felishtim 'overim leme'oth wela'alafim

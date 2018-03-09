@@ -79,9 +79,7 @@ The subject in a sentence is the person who does the action.
 In the :ref:`verb` form
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  GEN 28:15
-
-.. csv-table::
+.. csv-table:: Example: GEN 28:15
 
   עַ֚ד אֲשֶׁ֣ר אִם־\ **עָשִׂ֔יתִי** אֵ֥ת אֲשֶׁר־דִּבַּ֖רְתִּי לָֽךְ
   'ad 'asher 'im-**'asithi** 'eth 'asher-dibbarti lakh
@@ -92,9 +90,7 @@ In the :ref:`verb` form
 As a :ref:`pronoun_personal`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  EXO 6:2
-
-.. csv-table::
+.. csv-table:: Example: EXO 6:2
 
   אֲנִ֥י יְהוָֽה
   **'ani** yehwah
@@ -115,9 +111,7 @@ Related to a :ref:`verb`
 Either :ref:`suffix_pronominal-direclty-to-the-verb`,
 or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
 
--  1SA 17:9
-
-.. csv-table::
+.. csv-table:: Example: 1SA 17:9
 
   וַעֲבַדְתֶּ֖ם **אֹתָֽנוּ**\ ׃
   wa'avadtem **'othanu**
@@ -127,9 +121,7 @@ or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
 :ref:`suffix_pronominal-prepositions`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  ISA 46:9
-
-.. csv-table::
+.. csv-table:: Example: ISA 46:9
 
   וְאֶ֥פֶס **כָּמֹֽונִי**\ ׃
   we'efes **kamowni**
@@ -144,9 +136,7 @@ Indicating possession is done by the :ref:`suffix_pronominal`:
 :ref:`suffix_pronominal-nouns`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  2SA 19:4 (2SA 19:1 in Hebrew)
-
-.. csv-table::
+.. csv-table:: Example: 2SA 19:4 (2SA 19:1 in Hebrew)
 
   בְּנִ֤י אַבְשָׁלֹום֙ בְּנִ֣י בְנִ֣י
   **beni** 'avshalowm **beni veni**
@@ -156,9 +146,7 @@ Indicating possession is done by the :ref:`suffix_pronominal`:
 :ref:`suffix_pronominal-prepositions`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  EXO 19:5
-
-.. csv-table::
+.. csv-table:: Example: EXO 19:5
 
   כִּי־\ **לִ֖י** כָּל־הָאָֽרֶץ׃
   ki-\ **li** kol-ha'arets

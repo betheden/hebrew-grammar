@@ -43,9 +43,7 @@ definiteness) as the noun they describe.
   masculine,תְּשִׁיעִי,teshi'i,ninth
   masculine,עֲשִׂירִי,'asiri,tenth
 
--  GEN 47:18
-
-.. csv-table::
+.. csv-table:: Example: GEN 47:18
 
   בַּשָּׁנָ֣ה הַשֵּׁנִ֗ית
   bashanah **hashenith**
@@ -63,18 +61,14 @@ definiteness) as the noun they describe.
   and-day **the-seventh**
   and **the seventh** day
 
--  2KI 15:32 –– a cardinal number functioning as an ordinal number
-
-.. csv-table::
+.. csv-table:: Example: 2KI 15:32 –– a cardinal number functioning as an ordinal number
 
   בִּשְׁנַ֣ת שְׁתַּ֔יִם
   bishnath **shetayim**
   in-year two
   in **the second** year
 
--  2SA 4:2 –– cardinal numbers functioning as ordinal numbers
-
-.. csv-table::
+.. csv-table:: Example: 2SA 4:2 –– cardinal numbers functioning as ordinal numbers
 
   שֵׁם֩ **הָאֶחָ֨ד** ... וְשֵׁ֧ם הַשֵּׁנִ֣י
   ushene **'anashim** ... weshem **hasheni**
@@ -89,18 +83,14 @@ The
 forms are used for ordinal numbers higher than ten ("eleventh",
 "twelfth", etc.).
 
--  GEN 7:11
-
-.. csv-table::
+.. csv-table:: Example: GEN 7:11
 
   בְּשִׁבְעָֽה־עָשָׂ֥ר יֹ֖ום
   **beshiv'ah-'asar** yowm
   **in seven\_ten** day
   **on the seventeenth** day
 
--  1KI 19:19
-
-.. csv-table::
+.. csv-table:: Example: 1KI 19:19
 
   וְה֖וּא בִּשְׁנֵ֣ים הֶעָשָׂ֑ר
   wehu **bishnem he'asar**
@@ -110,9 +100,7 @@ forms are used for ordinal numbers higher than ten ("eleventh",
 Part of a whole
 ---------------
 
--  GEN 47:24
-
-.. csv-table::
+.. csv-table:: Example: GEN 47:24
 
   וּנְתַתֶּ֥ם **חֲמִישִׁ֖ית** לְפַרְעֹ֑ה
   unethattem **hamishith** lefar'oh

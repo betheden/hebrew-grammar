@@ -44,18 +44,14 @@ thought is repeated twice, as well as other poetic tools.
 The standard word order
 ^^^^^^^^^^^^^^^^^^^^^^^
 
--  GEN 1:4 – with a direct object
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:4 – with a direct object
 
   וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָאֹ֖ור
   wayyar 'elohim 'eth-ha'owr
   and-he-saw God [dir.obj]\_the-light
   and God saw the light
 
--  EXO 9:1 – with an indirect object
-
-.. csv-table::
+.. csv-table:: Example: EXO 9:1 – with an indirect object
 
   וַיֹּ֤אמֶר יְהוָה֙ אֶל־מֹשֶׁ֔ה
   wayyomer yehwah 'el-mosheh
@@ -68,9 +64,7 @@ Deviation with no change in meaning
 Not indicating a break in the narrative, because here the deviation
 happens in the middle of a sentence.
 
--  GEN 1:5
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:5
 
   וַיִּקְרָ֨א אֱלֹהִ֤ים׀ לָאוֹר֙ י֔וֹם **וְלַחֹ֖שֶׁךְ** קָ֣רָא לָ֑יְלָה
   wayyiqra 'elohim la'or yom **welahoshekh** qara laylah
@@ -78,9 +72,7 @@ happens in the middle of a sentence.
      night"
   "God called the light ""day,"" **and the darkness** he called ""night."""
 
--  2KI 3:22
-
-.. csv-table::
+.. csv-table:: Example: 2KI 3:22
 
   וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר **וְהַשֶּׁ֖מֶשׁ** זָרְחָ֣ה עַל־הַמָּ֑יִם
   wayyashkimu vabboqer **wehashemesh** zorhah 'al-hammayim
@@ -97,18 +89,14 @@ Though it is common to begin a book or major portion of a book with the
 it is also possible to put the subject of the first sentence at the
 beginning of the book.
 
--  JOB 1:1 – indicating a new narrative
-
-.. csv-table::
+.. csv-table:: Example: JOB 1:1 – indicating a new narrative
 
   אִ֛ישׁ הָיָ֥ה בְאֶֽרֶץ־ע֖וּץ אִיּ֣וֹב שְׁמ֑וֹ
   **'ish** hayah ve'erets-'uts 'iyyov shemo
   **man** there-was in-land-of\_Uz Job his-name
   There was **a man** in the land of Uz whose name was Job
 
--  2KI 3:4 – indicating a new section of text
-
-.. csv-table::
+.. csv-table:: Example: 2KI 3:4 – indicating a new section of text
 
   וּמֵישַׁ֥ע מֶֽלֶךְ־מוֹאָ֖ב הָיָ֣ה נֹקֵ֑ד
   **umesha' melekh-mo'av** hayah noqed
@@ -119,9 +107,7 @@ A subject placed before the verb can also indicate a new, smaller
 section of a narrative, or a continuation after there has been a short
 break in the narrative.
 
--  2SA 19:11 – indicating a new section of a narrative
-
-.. csv-table::
+.. csv-table:: Example: 2SA 19:11 – indicating a new section of a narrative
 
   "וְהַמֶּ֣לֶךְ דָּוִ֗ד שָׁ֠לַח אֶל־צָד֨וֹק וְאֶל־אֶבְיָתָ֥ר
      הַכֹּהֲנִים֮ לֵאמֹר֒"
@@ -131,9 +117,7 @@ break in the narrative.
      saying"
   **King David** sent to Zadok and to Abiathar the priests saying
 
--  2SA 18:19 – indicating a continuation after a break in the narrative
-
-.. csv-table::
+.. csv-table:: Example: 2SA 18:19 – indicating a continuation after a break in the narrative
 
   וַאֲחִימַ֤עַץ בֶּן־צָדוֹק֙ אָמַ֔ר
   **wa'ahima'ats** ben-tsadoq 'amar
@@ -148,9 +132,7 @@ verb can indicate a break in the narrative action to provide the reader
 with some extra information about the story being told. Usually, these
 instances will be clearly discerned from the context.
 
--  2KI 3:21
-
-.. csv-table::
+.. csv-table:: Example: 2KI 3:21
 
   וְכָל־מוֹאָב֙ שָֽׁמְע֔וּ כִּֽי־עָל֥וּ הַמְּלָכִ֖ים לְהִלָּ֣חֶם בָּ֑ם
   **wekhol-mo'av** shame'u ki-'alu hammelakhim lehillahem bam
@@ -159,9 +141,7 @@ instances will be clearly discerned from the context.
   "**Now** when **all the Moabites** heard that the kings had come to
      fight against them"
 
--  2SA 18:18
-
-.. csv-table::
+.. csv-table:: Example: 2SA 18:18
 
   וְאַבְשָׁלֹ֣ם לָקַ֗ח וַיַּצֶּב־ל֤וֹ בְחַיָּו אֶת־מַצֶּ֙בֶת֙
   **we'avshalom** laqah wayyatsev-lo vehayyaw 'eth-matseveth

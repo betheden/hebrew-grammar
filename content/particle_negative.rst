@@ -24,9 +24,7 @@ Literally, the term is translated in English as "there is no" or "there
 is not"; but the English translation is often simplified to "is not"
 (see example below).
 
--  ISA 45:5
-
-.. csv-table::
+.. csv-table:: Example: ISA 45:5
 
   אֲנִ֤י יְהוָה֙ **וְאֵ֣ין** עֹ֔וד זוּלָתִ֖י **אֵ֣ין** אֱלֹהִ֑ים
   'ani yehwah **we'en** 'owd zulathi **'en** 'elohim
@@ -34,18 +32,14 @@ is not"; but the English translation is often simplified to "is not"
      God."
   "I am Yahweh, **and there is no** other; **there is no** God but me."
 
--  2KI 1:3
-
-.. csv-table::
+.. csv-table:: Example: 2KI 1:3
 
   הַֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל
   **hamibbeli 'en**-'elohim beyisra'el
   **For-nothing is-there-no**\ \_God in-Israel?
   Is it because **there is no** God in Israel?
 
--  GEN 37:29
-
-.. csv-table::
+.. csv-table:: Example: GEN 37:29
 
   וְהִנֵּ֥ה \ **אֵין**\ ־יוֹסֵ֖ף בַּבּ֑וֹר
   wehinneh **'en**-yosef babbor
@@ -65,9 +59,7 @@ When used with :ref:`person_second`
 verbs to express a negative command, this particle signifies a more
 emphatic command than the use of the negative particle אַל.
 
--  GEN 2:17
-
-.. csv-table::
+.. csv-table:: Example: GEN 2:17
 
   לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ
   **lo** thokhal mimmennu
@@ -86,9 +78,7 @@ used with :ref:`person_second`
 verbs to express a negative command, this particle signifies a less
 emphatic command than the use of the negative particle לֹא.
 
--  GEN 21:16
-
-.. csv-table::
+.. csv-table:: Example: GEN 21:16
 
   אַל־אֶרְאֶ֖ה בְּמ֣וֹת הַיָּ֑לֶד
   **'al**-'er'eh bemoth hayyaled
@@ -105,9 +95,7 @@ verbs, and is usually translated in English as "no" or "not".
           a dictionary or lexicon will indicate the specific use of
           this particle in each individual context.
 
--  GEN 3:11
-
-.. csv-table::
+.. csv-table:: Example: GEN 3:11
 
   צִוִּיתִ֛יךָ \ **לְבִלְתִּ֥י** אֲכָל־מִמֶּ֖נּוּ
   tsiwwithikha **leviltiy** 'akhol-mimmennu
@@ -121,18 +109,14 @@ These particles are usually used in poetry and carry no special meaning
 other than to negate a word or concept within a sentence. In English,
 they are usually translated as "no" or "not".
 
--  PSA 19:3 (PSA 19:4 in Hebrew)
-
-.. csv-table::
+.. csv-table:: Example: PSA 19:3 (PSA 19:4 in Hebrew)
 
   בְּ֝לִ֗י נִשְׁמָ֥ע קוֹלָֽם
   **beli** nishma' qolam
   **not** is-heard their-voice
   their voice is **not** heard
 
--  NUM 35:23
-
-.. csv-table::
+.. csv-table:: Example: NUM 35:23
 
   בְּלֹ֣א רְא֔וֹת
   **belo** re'oth

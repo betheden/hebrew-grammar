@@ -32,9 +32,7 @@ Independently
 
 The demonstrative particle occurs at the beginning of a clause
 
--  JOS 3:11 - in front of a verbal clause
-
-.. csv-table::
+.. csv-table:: Example: JOS 3:11 - in front of a verbal clause
 
   "הִנֵּה֙ אֲרֹ֣ון הַבְּרִ֔ית אֲדֹ֖ון כָּל־הָאָ֑רֶץ עֹבֵ֥ר לִפְנֵיכֶ֖ם
      בַּיַּרְדֵּֽן׃"
@@ -45,9 +43,7 @@ The demonstrative particle occurs at the beginning of a clause
   "**Look!** The ark of the covenant of the Lord of all the earth
      crosses over ahead of you into the Jordan."
 
--  ISA 40:10 - in front of a verbless clause
-
-.. csv-table::
+.. csv-table:: Example: ISA 40:10 - in front of a verbless clause
 
   הִנֵּ֤ה שְׂכָרֹו֙ אִתֹּ֔ו
   **hinneh** sekharow 'ittow
@@ -57,9 +53,7 @@ The demonstrative particle occurs at the beginning of a clause
 With a :ref:`suffix_pronominal`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  ISA 65:1
-
-.. csv-table::
+.. csv-table:: Example: ISA 65:1
 
   "אָמַ֨רְתִּי֙ **הִנֵּ֣נִי הִנֵּ֔נִי** אֶל־גֹּ֖וי לֹֽא־קֹרָ֥א
      בִשְׁמִֽי׃"

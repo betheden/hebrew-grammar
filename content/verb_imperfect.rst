@@ -170,9 +170,7 @@ actions:
 Actions in future time
 ~~~~~~~~~~~~~~~~~~~~~~
 
--  JER 43:13
-
-.. csv-table::
+.. csv-table:: Example: JER 43:13
 
   וְאֶת־בָּתֵּ֥י אֱלֹהֵֽי־מִצְרַ֖יִם **יִשְׂרֹ֥ף** בָּאֵֽשׁ
   we'eth-botte 'elohe-mitsrayim **yisrof** ba'esh
@@ -182,9 +180,7 @@ Actions in future time
 Actions in present time
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  GEN 32:30
-
-.. csv-table::
+.. csv-table:: Example: GEN 32:30
 
   לָ֥מָּה זֶּ֖ה **תִּשְׁאַ֣ל** לִשְׁמִ֑י
   lammah zeh **tish'al** lishmi
@@ -199,18 +195,14 @@ Frequentive or durative actions
 These may be in past time, present time, future time, or without a
 specified time frame.
 
--  GEN 49:27
-
-.. csv-table::
+.. csv-table:: Example: GEN 49:27
 
   בִּנְיָמִין֙ זְאֵ֣ב יִטְרָ֔ף
   binyamin ze'ev **yitraf**
   Benjamin wolf **he-tears**
   Benjamin is a **hungry** wolf.
 
--  JER 43:12
-
-.. csv-table::
+.. csv-table:: Example: JER 43:12
 
   כַּאֲשֶׁר־\ **יַעְטֶ֤ה** הָֽרֹעֶה֙ אֶת־בִּגְד֔וֹ
   ka'asher-\ **ya'teh** haro'eh 'eth-bigdo
@@ -222,9 +214,7 @@ specified time frame.
 Direct negative commands (especially with :ref:`particle_negative-lo` to express an emphatic prohibition)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  JER 43:2
-
-.. csv-table::
+.. csv-table:: Example: JER 43:2
 
   לֹֽא־\ **תָבֹ֥אוּ** מִצְרַ֖יִם לָג֥וּר שָֽׁם
   lo-\ **thavo'u** mitsrayim lagur sham
@@ -234,9 +224,7 @@ Direct negative commands (especially with :ref:`particle_negative-lo` to express
 Potential actions
 ~~~~~~~~~~~~~~~~~
 
--  PSA 23:4
-
-.. csv-table::
+.. csv-table:: Example: PSA 23:4
 
   גַּ֤ם כִּֽי־\ **אֵלֵ֨ךְ** בְּגֵ֪יא צַלְמָ֡וֶת
   gam ki-\ **'elekh** bege tsalmaweth

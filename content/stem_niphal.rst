@@ -161,9 +161,7 @@ expressed using the helping verb "to be." In Biblical Hebrew, the
 passive nature of the verbal action is expressed by the Niphal form of
 the verb itself without any helping verbs.
 
--  2KI 21:18
-
-.. csv-table::
+.. csv-table:: Example: 2KI 21:18
 
   וַיִּקָּבֵ֥ר בְּגַן־בֵּית֖וֹ
   **wayyiqqaver** began-betho
@@ -180,9 +178,7 @@ In Biblical Hebrew, the reflexive nature of the verbal action is
 expressed by the Niphal form of the verb itself without any additional
 words.
 
--  NUM 1:21
-
-.. csv-table::
+.. csv-table:: Example: NUM 1:21
 
   הִבָּ֣דְל֔וּ מִתּ֖וֹךְ הָעֵדָ֣ה הַזֹּ֑את
   **hibbodlu** mittokh ha'edah hazzoth
@@ -196,9 +192,7 @@ Middle voice means that the subject receives the action but also is
 (partially) involved in performing the action. This kind of action
 stands somewhere between passive voice and reflexive voice.
 
--  GEN 3:5
-
-.. csv-table::
+.. csv-table:: Example: GEN 3:5
 
   וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם
   **wenifqehu** 'enekhem
@@ -224,9 +218,7 @@ group is telling something to another member of the group, and each
 member of the group is being told something by another member of the
 group.
 
--  2KI 3:23
-
-.. csv-table::
+.. csv-table:: Example: 2KI 3:23
 
   נֶֽחֶרְבוּ֙ הַמְּלָכִ֔ים
   **nehervu** hammelakhim
@@ -243,9 +235,7 @@ Niphal stem, the verb רָאָה expresses the simple action "to appear". A
 dictionary or lexicon will indicate the different meanings for these
 verbs in the various stem formations.
 
--  GEN 12:7
-
-.. csv-table::
+.. csv-table:: Example: GEN 12:7
 
   וַיֵּרָ֤א יְהוָה֙ אֶל־אַבְרָ֔ם
   **wayyera** yehwah 'el-'avram
@@ -260,9 +250,7 @@ stem rather than the *Qal* stem. This is a very rare use of the Niphal
 stem. Stative action is expressed most often using the Qal stem in
 Biblical Hebrew.
 
--  GEN 6:6
-
-.. csv-table::
+.. csv-table:: Example: GEN 6:6
 
   וַיִּנָּ֣חֶם יְהוָ֔ה כִּֽי־עָשָׂ֥ה אֶת־הָֽאָדָ֖ם בָּאָ֑רֶץ
   **wayyinnahem** yehwah ki-'asah 'eth-ha'adam ba'arets

@@ -56,9 +56,7 @@ Examples
 אִ֖ישׁ "man" is a common noun, but מֹשֶׁ֗ה "Moses" is not because it is
 a name.
 
--  NUM 12:3
-
-.. csv-table::
+.. csv-table:: Example: NUM 12:3
 
   וְהָאִ֥ישׁ מֹשֶׁ֖ה ענו מְאֹ֑ד
   weha'ish mosheh 'nw me'od

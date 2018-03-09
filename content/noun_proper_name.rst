@@ -25,9 +25,7 @@ personal pronouns or pronominal suffixes. They can be either
 or
 :ref:`gender_feminine`.
 
--  NUM 12:3
-
-.. csv-table::
+.. csv-table:: Example: NUM 12:3
 
   וְהָאִ֥ישׁ **מֹשֶׁ֖ה** ענו מְאֹ֑ד
   weha'ish \ **mosheh** 'nw me'od

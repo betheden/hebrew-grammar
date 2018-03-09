@@ -38,9 +38,7 @@ example below (GEN 32:11).
 Adverbs of place
 ----------------
 
--  GEN 22:5
-
-.. csv-table::
+.. csv-table:: Example: GEN 22:5
 
   "שְׁבוּ־לָכֶ֥ם **פֹּה֙** עִֽם־הַחֲמ֔וֹר וַאֲנִ֣י וְהַנַּ֔עַר נֵלְכָ֖ה
      עַד־כֹּ֑ה"
@@ -51,9 +49,7 @@ Adverbs of place
   "You two stay **here** with the donkey while the boy and I go over
      **there**."
 
--  DEU 31:26
-
-.. csv-table::
+.. csv-table:: Example: DEU 31:26
 
   וְהָֽיָה־\ **שָׁ֥ם** בְּךָ֖ לְעֵֽד׃
   wehayah-\ **sham** bekha le'ed
@@ -61,9 +57,7 @@ Adverbs of place
   "it may remain **there** to testify about what Yahweh will do to the
      people if they disobey him"
 
--  EZE 40:30
-
-.. csv-table::
+.. csv-table:: Example: EZE 40:30
 
   וְאֵֽלַמּ֖וֹת **סָבִ֣יב ׀ סָבִ֑יב** אֹ֗רֶךְ
   we'elammoth **saviv saviv** 'orekh
@@ -73,18 +67,14 @@ Adverbs of place
 Adverbs of time
 ---------------
 
--  GEN 32:11
-
-.. csv-table::
+.. csv-table:: Example: GEN 32:11
 
   וְעַתָּ֥ה הָיִ֖יתִי לִשְׁנֵ֥י מַחֲנֽוֹת
   
   **and-now** I-have-become to-two companies
   **and now** I have become two camps
 
--  GEN 4:26
-
-.. csv-table::
+.. csv-table:: Example: GEN 4:26
 
   אָ֣ז הוּחַ֔ל לִקְרֹ֖א בְּשֵׁ֥ם יְהוָֽה
   
@@ -94,18 +84,14 @@ Adverbs of time
 Adverbs of quantity
 -------------------
 
--  GEN 31:41
-
-.. csv-table::
+.. csv-table:: Example: GEN 31:41
 
   וַיִּ֤חַר לְקַ֙יִן֙ מְאֹ֔ד
   
   And-it-burned for-Cain **greatly**
   So Cain was **very** angry
 
--  GEN 22:15
-
-.. csv-table::
+.. csv-table:: Example: GEN 22:15
 
   "וַיִּקְרָ֛א מַלְאַ֥ךְ יְהוָ֖ה אֶל־אַבְרָהָ֑ם **שֵׁנִ֖ית**
      מִן־הַשָּׁמָֽיִם"
@@ -117,18 +103,14 @@ Adverbs of quantity
 Adverbs of manner
 -----------------
 
--  JDG 21:14
-
-.. csv-table::
+.. csv-table:: Example: JDG 21:14
 
   וְלֹֽא־מָצְא֥וּ לָהֶ֖ם כֵּֽן׃
   
   but-not they-found for-them **thus**
   but there were not **enough** women for all of them.
 
--  ZEP 1:14
-
-.. csv-table::
+.. csv-table:: Example: ZEP 1:14
 
   מַ֥ר צֹרֵ֖חַ שָׁ֥ם גִּבּֽוֹר׃
   **mar** tsoreah sham gibbor
@@ -144,18 +126,14 @@ kinds of words often function as adverbs.
 Particles
 ~~~~~~~~~
 
--  GEN 3:22
-
-.. csv-table::
+.. csv-table:: Example: GEN 3:22
 
   וְלָקַ֕חַת **גַּ֥ם** אֶת־דּוּדָאֵ֖י בְּנִ֑י
   
   and-to-take **also** [dir.obj]\_mandrakes-of my-son
   "Do you now want to take away my son's mandrakes, **too**?"
 
--  GEN 6:5
-
-.. csv-table::
+.. csv-table:: Example: GEN 6:5
 
   וְכָל־יֵ֙צֶר֙ מַחְשְׁבֹ֣ת לִבּ֔וֹ **רַ֥ק** רַ֖ע כָּל־הַיּֽוֹם
   
@@ -167,18 +145,14 @@ Particles
 Infinitives (absolute state)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  GEN 2:16
-
-.. csv-table::
+.. csv-table:: Example: GEN 2:16
 
   מִכֹּ֥ל עֵֽץ־הַגָּ֖ן **אָכֹ֥ל** תֹּאכֵֽל
   mikkol 'ets-haggan **'akhol** tokhel
   from-every tree-of\_the-garden **eating** you-may-eat
   From every tree in the garden you may **freely** eat.
 
--  1SA 3:12
-
-.. csv-table::
+.. csv-table:: Example: 1SA 3:12
 
   "אָקִ֣ים אֶל־עֵלִ֔י אֵ֛ת כָּל־אֲשֶׁ֥ר דִּבַּ֖רְתִּי אֶל־בֵּיתֹ֑ו
      **הָחֵ֖ל וְכַלֵּֽה**\ ׃"
@@ -192,18 +166,14 @@ Infinitives (absolute state)
 Adjectives
 ~~~~~~~~~~
 
--  JOS 21:10
-
-.. csv-table::
+.. csv-table:: Example: JOS 21:10
 
   כִּ֥י לָהֶ֛ם הָיָ֥ה הַגּוֹרָ֖ל רִיאשֹׁנָֽה
   
   for to-them it-was the-lot **first**
   For the **first** casting of lots had fallen to them.
 
--  JOS 1:7
-
-.. csv-table::
+.. csv-table:: Example: JOS 1:7
 
   וַיֹּ֥אמֶר עֵשָׂ֖ו יֶשׁ־לִ֣י **רָ֑ב** אָחִ֕י
   
@@ -213,18 +183,14 @@ Adjectives
 Nouns
 ~~~~~
 
--  1SA 12:11
-
-.. csv-table::
+.. csv-table:: Example: 1SA 12:11
 
   וַתֵּשְׁב֖וּ **בֶּֽטַח**\ ׃
   watteshevu **betah**
   and-you-lived **safety**
   and you lived **safely**
 
--  HOS 14:4 (in Hebrew: HOS 14:5)
-
-.. csv-table::
+.. csv-table:: Example: HOS 14:4 (in Hebrew: HOS 14:5)
 
   אֹהֲבֵ֖ם נְדָבָ֑ה
   'ohavem **nedavah**
@@ -240,18 +206,14 @@ Nouns
 
 לֹא is for general negation, especially in a verbal clause.
 
--  EXO 6:9
-
-.. csv-table::
+.. csv-table:: Example: EXO 6:9
 
   וְלֹ֤א שָֽׁמְעוּ֙ אֶל־מֹשֶׁ֔ה
   **welo** shame'u 'el-mosheh
   **and-not** they-listened to\_Moses
   **but** they **did not** believe what Moses said
 
--  PRO 1:29
-
-.. csv-table::
+.. csv-table:: Example: PRO 1:29
 
   וְיִרְאַ֥ת יְ֝הֹוָ֗ה **לֹ֣א** בָחָֽרוּ
   weyir'ath yehowah **lo** vaharu
@@ -264,18 +226,14 @@ Nouns
 אַל is used for negative
 :ref:`verb_imperative`.
 
--  GEN 35:17
-
-.. csv-table::
+.. csv-table:: Example: GEN 35:17
 
   וַתֹּ֨אמֶר לָ֤הּ הַמְיַלֶּ֙דֶת֙ **אַל**\ ־תִּ֣ירְאִ֔י
   wattomer lah hamyalledeth **'al**-tire'i
   and-she-said to-her the midwife **not** you-will-fear
   "the midwife said to Rachel, ""**Do not** be afraid"""
 
--  NEH 4:5 (NEH 3:37 in Hebrew)
-
-.. csv-table::
+.. csv-table:: Example: NEH 4:5 (NEH 3:37 in Hebrew)
 
   וְאַל־תְּכַס֙ עַל־עֲוֺנָ֔ם
   **we'al**-tekhas 'al-'awonam
@@ -287,18 +245,14 @@ Nouns
 
 אֵין/אַיִן for "there is not".
 
--  DEU 28:29
-
-.. csv-table::
+.. csv-table:: Example: DEU 28:29
 
   וְאֵ֥ין מוֹשִֽׁיעַ׃
   **we'en** moshia'
   **and-not** to-save-you
   **and there will not be anyone** to help you.
 
--  JOS 6:1
-
-.. csv-table::
+.. csv-table:: Example: JOS 6:1
 
   אֵ֥ין יוֹצֵ֖א וְאֵ֥ין בָּֽא׃
   **'en** yotse we'en ba
@@ -310,9 +264,7 @@ Nouns
 
 -  בַּל is a negative adverb used in poetry.
 
--  PSA 10:6
-
-.. csv-table::
+.. csv-table:: Example: PSA 10:6
 
   אָמַ֣ר בְּ֭לִבּוֹ **בַּל**\ ־אֶמּ֑וֹט
   'amar belibbo **bal**-'emmot
@@ -324,9 +276,7 @@ Nouns
 
 -  בְּלִי֙ is a negative adverb usually used in poetry.
 
--  PSA 19:3 (PSA 19:4 in Hebrew)
-
-.. csv-table::
+.. csv-table:: Example: PSA 19:3 (PSA 19:4 in Hebrew)
 
   בְּ֝לִ֗י נִשְׁמָ֥ע קוֹלָֽם׃
   **beli** nishma' qolam
@@ -338,9 +288,7 @@ Nouns
 
 -  בִּלְתִּ֣י can mean "not," "except," or "unless"
 
--  GEN 43:3
-
-.. csv-table::
+.. csv-table:: Example: GEN 43:3
 
   לֹֽא־תִרְא֣וּ פָנַ֔י **בִּלְתִּ֖י** אֲחִיכֶ֥ם אִתְּכֶֽם׃
   lo-thir'u fanay **bilti** 'ahikhem 'ittekhem
@@ -354,18 +302,14 @@ emphasis
 In Hebrew, adverbs of negation can combine with another negative word to
 add emphasis.
 
--  2KI 1:3
-
-.. csv-table::
+.. csv-table:: Example: 2KI 1:3
 
   הַֽמִבְּלִ֤י **אֵין**\ ־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל
   hamibbeli **'en**-'elohim beyisra'el
   Because **there-is-no**\ \_God in-Israel
   Is it because **there is no** God in Israel?
 
--  GEN 3:6
-
-.. csv-table::
+.. csv-table:: Example: GEN 3:6
 
   וַתִּתֵּ֧ן **גַּם**\ ־לְאִישָׁ֛הּ עִמָּ֖הּ וַיֹּאכַֽל׃
   wattitten **gam**-le'ishah 'immah wayyokhal
@@ -376,9 +320,7 @@ add emphasis.
 
 גַּם ... גַּם can mean "both... and"
 
--  GEN 44:16
-
-.. csv-table::
+.. csv-table:: Example: GEN 44:16
 
   גַּם־אֲנַ֕חְנוּ **גַּ֛ם** אֲשֶׁר־נִמְצָ֥א הַגָּבִ֖יעַ בְּיָדֽוֹ׃
   **gam**-'anahnu **gam** 'asher-nimtsa haggavia' beyado
@@ -390,9 +332,7 @@ Emphatic
 
 -  גַּם can mean "even"
 
--  EXO 4:9
-
-.. csv-table::
+.. csv-table:: Example: EXO 4:9
 
   "וְהָיָ֡ה אִם־לֹ֣א יַאֲמִ֡ינוּ **גַּם֩** לִשְׁנֵ֨י הָאֹת֜וֹת הָאֵ֗לֶּה
      וְלֹ֤א יִשְׁמְעוּן֙"
@@ -408,9 +348,7 @@ Emphatic
 Rhetorical
 ''''''''''
 
--  GEN 27:33
-
-.. csv-table::
+.. csv-table:: Example: GEN 27:33
 
   וָאֲבָרֲכֵ֑הוּ **גַּם**\ ־בָּר֖וּךְ יִהְיֶֽה׃
   wa'avarakhehu **gam**-barukh yihyeh
@@ -424,9 +362,7 @@ Correlative
 
 -  גַּם can mean "on one's part"
 
--  2SA 12:13
-
-.. csv-table::
+.. csv-table:: Example: 2SA 12:13
 
   גַּם־יְהוָ֛ה הֶעֱבִ֥יר חַטָּאתְךָ֖
   **gam**-yehwah he'evir hattathekha
@@ -440,9 +376,7 @@ Concessive
 
 -  גַּם can show contrast
 
--  ISA 1:15
-
-.. csv-table::
+.. csv-table:: Example: ISA 1:15
 
   גַּ֛ם כִּֽי־תַרְבּ֥וּ תְפִלָּ֖ה אֵינֶ֣נִּי שֹׁמֵ֑עַ
   **gam** ki-tharbu thefillah 'enenni shomea'
@@ -457,9 +391,7 @@ Restrictive
 
 -  אַךְ can mean "only" or "however"
 
--  GEN 9:4
-
-.. csv-table::
+.. csv-table:: Example: GEN 9:4
 
   אַךְ־בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ לֹ֥א תֹאכֵֽלוּ׃
   **'akh**-basar benafsho damo lo thokhelu
@@ -474,9 +406,7 @@ Restrictive
 
 -  רַ֥ק can mean "only"
 
--  NUM 12:2
-
-.. csv-table::
+.. csv-table:: Example: NUM 12:2
 
   הֲרַ֤ק אַךְ־בְּמֹשֶׁה֙ דִּבֶּ֣ר יְהוָ֔ה
   **haraq** 'akh-bemosheh dibber yehwah
@@ -489,9 +419,7 @@ Emphatic
 
 -  רַ֥ק can mean "if only"
 
--  DEU 15:5
-
-.. csv-table::
+.. csv-table:: Example: DEU 15:5
 
   רַ֚ק אִם־שָׁמ֣וֹעַ תִּשְׁמַ֔ע בְּק֖וֹל יְהוָ֣ה אֱלֹהֶ֑יךָ
   **raq** 'im-shamoa' tishma' beqol yehwah 'eloheykha

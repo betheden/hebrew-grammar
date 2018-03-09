@@ -103,9 +103,7 @@ The Imperative form can indicate any of the following kinds of actions:
 Direct commands or instructions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  JER 43:9
-
-.. csv-table::
+.. csv-table:: Example: JER 43:9
 
   קַ֣ח בְּיָדְךָ֞ אֲבָנִ֣ים גְּדֹל֗וֹת
   **qah** beyodkha 'avanim gedoloth
@@ -115,18 +113,14 @@ Direct commands or instructions
 Actions of greater or lesser desirability
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  GEN 12:13
-
-.. csv-table::
+.. csv-table:: Example: GEN 12:13
 
   אִמְרִי־נָ֖א אֲחֹ֣תִי אָ֑תְּ
   **'imri**-na 'ahothi 'at
   **Say**\ \_oh my-sister you
   **Say** that you are my sister
 
--  2SA 18:23
-
-.. csv-table::
+.. csv-table:: Example: 2SA 18:23
 
   וִיהִי־מָ֣ה אָר֔וּץ וַיֹּ֥אמֶר ל֖וֹ ר֑וּץ
   wihi-mah 'aruts wayyomer lo **ruts**
@@ -134,18 +128,14 @@ Actions of greater or lesser desirability
   """Whatever happens,"" said Ahimaaz, ""I will run."" So Joab answered him,
      ""**Run**""."
 
--  ISA 8:10
-
-.. csv-table::
+.. csv-table:: Example: ISA 8:10
 
   עֻ֥צוּ עֵצָ֖ה וְתֻפָ֑ר
   **'utsu** 'etsah wethufar
   **Advise** counsel and-it-will-be-made-ineffectual
   "**Form** a plan, but it will not be carried out"""
 
--  1KI 2:22
-
-.. csv-table::
+.. csv-table:: Example: 1KI 2:22
 
   וְשַֽׁאֲלִי־לוֹ֙ אֶת־הַמְּלוּכָ֔ה
   **wesha'ali**-lo 'eth-hammelukhah

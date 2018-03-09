@@ -22,9 +22,7 @@ is most commonly used in poetry.
 Intorducing a dependent clause
 ------------------------------
 
--  EXO 15:13
-
-.. csv-table::
+.. csv-table:: Example: EXO 15:13
 
   עַם־\ **ז֣וּ** גָּאָ֑לְתָּ
   'am-**zu** ga'alta
@@ -37,9 +35,7 @@ Intorducing a dependent clause
 זֶה can also be used as a relative pronoun, but it is actually a
 :ref:`pronoun_demonstrative-function-like-a-relative-pronoun`.
 
--  PSA 78:54
-
-.. csv-table::
+.. csv-table:: Example: PSA 78:54
 
   הַר־\ **זֶ֝֗ה** קָנְתָ֥ה יְמִינֹֽו׃
   har-\ **zeh** qonthah yeminow

@@ -24,18 +24,14 @@ rare verbal form in Biblical Hebrew.
 .. include:: includes/consult_dictionary.txt
 
 
--  DEU 21:8
-
-.. csv-table::
+.. csv-table:: Example: DEU 21:8
 
   וְנִכַּפֵּ֥ר לָהֶ֖ם הַדָּֽם׃
   **wenikkapper** lahem haddam
   **And-it-will-be-forgiven** to-them the-blood.
   Then the bloodshed **will be forgiven** them.
 
--  EZK 23:48
-
-.. csv-table::
+.. csv-table:: Example: EZK 23:48
 
   וְנִֽוַּסְּרוּ֙ כָּל־הַנָּשִׁ֔ים
   **weniwwasseru** kol-hannashim

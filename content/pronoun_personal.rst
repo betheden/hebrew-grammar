@@ -53,18 +53,14 @@ Since the person doing the action is already implied in the verb form,
 the personal pronoun is not necessary. If it is present, it is often for
 emphasis.
 
--  1KI 18:22 - to emphasize the loneliness of the prophet
-
-.. csv-table::
+.. csv-table:: Example: 1KI 18:22 - to emphasize the loneliness of the prophet
 
   אֲנִ֞י נֹותַ֧רְתִּי נָבִ֛יא לַיהוָ֖ה
   **'ani** nowtharti navi layhwah
   **I** I-am-left prophet for-Yahweh
   "I, **I alone**, am left as a prophet of Yahweh"
 
--  ISA 41:10 - to emphasize God's promise
-
-.. csv-table::
+.. csv-table:: Example: ISA 41:10 - to emphasize God's promise
 
   "אַל־תִּירָא֙ כִּ֣י עִמְּךָ־\ **אָ֔נִי** אַל־תִּשְׁתָּ֖ע
      כִּֽי־\ **אֲנִ֣י** אֱלֹהֶ֑יךָ"
@@ -79,18 +75,14 @@ In a verbless clause
 In a verbless clause, the implied subject cannot be known from the verb,
 so then a personal pronoun is necessary.
 
--  EXO 6:2
-
-.. csv-table::
+.. csv-table:: Example: EXO 6:2
 
   אֲנִ֥י יְהוָֽה
   **'ani** yehwah
   **I** Yahweh
   **I** am Yahweh.
 
--  JER 12:1
-
-.. csv-table::
+.. csv-table:: Example: JER 12:1
 
   צַדִּ֤יק אַתָּה֙
   tsaddiq **'attah**
@@ -100,9 +92,7 @@ so then a personal pronoun is necessary.
 With a :ref:`participle_active`
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
--  DEU 8:1
-
-.. csv-table::
+.. csv-table:: Example: DEU 8:1
 
   אָנֹכִ֧י מְצַוְּךָ֛
   **'anokhi** metsawwekha
@@ -114,9 +104,7 @@ Repeating the :ref:`suffix_pronominal`
 
 This is done for emphasis.
 
--  GEN 27:34
-
-.. csv-table::
+.. csv-table:: Example: GEN 27:34
 
   בָּרֲכֵ֥נִי גַם־\ **אָ֖נִי** אָבִֽי
   barakheni gam-\ **'ani** 'avi
@@ -131,9 +119,7 @@ Special cases sometimes left untranslated
 Just mentioned
 ^^^^^^^^^^^^^^
 
--  EZR 7:6
-
-.. csv-table::
+.. csv-table:: Example: EZR 7:6
 
   ה֤וּא עֶזְרָא֙ עָלָ֣ה מִבָּבֶ֔ל
   **hu** 'ezra' 'alah mibbavel
@@ -148,9 +134,7 @@ Explanation
 
 Explains what it follows, or introduces a parenthetical comment.
 
--  GEN 36:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 36:1
 
   עֵשָׂ֖ו \ **ה֥וּא** אֱדֽוֹם
   'esaw **hu** 'edom

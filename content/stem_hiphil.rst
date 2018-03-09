@@ -163,9 +163,7 @@ come/go*). In English, causative action is expressed using the main verb
 Biblical Hebrew, the causative nature of the verbal action is expressed
 by the Hiphil form of the verb itself with no additional verbal element.
 
--  GEN 4:3
-
-.. csv-table::
+.. csv-table:: Example: GEN 4:3
 
   וַיָּבֵ֨א קַ֜יִן מִפְּרִ֧י הָֽאֲדָמָ֛ה מִנְחָ֖ה לַֽיהוָֽה
   **wayyave** qayin mipperi ha'adamah minhah layhwah
@@ -173,9 +171,7 @@ by the Hiphil form of the verb itself with no additional verbal element.
   "Cain **brought** some of the fruit of the ground as an offering to
      Yahweh."
 
--  1KI 1:43
-
-.. csv-table::
+.. csv-table:: Example: 1KI 1:43
 
   אֲבָ֕ל אֲדֹנֵ֥ינוּ הַמֶּֽלֶךְ־דָּוִ֖ד **הִמְלִ֥יךְ** אֶת־שְׁלֹמֹֽה
   'aval 'adonenu hammelekh-dawid **himlikh** 'eth-shelomoh
@@ -193,9 +189,7 @@ and means "to incite" or "to entice". A dictionary or lexicon will
 indicate all the stem formations in which a particular verb is found as
 well as the appropriate meaning(s).
 
--  JER 43:3
-
-.. csv-table::
+.. csv-table:: Example: JER 43:3
 
   כִּ֗י בָּרוּךְ֙ בֶּן־נֵ֣רִיָּ֔ה **מַסִּ֥ית** אֹתְךָ֖ בָּ֑נוּ
   ki barukh ben-neriyyah **massith** 'othekha banu
@@ -208,9 +202,7 @@ the verb גָּלָה expresses the simple action "to uncover" or "to reveal".
 But in the Hiphil stem, the verb גָּלָה expresses the simple action "to
 exile". Again, this will be indicated by a dictionary or lexicon.
 
--  AMO 5:27
-
-.. csv-table::
+.. csv-table:: Example: AMO 5:27
 
   וְהִגְלֵיתִ֥י אֶתְכֶ֖ם מֵהָ֣לְאָה לְדַמָּ֑שֶׂק
   **wehiglethi** 'ethkhem mehal'ah ledammaseq
@@ -223,9 +215,7 @@ make known" (meaning, *to cause to know*) in both the :ref:`stem_piel`
 and the Hiphil stem. This also will be indicated by a dictionary or
 lexicon.
 
--  PSA 98:2
-
-.. csv-table::
+.. csv-table:: Example: PSA 98:2
 
   הוֹדִ֣יעַ יְ֭הוָה יְשׁוּעָת֑וֹ
   **hodia'** yehwah yeshu'atho
@@ -237,9 +227,7 @@ simple or causative action that might not follow any of the other
 descriptions listed above. As always, the specific meaning of the verb
 will be indicated by a dictionary or lexicon.
 
--  GEN 6:12 –– Hiphil stem expressing idiomatic action
-
-.. csv-table::
+.. csv-table:: Example: GEN 6:12 –– Hiphil stem expressing idiomatic action
 
   "וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָאָרֶץ וְהִנֵּ֣ה נִשְׁחָ֑תָה
      כִּֽי־\ **הִשְׁחִ֧ית** כָּל־בָּשָׂ֛ר אֶת־דַּרְכּ֖וֹ עַל־הָאָרֶץ"

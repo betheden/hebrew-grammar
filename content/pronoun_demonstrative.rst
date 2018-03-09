@@ -79,9 +79,7 @@ First / second mention
 
 הוּא is used for items that have already been mentioned.
 
--  JDG 7:4
-
-.. csv-table::
+.. csv-table:: Example: JDG 7:4
 
   "וְהָיָ֡ה אֲשֶׁר֩ אֹמַ֨ר אֵלֶ֜יךָ \ **זֶ֣ה** ׀ יֵלֵ֣ךְ
      אִתָּ֗ךְ \ **ה֚וּא** יֵלֵ֣ךְ אִתָּ֔ךְ"
@@ -101,9 +99,7 @@ Reciprocal
 Demonstrative pronouns can be used to distinguish individuals within a
 group interacting with each other.
 
--  ISA 6:3
-
-.. csv-table::
+.. csv-table:: Example: ISA 6:3
 
   וְקָרָ֨א \ **זֶ֤ה** אֶל־זֶה֙
   weqara **zeh** 'el-**zeh**
@@ -116,18 +112,14 @@ Qualifies a person
 When a demonstrative pronoun qualifies a person, it is for emphasis or
 to draw attention to the presence of that person.
 
--  GEN 27:21
-
-.. csv-table::
+.. csv-table:: Example: GEN 27:21
 
   הַֽאַתָּ֥ה \ **זֶ֛ה** בְּנִ֥י
   ha'attah **zeh** beni
   the-you **this** my-son
   you are my **true** son
 
--  1KI 19:5
-
-.. csv-table::
+.. csv-table:: Example: 1KI 19:5
 
   וְהִנֵּֽה־\ **זֶ֤ה** מַלְאָךְ֙
   wehinneh-\ **zeh** mal'akh
@@ -144,9 +136,7 @@ The demonstrative pronoun usually precedes the noun if it is
 predicative. The preceding demonstrative pronoun does not have the
 definite article, but the noun does.
 
--  JDG 4:14
-
-.. csv-table::
+.. csv-table:: Example: JDG 4:14
 
   זֶ֤ה הַיּוֹם֙
   **zeh** hayyom
@@ -160,9 +150,7 @@ When it is used as an attributive adjective, the demonstrative pronoun
 often follows the noun, and both the noun and adjective can have a
 :ref:`particle_definite_article`.
 
--  ISA 18:23
-
-.. csv-table::
+.. csv-table:: Example: ISA 18:23
 
   הַדְּבָרִ֖ים הָאֵ֑לֶּה
   haddevarim **ha'elleh**
@@ -172,9 +160,7 @@ often follows the noun, and both the noun and adjective can have a
 Sometimes neither the noun nor the demonstrative pronoun have a definite
 article.
 
--  JOS 2:20
-
-.. csv-table::
+.. csv-table:: Example: JOS 2:20
 
   דְּבָרֵ֣נוּ זֶ֑ה
   devarenu **zeh**
@@ -186,18 +172,14 @@ article.
 Function like a :ref:`pronoun_relative`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  PSA 74:2
-
-.. csv-table::
+.. csv-table:: Example: PSA 74:2
 
   הַר־צִ֝יֹּ֗ון **זֶ֤ה**\ ׀ שָׁכַ֬נְתָּ בֹּֽו׃
   har-tsiyyown **zeh** shakhanta bow
   Mount\_Zion **this** you-lived in-it.
   "Mount Zion, **where** you live."
 
--  PSA 104:26
-
-.. csv-table::
+.. csv-table:: Example: PSA 104:26
 
   לִ֝וְיָתָ֗ן \ **זֶֽה**\ ־יָצַ֥רְתָּ
   liwyathan **zeh**-yatsarta
@@ -209,9 +191,7 @@ Redundant
 
 The demonstrative pronoun does not always need to be translated.
 
--  GEN 47:6
-
-.. csv-table::
+.. csv-table:: Example: GEN 47:6
 
   אֶ֤רֶץ מִצְרַ֙יִם֙ לְפָנֶ֣יךָ הִ֔וא
   'erets mitsrayim lefaneykha **hiw**

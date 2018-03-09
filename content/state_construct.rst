@@ -57,18 +57,14 @@ Indefinite
 If all nouns form a construct chain and both are indefinite you can
 sometimes translate with an indefinite article.
 
--  2SA 17:25
-
-.. csv-table::
+.. csv-table:: Example: 2SA 17:25
 
   וַעֲמָשָׂ֣א **בֶן**\ ־אִ֗ישׁ וּשְׁמֹו֙ יִתְרָ֣א
   wa'amasa **ven**-'ish ushemow yithra
   and-Amasa **son-of**\ \_man and-his-name Jether
   Amasa was **a son of** a man named Jether
 
--  EXO 15:3
-
-.. csv-table::
+.. csv-table:: Example: EXO 15:3
 
   אִ֣ישׁ מִלְחָמָ֑ה
   **'ish** milhamah
@@ -84,9 +80,7 @@ Definite
 If the final, absolute, noun in a constuct chain is definite, the whole
 chain is definite.
 
--  JOS 4:9
-
-.. csv-table::
+.. csv-table:: Example: JOS 4:9
 
   אֲר֣וֹן הַבְּרִ֑ית
   **'aron** habberith
@@ -97,9 +91,7 @@ chain is definite.
 :ref:`state_determined`
 because it is in a construct chain with the definite הַבְּרִ֑ית.
 
--  1SA 20:27
-
-.. csv-table::
+.. csv-table:: Example: 1SA 20:27
 
   בֵּ֣ן לְיִשַׁי֮
   **ben** leyishay
@@ -125,9 +117,7 @@ Possessive
 A construct chain can function as showing that the word in the construct
 state is owned by the word (person) that is in the absolute state.
 
--  1KI 9:10
-
-.. csv-table::
+.. csv-table:: Example: 1KI 9:10
 
   בֵּ֥ית הַמֶּֽלֶךְ
   **beth** hammelekh
@@ -140,9 +130,7 @@ Material
 When the word in the construct state is an object, the word in the
 absolute state can indicate the material it is made of.
 
--  1KI 10:25
-
-.. csv-table::
+.. csv-table:: Example: 1KI 10:25
 
   כְּלֵ֣י כֶסֶף֩
   **kele** khesef
@@ -156,9 +144,7 @@ Sometimes one of the nouns in a construct chain can take on the function
 of an
 :ref:`adjective-attributive`.
 
--  ISA 6:13
-
-.. csv-table::
+.. csv-table:: Example: ISA 6:13
 
   זֶ֥רַע קֹ֖דֶשׁ
   **zera'** qodesh
@@ -175,9 +161,7 @@ If the word in a construct state is a
 :ref:`participle_active`,
 context can lead to a translatino with "with".
 
--  EXO 3:8
-
-.. csv-table::
+.. csv-table:: Example: EXO 3:8
 
   אֶ֛רֶץ \ **זָבַ֥ת** חָלָ֖ב וּדְבָ֑שׁ
   'erets **zavath** halav udevash
@@ -191,9 +175,7 @@ If a :ref:`noun_common`
 (in the construct state) is followed by a :ref:`noun_proper_name`
 (in the absolute state), they can mean the same thing.
 
--  EXO 7:19
-
-.. csv-table::
+.. csv-table:: Example: EXO 7:19
 
   אֶ֣רֶץ מִצְרַ֔יִם
   **'erets** mitsrayim
@@ -206,9 +188,7 @@ Result
 The noun in the construct state may be intended for a particular
 purpose, which is indicated by a noun in the absolute state.
 
--  PSA 44:22 (PSA 44:23 in Hebrew)
-
-.. csv-table::
+.. csv-table:: Example: PSA 44:22 (PSA 44:23 in Hebrew)
 
   כְּצֹ֣אן טִבְחָֽה
   **ketson** tivhah
@@ -221,9 +201,7 @@ Agent or means
 The word in the absolute state can indicate who or what is the cause of
 word in the construct state.
 
--  ISA 53:4
-
-.. csv-table::
+.. csv-table:: Example: ISA 53:4
 
   מֻכֵּ֥ה אֱלֹהִ֖ים
   **mukkeh** 'elohim
@@ -236,9 +214,7 @@ Superlative
 A construct chain can be used to indicate something is the most extreme
 in a certain category.
 
--  SNG 1:1
-
-.. csv-table::
+.. csv-table:: Example: SNG 1:1
 
   שִׁ֥יר הַשִּׁירִ֖ים
   **shir** hashirim
@@ -255,9 +231,7 @@ a
 or an :ref:`infinitive_construct`
 has a pronominal suffix, it is *always* in the construct state.
 
--  2SA 17:23
-
-.. csv-table::
+.. csv-table:: Example: 2SA 17:23
 
   וַיָּ֜קָם וַיֵּ֤לֶךְ אֶל־\ **בֵּיתוֹ֙** אֶל־עִיר֔וֹ
   wayyaqom wayyelekh 'el-**betho** 'el-**'iro**

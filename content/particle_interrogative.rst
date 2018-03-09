@@ -78,18 +78,14 @@ Paradigm
 Examples
 --------
 
--  GEN 43:7
-
-.. csv-table::
+.. csv-table:: Example: GEN 43:7
 
   הֲיֵ֣שׁ לָכֶ֣ם אָ֔ח
   **hayesh** lakhem 'ah
   **[quest.]-is-there** to-you brother
   **Do** you **have** a brother\ **?**
 
--  2SA 20:17
-
-.. csv-table::
+.. csv-table:: Example: 2SA 20:17
 
   הַאַתָּ֥ה יוֹאָ֖ב
   **ha'attah** yo'av
@@ -101,9 +97,7 @@ Examples
 
 איך and איכה = how? why? how!
 
--  PSA 137:4
-
-.. csv-table::
+.. csv-table:: Example: PSA 137:4
 
   אֵ֗יךְ נָשִׁ֥יר
   **'ekh** nashir
@@ -115,9 +109,7 @@ Examples
 
 אי and איה = where? where is?
 
--  GEN 4:9
-
-.. csv-table::
+.. csv-table:: Example: GEN 4:9
 
   אֵ֖י הֶ֣בֶל
   **'e** hevel
@@ -130,18 +122,14 @@ Examples
 The major temporal adverb is מָתַי "when?" It is often in the
 combination עַד־מָתַי "how long?"
 
--  JOB 7:4
-
-.. csv-table::
+.. csv-table:: Example: JOB 7:4
 
   מָתַ֣י אָ֭קוּם
   **mathay** 'aqum
   **When** will-I-get-up
   **How long will it be** until I get up?
 
--  PSA 74:10
-
-.. csv-table::
+.. csv-table:: Example: PSA 74:10
 
   עַד־מָתַ֣י אֱ֭לֹהִים יְחָ֣רֶף צָ֑ר
   **'ad-mathay** 'elohim yeharef tsar
@@ -153,9 +141,7 @@ combination עַד־מָתַי "how long?"
 
 לָמָ֪ה and לָֽמָּה‮‬ "why?"
 
--  PSA 42:9 (PSA 42:10 in Hebrew)
-
-.. csv-table::
+.. csv-table:: Example: PSA 42:9 (PSA 42:10 in Hebrew)
 
   "לָמָ֪ה שְׁכַ֫חְתָּ֥נִי **לָֽמָּה**\ ־קֹדֵ֥ר אֵלֵ֗ךְ בְּלַ֣חַץ
      אוֹיֵֽב׃"
@@ -170,9 +156,7 @@ combination עַד־מָתַי "how long?"
 
 מַדּ֖וּעַ why?
 
--  2KI 8:12
-
-.. csv-table::
+.. csv-table:: Example: 2KI 8:12
 
   מַדּ֖וּעַ אֲדֹנִ֣י בֹכֶ֑ה
   **maddua'** 'adoni vokheh
@@ -184,9 +168,7 @@ combination עַד־מָתַי "how long?"
 
 עַד־אָן how long?
 
--  JOB 8:2
-
-.. csv-table::
+.. csv-table:: Example: JOB 8:2
 
   עַד־אָ֥ן תְּמַלֶּל־אֵ֑לֶּה
   **'ad-'an** temallel-'elleh
@@ -198,9 +180,7 @@ combination עַד־מָתַי "how long?"
 
 אֵ֥י מִזֶּ֖ה from where?
 
--  1SA 25:11
-
-.. csv-table::
+.. csv-table:: Example: 1SA 25:11
 
   לַֽאֲנָשִׁ֔ים אֲשֶׁר֙ לֹ֣א יָדַ֔עְתִּי **אֵ֥י מִזֶּ֖ה** הֵֽמָּה׃
   la'anashim 'asher lo yada'ti **'e mizzeh** hemmah

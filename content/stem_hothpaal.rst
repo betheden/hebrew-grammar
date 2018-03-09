@@ -23,9 +23,7 @@ appoint").
 
 .. include:: includes/consult_dictionary.txt
 
--  LEV 13:55-56
-
-.. csv-table::
+.. csv-table:: Example: LEV 13:55-56
 
   "וְרָאָ֨ה הַכֹּהֵ֜ן אַחֲרֵ֣י ׀ **הֻכַּבֵּ֣ס** אֶת־הַנֶּ֗גַע ...
      וְהִנֵּה֙ כֵּהָ֣ה הַנֶּ֔גַע אַחֲרֵ֖י **הֻכַּבֵּ֣ס** אֹת֑וֹ"
@@ -36,9 +34,7 @@ appoint").
   "Then the priest will examine the item after the mildewed item **was
      washed** ... and if the mildew has faded after it **was washed**"
 
--  DEU 24:4
-
-.. csv-table::
+.. csv-table:: Example: DEU 24:4
 
   "לֹא־יוּכַ֣ל בַּעְלָ֣הּ הָרִאשֹׁ֣ון ... לִהְיֹ֧ות לֹ֣ו לְאִשָּׁ֗ה
      אַחֲרֵי֙ אֲשֶׁ֣ר הֻטַּמָּ֔אָה"

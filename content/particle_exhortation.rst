@@ -30,9 +30,7 @@ a more general expression of emotion.
 When used with a command, נָא is usually translated as "now" in English
 (or left untranslated).
 
--  ISA 51:21
-
-.. csv-table::
+.. csv-table:: Example: ISA 51:21
 
   לָכֵ֛ן שִׁמְעִי־\ **נָ֥א** זֹ֖את
   lakhen shim'i-\ **na** zoth
@@ -42,9 +40,7 @@ When used with a command, נָא is usually translated as "now" in English
 When used as part of a request, נָא is usually translated as "please" in
 English (or left untranslated).
 
--  AMO 7:2
-
-.. csv-table::
+.. csv-table:: Example: AMO 7:2
 
   אֲדֹנָ֤י יְהוִה֙ סְֽלַֽח־נָ֔א
   'adonay yehwih selah-\ **na**
@@ -56,9 +52,7 @@ possible, but not necessary. The emotive context of each attestation
 must determine whether to render the word in translation or to leave it
 untranslated.
 
--  JON 1:14
-
-.. csv-table::
+.. csv-table:: Example: JON 1:14
 
   אַל־\ **נָ֣א** נֹאבְדָ֗ה
   'al-**na** novedah
@@ -74,9 +68,7 @@ or desperation, as in the example below. In some instances, this
 particle could also be classified as an
 :ref:`particle_interjection`.
 
--  PSA 118:25
-
-.. csv-table::
+.. csv-table:: Example: PSA 118:25
 
   "אָנָּ֣א יְ֭הוָה הֹושִׁ֘יעָ֥ה **נָּ֑א אָֽנָּ֥א** יְ֝הוָ֗ה הַצְלִ֘יחָ֥ה
      **נָּֽא**\ ׃"
@@ -96,9 +88,7 @@ of the statement that follows. It is used for addressing someone who is
 superior. In English, it can be translated as "oh" or "pray" or
 "please", etc.
 
--  1KI 3:26
-
-.. csv-table::
+.. csv-table:: Example: 1KI 3:26
 
   בִּ֣י אֲדֹנִ֗י תְּנוּ־לָהּ֙ אֶת־הַיָּל֣וּד הַחַ֔י
   **bi** 'adoni tenu-lah 'eth-hayyalud hahay

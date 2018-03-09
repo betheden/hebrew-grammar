@@ -69,18 +69,14 @@ and
 :ref:`participle_active`;
 in those cases, the infinitive absolute follows.
 
--  GEN 2:16 – Infinitive absolute expressing intensity of action
-
-.. csv-table::
+.. csv-table:: Example: GEN 2:16 – Infinitive absolute expressing intensity of action
 
   מִכֹּ֥ל עֵֽץ־הַגָּ֖ן **אָכֹ֥ל** תֹּאכֵֽל
   mikkol 'ets-haggan **'akhol** tokhel
   from-every tree-of\_the-garden **eating** you-may-eat
   From every tree in the garden you may **freely** eat.
 
--  GEN 2:17 – Infinitive absolute expressing certainty of action
-
-.. csv-table::
+.. csv-table:: Example: GEN 2:17 – Infinitive absolute expressing certainty of action
 
   בְּי֛וֹם אֲכָלְךָ֥ מִמֶּ֖נּוּ **מ֥וֹת** תָּמֽוּת
   beyom 'akholkha mimmennu **moth** tamuth
@@ -96,9 +92,7 @@ treated with great sensitivity to the context for precise nuance of
 meaning. The examples listed below are not comprehensive, but only
 provide a sampling of potential options for the exact meaning.
 
--  JOB 40:2
-
-.. csv-table::
+.. csv-table:: Example: JOB 40:2
 
   הֲ֭רֹב עִם־שַׁדַּ֣י יִסּ֑וֹר
   harov 'im-shadday **yissor**
@@ -145,9 +139,7 @@ Complements the action of the main verb
 An infinitive absolute (or a pair of infinitive absolutes) can follow a
 finite verb of a different root to describe complementary action.
 
--  GEN 30:32 – a single infinitive absolute functioning adverbially
-
-.. csv-table::
+.. csv-table:: Example: GEN 30:32 – a single infinitive absolute functioning adverbially
 
   "אֶֽעֱבֹ֨ר בְּכָל־צֹֽאנְךָ֜ הַיּ֗וֹם **הָסֵ֨ר** מִשָּׁ֜ם כָּל־שֶׂ֣ה׀
      נָקֹ֣ד וְטָל֗וּא"
@@ -157,9 +149,7 @@ finite verb of a different root to describe complementary action.
   "Let me walk through all your flock today, **removing** from it every
      speckled and spotted sheep"
 
--  1SA 3:12 – a pair of infinitive absolutes functioning adverbially
-
-.. csv-table::
+.. csv-table:: Example: 1SA 3:12 – a pair of infinitive absolutes functioning adverbially
 
   בַּיּ֤וֹם הַהוּא֙ אָקִ֣ים ... הָחֵ֖ל וְכַלֵּֽה
   bayyom hahu' 'aqim ... **hahel wekhalleh**
@@ -174,9 +164,7 @@ The infinitive absolute (and sometimes the
 of the specific root הלךְ can be used to express a sense of progression
 or continuance of the action of a main verb.
 
--  Gen 8:3
-
-.. csv-table::
+.. csv-table:: Example: Gen 8:3
 
   וַיָּשֻׁ֧בוּ הַמַּ֛יִם מֵעַ֥ל הָאָ֖רֶץ הָל֣וֹךְ וָשׁ֑וֹב
   wayyashuvu hammayim me'al ha'arets **halokh washov**
@@ -184,18 +172,14 @@ or continuance of the action of a main verb.
      and-returning**"
   The flood waters receded from off the earth **continually**.
 
--  2SA 18:25
-
-.. csv-table::
+.. csv-table:: Example: 2SA 18:25
 
   וַיֵּ֥לֶךְ הָל֖וֹךְ וְקָרֵֽב
   wayyelekh **halokh weqarev**
   and-he-walked **going and-approaching**
   The runner came **closer and neared** the city.
 
--  JDG 14:9
-
-.. csv-table::
+.. csv-table:: Example: JDG 14:9
 
   וַיֵּ֤לֶךְ הָלוֹךְ֙ וְאָכֹ֔ל
   wayyelekh **halokh we'akhol**

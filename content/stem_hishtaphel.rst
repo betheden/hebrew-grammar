@@ -40,9 +40,7 @@ Paradigm
 Examples
 --------
 
--  RUT 2:10
-
-.. csv-table::
+.. csv-table:: Example: RUT 2:10
 
   וַתִּפֹּל֙ עַל־פָּנֶ֔יהָ **וַתִּשְׁתַּ֖חוּ** אָ֑רְצָה
   wattippol 'al-paneyha **wattishtahu** 'artsah

@@ -47,9 +47,7 @@ Function
 Dual does not just mean two. It means that the two usually come in
 pairs, such as eyes עֵינַ֥יִם or ears אָזְנַ֣יִם.
 
--  DEU 29:4 (DEU 29:3 in Hebrew)
-
-.. csv-table::
+.. csv-table:: Example: DEU 29:4 (DEU 29:3 in Hebrew)
 
   "וְלֹֽא־נָתַן֩ יְהוָ֨ה לָכֶ֥ם לֵב֙ לָדַ֔עַת **וְעֵינַ֥יִם** לִרְא֖וֹת
      **וְאָזְנַ֣יִם** לִשְׁמֹ֑עַ"

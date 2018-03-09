@@ -265,18 +265,14 @@ hireq-yod vowel) shortens to a tsere vowel.
 Examples
 --------
 
--  GEN 16:2 –– expressing simple action (dynamic verb)
-
-.. csv-table::
+.. csv-table:: Example: GEN 16:2 –– expressing simple action (dynamic verb)
 
   וַתֹּ֨אמֶר שָׂרַ֜י אֶל־אַבְרָ֗ם
   **wattomer** saray 'el-'avram
   **And-she-said** Sarai to\_Abram
   So Sarai **said** to Abram
 
--  GEN 6:11 –– expressing stative action (stative verb)
-
-.. csv-table::
+.. csv-table:: Example: GEN 6:11 –– expressing stative action (stative verb)
 
   וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס
   **wattimmale** ha'arets hamas

@@ -69,9 +69,7 @@ Form
 Examples
 --------
 
--  ISA 40:24
-
-.. csv-table::
+.. csv-table:: Example: ISA 40:24
 
   אַ֛ף בַּל־\ **שֹׁרֵ֥שׁ** בָּאָ֖רֶץ גִּזְעָ֑ם
   'af bal-\ **shoresh** ba'arets giz'am

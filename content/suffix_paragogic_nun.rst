@@ -22,27 +22,21 @@ The Paragogic Nun is a נ that is sometimes found at the end of a plural
 (and therefore looks like this: ן). It seems to give the verb some extra
 emphasis, but it does not change the meaning or the translation.
 
--  EXO 15:14
-
-.. csv-table::
+.. csv-table:: Example: EXO 15:14
 
   שָֽׁמְע֥וּ עַמִּ֖ים יִרְגָּז֑וּן
   shame'u 'ammim **yirgazun**
   They-will-hear peoples **they-will-tremble**
   "The peoples will hear, and **they will tremble**"
 
--  DEU 1:17
-
-.. csv-table::
+.. csv-table:: Example: DEU 1:17
 
   כַּקָּטֹ֤ן כַּגָּדֹל֙ תִּשְׁמָע֔וּן
   kaqqaton kaggadol **tishma'un**
   like-the-small like-the-great **you-will-hear**
   **you will hear** the small and the great alike
 
--  PSA 104:28
-
-.. csv-table::
+.. csv-table:: Example: PSA 104:28
 
   תִּתֵּ֣ן לָ֭הֶם יִלְקֹט֑וּן
   titten lahem **yilqotun**

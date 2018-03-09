@@ -40,18 +40,14 @@ Form
 Examples
 --------
 
--  DAN 11:11 –– יִתְמַרְמַר comes from the root מרר
-
-.. csv-table::
+.. csv-table:: Example: DAN 11:11 –– יִתְמַרְמַר comes from the root מרר
 
   וְיִתְמַרְמַר֙ מֶ֣לֶךְ הַנֶּ֔גֶב
   **weyithmarmar** melekh hannegev
   **And-he-will-be-very-angry** king-of the-South
   **Then** the king of the South **will become very angry**
 
--  PSA 119:16 –– אֶשְׁתַּעֲשָׁ֑ע comes from the root שׁעע
-
-.. csv-table::
+.. csv-table:: Example: PSA 119:16 –– אֶשְׁתַּעֲשָׁ֑ע comes from the root שׁעע
 
   בְּחֻקֹּתֶ֥יךָ אֶשְׁתַּעֲשָׁ֑ע
   behuqqotheykha **'eshta'asha'**

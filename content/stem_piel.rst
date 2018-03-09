@@ -162,9 +162,7 @@ or passive action ("to be comforted"). But in the Piel stem, the verb
 will indicate the different meanings for these verbs in the various stem
 formations.
 
--  RUT 2:13
-
-.. csv-table::
+.. csv-table:: Example: RUT 2:13
 
   כִּ֣י נִֽחַמְתָּ֔נִי
   ki **nihamtani**
@@ -177,9 +175,7 @@ simple action "to gather" in both the :ref:`stem_qal`
 and the Piel stem. This also will be indicated by a dictionary or
 lexicon.
 
--  JDG 19:18
-
-.. csv-table::
+.. csv-table:: Example: JDG 19:18
 
   וְאֵ֣ין אִ֔ישׁ **מְאַסֵּ֥ף** אוֹתִ֖י הַבָּֽיְתָה
   we'en 'ish **me'assef** 'othi habbayethah
@@ -194,9 +190,7 @@ result of the verbal action. A good example is the verb שָׁלַח. In the
 Qal stem, the verb שָׁלַח means "to send" or "to stretch out". But in the
 Piel stem, the verb שָׁלַח means "to send away".
 
--  GEN 21:6
-
-.. csv-table::
+.. csv-table:: Example: GEN 21:6
 
   וַיִּתֵּ֣ן ... וְאֶת־הַיֶּ֖לֶד וַֽיְשַׁלְּחֶ֑הָ
   wayyitten ... we'eth-hayyeled **wayeshalleheha**
@@ -224,9 +218,7 @@ verbal element.
           Thus, a verb that is transitive in the Piel stem may be intransitive in
           the Qal and/or Niphal stems.
 
--  JOB 38:12 –– expressing causative action with a dynamic verb
-
-.. csv-table::
+.. csv-table:: Example: JOB 38:12 –– expressing causative action with a dynamic verb
 
   הְֽ֭מִיָּמֶיךָ צִוִּ֣יתָ בֹּ֑קֶר **יִדַּ֖עְתָּ** שַׁחַר מְקֹמֽוֹ
   hemiyyameykha tsiwwitha boqer **yidda'ta** shahar meqomo
@@ -235,9 +227,7 @@ verbal element.
   "Have you ever, since your own days began, given orders to the morning
      to begin, and **caused** the morning dawn **to know** its place"
 
--  GEN 21:19 –– expressing causative action with a stative verb
-
-.. csv-table::
+.. csv-table:: Example: GEN 21:19 –– expressing causative action with a stative verb
 
   וַתֵּ֜לֶךְ **וַתְּמַלֵּ֤א** אֶת־הַחֵ֙מֶת֙ מַ֔יִם
   wattelekh **wattemalle** 'eth-hahemeth mayim
@@ -254,9 +244,7 @@ shatter" or "to break in pieces". A dictionary or lexicon will indicate
 an intensive nuance in comparison with the meaning of the verb in other
 stem formations.
 
--  EXO 9:25
-
-.. csv-table::
+.. csv-table:: Example: EXO 9:25
 
   אֶת־מִזְבְּחֹתָם֙ תִּתֹּצ֔וּן וְאֶת־מַצֵּבֹתָ֖ם תְּשַׁבֵּר֑וּן
   'eth-mizbehotham tittotsun we'eth-matsevotham **teshabberun**

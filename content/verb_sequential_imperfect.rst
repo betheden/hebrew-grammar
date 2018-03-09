@@ -181,18 +181,14 @@ verbal actions:
 Completed actions, or actions in the past
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  GEN 12:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 12:1
 
   וַיֹּ֤אמֶר יְהוָה֙ אֶל־אַבְרָ֔ם
   **wayyomer** yehwah 'el-'avram
   **and-he-said** Yahweh to\_Abram
   **Now** Yahweh **said** to Abram
 
--  GEN 13:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 13:1
 
   וַיַּעַל֩ אַבְרָ֨ם מִמִּצְרַ֜יִם
   **wayya'al** 'avram mimmitsrayim
@@ -215,9 +211,7 @@ or in a passive
   **and-he-remained** Abraham in-Beer Sheba
   **and** Abraham **lived** at Beersheba.
 
--  GEN 21:8
-
-.. csv-table::
+.. csv-table:: Example: GEN 21:8
 
   וַיִּגְדַּ֥ל הַיֶּ֖לֶד וַיִּגָּמַ֑ל
   **wayyigdal** hayyeled **wayyiggamal**
@@ -227,18 +221,14 @@ or in a passive
 Actions that are paired together in a sentence (often with the verb היה)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  JOB 1:6
-
-.. csv-table::
+.. csv-table:: Example: JOB 1:6
 
   וַיְהִ֣י הַיּ֔וֹם **וַיָּבֹ֙אוּ֙** בְּנֵ֣י הָאֱלֹהִ֔ים
   **wayhi** hayyom **wayyavo'u** bene ha'elohim
   **and-it-came** the-day **and-they-went** sons-of the-God
   **And then came** the day **when** the sons of God **came**
 
--  JUD 19:27
-
-.. csv-table::
+.. csv-table:: Example: JUD 19:27
 
   וַיָּ֨קָם אֲדֹנֶ֜יהָ בַּבֹּ֗קֶר **וַיִּפְתַּח֙** דַּלְת֣וֹת הַבַּ֔יִת
   **wayyaqom** 'adoneyha babboqer **wayyiftah** dalthoth habbayith
@@ -247,9 +237,7 @@ Actions that are paired together in a sentence (often with the verb היה)
   "Her master **rose up** in the morning **and opened** the doors of the
      house"
 
--  GEN 1:28
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:28
 
   וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ **וַיֹּ֨אמֶר** לָהֶ֜ם אֱלֹהִ֗ים
   wayvarekh 'otham 'elohim wayyomer lahem 'elohim

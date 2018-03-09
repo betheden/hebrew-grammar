@@ -33,9 +33,7 @@ concepts of affirmation or addition. Sometimes it is left untranslated,
 in instances where there is no satisfactory way to communicate the sense
 of the word as used in its specific context.
 
--  ISA 40:24
-
-.. csv-table::
+.. csv-table:: Example: ISA 40:24
 
   "אַ֣ף בַּל־נִטָּ֗עוּ **אַ֚ף** בַּל־זֹרָ֔עוּ **אַ֛ף** בַּל־שֹׁרֵ֥שׁ
      בָּאָ֖רֶץ גִּזְעָ֑ם"
@@ -46,27 +44,21 @@ of the word as used in its specific context.
   "**See**, they are barely planted; **see**, they are barely sown;
      **see**, their stem has barely taken root in the earth"
 
--  PSA 65:14 (PSA 65:13 in Hebrew)
-
-.. csv-table::
+.. csv-table:: Example: PSA 65:14 (PSA 65:13 in Hebrew)
 
   יִ֝תְרוֹעֲע֗וּ **אַף**\ ־יָשִֽׁירוּ
   yithro'a'u **'af**-yashiru
   They-shout-for-joy **yes**\ \_they-sing.
   "They shout for joy, **and** they sing."
 
--  GEN 40:16
-
-.. csv-table::
+.. csv-table:: Example: GEN 40:16
 
   וַיֹּ֙אמֶר֙ אֶל־יוֹסֵ֔ף **אַף**\ ־אֲנִי֙ בַּחֲלוֹמִ֔י
   wayyomer 'el-yosef **'af**-'aniy bahalomi
   and-he-said to\_Joseph **also**\ \_I in-my-dream
   "he also said to Joseph, ""I **also** had a dream"
 
--  JOB 14:3
-
-.. csv-table::
+.. csv-table:: Example: JOB 14:3
 
   אַף־עַל־זֶ֭ה פָּקַ֣חְתָּ עֵינֶ֑ךָ
   **'af**-'al-zeh paqahta 'enekha
@@ -85,18 +77,14 @@ often translated with a family of different words, including "also",
 "indeed", "even", and/or other terms that can convey the general
 concepts of affirmation or addition.
 
--  GEN 27:33
-
-.. csv-table::
+.. csv-table:: Example: GEN 27:33
 
   גַּם־בָּר֖וּךְ יִהְיֶֽה
   **gam**-barukh yihyeh
   **Indeed**\ \_blessed he.
   "**Indeed**, he will be blessed."
 
--  JOB 21:7
-
-.. csv-table::
+.. csv-table:: Example: JOB 21:7
 
   מַדּ֣וּעַ רְשָׁעִ֣ים יִחְי֑וּ עָ֝תְק֗וּ **גַּם**\ ־גָּ֥בְרוּ חָֽיִל
   maddua' resha'im yihyu 'othqu **gam**-gavru hayil
@@ -109,9 +97,7 @@ concepts of affirmation or addition.
 
 .. include:: includes/ci_flexible.txt
 
--  EXO 3:12
-
-.. csv-table::
+.. csv-table:: Example: EXO 3:12
 
   וַיֹּ֙אמֶר֙ **כִּֽי**\ ־אֶֽהְיֶ֣ה עִמָּ֔ךְ
   wayyomer **ki**-'eheyeh 'immakh
@@ -126,9 +112,7 @@ expressing a strong sense of affirmation or addition. Again, this
 compound particle must be translated with extreme sensitivity to the
 context in order to convey its precise nuance.
 
--  GEN 3:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 3:1
 
   אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים
   **'af ki**-'amar 'elohim
@@ -142,18 +126,14 @@ When the word אִם follows oath formulas, it functions as an affirmation
 particle to strengthen the force of the oath, either negatively (as אִם
 alone) or positively (as אִם־לֹא).
 
--  GEN 42:15 —— expressing emphatic negation
-
-.. csv-table::
+.. csv-table:: Example: GEN 42:15 —— expressing emphatic negation
 
   חֵ֤י פַרְעֹה֙ **אִם**\ ־תֵּצְא֣וּ מִזֶּ֔ה
   he far'oh **'im**-tetse'u mizzeh
   life-of pharaoh **if**\ \_you-will-go-out from-this
   "**by** the life of Pharaoh, you will not leave here"
 
--  NUM 14:28 –– expressing emphatic affirmation
-
-.. csv-table::
+.. csv-table:: Example: NUM 14:28 –– expressing emphatic affirmation
 
   חַי־אָ֨נִי֙ נְאֻם־יְהוָ֔ה **אִם**\ ־לֹ֕א
   hay-'aniy ne'um-yehwah **'im**-lo

@@ -39,9 +39,7 @@ Form
 Example
 -------
 
--  JER 12:2
-
-.. csv-table::
+.. csv-table:: Example: JER 12:2
 
   נְטַעְתָּם֙ גַּם־שֹׁרָ֔שׁוּ
   neta'tam gam-\ **shorashu**

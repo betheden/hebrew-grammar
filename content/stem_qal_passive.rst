@@ -26,18 +26,14 @@ or a
 :ref:`stem_hophal`.
 This distinction is not important for meaning or translation.
 
--  GEN 6:1 –– alternatively identified as Pual
-
-.. csv-table::
+.. csv-table:: Example: GEN 6:1 –– alternatively identified as Pual
 
   וּבָנ֖וֹת **יֻלְּד֥וּ** לָהֶֽם׃
   uvanoth **yulledu** lahem
   and-daughters **were-born** to-them
   and daughters **were born** to them
 
--  JDG 6:28 –– alternatively identified as Pual
-
-.. csv-table::
+.. csv-table:: Example: JDG 6:28 –– alternatively identified as Pual
 
   וְהָאֲשֵׁרָ֥ה אֲשֶׁר־עָלָ֖יו כֹּרָ֑תָה
   weha'asherah 'asher-'alayw **korathah**

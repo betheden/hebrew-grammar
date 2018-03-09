@@ -38,27 +38,21 @@ the attached
           vowel with an attached suffix (אוֹתִי or אֹתִי), whereas the preposition
           takes a hireq vowel (אִתִּי) with an attached suffix.
 
--  GEN 1:1 –– marking individual nouns as direct objects
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:1 –– marking individual nouns as direct objects
 
   בָּרָ֣א אֱלֹהִ֑ים **אֵ֥ת** הַשָּׁמַ֖יִם **וְאֵ֥ת** הָאָֽרֶץ׃
   ara 'elohim **'eth** hashamayim **we'eth** ha'arets
   he-created God **[dir.obj]** the-heavens **and-[dir.obj]** the-earth
   God created the heavens and the earth
 
--  GEN 1:29 –– marking an entire phrase as the direct object
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:29 –– marking an entire phrase as the direct object
 
   נָתַ֨תִּי לָכֶ֜ם **אֶת**\ ־כָּל־עֵ֣שֶׂב׀ זֹרֵ֣עַ זֶ֗רַע
   nathatti lakhem **'eth**-kol-'esev zorea' zera'
   I-have-given to-you **[dir.obj]**\ \_every\_plant seeding seed
   I have given you every plant yielding seed
 
--  GEN 2:10 –– marking the direct object of a non-finite verb
-
-.. csv-table::
+.. csv-table:: Example: GEN 2:10 –– marking the direct object of a non-finite verb
 
   וְנָהָרּ֙ יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת **אֶת**\ ־הַגָּ֑ן
   wenahar yotse me'eden lehashqoth **'eth**-haggan
@@ -66,9 +60,7 @@ the attached
      **[dir.obj]**\ \_the-garden"
   A river went out of Eden to water the garden.
 
--  JDG 10:13 –– with 1st common singular pronominal suffix
-
-.. csv-table::
+.. csv-table:: Example: JDG 10:13 –– with 1st common singular pronominal suffix
 
   וְאַתֶּם֙ עֲזַבְתֶּ֣ם אֹותִ֔י
   we'attem 'azavtem **'owthi**

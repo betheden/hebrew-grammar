@@ -20,18 +20,14 @@ absolute state function like attributive
 Some scholars call these "gentilic adjectives" instead of gentilic
 nouns, and either term is grammatically correct.
 
--  GEN 16:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 16:1
 
   וְלָ֛הּ שִׁפְחָ֥ה מִצְרִ֖ית
   
   And-to-her slave-girl **Egyptian**
   "but she had a female servant, **an Egyptian,**"
 
--  LEV 24:10
-
-.. csv-table::
+.. csv-table:: Example: LEV 24:10
 
   "וַיֵּצֵא֙ בֶּן־אִשָּׁ֣ה **יִשְׂרְאֵלִ֔ית** וְהוּא֙ בֶּן־אִ֣ישׁ
      מִצְרִ֔י"

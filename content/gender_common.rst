@@ -46,9 +46,7 @@ Examples
   House-of Jacob come **and-let-us-walk** in-light-of Yahweh.
   "House of Jacob, come, **and let us walk** in the light of Yahweh."
 
--  ISA 28:7 - with the plural "near" form of the :ref:`pronoun_demonstrative`
-
-.. csv-table::
+.. csv-table:: Example: ISA 28:7 - with the plural "near" form of the :ref:`pronoun_demonstrative`
 
   וְגַם־\ **אֵ֨לֶּה֙** בַּיַּ֣יִן שָׁג֔וּ
   wegam-\ **'elleh** bayyayin shagu

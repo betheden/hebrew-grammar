@@ -101,9 +101,7 @@ More than one
 
 This is the normal kind of plural, meaning more than one of a thing.
 
--  ECC 10:7
-
-.. csv-table::
+.. csv-table:: Example: ECC 10:7
 
   רָאִ֥יתִי **עֲבָדִ֖ים** עַל־סוּסִ֑ים
   ra'ithi **'avadim** 'al-**susim**
@@ -116,18 +114,14 @@ Plural of extension
 Some nouns can be singular or plural even though they look plural.
 Heaven/heavens and water/waters are common examples.
 
--  GEN 1:1
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:1
 
   בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם
   bereshith bara 'elohim 'eth **hashamayim**
   In-beginning he-created God [dir.obj] **the-heavens**
   In the beginning God created the **heavens**
 
--  GEN 1:2
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:2
 
   וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י **הַמָּֽיִם**\ ׃
   weruah 'elohim merahefeth 'al-pene **hammayim**
@@ -141,18 +135,14 @@ Some plural words in Hebrew are translated as singular in other
 languages. In English, abstract plurals are often singular and have
 endings like -ness, -hood, and -ship.
 
--  GEN 19:11
-
-.. csv-table::
+.. csv-table:: Example: GEN 19:11
 
   הִכּוּ֙ בַּסַּנְוֵרִ֔ים
   hikku **bassanwerim**
   they-hit **with-the-blindnesses**
   they struck them **with blindness**
 
--  GEN 21:7
-
-.. csv-table::
+.. csv-table:: Example: GEN 21:7
 
   כִּֽי־יָלַ֥דְתִּי בֵ֖ן **לִזְקֻנָֽיו**\ ׃
   ki-yaladti ven **lizqunayw**
@@ -165,18 +155,14 @@ Summing up different parts of an action.
 Hebrew uses plurals for actions that have multiple parts, such as
 embalming or committing adultery.
 
--  GEN 50:3
-
-.. csv-table::
+.. csv-table:: Example: GEN 50:3
 
   כִּ֛י כֵּ֥ן יִמְלְא֖וּ יְמֵ֣י הַחֲנֻטִ֑ים
   ki ken yimle'u yeme **hahanutim**
   for so are-filled days-of **the-embalmings**.
   for that was the full time for **embalming**.
 
--  JER 13:27
-
-.. csv-table::
+.. csv-table:: Example: JER 13:27
 
   נִֽאֻפַ֤יִךְ וּמִצְהֲלוֹתַ֙יִךְ֙ ... רָאִ֖יתִי
   **ni'ufayikh umitshalothayikh** ... ra'ithi
@@ -189,9 +175,7 @@ Adjectives
 If the noun or person to which the adjective relates is plural, the
 adjective is also plural.
 
--  DEU 8:12
-
-.. csv-table::
+.. csv-table:: Example: DEU 8:12
 
   וּבָתִּ֥ים **טֹובִ֛ים** תִּבְנֶ֖ה וְיָשָֽׁבְתָּ׃
   uvottim **towvim** tivneh weyashavetta
@@ -204,9 +188,7 @@ Verbs
 If the noun or person to which the verb relates is plural, the verb is
 also plural.
 
--  JER 43:7
-
-.. csv-table::
+.. csv-table:: Example: JER 43:7
 
   כִּ֛י לֹ֥א **שָׁמְע֖וּ** בְּק֣וֹל יְהוָ֑ה
   ki lo **shom'u** beqol yehwah
@@ -216,18 +198,14 @@ also plural.
 Personal pronouns and suffixes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  JOS 2:18
-
-.. csv-table::
+.. csv-table:: Example: JOS 2:18
 
   הִנֵּ֛ה **אֲנַ֥חְנוּ** בָאִ֖ים בָּאָ֑רֶץ
   hinneh **'anahnu** va'im ba'arets
   behold **we** coming-in in-the-land
   "behold, when **we** come into the land"
 
--  EZR 9:12
-
-.. csv-table::
+.. csv-table:: Example: EZR 9:12
 
   "וְ֠עַתָּה **בְּֽנֹותֵיכֶ֞ם** אַל־תִּתְּנ֣וּ **לִבְנֵיהֶ֗ם
      וּבְנֹֽתֵיהֶם֙** אַל־תִּשְׂא֣וּ לִבְנֵיכֶ֔ם"

@@ -34,18 +34,14 @@ Who / Whoever
 As a subject
 ~~~~~~~~~~~~
 
--  JDG 7:3
-
-.. csv-table::
+.. csv-table:: Example: JDG 7:3
 
   מִֽי־יָרֵ֣א
   **mi**-yare
   **Who**\ \_fears
   **Whoever** is afraid
 
--  EXO 32:26
-
-.. csv-table::
+.. csv-table:: Example: EXO 32:26
 
   מִ֥י לַיהוָ֖ה אֵלָ֑י
   **mi** layhwah 'elay
@@ -55,9 +51,7 @@ As a subject
 Embedded question
 ^^^^^^^^^^^^^^^^^
 
--  GEN 21:26
-
-.. csv-table::
+.. csv-table:: Example: GEN 21:26
 
   לֹ֣א יָדַ֔עְתִּי **מִ֥י** עָשָׂ֖ה אֶת־הַדָּבָ֣ר הַזֶּ֑ה
   lo yada'ti **mi** 'asah 'eth-haddavar hazzeh
@@ -67,18 +61,14 @@ Embedded question
 When followed by the :ref:`particle_relative` אֲשֶׁר.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  EXO 32:33
-
-.. csv-table::
+.. csv-table:: Example: EXO 32:33
 
   מִ֚י אֲשֶׁ֣ר חָֽטָא־לִ֔י
   **mi** 'asher hata-li
   **Who** which sinned\_to-me
   **Whoever** has sinned against me
 
--  JDG 10:18
-
-.. csv-table::
+.. csv-table:: Example: JDG 10:18
 
   מִ֣י הָאִ֔ישׁ אֲשֶׁ֣ר יָחֵ֔ל לְהִלָּחֵ֖ם בִּבְנֵ֣י עַמּ֑וֹן
   **mi** ha'ish 'asher yahel lehillahem bivne 'ammon
@@ -93,18 +83,14 @@ What / Whatever
 As a subject
 ~~~~~~~~~~~~
 
--  1SA 20:4
-
-.. csv-table::
+.. csv-table:: Example: 1SA 20:4
 
   מַה־תֹּאמַ֥ר נַפְשְׁךָ֖ וְאֶֽעֱשֶׂה־לָּֽךְ
   **mah**-ttomar nafshekha we'e'eseh-llakh
   **What**\ \_you-say my-soul and-I-will-do\_for-you.
   "**Whatever** you say, I will do for you."
 
--  NUM 23:3
-
-.. csv-table::
+.. csv-table:: Example: NUM 23:3
 
   מַה־יַּרְאֵ֖נִי וְהִגַּ֣דְתִּי לָ֑ךְ
   **mah**-yyar'eni wehiggadti lakh
@@ -114,9 +100,7 @@ As a subject
 When followed by the relative particle -שׁ.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  ECC 3:15
-
-.. csv-table::
+.. csv-table:: Example: ECC 3:15
 
   מַה־שֶּֽׁהָיָה֙ כְּבָ֣ר ה֔וּא
   **mah**-shehayah kevar hu

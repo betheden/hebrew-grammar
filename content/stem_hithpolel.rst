@@ -93,18 +93,14 @@ Form
 Examples
 --------
 
--  EXO 9:17 –– מִסְתּוֹלֵל comes from the root סלל
-
-.. csv-table::
+.. csv-table:: Example: EXO 9:17 –– מִסְתּוֹלֵל comes from the root סלל
 
   עֹודְךָ֖ **מִסְתֹּולֵ֣ל** בְּעַמִּ֑י
   'owdkha **mistowlel** be'ammi
   Still-you **lifting-up-yourself** against-my-people
   You **are** still **lifting yourself up** against my people
 
--  PSA 143:4 –– יִשְׁתּוֹמֵם comes from the root שׁמם
-
-.. csv-table::
+.. csv-table:: Example: PSA 143:4 –– יִשְׁתּוֹמֵם comes from the root שׁמם
 
   בְּ֝תֹוכִ֗י **יִשְׁתֹּומֵ֥ם** לִבִּֽי׃
   bethowkhi **yishtowmem** libbi

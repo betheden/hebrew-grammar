@@ -157,9 +157,7 @@ The Jussive form can indicate any of the following kinds of actions:
 Indirect commands
 ~~~~~~~~~~~~~~~~~
 
--  GEN 1:14
-
-.. csv-table::
+.. csv-table:: Example: GEN 1:14
 
   יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם
   **yehi** me'oroth birqia' hashamayim
@@ -169,9 +167,7 @@ Indirect commands
 Direct negative commands (2nd person forms with negative particle אַל)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  JOB 41:8
-
-.. csv-table::
+.. csv-table:: Example: JOB 41:8
 
   זְכֹ֥ר מִ֝לְחָמָ֗ה אַל־תּוֹסַֽף
   zekhor milhamah 'al-**tosaf**
@@ -184,27 +180,21 @@ Actions of greater or lesser desirability
 These may include instructions, requests, permissions, invitations,
 assurances, wishes, etc.
 
--  GEN 24:51
-
-.. csv-table::
+.. csv-table:: Example: GEN 24:51
 
   וּתְהִ֤י אִשָּׁה֙ לְבֶן־אֲדֹנֶ֔יךָ
   **uthehi** 'ishah leven-'adoneykha
   **and-let-her-be** wife to-son-of your-lord
   **so she may be** the wife of your master's son
 
--  PSA 45:11
-
-.. csv-table::
+.. csv-table:: Example: PSA 45:11
 
   וְיִתְאָ֣ו הַמֶּ֣לֶךְ יָפְיֵ֑ךְ
   **weyith'aw** hammelekh yofyekh
   **and-let-him-desire** the-king your-beauty
   In this way the king **will desire** your beauty
 
--  PSA 104:20
-
-.. csv-table::
+.. csv-table:: Example: PSA 104:20
 
   תָּֽשֶׁת־חֹ֭שֶׁךְ **וִ֣יהִי** לָ֑יְלָה
   tasheth-hoshekh **wihi** laylah

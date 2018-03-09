@@ -41,18 +41,14 @@ and :ref:`pronoun_demonstrative`.
 :ref:`noun_proper_name`
 ^^^^^^^^^^^^^^^^^^^^^^^
 
--  1SA 9:17
-
-.. csv-table::
+.. csv-table:: Example: 1SA 9:17
 
   וּשְׁמוּאֵ֖ל רָאָ֣ה אֶת־\ **שָׁא֑וּל וַיהוָ֣ה** עָנָ֔הוּ
   **ushemu'el** ra'ah 'eth-**sha'ul wayhwah** 'anahu
   **And-Samuel** saw [dir.obj]\_**Saul and-Yahweh** answered-him
   "**When Samuel** saw **Saul**, **Yahweh** told him"
 
--  1CH 21:4
-
-.. csv-table::
+.. csv-table:: Example: 1CH 21:4
 
   "וַיֵּצֵ֣א **יֹואָ֗ב** וַיִּתְהַלֵּךְ֙ בְּכָל־\ **יִשְׂרָאֵ֔ל**
      וַיָּבֹ֖א **יְרוּשָׁלִָֽם**\ ׃"
@@ -66,18 +62,14 @@ and :ref:`pronoun_demonstrative`.
 :ref:`pronoun_personal`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  JER 12:1
-
-.. csv-table::
+.. csv-table:: Example: JER 12:1
 
   צַדִּ֤יק אַתָּה֙
   tsaddiq **'attah**
   righteous **you**
   **you** are righteous
 
--  GEN 27:34
-
-.. csv-table::
+.. csv-table:: Example: GEN 27:34
 
   בָּרֲכֵ֥נִי גַם־\ **אָ֖נִי** אָבִֽי
   barakheni gam-\ **'ani** 'avi
@@ -89,9 +81,7 @@ and :ref:`pronoun_demonstrative`.
 :ref:`pronoun_demonstrative`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  JDG 7:4
-
-.. csv-table::
+.. csv-table:: Example: JDG 7:4
 
   "וְהָיָ֡ה אֲשֶׁר֩ אֹמַ֨ר אֵלֶ֜יךָ \ **זֶ֣ה** ׀ יֵלֵ֣ךְ
      אִתָּ֗ךְ ה֚וּא יֵלֵ֣ךְ אִתָּ֔ךְ"
@@ -101,9 +91,7 @@ and :ref:`pronoun_demonstrative`.
      he-will-go with-you"
   "If I say to you, ""**This** one will go with you,"" he will go with you"
 
--  ISA 6:3
-
-.. csv-table::
+.. csv-table:: Example: ISA 6:3
 
   וְקָרָ֨א \ **זֶ֤ה** אֶל־זֶה֙
   weqara **zeh** 'el-**zeh**
@@ -120,18 +108,14 @@ and connected with another determined noun in the :ref:`state_construct`.
 :ref:`particle_definite_article`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  DEU 1:23
-
-.. csv-table::
+.. csv-table:: Example: DEU 1:23
 
   וַיִּיטַ֥ב בְּעֵינַ֖י הַדָּבָ֑ר
   wayyitav be'enay **haddavar**
   And-it-seemed-good in-my-eyes **the-thing**
   **The advice** pleased me well
 
--  ISA 5:11
-
-.. csv-table::
+.. csv-table:: Example: ISA 5:11
 
   הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
   howy mashkime **vabboqer**
@@ -143,18 +127,14 @@ and connected with another determined noun in the :ref:`state_construct`.
 :ref:`suffix_pronominal`
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
--  2SA 17:23
-
-.. csv-table::
+.. csv-table:: Example: 2SA 17:23
 
   וַיָּ֜קָם וַיֵּ֤לֶךְ אֶל־\ **בֵּיתוֹ֙** אֶל־עִיר֔וֹ
   wayyaqom wayyelekh 'el-**betho** 'el-**'iro**
   And-he-stood-up and-he-went to\_\ **his-house** to\_\ **his-city**
   He went **home** to **his own city**
 
--  EZR 9:12
-
-.. csv-table::
+.. csv-table:: Example: EZR 9:12
 
   "וְ֠עַתָּה **בְּֽנֹותֵיכֶ֞ם** אַל־תִּתְּנ֣וּ **לִבְנֵיהֶ֗ם
      וּבְנֹֽתֵיהֶם֙** אַל־תִּשְׂא֣וּ לִבְנֵיכֶ֔ם"
@@ -168,9 +148,7 @@ and connected with another determined noun in the :ref:`state_construct`.
 Construction with determined noun
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  GEN 2:4
-
-.. csv-table::
+.. csv-table:: Example: GEN 2:4
 
   אֵ֣לֶּה **תֹולְדֹ֧ות** הַשָּׁמַ֛יִם וְהָאָ֖רֶץ בְּהִבָּֽרְאָ֑ם
   'elleh **thowldowth** hashamayim weha'arets behibbare'am
@@ -181,9 +159,7 @@ Construction with determined noun
    "the heavens and the earth" are determined by the definite article,
    and "account" or "events" is therefore also determined.
 
--  DEU 10:19
-
-.. csv-table::
+.. csv-table:: Example: DEU 10:19
 
   כִּֽי־גֵרִ֥ים הֱיִיתֶ֖ם **בְּאֶ֥רֶץ** מִצְרָֽיִם׃
   ki-gerim heyithem **be'erets** mitsrayim
@@ -199,9 +175,7 @@ Poetry
 In poetry determined words often do not have the
 :ref:`particle_definite_article`.
 
--  PSA 2:2
-
-.. csv-table::
+.. csv-table:: Example: PSA 2:2
 
   יִ֥תְיַצְּב֨וּ׀ מַלְכֵי־אֶ֗רֶץ
   yithyatsevu malkhe-\ **'erets**
@@ -221,18 +195,14 @@ Demonstrative
 In these instances the definite article has the same function as a
 :ref:`pronoun_demonstrative`.
 
--  GEN 19:14 - the night = this night = tonight
-
-.. csv-table::
+.. csv-table:: Example: GEN 19:14 - the night = this night = tonight
 
   אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר־בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה
   'ayyeh ha'anashim 'asher-ba'u 'eleykha **hallaylah**
   Where the-men who\_came-in to-you **the-night**
   Where are the men that came in to you **tonight**?
 
--  1SA 18:21 - the day = this day = today
-
-.. csv-table::
+.. csv-table:: Example: 1SA 18:21 - the day = this day = today
 
   תִּתְחַתֵּ֥ן בִּ֖י **הַיֹּֽום**\ ׃
   tithhatten bi **hayyowm**
@@ -246,9 +216,7 @@ In this case the definite article has the same function as a :ref:`suffix_pronom
 The person or group to whom the object or objects belong is always
 mentioned in the immediate context.
 
--  JDG 4:15
-
-.. csv-table::
+.. csv-table:: Example: JDG 4:15
 
   "וַיָּ֣הָם יְ֠הוָה אֶת־סִֽיסְרָ֨א וְאֶת־כָּל־הָרֶ֧כֶב
      וְאֶת־כָּל־הַֽמַּחֲנֶ֛ה"
@@ -259,9 +227,7 @@ mentioned in the immediate context.
   "Yahweh made Sisera's army confused, all his chariots, and all **his
      army**."
 
--  1SA 16:23
-
-.. csv-table::
+.. csv-table:: Example: 1SA 16:23
 
   וְלָקַ֥ח דָּוִ֛ד אֶת־הַכִּנּ֖וֹר
   welaqah dawid 'eth-**hakkinnor**
@@ -274,9 +240,7 @@ Already mentioned
 If an item has been mentioned before, it can take the article later as a
 short reference.
 
--  1KI 3:24
-
-.. csv-table::
+.. csv-table:: Example: 1KI 3:24
 
   וַיֹּ֥אמֶר הַמֶּ֖לֶךְ קְח֣וּ לִי־חָ֑רֶב וַיָּבִ֥אוּ \ **הַחֶ֖רֶב** לִפְנֵ֥י הַמֶּֽלֶךְ
   "wayyomer hammelekh qehu li-harev wayyavi'u **haherev** lifne
@@ -286,9 +250,7 @@ short reference.
   "The king said, ""Bring me a sword."" So they brought **a sword** before
      the king."
 
--  ZEC 3:5
-
-.. csv-table::
+.. csv-table:: Example: ZEC 3:5
 
   "וָאֹמַ֕ר יָשִׂ֛ימוּ צָנִ֥יף טָהֹ֖ור עַל־רֹאשֹׁ֑ו וַיָּשִׂימוּ֩
      **הַצָּנִ֨יף הַטָּהֹ֜ור** עַל־רֹאשֹׁ֗ו"
@@ -302,9 +264,7 @@ short reference.
 Well known fact
 ^^^^^^^^^^^^^^^
 
--  GEN 22:6
-
-.. csv-table::
+.. csv-table:: Example: GEN 22:6
 
   וַיִּקַּ֨ח אַבְרָהָ֜ם אֶת־עֲצֵ֣י הָעֹלָ֗ה ... וַיִּקַּ֣ח בְּיָד֔וֹ אֶת־\ **הָאֵ֖שׁ** וְאֶת־הַֽמַּאֲכֶ֑לֶת
   "wayyiqqah 'avraham 'eth-'atse ha'olah ... wayyiqqah beyado
@@ -322,18 +282,14 @@ Vocative means that you speak to someone directly. In older English this
 is sometimes done with "oh", in modern English there is no special way
 to mark direct address.
 
--  1SA 17:58
-
-.. csv-table::
+.. csv-table:: Example: 1SA 17:58
 
   בֶּן־מִ֥י אַתָּ֖ה הַנָּ֑עַר
   ben-mi 'attah **hanna'ar**
   Son-of\_whom you **the-young-man**
   "Whose son are you, **young man**?"
 
--  2KI 6:26
-
-.. csv-table::
+.. csv-table:: Example: 2KI 6:26
 
   הוֹשִׁ֖יעָה אֲדֹנִ֥י הַמֶּֽלֶךְ
   hoshi'ah 'adoni **hammelekh**
@@ -346,9 +302,7 @@ Unique objects
 A small number of unique objects in the universe (almost) always receive
 a definite article.
 
--  2KI 3:22
-
-.. csv-table::
+.. csv-table:: Example: 2KI 3:22
 
   וְהַשֶּׁ֖מֶשׁ זָרְחָ֣ה עַל־הַמָּ֑יִם
   **wehashemesh** zorhah 'al-**hammayim**
@@ -357,9 +311,7 @@ a definite article.
 
    Unique object: "the sun"
 
--  NEH 9:6
-
-.. csv-table::
+.. csv-table:: Example: NEH 9:6
 
   "עָשִׂ֡יתָ אֶֽת־\ **הַשָּׁמַיִם֩** שְׁמֵ֨י **הַשָּׁמַ֜יִם**
      וְכָל־צְבָאָ֗ם **הָאָ֜רֶץ** וְכָל־אֲשֶׁ֤ר עָלֶ֨יהָ֙"
@@ -381,9 +333,7 @@ an object is made of a class or a type of material.
 People
 ''''''
 
--  GEN 18:25
-
-.. csv-table::
+.. csv-table:: Example: GEN 18:25
 
   וְהָיָ֥ה כַצַּדִּ֖יק כָּרָשָׁ֑ע
   wehayah **khatsaddiq karasha'**
@@ -394,9 +344,7 @@ People
    The definite article is incorporated in the prepositions כַ and כָּ
    (like).
 
--  JOS 8:19
-
-.. csv-table::
+.. csv-table:: Example: JOS 8:19
 
   וְהָאֹורֵ֡ב קָם֩ מְהֵרָ֨ה מִמְּקֹומֹ֤ו
   **weha'owrev** qam meherah mimmeqowmow
@@ -410,18 +358,14 @@ People
 Material
 ''''''''
 
--  1KI 15:18
-
-.. csv-table::
+.. csv-table:: Example: 1KI 15:18
 
   וַיִּקַּ֣ח אָ֠סָא אֶת־כָּל־הַכֶּ֨סֶף וְהַזָּהָ֜ב
   wayyiqqah 'asa 'eth-kol-**hakkesef wehazzahav**
   And-he-took Asa [dir.obj]\_all\_**the-silver and-the-gold**
   Then Asa took all **the silver and gold**
 
--  1CH 29:2
-
-.. csv-table::
+.. csv-table:: Example: 1CH 29:2
 
   "הֲכִינֹ֣ותִי לְבֵית־אֱלֹהַ֗י הַזָּהָ֣ב׀ לַ֠זָּהָב וְהַכֶּ֨סֶף
      לַכֶּ֜סֶף וְהַנְּחֹ֣שֶׁת לַנְּחֹ֗שֶׁת הַבַּרְזֶל֙ לַבַּרְזֶ֔ל
@@ -448,18 +392,14 @@ is followed by an adjective and both words are
 :ref:`state_determined`,
 the adjective describes an attribute of the noun.
 
--  JOS 21:45
-
-.. csv-table::
+.. csv-table:: Example: JOS 21:45
 
   מִכֹּל֙ הַדָּבָ֣ר הַטֹּ֔וב
   mikkol **haddavar hattowv**
   of-all **the-word the-good**
   among all **the good promises**
 
--  DEU 7:19
-
-.. csv-table::
+.. csv-table:: Example: DEU 7:19
 
   הַמַּסֹּ֨ת הַגְּדֹלֹ֜ת אֲשֶׁר־רָא֣וּ עֵינֶ֗יךָ
   **hammassoth haggedoloth** 'asher-ra'u 'eneykha
@@ -472,18 +412,14 @@ the adjective describes an attribute of the noun.
 When two or more items are compared and one of the items is the most
 extreme in one aspect, the definite article plays a part.
 
--  1SA 16:11
-
-.. csv-table::
+.. csv-table:: Example: 1SA 16:11
 
   עֹ֚וד שָׁאַ֣ר **הַקָּטָ֔ן** וְהִנֵּ֥ה רֹעֶ֖ה בַּצֹּ֑אן
   'owd sha'ar **haqqatan** wehinneh ro'eh batson
   Still remains **the-youngest** and-see tending to-the-sheep.
   "There remains yet **the youngest**, but he is tending the sheep."
 
--  SNG 1:8
-
-.. csv-table::
+.. csv-table:: Example: SNG 1:8
 
   הַיָּפָ֖ה בַּנָּשִׁ֑ים
   **hayyafah** bannashim
@@ -493,9 +429,7 @@ extreme in one aspect, the definite article plays a part.
 Distinctive
 ~~~~~~~~~~~
 
--  1KI 18:39
-
-.. csv-table::
+.. csv-table:: Example: 1KI 18:39
 
   יְהוָ֖ה ה֥וּא **הָאֱלֹהִֽים**\ ׃
   yhwh hu **ha'elohim**
@@ -505,9 +439,7 @@ Distinctive
 Generic classes
 ~~~~~~~~~~~~~~~
 
--  GEN 8:7
-
-.. csv-table::
+.. csv-table:: Example: GEN 8:7
 
   וַיְשַׁלַּ֖ח אֶת־הָֽעֹרֵ֑ב
   wayshallah 'eth-**ha'orev**
@@ -524,18 +456,14 @@ it takes on a relative meaning.
 With :ref:`participle_passive`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  GEN 12:7
-
-.. csv-table::
+.. csv-table:: Example: GEN 12:7
 
   לַיהוָ֖ה \ **הַנִּרְאֶ֥ה** אֵלָֽיו
   layhwah **hannir'eh** 'elayw
   to-Yahweh **the-appeared** to-him
   "to Yahweh, **who had appeared** to him"
 
--  JOS 8:19
-
-.. csv-table::
+.. csv-table:: Example: JOS 8:19
 
   וְהָאֹורֵ֡ב קָם֩ מְהֵרָ֨ה מִמְּקֹומֹ֤ו
   **weha'owrev** qam meherah mimmeqowmow
@@ -546,9 +474,7 @@ With :ref:`participle_passive`
 With :ref:`verb-finite-verbs`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  JOS 10:24
-
-.. csv-table::
+.. csv-table:: Example: JOS 10:24
 
   הֶהָלְכ֣וּא אִתּ֔וֹ
   **heholkhu** 'itto

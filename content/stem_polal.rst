@@ -42,18 +42,14 @@ Form
 Examples
 --------
 
--  ISA 16:10
-
-.. csv-table::
+.. csv-table:: Example: ISA 16:10
 
   וּבַכְּרָמִ֥ים לֹֽא־\ **יְרֻנָּ֖ן** לֹ֣א יְרֹעָ֑ע
   uvakkeramim lo-\ **yerunnan** lo **yero'a'**
   and-in-the-vineyard not\_\ **it-is-sung** not **it-is-shouted**.
   "and **there is** no **singing**, or **shouts** in the vineyards."
 
--  EZE 28:13
-
-.. csv-table::
+.. csv-table:: Example: EZE 28:13
 
   בְּיֹ֥ום הִבָּרַאֲךָ֖ **כֹּונָֽנוּ**\ ׃
   beyowm hibbara'akha **kownanu**

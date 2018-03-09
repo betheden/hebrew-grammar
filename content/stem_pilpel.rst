@@ -71,18 +71,14 @@ Pilpel stem.
 Examples
 --------
 
--  ISA 22:5
-
-.. csv-table::
+.. csv-table:: Example: ISA 22:5
 
   מְקַרְקַ֥ר קִ֖ר
   **meqarqar** qir
   **breaking-down** wall
   a **breaking down** of the walls
 
--  EZE 39:2
-
-.. csv-table::
+.. csv-table:: Example: EZE 39:2
 
   "וְשֹׁבַבְתִּ֨יךָ֙ וְשִׁשֵּׁאתִ֔יךָ וְהַעֲלִיתִ֖יךָ מִיַּרְכְּתֵ֣י
      צָפֹ֑ון"
