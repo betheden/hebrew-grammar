@@ -30,257 +30,13 @@ form. It can have a preposition, but it cannot have a :ref:`suffix_pronominal`.
 Paradigm
 ~~~~~~~~
 
-.. raw:: html
-
-   <table border="1" class="docutils">
-
-.. raw:: html
-
-   <tr class="row-odd">
-
-.. raw:: html
-
-   <th>
-
-Word
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th>
-
-Hebrew
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th>
-
-Transliteration
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th>
-
-Gloss
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr class="row-even" align="center">
-
-.. raw:: html
-
-   <td>
-
-Noun, masculine singular absolute
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-סוּס
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-sus
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-stallion
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr class="row-even" align="center">
-
-.. raw:: html
-
-   <td>
-
-Noun, masculine plural absolute
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-סוּסִים
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-susim
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-stallions
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr class="row-even" align="center">
-
-.. raw:: html
-
-   <td>
-
-Noun, feminine singular absolute
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-סוּסָה
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-susah
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-mare
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr class="row-even" align="center">
-
-.. raw:: html
-
-   <td>
-
-Noun, feminine plural absolute
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-סוּסוֹת
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-susoth
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-mares
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </tbody>
-
-.. raw:: html
-
-   </table>
+.. csv-table:: Absolute State Examples
+
+  Parsing,Hebrew,Transliteration,Gloss
+  "Noun, masculine singular absolute",סוּס,sus,stallion
+  "Noun, masculine plural absolute",סוּסִים,susim,stallions
+  "Noun, feminine singular absolute",סוּסָה,susah,mare
+  "Noun, feminine plural absolute",סוּסוֹת,susoth,mares
 
 Function
 --------
@@ -297,119 +53,24 @@ By itself
 If a noun occurs "by itself" as the only word of a subject or object, it
 is in the absolute state.
 
--  GEN 1:1
+.. csv-table:: Example: GEN 1:1
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   בָּרָ֣א **אֱלֹהִ֑ים** אֵ֥ת **הַשָּׁמַ֖יִם** וְאֵ֥ת **הָאָֽרֶץ**\ ׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   bara **'elohim** 'eth **hashamayim** we'eth **ha'arets**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   he-created **God** [dir.obj] **the-heavens** and-[dir.obj]
-   **the-earth**.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **God** created **the heavens** and **the earth**.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  בָּרָ֣א **אֱלֹהִ֑ים** אֵ֥ת **הַשָּׁמַ֖יִם** וְאֵ֥ת **הָאָֽרֶץ**\ ׃
+  bara **'elohim** 'eth **hashamayim** we'eth **ha'arets**
+  "he-created **God** [dir.obj] **the-heavens** and-[dir.obj]
+     **the-earth**."
+  **God** created **the heavens** and **the earth**.
 
    Both "God", the subject, and "the heavens" and "the earth", the two
    direct objects, are in the absolute state.
 
 :ref:`noun_proper_name`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Names, or proper nouns, are always in the absolute state.
 
 As part of a :ref:`state_construct` chain
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If a word in the absolute state is connected with a word in the
 construct state, it forms a so-called construct chain, in which case the
@@ -421,320 +82,35 @@ Indefinite
 If all nouns form a construct chain and both are indefinite you can
 sometimes translate with an indefinite article.
 
--  2SA 17:25
-
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וַעֲמָשָׂ֣א **בֶן**\ ־אִ֗ישׁ וּשְׁמֹו֙ יִתְרָ֣א
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   wa'amasa **ven**-'ish ushemow yithra
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   and-Amasa **son-of**\ \_man and-his-name Jether
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   Amasa was **a son of** a man named Jether
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
-
--  EXO 15:3
-
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אִ֣ישׁ מִלְחָמָ֑ה
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   'ish **milhamah**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   man-of **war**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   a **warr**\ ior
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+.. csv-table:: Example: 2SA 17:25
+
+  וַעֲמָשָׂ֣א **בֶן**\ ־אִ֗ישׁ וּשְׁמֹו֙ יִתְרָ֣א
+  wa'amasa **ven**-'ish ushemow yithra
+  and-Amasa **son-of**\ \_man and-his-name Jether
+  Amasa was **a son of** a man named Jether
+
+.. csv-table:: Example: EXO 15:3
+
+  אִ֣ישׁ מִלְחָמָ֑ה
+  'ish **milhamah**
+  man-of **war**
+  a **warr**\ ior
 
    In this example "a man of war" is an idiomatic expression, so the
    smooth translation reads "a warrior".
 
 :ref:`state_determined`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 If the final, absolute, noun in a constuct chain is definite, the whole
 chain is definite.
 
--  2SA 14:26
+.. csv-table:: Example: 2SA 14:26
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   בְּאֶ֥בֶן **הַמֶּֽלֶךְ**\ ׃
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   be'even **hammelekh**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   in-weight-of **the-king**.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   by the weight of **the king**'s standard.
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  בְּאֶ֥בֶן **הַמֶּֽלֶךְ**\ ׃
+  be'even **hammelekh**
+  in-weight-of **the-king**.
+  by the weight of **the king**'s standard.
 
 "weight" is in the construct state, and "the king" is both definite and
 absolute. Because the absolute noun is definite, the construct noun is

@@ -22,105 +22,12 @@ is an extremely rare verbal form in Biblical Hebrew.
 
 .. include:: includes/consult_dictionary.txt
 
--  PSA 38:10 (PSA 38:11 in Hebrew) –– the root is סחר, and the 2nd and
-   3rd radicals repeat
+In the following example, the root is סחר, and the 2nd and 3rd radicals
+repeat.
 
-   .. raw:: html
+.. csv-table:: Example: PSA 38:10 (PSA 38:11 in Hebrew)
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   לִבִּ֣י **סְ֭חַרְחַר** עֲזָבַ֣נִי כֹחִ֑י
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   libbi **seharhar** 'azavani khohi
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   my-heart **pounds** it-fades my-strength
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   my heart pounds, my strength fades
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  לִבִּ֣י **סְ֭חַרְחַר** עֲזָבַ֣נִי כֹחִ֑י
+  libbi **seharhar** 'azavani khohi
+  my-heart **pounds** it-fades my-strength
+  "my heart pounds, my strength fades"

@@ -25,105 +25,12 @@ Hebrew.
 
 .. include:: includes/consult_dictionary.txt
 
--  GEN 21:16 –– כִּמְטַחֲוֵ֣י has two prefixed elements: כִּ is a bound
-   preposition, and מְ is the participle prefix
+In the following example, כִּמְטַחֲוֵ֣י has two prefixed elements:
+כִּ is a bound preposition, and מְ is the participle prefix.
 
-   .. raw:: html
+.. csv-table:: Example: GEN 21:16
 
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   כִּמְטַחֲוֵ֣י קֶ֔שֶׁת
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **kimtahawe** qesheth
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **like-shooting** bow
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **about** the distance of a bow\ **shot** away
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  כִּמְטַחֲוֵ֣י קֶ֔שֶׁת
+  **kimtahawe** qesheth
+  **like-shooting** bow
+  **about** the distance of a bow\ **shot** away

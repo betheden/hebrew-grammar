@@ -43,257 +43,13 @@ Feminine singular often changes from a final ה to a final ת ("-ah" to
 Paradigm
 ~~~~~~~~
 
-.. raw:: html
-
-   <table border="1" class="docutils">
-
-.. raw:: html
-
-   <tr class="row-odd">
-
-.. raw:: html
-
-   <th>
-
-Word
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th>
-
-Hebrew
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th>
-
-Transliteration
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   <th>
-
-Gloss
-
-.. raw:: html
-
-   </th>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr class="row-even" align="center">
-
-.. raw:: html
-
-   <td>
-
-Noun, masculine singular construct
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-סוּס
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-sus
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-stallion of
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr class="row-even" align="center">
-
-.. raw:: html
-
-   <td>
-
-Noun, masculine plural construct
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-סוּסֵי
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-suse
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-stallions of
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr class="row-even" align="center">
-
-.. raw:: html
-
-   <td>
-
-Noun, feminine singular construct
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-סוּסַת
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-susat
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-mare of
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr class="row-even" align="center">
-
-.. raw:: html
-
-   <td>
-
-Noun, feminine plural construct
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-סוּסוֹת
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-susoth
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-mares of
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </tbody>
-
-.. raw:: html
-
-   </table>
+.. csv-table:: Construct State Examples
+
+  Parsing,Hebrew,Transliteration,Gloss
+  "Noun, masculine singular construct",סוּס,sus,stallion of
+  "Noun, masculine plural construct",סוּסֵי,suse,stallions of
+  "Noun, feminine singular construct",סוּסַת,susat,mare of
+  "Noun, feminine plural construct",סוּסוֹת,susoth,mares of
 
 Indefinite
 ----------
@@ -301,209 +57,19 @@ Indefinite
 If all nouns form a construct chain and both are indefinite you can
 sometimes translate with an indefinite article.
 
--  2SA 17:25
-
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וַעֲמָשָׂ֣א **בֶן**\ ־אִ֗ישׁ וּשְׁמֹו֙ יִתְרָ֣א
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   wa'amasa **ven**-'ish ushemow yithra
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   and-Amasa **son-of**\ \_man and-his-name Jether
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   Amasa was **a son of** a man named Jether
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
-
--  EXO 15:3
-
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אִ֣ישׁ מִלְחָמָ֑ה
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **'ish** milhamah
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **man-of** war
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **a** warr\ **ior**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+.. csv-table:: Example: 2SA 17:25
+
+  וַעֲמָשָׂ֣א **בֶן**\ ־אִ֗ישׁ וּשְׁמֹו֙ יִתְרָ֣א
+  wa'amasa **ven**-'ish ushemow yithra
+  and-Amasa **son-of**\ \_man and-his-name Jether
+  Amasa was **a son of** a man named Jether
+
+.. csv-table:: Example: EXO 15:3
+
+  אִ֣ישׁ מִלְחָמָ֑ה
+  **'ish** milhamah
+  **man-of** war
+  **a** warr\ **ior**
 
    In this example "a man of war" is an idiomatic expression, so the
    smooth translation reads "a warrior".
@@ -514,213 +80,23 @@ Definite
 If the final, absolute, noun in a constuct chain is definite, the whole
 chain is definite.
 
--  JOS 4:9
+.. csv-table:: Example: JOS 4:9
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אֲר֣וֹן הַבְּרִ֑ית
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **'aron** habberith
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **ark-of** the-covenant
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **the ark** of the covenant
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  אֲר֣וֹן הַבְּרִ֑ית
+  **'aron** habberith
+  **ark-of** the-covenant
+  **the ark** of the covenant
 
 אֲר֣וֹן is indefinite by itself, but it is
 :ref:`state_determined`
 because it is in a construct chain with the definite הַבְּרִ֑ית.
 
--  1SA 20:27
+.. csv-table:: Example: 1SA 20:27
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   בֵּ֣ן לְיִשַׁי֮
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **ben** leyishay
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **son-of** Jesse
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **the son** of Jesse
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  בֵּ֣ן לְיִשַׁי֮
+  **ben** leyishay
+  **son-of** Jesse
+  **the son** of Jesse
 
 Because
 :ref:`noun_proper_name`
@@ -741,107 +117,12 @@ Possessive
 A construct chain can function as showing that the word in the construct
 state is owned by the word (person) that is in the absolute state.
 
--  1KI 9:10
+.. csv-table:: Example: 1KI 9:10
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   בֵּ֥ית הַמֶּֽלֶךְ
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **beth** hammelekh
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **house-of** the-king
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   the king\ **'s palace**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  בֵּ֥ית הַמֶּֽלֶךְ
+  **beth** hammelekh
+  **house-of** the-king
+  the king\ **'s palace**
 
 Material
 ~~~~~~~~
@@ -849,107 +130,12 @@ Material
 When the word in the construct state is an object, the word in the
 absolute state can indicate the material it is made of.
 
--  1KI 10:25
+.. csv-table:: Example: 1KI 10:25
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   כְּלֵ֣י כֶסֶף֩
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **kele** khesef
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **vessels-of** silver
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **vessels** of silver
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  כְּלֵ֣י כֶסֶף֩
+  **kele** khesef
+  **vessels-of** silver
+  **vessels** of silver
 
 Attributive
 ~~~~~~~~~~~
@@ -958,107 +144,12 @@ Sometimes one of the nouns in a construct chain can take on the function
 of an
 :ref:`adjective-attributive`.
 
--  ISA 6:13
+.. csv-table:: Example: ISA 6:13
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   זֶ֥רַע קֹ֖דֶשׁ
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **zera'** qodesh
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **seed-of** holiness
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   a holy **seed**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  זֶ֥רַע קֹ֖דֶשׁ
+  **zera'** qodesh
+  **seed-of** holiness
+  a holy **seed**
 
 Here the final noun, that is in the absolute state, functions like an
 adjective.
@@ -1070,107 +161,12 @@ If the word in a construct state is a
 :ref:`participle_active`,
 context can lead to a translatino with "with".
 
--  EXO 3:8
+.. csv-table:: Example: EXO 3:8
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אֶ֛רֶץ \ **זָבַ֥ת** חָלָ֖ב וּדְבָ֑שׁ
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   'erets **zavath** halav udevash
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   land **flowing-with** milk and-honey
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   a land **flowing with** milk and honey
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  אֶ֛רֶץ \ **זָבַ֥ת** חָלָ֖ב וּדְבָ֑שׁ
+  'erets **zavath** halav udevash
+  land **flowing-with** milk and-honey
+  a land **flowing with** milk and honey
 
 Appositional
 ~~~~~~~~~~~~
@@ -1179,107 +175,12 @@ If a :ref:`noun_common`
 (in the construct state) is followed by a :ref:`noun_proper_name`
 (in the absolute state), they can mean the same thing.
 
--  EXO 7:19
+.. csv-table:: Example: EXO 7:19
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   אֶ֣רֶץ מִצְרַ֔יִם
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **'erets** mitsrayim
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **land-of** Egypt
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **the land** of Egypt
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  אֶ֣רֶץ מִצְרַ֔יִם
+  **'erets** mitsrayim
+  **land-of** Egypt
+  **the land** of Egypt
 
 Result
 ~~~~~~
@@ -1287,107 +188,12 @@ Result
 The noun in the construct state may be intended for a particular
 purpose, which is indicated by a noun in the absolute state.
 
--  PSA 44:22 (PSA 44:23 in Hebrew)
+.. csv-table:: Example: PSA 44:22 (PSA 44:23 in Hebrew)
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   כְּצֹ֣אן טִבְחָֽה
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **ketson** tivhah
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **like-sheep-of** slaughter
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **as sheep for** the slaughter
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  כְּצֹ֣אן טִבְחָֽה
+  **ketson** tivhah
+  **like-sheep-of** slaughter
+  **as sheep for** the slaughter
 
 Agent or means
 ~~~~~~~~~~~~~~
@@ -1395,107 +201,12 @@ Agent or means
 The word in the absolute state can indicate who or what is the cause of
 word in the construct state.
 
--  ISA 53:4
+.. csv-table:: Example: ISA 53:4
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   מֻכֵּ֥ה אֱלֹהִ֖ים
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **mukkeh** 'elohim
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **struck-of** God
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **struck by** God
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  מֻכֵּ֥ה אֱלֹהִ֖ים
+  **mukkeh** 'elohim
+  **struck-of** God
+  **struck by** God
 
 Superlative
 ~~~~~~~~~~~
@@ -1503,110 +214,15 @@ Superlative
 A construct chain can be used to indicate something is the most extreme
 in a certain category.
 
--  SNG 1:1
+.. csv-table:: Example: SNG 1:1
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   שִׁ֥יר הַשִּׁירִ֖ים
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   **shir** hashirim
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   **Song-of** the-songs
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   The greatest **song**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  שִׁ֥יר הַשִּׁירִ֖ים
+  **shir** hashirim
+  **Song-of** the-songs
+  The greatest **song**
 
 :ref:`suffix_pronominal`
--------------------------------------------------------------------------------------------------------
+------------------------
 
 If a
 :ref:`noun`,
@@ -1615,104 +231,9 @@ a
 or an :ref:`infinitive_construct`
 has a pronominal suffix, it is *always* in the construct state.
 
--  2SA 17:23
+.. csv-table:: Example: 2SA 17:23
 
-   .. raw:: html
-
-      <table border="1" class="docutils">
-
-   .. raw:: html
-
-      <colgroup>
-
-   .. raw:: html
-
-      <col width="100%" />
-
-   .. raw:: html
-
-      </colgroup>
-
-   .. raw:: html
-
-      <tbody valign="top">
-
-   .. raw:: html
-
-      <tr class="row-odd" align="right">
-
-   .. raw:: html
-
-      <td>
-
-   וַיָּ֜קָם וַיֵּ֤לֶךְ אֶל־\ **בֵּיתוֹ֙** אֶל־עִיר֔וֹ
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   wayyaqom wayyelekh 'el-**betho** 'el-**'iro**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-odd">
-
-   .. raw:: html
-
-      <td>
-
-   And-he-stood-up and-went to\_\ **his-house** to\_\ **his-city**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      <tr class="row-even">
-
-   .. raw:: html
-
-      <td>
-
-   He went **home** to **his own city**
-
-   .. raw:: html
-
-      </td>
-
-   .. raw:: html
-
-      </tr>
-
-   .. raw:: html
-
-      </tbody>
-
-   .. raw:: html
-
-      </table>
+  וַיָּ֜קָם וַיֵּ֤לֶךְ אֶל־\ **בֵּיתוֹ֙** אֶל־עִיר֔וֹ
+  wayyaqom wayyelekh 'el-**betho** 'el-**'iro**
+  And-he-stood-up and-went to\_\ **his-house** to\_\ **his-city**
+  He went **home** to **his own city**

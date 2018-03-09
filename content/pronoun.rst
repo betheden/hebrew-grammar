@@ -23,210 +23,39 @@ itself.
 Types
 -----
 
-Hebraists usually identify five types of pronouns:
-:ref:`pronoun_indefinite`,
-:ref:`pronoun_personal`,
-and
-:ref:`pronoun_relative`.
+Scholars identify the following five types of pronouns.
 
-.. raw:: html
+:ref:`pronoun_demonstrative`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   <table border="1" class="docutils">
+.. include:: pronoun_demonstrative.rst
+   :start-after: -------
+   :end-before: Article
 
-.. raw:: html
+:ref:`pronoun_indefinite`
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   <tr class="row-odd">
+.. include:: pronoun_indefinite.rst
+   :start-after: -------
+   :end-before: Article
 
-.. raw:: html
+:ref:`pronoun_interrogative`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   <td>
+.. include:: pronoun_interrogative.rst
+   :start-after: -------
+   :end-before: Article
 
-Demonstrative
+:ref:`pronoun_personal`
+^^^^^^^^^^^^^^^^^^^^^^^
 
-.. raw:: html
+.. include:: pronoun_personal.rst
+   :start-after: -------
+   :end-before: Article
 
-   </td>
+:ref:`pronoun_relative`
+^^^^^^^^^^^^^^^^^^^^^^^
 
-.. raw:: html
-
-   <td>
-
-refers to a noun or a noun phrase
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-this, that, these, those
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr class="row-even">
-
-.. raw:: html
-
-   <td>
-
-Indefinite
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-if the subject or the object is indetermined
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-who, whoever, what, whatever
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr class="row-odd">
-
-.. raw:: html
-
-   <td>
-
-Interrogative
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-introduces a question
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-who? what? when? how?
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr class="row-even">
-
-.. raw:: html
-
-   <td>
-
-Personal
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-takes the place of a person or a group of people
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-I, you, he, she, we, they
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr class="row-odd">
-
-.. raw:: html
-
-   <td>
-
-Relative
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-introduces relative clauses
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-that, which, where
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </tbody>
-
-.. raw:: html
-
-   </table>
+.. include:: pronoun_relative.rst
+   :start-after: -------
+   :end-before: Article
