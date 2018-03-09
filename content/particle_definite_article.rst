@@ -43,11 +43,11 @@ Standard form
 With pathah vowel, and daghesh in the following consonant
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-.. csv-table::
+.. csv-table:: Definite Article Standard Form
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
-  noun,סוּס,sus,(a) horse
+  noun,סוּס,sus,a horse
   noun + definite article,הַסּוּס,hassus,the horse
 
 Alternate forms
@@ -56,7 +56,7 @@ Alternate forms
 With pathah vowel, no daghesh in gutteral consonant
 '''''''''''''''''''''''''''''''''''''''''''''''''''
 
-.. csv-table::
+.. csv-table:: Definite Article Alternate Form 1
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -66,17 +66,17 @@ With pathah vowel, no daghesh in gutteral consonant
 Vowel lengthens to qamets, no daghesh in gutteral consonant
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-.. csv-table::
+.. csv-table:: Definite Article Alternate Form 2
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
-  noun,אִישׁ,'ish,(a) man
+  noun,אִישׁ,'ish,a man
   noun + definite article,הָאִישׁ,ha'ish,the man
 
 Vowel shortens to seghol, no daghesh in gutteral consonant
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-.. csv-table::
+.. csv-table:: Definite Article Alternate Form 3
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

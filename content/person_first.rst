@@ -14,11 +14,12 @@ sentence.
 Article
 -------
 
-The first person is the person(s) that speak. If it is a single person,
+The first person is the person or persons that are speaking.
+If it is a single person,
 it is "I", "me", or "my", if it is a group of people it is "we", "us",
 or "our".
 
-The first person is only used in direct speech.
+.. note:: The first person is only used in direct speech.
 
 Form
 ----
@@ -31,24 +32,37 @@ sample of the kinds of changes that signal a first person.
 Paradigm
 ~~~~~~~~
 
-.. csv-table::
+.. csv-table:: First Person Qal Suffix Conjugation Forms
 
-  Word,Hebrew,Transliteration,Gloss
-  "Qal suffix conjugation, first person common singular",קָטַלְתִּי,qatalti,I killed
-  "Qal suffix conjugation, first person common plural",קָטַלְנוּ,qatalnu,we killed
-  "Qal prefix conjugation, first person common singular",אֶקְטֹל,'eqtol,I will kill
-  "Qal prefix conjugation, first person common plural",נִקְטֹל,niqtol,we will kill
-  "Independent personal pronoun, first person common singular",אֲנִי / אָנֹכִי,'ani / 'anokhi,I
-  "Independent personal pronoun, first person common plural",אֲנַחְנוּ,'anahnu,we
-  "Object pronoun, first person common singular",אֹתִי,'othi,me
-  "Object pronoun, first person common plural",אֹתָנוּ,'othanu,us
-  "Pronomial suffix, first person common singular",לִי / - ִי,li / -i,(to) me
-  "Pronomial suffix, first person common plural",לָנוּ / -נוּ,lanu / - nu,(to) us
+  Parsing,Hebrew,Transliteration,Gloss
+  first person common singular,קָטַלְתִּי,qatalti,I killed
+  first person common plural,קָטַלְנוּ,qatalnu,we killed
+  first person common singular,אֶקְטֹל,'eqtol,I will kill
+  first person common plural,נִקְטֹל,niqtol,we will kill
 
-Neither the English nor the Hebrew distinguish between the inclusive and
-the exclusive "we". The context will have to determine which one is
-meant. See also the translation academy and translation notes for help
-if the text is potentially confusing.
+.. csv-table:: First Person Indepdent Personal Pronoun Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  first person common singular,אֲנִי / אָנֹכִי,'ani / 'anokhi,I
+  first person common plural,אֲנַחְנוּ,'anahnu,we
+
+.. csv-table:: First Person Object Pronoun Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  first person common singular,אֹתִי,'othi,me
+  first person common plural,אֹתָנוּ,'othanu,us
+
+.. csv-table:: First Person Pronominal Suffix Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  first person common singular,לִי / - ִי,li / -i,(to) me
+  first person common plural,לָנוּ / -נוּ,lanu / - nu,(to) us
+
+Neither English nor Biblical Hebrew distinguish between the inclusive and
+the exclusive "we". The context will determine which one is
+meant. See also `translationAcademy <http://ufw.io/academy/>`_ and
+`translationNotes <http://ufw.io/academy/>`_ for help
+if the context is not clear.
 
 Hebrew does distinguish between
 :ref:`number_singular`
@@ -77,7 +91,7 @@ Subject
 The subject in a sentence is the person who does the action.
 
 In the :ref:`verb` form
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: GEN 28:15
 
@@ -134,7 +148,7 @@ Possession
 Indicating possession is done by the :ref:`suffix_pronominal`:
 
 :ref:`suffix_pronominal-nouns`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2SA 19:4 (2SA 19:1 in Hebrew)
 
@@ -144,7 +158,7 @@ Indicating possession is done by the :ref:`suffix_pronominal`:
   "**My son** Absalom, Absalom, **my son, my son**!"
 
 :ref:`suffix_pronominal-prepositions`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: EXO 19:5
 

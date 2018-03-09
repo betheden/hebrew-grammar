@@ -41,9 +41,7 @@ grammatical function cannot be determined precisely.
 Form
 ----
 
-**Qal passive**
-
-.. csv-table::
+.. csv-table:: Qal passive Passive Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -52,9 +50,7 @@ Form
   masculine plural Absolute,קְטוּלִים,qetulim,killers / killed
   feminine plural Absolute,קְטוּלוֹת,qetuloth,killers / killed
 
-**Niphal (usually passive or reflexive voice)**
-
-.. csv-table::
+.. csv-table:: Niphal (usually passive or reflexive voice) Passive Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -63,9 +59,7 @@ Form
   masculine plural Absolute,נִקְטָלִים,niqtalim,being killed
   feminine plural Absolute,נִקְטָלוֹת,niqtaloth,being killed
 
-**Hophal**
-
-.. csv-table::
+.. csv-table:: Hophal Passive Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -74,9 +68,7 @@ Form
   masculine plural Absolute,מָקְטָלִים,moqtalim,being caused to kill
   feminine plural Absolute,מָקְטָלוֹת,moqtaloth,being caused to kill
 
-**Pual**
-
-.. csv-table::
+.. csv-table:: Pual Passive Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -85,9 +77,7 @@ Form
   masculine plural Absolute,מְקֻטְּלִים,mequttelim,being slaughtered
   feminine plural Absolute,מְקֻטְּלוֹת,mequtteloth,being slaughtered
 
-**Hithpael (usually reflexive voice)**
-
-.. csv-table::
+.. csv-table:: Hithpael (usually reflexive voice) Passive Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -122,21 +112,30 @@ The context must determine whether a passive participle is functioning
 as a predicate adjective or as a finite verb, because both appear the
 same in many instances (compare EXO 5:16 and 1SA 19:11).
 
-.. csv-table:: Example: PSA 149:9 –– functioning as an attributive adjective
+The following example shows a passive participle
+functioning as an attributive adjective.
+
+.. csv-table:: Example: PSA 149:9
 
   לַעֲשׂ֤וֹת בָּהֶ֨ם׀ מִשְׁפָּ֬ט כָּת֗וּב
   la'asoth bahem mishpat **kathuv**
   to-do to-them judgment **written**
   They will execute the judgment **that is written**
 
-.. csv-table:: Example: EXO 5:16 –– functioning as a predicate adjective
+The following example shows a passive participle
+functioning as a predicate adjective.
+
+.. csv-table:: Example: EXO 5:16
 
   וְהִנֵּ֧ה עֲבָדֶ֛יךָ מֻכִּ֖ים
-  wehinneh 'avadeykha **mukkim**\ ‮‬
+  wehinneh 'avadeykha **mukkim**
   and-behold your-servants **beaten**
   "We, your servants, are even **beaten** now"
 
-.. csv-table:: Example: PSA 22:7 –– introducing clauses functioning as predicate adjectives
+The following example shows passive participles
+introducing clauses functioning as predicate adjectives.
+
+.. csv-table:: Example: PSA 22:7
 
   "וְאָנֹכִ֣י תוֹלַ֣עַת וְלֹא־אִ֑ישׁ **חֶרְפַּ֥ת** אָ֝דָ֗ם **וּבְז֥וּי**
      עָֽם׃"
@@ -147,17 +146,16 @@ same in many instances (compare EXO 5:16 and 1SA 19:11).
      despised** by the people."
 
 Functions as a :ref:`verb-finite-verbs`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The context must determine whether a passive participle is functioning
 as a finite verb or as a predicate adjective, because both appear the
 same in many instances (compare 1SA 19:11 and EXO 5:16).
 
--  ISA 17:2 –– NOTE: the participle is in the first position here, which
-   is the normal :ref:`word_order`
-   for finite verbs
+In the following example, the participle is in the first position here, which
+is the normal :ref:`word_order` for finite verbs.
 
-.. csv-table::
+.. csv-table:: Example: ISA 17:2
 
   עֲזֻב֖וֹת עָרֵ֣י עֲרֹעֵ֑ר
   **'azuvoth** 'are 'aro'er
@@ -182,11 +180,11 @@ Functions as a verbal complement
   "When she **was brought out**, she sent to her father-in-law a message"
 
 Functions as a :ref:`verb-verbal-nouns`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 8:34
 
   כְּכָל־\ **הַכָּת֖וּב** בְּסֵ֥פֶר הַתּוֹרָֽה׃
-  kekhol-\ **hakkathuv** ‮‬besefer hattowrah‮‬
+  kekhol-\ **hakkathuv** besefer hattowrah
   like-all\_\ **the-written** in-book-of the-law
   just as **had been written** in the book of the law

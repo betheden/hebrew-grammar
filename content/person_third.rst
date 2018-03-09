@@ -30,28 +30,44 @@ sample of the kinds of changes that signal a third person.
 Paradigm
 ~~~~~~~~
 
-.. csv-table::
+.. csv-table:: Third Person Qal Suffix Conjugation Forms
 
-  Word,Hebrew,Transliteration,Gloss
-  "Qal suffix conjugation, third person masculine singular",קָטַל,qatal,he killed
-  "Qal suffix conjugation, third person feminine singular",קָטְלָה,qatlah,she killed
-  "Qal suffix conjugation, third person common plural",קָטְלוּ,qatlu,they killed
-  "Qal prefix conjugation, third person masculine singular",יִקְטֹל,yiqtol,he will kill
-  "Qal prefix conjugation, third person feminine singular",תִּקְטֹל,tiqtol,she will kill
-  "Qal prefix conjugation, third person masculine plural",יִקְטְלוּ,yiqtelu,they will kill
-  "Qal prefix conjugation, third person feminine plural",תִּקְטֹלְנָה,tiqtolenah,they will kill
-  "Independent personal pronoun, third person masculine singular",הוּא,hu,he / it
-  "Independent personal pronoun, third person feminine singular",הִיא / הִוא,hi / hiw,she / it
-  "Independent personal pronoun, third person masculine plural",הֵם / הֵמָּה,hem / hemmah,they
-  "Independent personal pronoun, third person feminine plural",הֵן / הֵנָּה,hen / hennah,they
-  "Object pronoun, third person masculine singular",אֹתוֹ,'otho,him / it
-  "Object pronoun, third person feminine singular",אֹתָהּ,'othah,her / it
-  "Object pronoun, third person masculine plural",אֶתְהֶם / אֹתָם,'ethhem / 'otham,them
-  "Object pronoun, third person feminine plural",אֶתְהֶן / אֹתָן,'ethhen / 'othan,them
-  "Pronomial suffix, third person masculine singular",לוֹ / -וֹ,lo / -o,(to) him
-  "Pronomial suffix, third person feminine singular",לָהּ / - ָהּ,lah / -ah,(to) her
-  "Pronomial suffix, third person masculine plural",לָהֶם / -הֶם / - ָם,lahem / -hem / -am,(to) them
-  "Pronomial suffix, third person feminine plural",לָהֶן / -הֶן / - ָן,lahen / -hen / -an,(to) them
+  Parsing,Hebrew,Transliteration,Gloss
+  third person masculine singular",קָטַל,qatal,he killed
+  third person feminine singular",קָטְלָה,qatlah,she killed
+  third person common plural",קָטְלוּ,qatlu,they killed
+
+.. csv-table:: Third Person Qal Prefix Conjugation Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  third person masculine singular",יִקְטֹל,yiqtol,he will kill
+  third person feminine singular",תִּקְטֹל,tiqtol,she will kill
+  third person masculine plural",יִקְטְלוּ,yiqtelu,they will kill
+  third person feminine plural",תִּקְטֹלְנָה,tiqtolenah,they will kill
+
+.. csv-table:: Third Person Indepdent Personal Pronoun Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  third person masculine singular",הוּא,hu,he / it
+  third person feminine singular",הִיא / הִוא,hi / hiw,she / it
+  third person masculine plural",הֵם / הֵמָּה,hem / hemmah,they
+  third person feminine plural",הֵן / הֵנָּה,hen / hennah,they
+
+.. csv-table:: Third Person Object Pronoun Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  third person masculine singular",אֹתוֹ,'otho,him / it
+  third person feminine singular",אֹתָהּ,'othah,her / it
+  third person masculine plural",אֶתְהֶם / אֹתָם,'ethhem / 'otham,them
+  third person feminine plural",אֶתְהֶן / אֹתָן,'ethhen / 'othan,them
+
+.. csv-table:: Third Person Pronominal Suffix Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  third person masculine singular",לוֹ / -וֹ,lo / -o,(to) him
+  third person feminine singular",לָהּ / - ָהּ,lah / -ah,(to) her
+  third person masculine plural",לָהֶם / -הֶם / - ָם,lahem / -hem / -am,(to) them
+  third person feminine plural",לָהֶן / -הֶן / - ָן,lahen / -hen / -an,(to) them
 
 Hebrew distinguishes between
 :ref:`gender_masculine`
@@ -81,7 +97,7 @@ Subject
 The subject in a sentence is the person who does the action.
 
 In the :ref:`verb` form
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: GEN 12:1
 
@@ -91,7 +107,7 @@ In the :ref:`verb` form
   **Now** Yahweh **said** to Abram
 
 As a :ref:`pronoun_personal`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: GEN 36:1
 
@@ -109,7 +125,7 @@ action of the verb.
 This is done by the :ref:`suffix_pronominal`:
 
 Related to a :ref:`verb`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Either :ref:`suffix_pronominal-direclty-to-the-verb`,
 or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
@@ -123,7 +139,7 @@ or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
      Shechem."
 
 :ref:`suffix_pronominal-prepositions`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOB 39:12
 
@@ -138,7 +154,7 @@ Possession
 Indicating possession is done by the :ref:`suffix_pronominal`:
 
 :ref:`suffix_pronominal-nouns`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2SA 17:23
 
@@ -148,7 +164,7 @@ Indicating possession is done by the :ref:`suffix_pronominal`:
   He went **home** to **his own city**
 
 :ref:`suffix_pronominal-prepositions`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2KI 17:15
 

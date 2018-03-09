@@ -112,13 +112,11 @@ Paradigm
   masculine plural,הִקָּטְלוּ,hiqqatlu,you must be killed
   feminine plural,הִקָּטַלְנָה,hiqqatalnah,you must be killed
 
-**Jussive**
-
 .. note:: The jussive form in the Niphal stem is recognizable only for
           select verbs. Here the sample verb is גָּלָה (to uncover), where the 3rd
           radical (ה) has dropped out.
 
-.. csv-table::
+.. csv-table:: Niphal Jussive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

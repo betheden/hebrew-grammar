@@ -26,16 +26,16 @@ stems and several rare ones.
 Function
 --------
 
-Here is a brief overview of the most common stems and their most common
-function:
+The following able is a brief overview of the most common stems and
+their most common functions.
 
-.. csv-table::
+.. csv-table:: Common Stem Functions
 
   Active Voice,Passive/Reflexive Voice
-  Simple Action,
-  Causative Action,
-  Intensive Action,
-  Intensive Action,
+  Simple Action,"Qal (simple action, active voice)","Niphal (simple action, passive voice)"
+  Causative Action,"Niphal (simple action, passive voice)","Hophal (causative action, passive voice)"
+  Intensive Action,"Piel (intensive action, active voice)","Pual (intensive action, passive voice)"
+  Intensive Action,--,"Hithpael (intensive action, reflexive voice)"
 
 .. include:: includes/consult_dictionary.txt
 
@@ -130,6 +130,7 @@ The uncommon stems are:
 :ref:`stem_polpal`
 -
 :ref:`stem_pulal`
-- :ref:`stem_qal_passive`
+-
+:ref:`stem_qal_passive`
 -
 :ref:`stem_tiphil`

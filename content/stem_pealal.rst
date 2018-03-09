@@ -22,10 +22,10 @@ is an extremely rare verbal form in Biblical Hebrew.
 
 .. include:: includes/consult_dictionary.txt
 
--  PSA 38:10 (PSA 38:11 in Hebrew) –– the root is סחר, and the 2nd and
-   3rd radicals repeat
+In the following example, the root is סחר, and the 2nd and 3rd radicals
+repeat.
 
-.. csv-table::
+.. csv-table:: Example: PSA 38:10 (PSA 38:11 in Hebrew)
 
   לִבִּ֣י **סְ֭חַרְחַר** עֲזָבַ֣נִי כֹחִ֑י
   libbi **seharhar** 'azavani khohi

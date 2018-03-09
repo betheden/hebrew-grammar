@@ -29,7 +29,7 @@ definiteness) as the noun they describe.
 "First" through "Tenth"
 -----------------------
 
-.. csv-table::
+.. csv-table:: "First" through "Tenth" Paradigm
 
   word,Hebrew,Transliteration,Gloss
   masculine,רִאֹשׁוֹן,ri'oshon,first
@@ -50,25 +50,26 @@ definiteness) as the noun they describe.
   in-the-year **the-second**
   in **the second** year
 
--  DEU 5:14 –– a
-   :ref:`state_determined`
-   ordinal number describing an indefinite noun
+The following example is a :ref:`state_determined`
+ordinal number describing an indefinite noun.
 
-.. csv-table::
+.. csv-table:: Example: DEU 5:14
 
   וְי֙וֹם֙ הַשְּׁבִיעִ֔י
   weyom **hashevi'i**
   and-day **the-seventh**
   and **the seventh** day
 
-.. csv-table:: Example: 2KI 15:32 –– a cardinal number functioning as an ordinal number
+The following examples show cardinal numbers functioning as ordinal numbers.
+
+.. csv-table:: Example: 2KI 15:32
 
   בִּשְׁנַ֣ת שְׁתַּ֔יִם
   bishnath **shetayim**
   in-year two
   in **the second** year
 
-.. csv-table:: Example: 2SA 4:2 –– cardinal numbers functioning as ordinal numbers
+.. csv-table:: Example: 2SA 4:2
 
   שֵׁם֩ **הָאֶחָ֨ד** ... וְשֵׁ֧ם הַשֵּׁנִ֣י
   ushene **'anashim** ... weshem **hasheni**

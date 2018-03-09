@@ -46,11 +46,10 @@ verbs.
 Form
 ----
 
-**Prefix preposition (with and without the definite article)**
 
-.. csv-table::
+.. csv-table:: Prefix Preposition (with and without the definite article)
 
-  Word,Hebrew,Transliteration,Gloss
+  Parsing,Hebrew,Transliteration,Gloss
   normal noun,נָהָר,nahar,river
   noun + preposition only,בְּנָהָר,benahar,in a river
   noun + definite article only,הַנָּהָר,hannahar,the river
@@ -59,41 +58,45 @@ Form
 Examples
 --------
 
-.. csv-table:: Example: GEN 1:1 –– בְּ preposition without definite article
+בְּ preposition without definite article.
+
+.. csv-table:: Example: GEN 1:1
 
   בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
   **bereshith** bara 'elohim
   **In-beginning** he-created God
   "**In the beginning,** God created"
 
--  ISA 5:11 –– בְּ preposition with definite article (shewa lengthens to
-   pathah vowel)
+בְּ preposition with definite article (shewa lengthens to pathah vowel).
 
-.. csv-table::
+.. csv-table:: ISA 5:11
 
   הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
   howy mashkime **vabboqer**
   Woe those-rising-early **in-the-morning**
   Woe to those who rise up early **in the morning**
 
--  GEN 1:5 –– לְ preposition with definite article (shewa lengthens to
-   qamets vowel)
+לְ preposition with definite article (shewa lengthens to qamets vowel).
 
-.. csv-table::
+.. csv-table:: GEN 1:5
 
   וַיִּקְרָ֨א אֱלֹהִ֤ים׀ **לָאֹור֙** יֹ֔ום
   wayyiqra 'elohim **la'owr** yowm
   And-he-called **to-the-light** day
   "God called **the light** ""day"""
 
-.. csv-table:: Example: GEN 1:18 –– לְ preposition with infinitive construct verb
+לְ preposition with infinitive construct verb.
+
+.. csv-table:: Example: GEN 1:18
 
   וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה
   **welimshol** bayyom uvallaylah
   **and to rule** in the day and in the night
   **to rule** over the day and over the night
 
-.. csv-table:: Example: GEN 1:2 –– independent preposition
+The following is an example of an independent preposition.
+
+.. csv-table:: Example: GEN 1:2
 
   וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת **עַל**\ ־פְּנֵ֥י הַמָּֽיִם
   weruah 'elohim merahefeth **'al**-pene hammayim

@@ -43,9 +43,9 @@ Feminine singular often changes from a final ה to a final ת ("-ah" to
 Paradigm
 ~~~~~~~~
 
-.. csv-table::
+.. csv-table:: Construct State Examples
 
-  Word,Hebrew,Transliteration,Gloss
+  Parsing,Hebrew,Transliteration,Gloss
   "Noun, masculine singular construct",סוּס,sus,stallion of
   "Noun, masculine plural construct",סוּסֵי,suse,stallions of
   "Noun, feminine singular construct",סוּסַת,susat,mare of
@@ -222,7 +222,7 @@ in a certain category.
   The greatest **song**
 
 :ref:`suffix_pronominal`
--------------------------------------------------------------------------------------------------------
+------------------------
 
 If a
 :ref:`noun`,

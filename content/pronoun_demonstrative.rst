@@ -51,7 +51,7 @@ modify, or refer to.
 Paradigm
 ~~~~~~~~
 
-.. csv-table::
+.. csv-table:: Demonstrative Pronoun Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -144,7 +144,7 @@ definite article, but the noun does.
   **this** is the day
 
 :ref:`adjective-attributive`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When it is used as an attributive adjective, the demonstrative pronoun
 often follows the noun, and both the noun and adjective can have a
@@ -198,4 +198,4 @@ The demonstrative pronoun does not always need to be translated.
   Land-of Egypt to-your-face **that**
   The land of Egypt is before you
 
-   Perhaps this can be translated as "This land of Egypt before you".
+The above example may also be translated as "This land of Egypt before you".

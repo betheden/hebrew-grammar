@@ -133,10 +133,10 @@ active voice). But in the Piel stem, the verb בָּקַע means "to *rip*
 open" (intensive action, active voice). Thus, in the Pual stem, the verb
 בָּקַע means "to be ripped open" (intensive action, passive voice).
 
--  JOS 9:4 –– Pual stem of בָּקַע, meaning "to be ripped open"; in Piel
-   stem, means "to rip open"
+Pual stem of בָּקַע, meaning "to be ripped open"; in Piel stem,
+means "to rip open", for example:
 
-.. csv-table::
+.. csv-table:: Example: JOS 9:4
 
   "וַיִּקְח֞וּ ... וְנֹאד֥וֹת יַ֙יִן֙ בָּלִ֔ים **וּמְבֻקָּעִ֖ים**
      וּמְצֹרָרִֽים"
@@ -146,10 +146,10 @@ open" (intensive action, active voice). Thus, in the Pual stem, the verb
   "They also took old wine skins that were worn, **torn**, and had been
      repaired."
 
--  EZK 38:12 –– Pual stem of אָסַף, meaning "to be gathered"; in Piel
-   stem, means "to gather"
+Pual stem of אָסַף, meaning "to be gathered"; in Piel stem,
+means "to gather", for example:
 
-.. csv-table::
+.. csv-table:: Example: EZK 38:12
 
   וְאֶל־עַם֙ **מְאֻסָּ֣ף** מִגּוֹיִ֔ם
   we'el-'am **me'ussaf** miggoyim
@@ -170,10 +170,10 @@ give birth" (meaning, *to serve as a midwife*). But in the Pual stem,
 the verb יָלַד expresses the simple passive "to be born" (that is, the
 passive of the *Qal* stem rather the *Piel* stem).
 
--  GEN 4:26 –– the Pual stem of יָלַד ("to give birth") means "to be
-   born"
+The Pual stem of יָלַד ("to give birth") means "to be born" in the Piel,
+for example:
 
-.. csv-table::
+.. csv-table:: Example: GEN 4:26
 
   וּלְשֵׁ֤ת גַּם־הוּא֙ **יֻלַּד**\ ־בֵּ֔ן
   ulesheth gam-hu' **yullad**-ben
@@ -188,10 +188,10 @@ contexts to express a specialized meaning for the verbal action. A
 dictionary or lexicon will indicate the correct meaning in these rare
 instances of the Pual stem.
 
--  EXO 3:2 –– in the Pual stem, the verb אָכַל ("to eat") means "to be
-   consumed" by fire ֹor sword
+In the Pual stem, the verb אָכַל ("to eat") means "to be consumed"
+by fire ֹor sword, for example:
 
-.. csv-table::
+.. csv-table:: Example: EXO 3:2
 
   וְהִנֵּ֤ה הַסְּנֶה֙ בֹּעֵ֣ר בָּאֵ֔שׁ וְהַסְּנֶ֖ה אֵינֶ֥נּוּ אֻכָּֽל
   wehinneh hasseneh bo'er ba'esh wehasseneh 'enennu **'ukkal**
@@ -199,10 +199,10 @@ instances of the Pual stem.
      **being-consumed**"
   "and behold, the bush was burning, but the bush was not **burned up**"
 
--  GEN 15:9 –– the Pual form of the verb שָׁלַשׁ means "to be three (years
-   old)" or "to have three parts"
+The Pual form of the verb שָׁלַשׁ means "to be three (years old)" or
+"to have three parts", for example:
 
-.. csv-table::
+.. csv-table:: Example: GEN 15:9
 
   "קְחָ֥ה לִי֙ עֶגְלָ֣ה **מְשֻׁלֶּ֔שֶׁת** וְעֵ֥ז **מְשֻׁלֶּ֖שֶׁת**
      וְאַ֣יִל מְשֻׁלָּ֑שׁ"
@@ -213,12 +213,10 @@ instances of the Pual stem.
   "Bring me a heifer **three years old**, a female goat **three years
      old**, a ram **three years old**"
 
--  PSA 88:18 (PSA 88:19 in Hebrew) –– the Pual
-   :ref:`participle_passive`
-   of יָדַע ("to know") means an *acquaintance* (that is, "one who is
-   known")
+The Pual :ref:`participle_passive` of יָדַע ("to know") means an
+*acquaintance* (that is, "one who is known"), for example:
 
-.. csv-table::
+.. csv-table:: Example: PSA 88:18 (PSA 88:19 in Hebrew)
 
   מְֽיֻדָּעַ֥י מַחְשָֽׁךְ
   **meyudda'ay** mahshakh

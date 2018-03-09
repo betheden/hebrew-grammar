@@ -23,7 +23,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-.. csv-table::
+.. csv-table:: Personal Pronoun Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

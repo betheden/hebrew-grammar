@@ -76,10 +76,9 @@ Examples
   even not\_\ **taken root** in-the-earth their-stem
   their stem **has** barely **taken root** in the earth
 
--  JOB 9:15 –– this form is a Poel
-   :ref:`participle_active`
+The following form is a Poel :ref:`participle_active`.
 
-.. csv-table::
+.. csv-table:: Example: JOB 9:15
 
   לִ֝מְשֹׁפְטִ֗י אֶתְחַנָּֽן׃
   **limshofeti** 'ethhannan

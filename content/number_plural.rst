@@ -42,17 +42,21 @@ plural nouns usually end in ים ִ with a hireq before the yod.
 Paradigm
 ^^^^^^^^
 
-.. csv-table::
+.. csv-table:: Plural Noun Paradigm
 
-  Word,Hebrew,Transliteration,Gloss
-  "Noun, masculine plural absolute",סוּסִים,susim,stallions
-  "Noun, masculine plural construct",סוּסֵי,suse,stallions of
-  "Noun, feminine plural absolute",סוּסוֹת,susoth,mares
-  "Noun, feminine plural construct",סוּסוֹת,susoth,mares of
-  "Adjective, masculine plural absolute",טוֹבִים,tovim,good
-  "Adjective, masculine plural construct",טוֹבֵי,tove,good
-  "Adjective, feminine plural absolute",טוֹבוֹת,tovoth,good
-  "Adjective, feminine plural construct",טוֹבוֹת,tovoth,good
+  Parsing,Hebrew,Transliteration,Gloss
+  masculine plural absolute,סוּסִים,susim,stallions
+  masculine plural construct,סוּסֵי,suse,stallions of
+  feminine plural absolute,סוּסוֹת,susoth,mares
+  feminine plural construct,סוּסוֹת,susoth,mares of
+
+.. csv-table:: Plural Adjective Paradigm
+
+  Parsing,Hebrew,Transliteration,Gloss
+  masculine plural absolute,טוֹבִים,tovim,good
+  masculine plural construct,טוֹבֵי,tove,good
+  feminine plural absolute,טוֹבוֹת,tovoth,good
+  feminine plural construct,טוֹבוֹת,tovoth,good
 
 Other words
 ~~~~~~~~~~~
@@ -65,30 +69,42 @@ kinds of changes that signal a plural form.
 Paradigm
 ^^^^^^^^
 
-.. csv-table::
+.. csv-table:: Qal Suffix Conjugation Plural Forms
 
-  Word,Hebrew,Transliteration,Gloss
-  "Qal suffix conjugation, common plural first person",קָטַלְנוּ,qatalnu,we killed
-  "Qal suffix conjugation, second person masculine plural",קְטַלְתֶּם,qetaltem,you killed
-  "Qal suffix conjugation, second person feminine plural",קְטַלְתֶּן,qetalten,you killed
-  "Qal suffix conjugation, common plural third person",קָטְלוּ,qatlu,they killed
-  "Qal prefix conjugation, common plural first person",נִקְטֹל,niqtol,we will kill
-  "Qal prefix conjugation, second person masculine plural",תִּקְטְל,tiqtelu,you will kill
-  "Qal prefix conjugation, second person feminine plural",תִּקְטֹלְנָה,tiqtolenah,you will kill
-  "Qal prefix conjugation, third person masculine plural",יִקְטְלוּ,yiqtelu,they will kill
-  "Qal prefix conjugation, third person feminine plural",תִּקְטֹלְנָה,tiqtolenah,they will kill
-  "Independent personal pronoun, second person masculine plural",אַתֶּם,'attem,you
-  "Independent personal pronoun, second person feminine plural",אַתֵּנָה,'attenah,you
-  "Independent personal pronoun, third person masculine plural",הֵם / הֵמָּה,hem / hemmah,they
-  "Independent personal pronoun, third person feminine plural",הֵן / הֵנָּה,hen / hennah,they
-  "Object pronoun, second person masculine plural",אֹתְכֶֶם,'othekhem,you
-  "Object pronoun, second person feminine plural",אֹתְכֶֶן,'thekhem,you
-  "Object pronoun, third person masculine plural",אֶתְהֶם / אֹתָם,'ethhem / 'otham,them
-  "Object pronoun, third person feminine plural",אֶתְהֶן / אֹתָן,'ethhen / 'othan,them
-  "Pronomial suffix, second person masculine plural",לָכֶם / -כֶם,lakhem / -khem,(to) you
-  "Pronomial suffix, second person feminine plural",לָכֶן / -כֶן,lakhen / -khen,(to) you
-  "Pronomial suffix, third person masculine plural",לָהֶם / -הֶם / - ָם,lahem / -hem / -am,(to) them
-  "Pronomial suffix, third person feminine plural",לָהֶן / -הֶן / - ָן,lahen / -hen / -an,(to) them
+  Parsing,Hebrew,Transliteration,Gloss
+  common plural first person,קָטַלְנוּ,qatalnu,we killed
+  second person masculine plural,קְטַלְתֶּם,qetaltem,you killed
+  second person feminine plural,קְטַלְתֶּן,qetalten,you killed
+  common plural third person,קָטְלוּ,qatlu,they killed
+  common plural first person,נִקְטֹל,niqtol,we will kill
+  second person masculine plural,תִּקְטְל,tiqtelu,you will kill
+  second person feminine plural,תִּקְטֹלְנָה,tiqtolenah,you will kill
+  third person masculine plural,יִקְטְלוּ,yiqtelu,they will kill
+  third person feminine plural,תִּקְטֹלְנָה,tiqtolenah,they will kill
+
+.. csv-table:: Independent Personal Pronoun Plural Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine plural,אַתֶּם,'attem,you
+  second person feminine plural,אַתֵּנָה,'attenah,you
+  third person masculine plural,הֵם / הֵמָּה,hem / hemmah,they
+  third person feminine plural,הֵן / הֵנָּה,hen / hennah,they
+
+.. csv-table:: Object Pronoun Plural Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine plural,אֹתְכֶֶם,'othekhem,you
+  second person feminine plural,אֹתְכֶֶן,'thekhem,you
+  third person masculine plural,אֶתְהֶם / אֹתָם,'ethhem / 'otham,them
+  third person feminine plural,אֶתְהֶן / אֹתָן,'ethhen / 'othan,them
+
+.. csv-table:: Pronominal Suffix Plural Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine plural,לָכֶם / -כֶם,lakhem / -khem,(to) you
+  second person feminine plural,לָכֶן / -כֶן,lakhen / -khen,(to) you
+  third person masculine plural,לָהֶם / -הֶם / - ָם,lahem / -hem / -am,(to) them
+  third person feminine plural,לָהֶן / -הֶן / - ָן,lahen / -hen / -an,(to) them
 
 Function
 --------

@@ -108,14 +108,12 @@ Paradigm
   masculine plural,הִתְקַטְּלוּ,hitqattelu,they must kill themselves
   feminine plural,הִתְקַטֵּלְנָה,hitqattelnah,they must kill themselves
 
-**Jussive**
-
 .. note:: The Jussive form in the Hithpael stem is recognizable only for
           select verbs. Here the sample verb is גָּלָה (meaning "to uncover one's
           own nakedness" in the Hithpael stem), where the 3rd radical (ה) has
           dropped out.
 
-.. csv-table::
+.. csv-table:: Hithpael Jussive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -171,20 +169,16 @@ voice).
   **when-making-himself-known** Joseph to\_his-brothers
   when Joseph **made himself known** to his brothers
 
--  ISA 8:9 –– *direct* reflexive action, meaning that the verbal subject
+.. csv-table:: Example: ISA 8:9 –– *direct* reflexive action, meaning that the verbal subject
    is also the *direct object* of the verb
-
-.. csv-table::
 
   הִתְאַזְּר֣וּ וָחֹ֔תּוּ
   **hith'azzeru** wahottu
   **gird-yourselves** and-be-dismayed
   **arm yourselves** and be broken in pieces
 
--  1SA 18:4 –– *indirect* reflexive action, meaning that the verbal
+.. csv-table:: Example: 1SA 18:4 –– *indirect* reflexive action, meaning that the verbal
    subject is also the *indirect object* of the verb
-
-.. csv-table::
 
   וַיִּתְפַּשֵּׁט יְהוֹנָתָן אֶת־הַמְּעִיל
   **wayyithpashet** yehonathan 'eth-hamme'il
@@ -205,10 +199,8 @@ rare cases, usually the verb appears *only* in the Hithpael stem in
 Biblical Hebrew. This is the case with the verb אָפַק ("to constrain
 oneself"), as shown in the example below.
 
--  GEN 37:34 –– expressing simple action "to mourn" (in reflexive voice,
+.. csv-table:: Example: GEN 37:34 –– expressing simple action "to mourn" (in reflexive voice,
    meaning *to mourn physically* via bodily actions)
-
-.. csv-table::
 
   וַיִּתְאַבֵּ֥ל עַל־בְּנ֖וֹ יָמִ֥ים רַבִּֽים
   **wayyith'abbel** 'al-beno yamim rabbim
@@ -248,10 +240,8 @@ Hithpael stem.
   she **is-praised**.
   she **will be praised**.
 
--  Gen 3:8 –– the Hithpael form of the verb הָלַךְ expresses
+.. csv-table:: Example: Gen 3:8 –– the Hithpael form of the verb הָלַךְ expresses
    *reciprocating* action (meaning, *going back and forth*)
-
-.. csv-table::
 
   וַֽיִּשְׁמְע֞וּ אֶת־ק֨וֹל יְהוָ֧ה אֱלֹהִ֛ים **מִתְהַלֵּ֥ךְ** בַּגָּ֖ן
   wayyishme'u 'eth-qol yehwah 'elohim **mithhallekh** baggan
@@ -259,10 +249,8 @@ Hithpael stem.
      **going-back-and-forth** in-the-garden"
   They heard the sound of Yahweh God **walking** in the garden
 
--  DEU 1:37 –– the Hithpael form of the verb אָנַף ("to be angry") is
+.. csv-table:: Example: DEU 1:37 –– the Hithpael form of the verb אָנַף ("to be angry") is
    always used in reference to Yahweh
-
-.. csv-table::
 
   גַּם־בִּי֙ **הִתְאַנַּ֣ף** יְהוָ֔ה בִּגְלַלְכֶ֖ם
   gam-biy **hith'annaf** yehwah biglalkhem

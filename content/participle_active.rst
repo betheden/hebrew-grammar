@@ -35,9 +35,7 @@ grammatical function cannot be determined precisely.
 Form
 ----
 
-**Qal**
-
-.. csv-table::
+.. csv-table:: Qal Active Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -46,9 +44,7 @@ Form
   masculine plural Absolute,קֹטְלִים,qotelim,killing / killers
   feminine plural Absolute,קֹטְלוֹת,qoteloth,killing / killers
 
-**Hiphil**
-
-.. csv-table::
+.. csv-table:: Hiphil Active Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -57,9 +53,7 @@ Form
   masculine plural Absolute,מַקְטִילִים,maqtilim,causing to kill
   feminine plural Absolute,מַקְטִילוֹת,maqtiloth,causing to kill
 
-**Piel**
-
-.. csv-table::
+.. csv-table:: Piel Active Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -124,7 +118,7 @@ contrast to the normal conventions of :ref:`word_order`.
   I **was fasting and praying** before the God of heaven.
 
 Functions as a :ref:`verb-finite-verbs`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When functioning as a verb, the participle is governed by the context
 and has the potential to be translated as past time, present time,
@@ -158,7 +152,7 @@ determined by the context.
   "See, I **am about to do** something in Israel"
 
 Functions as a verbal :ref:`adjective`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When functioning as an adjective, a participle follows the noun in the
 attributive position and matches the noun in gender, number, and
@@ -173,10 +167,8 @@ introduce a clause that functions as an adjective.
   for Yahweh your-God fire **eating**
   For Yahweh your God is a **devouring** fire
 
--  GEN 1:12 –– a participle introducing a clause functioning as an
+.. csv-table:: Example: GEN 1:12 –– a participle introducing a clause functioning as an
    adjective
-
-.. csv-table::
 
   "וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב **מַזְרִ֤יעַ** זֶ֙רַע֙
      לְמִינֵ֔הוּ"
@@ -201,10 +193,8 @@ or introduce a relative clause that functions as a noun.
   and-to-all **crawlers** on\_the-earth
   and to everything **that creeps** upon the earth
 
--  GEN 26:11 –– a participle introducing a relative clause functioning
+.. csv-table:: Example:  GEN 26:11 –– a participle introducing a relative clause functioning
    as a noun
-
-.. csv-table::
 
   הַנֹּגֵ֜עַ בָּאִ֥ישׁ הַזֶּ֛ה וּבְאִשְׁתּ֖וֹ מ֥וֹת יוּמָֽת
   **hannogea'** ba'ish hazzeh uve'ishto moth yumath

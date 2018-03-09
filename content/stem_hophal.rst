@@ -144,20 +144,20 @@ But in the Hiphil stem, the verb בּוֹא means "to bring" (causative
 action, active voice). Thus, in the Hophal stem, the verb בּוֹא means
 "to be brought" (causative action, passive voice).
 
--  GEN 33:11 –– Hophal stem of בּוֹא, meaning "to be brought"; in the
-   Hiphil stem, means "to bring"
+The Hophal stem of בּוֹא, meaning "to be brought"; in the
+Hiphil stem, means "to bring", for example:
 
-.. csv-table::
+.. csv-table:: Example: GEN 33:11
 
   קַח־נָ֤א אֶת־בִּרְכָתִי֙ אֲשֶׁ֣ר **הֻבָ֣את** לָ֔ךְ
   qah-na 'eth-birkhathiy 'asher **huvath** lakh
   Take\_please [dir.obj]\_my-blessing that **it-was-brought** to-you
   Please accept my gift that **was brought** to you
 
--  GEN 22:20 –– Hophal stem of נָגַד, meaning "to be declared"; in the
-   Hiphil stem, means "to declare"
+The Hophal stem of נָגַד, meaning "to be declared"; in the
+Hiphil stem, means "to declare", for example:
 
-.. csv-table::
+.. csv-table:: Example: GEN 22:20
 
   וַיֻּגַּ֥ד לְאַבְרָהָ֖ם
   **wayyuggad** le'avraham
@@ -193,10 +193,10 @@ Sometimes the Pual form is used with specific verbs or in specific
 contexts to express a specialized meaning for the verbal action. A
 dictionary or lexicon will indicate the correct meaning.
 
--  GEN 40:20 –– the Hophal stem of the verb יָלַד ("to give birth")
-   refers to someone's birthday
+The Hophal stem of the verb יָלַד ("to give birth")
+refers to someone's birthday, for example:
 
-.. csv-table::
+.. csv-table:: Example: GEN 40:20
 
   וַיְהִ֣י׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י י֚וֹם **הֻלֶּ֣דֶת** אֶת־פַּרְעֹ֔ה
   wayhi bayyom hashelishi yom **hulledeth** 'eth-par'oh
@@ -204,10 +204,10 @@ dictionary or lexicon will indicate the correct meaning.
      [dir.obj]\_Pharaoh"
   It came about on the third day that it was Pharaoh's **birth**\ day.
 
--  2CH 3:3 –– the Hophal stem of the verb יָסַד ("to found, establish")
-   refers to the foundation of a building
+The Hophal stem of the verb יָסַד ("to found, establish")
+refers to the foundation of a building, for example:
 
-.. csv-table::
+.. csv-table:: Example: 2CH 3:3
 
   וְאֵ֙לֶּה֙ **הוּסַ֣ד** שְׁלֹמֹ֔ה לִבְנ֖וֹת אֶת־בֵּ֣ית הָאֱלֹהִ֑ים
   we'elleh **husad** shelomoh livnoth 'eth-beth ha'elohim

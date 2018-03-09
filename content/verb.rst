@@ -164,20 +164,20 @@ A transitive verb is an action verb which requires an object that
 receives the verbal action. A sentence with a transitive verb is not
 complete without the object. Stative verbs are never transitive.
 
--  RUT 1:14 –– "And they lifted up" is unclear without an object. They
-   lifted up...\ *what?*
+The phrase "And they lifted up" is unclear without an object.
+They lifted up...\ *what?*, for example:
 
-.. csv-table::
+.. csv-table:: Example: RUT 1:14
 
   וַתִּשֶּׂ֣נָה קֹולָ֔ן
   **wattissenah** qowlan
   **And they lifted up** their voice
   **Then they lifted up** their voices
 
--  PRO 7:1 –– "[you must] keep" is unclear without an object. You must
-   keep...\ *what?*
+The phrase "[you must] keep" is unclear without an object.
+You must keep...\ *what?*, for example:
 
-.. csv-table::
+.. csv-table:: Example: PRO 7:1
 
   שְׁמֹ֣ר אֲמָרָ֑י
   **shemor** 'amaray
@@ -244,20 +244,20 @@ a Hebrew verb.
 Helping verbs in questions and negations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  1SA 13:11 –– in English translation with helping verb "have" (not
-   present in the Hebrew text)
+The following example in English adds the helping verb "have"
+(not present in the Hebrew text):
 
-.. csv-table::
+.. csv-table:: Example: 1SA 13:11
 
   מֶ֣ה עָשִׂ֑יתָ
   meh 'asitha
   What you-did?
   What **have** you done?
 
--  EZR 5:5 –– in English translation with helping verb "did" (not
-   present in the Hebrew text)
+The following example in English adds the helping verb "did"
+(not present in the Hebrew text):
 
-.. csv-table::
+.. csv-table:: Example: EZR 5:5
 
   וְלָא־בַטִּ֣לוּ הִמֹּ֔ו
   wela-vattilu himmow
@@ -277,20 +277,17 @@ this*). In Biblical Hebrew, this sense of possibility or desirability is
 implied by the context and already present in the form of the verb
 itself.
 
--  GEN 3:16 –– in English translation with helping verb "may" (not
-   present in Hebrew text)
+The following examples in English add the helping verb "may"
+(not present in the Hebrew text):
 
-.. csv-table::
+.. csv-table:: Example: GEN 3:16
 
   מִכֹּ֥ל עֵֽץ־הַגָּ֖ן אָכֹ֥ל תֹּאכֵֽל׃
   mikkol 'ets-haggan 'akhol tokhel
   from-every tree-of\_the-garden eating you-eat
   From every tree in the garden you **may** freely eat
 
--  JOB 38:34 –– in English translation with helping verb "may" (not
-   present in Hebrew text)
-
-.. csv-table::
+.. csv-table:: JOB 38:34
 
   וְֽשִׁפְעַת־מַ֥יִם תְּכַסֶּֽךָּ׃
   weshif'ath-mayim tekhassekka

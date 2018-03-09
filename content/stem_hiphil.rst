@@ -227,7 +227,9 @@ simple or causative action that might not follow any of the other
 descriptions listed above. As always, the specific meaning of the verb
 will be indicated by a dictionary or lexicon.
 
-.. csv-table:: Example: GEN 6:12 –– Hiphil stem expressing idiomatic action
+Hiphil stem expressing idiomatic action:
+
+.. csv-table:: Example: GEN 6:12
 
   "וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָאָרֶץ וְהִנֵּ֣ה נִשְׁחָ֑תָה
      כִּֽי־\ **הִשְׁחִ֧ית** כָּל־בָּשָׂ֛ר אֶת־דַּרְכּ֖וֹ עַל־הָאָרֶץ"
@@ -239,10 +241,9 @@ will be indicated by a dictionary or lexicon.
   "And God saw the land and behold it was corrupt because all flesh
      **had corrupted** its ways upon the land."
 
--  1KI 8:32 –– Hiphil stem declaring a state rather than expressing an
-   action
+Hiphil stem declaring a state rather than expressing an action:
 
-.. csv-table::
+.. csv-table:: Example: 1KI 8:32
 
   "לְהַרְשִׁ֣יעַ רָשָׁ֔ע לָתֵ֥ת דַּרְכּ֖וֹ בְּרֹאשׁ֑וֹ
      **וּלְהַצְדִּ֣יק** צַדִּ֔יק לָ֥תֶת ל֖וֹ כְּצִדְקָתֽוֹ׃"

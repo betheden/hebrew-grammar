@@ -161,9 +161,9 @@ Incomplete actions, in present or future time
 In poetry it can take on a variety of functions, here it clearly
 continues the previous :ref:`verb_imperfect`.
 It signals a :ref:`verb_imperfect-frequentive-or-durative-actions`
-that is not (never) completed. \* PSA 90:6
+that is not (never) completed.
 
-.. csv-table::
+.. csv-table:: Example: PSA 90:6
 
   בַּ֭בֹּקֶר יָצִ֣יץ **וְחָלָ֑ף** לָ֝עֶ֗רֶב יְמוֹלֵ֥ל **וְיָבֵֽשׁ**\ ׃
   babboqer yatsits **wehalaf** la'erev yemolel **weyavesh**
@@ -176,9 +176,9 @@ Frequentive or durative actions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 These may be in past time, present time, future time, or without a
-specified timeframe. \* 1SA 5:7
+specified timeframe.
 
-.. csv-table::
+.. csv-table:: Example: 1SA 5:7
 
   וַיִּרְא֥וּ אַנְשֵֽׁי־אַשְׁדּ֖וֹד כִּֽי־כֵ֑ן וְאָמְר֗וּ
   wayyir'u 'anshe-'ashdod ki-khen **we'omru**
@@ -188,22 +188,20 @@ specified timeframe. \* 1SA 5:7
 Direct or indirect commands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  2SA 7:5 – Sequential suffix conjugation translated with
-   :ref:`verb_imperative`
-   meaning
+In the following example, the sequential suffix conjugation is
+translated with :ref:`verb_imperative` meaning.
 
-.. csv-table::
+.. csv-table:: Example: 2SA 7:5
 
   לֵ֤ךְ **וְאָֽמַרְתָּ֙** אֶל־עַבְדִּ֣י אֶל־דָּוִ֔ד
   lekh **we'amarta** 'el-'avdi 'el-dawid
   go **and-say** to\_my-servant to\_David
   Go **and tell** David my servant
 
--  GEN 31:44 – Sequential suffix conjugation translated with
-   :ref:`verb_jussive`
-   meaning
+In the following example, the sequential suffix conjugation is
+translated with :ref:`verb_jussive` meaning.
 
-.. csv-table::
+.. csv-table:: Example: GEN 31:44
 
   וְהָיָ֥ה לְעֵ֖ד בֵּינִ֥י וּבֵינֶֽךָ
   **wehayah** le'ed beni uvenekha
@@ -227,10 +225,12 @@ Actions of greater or lesser desirability
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 These may include instructions, requests, permissions, invitations,
-assurances, wishes, etc. \* RUT 2:7 – Sequential suffix conjugation
-translated with cohortative meaning
+assurances, wishes, etc.
 
-.. csv-table::
+In the following example, the sequential suffix conjugation is
+translated with :ref:`verb_cohortative` meaning.
+
+.. csv-table:: Example: RUT 2:7
 
   אֲלַקֳטָה־נָּא֙ **וְאָסַפְתִּ֣י** בָֽעֳמָרִ֔ים
   'alaqotah-nna' **we'asafti** vo'omarim

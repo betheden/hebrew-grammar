@@ -17,7 +17,7 @@ Article
 The second person is the person(s) that is spoken to. Both for a single
 person and for a group of people, English uses "you", or "your".
 
-The second person is only used in direct speech.
+.. note:: The second person is only used in direct speech.
 
 Form
 ----
@@ -30,29 +30,45 @@ sample of the kinds of changes that signal a second person.
 Paradigm
 ~~~~~~~~
 
-.. csv-table::
+.. csv-table:: Second Person Qal Suffix Conjugation Forms
 
-  Word,Hebrew,Transliteration,Gloss
-  "Qal suffix conjugation, second person masculine singular",קָטַלְתָּ,qatalta,you killed
-  "Qal suffix conjugation, second person feminine singular",קָטַלְתְּ,qatalt,you killed
-  "Qal suffix conjugation, second person masculine plural",קְטַלְתֶּם,qetaltem,you killed
-  "Qal suffix conjugation, second person feminine plural",קְטַלְתֶּן,qetalten,you killed
-  "Qal prefix conjugation, second person masculine singular",תִּקְטֹל,tiqtol,you will kill
-  "Qal prefix conjugation, second person feminine singular",תִּקְטְלִי,tiqteli,you will kill
-  "Qal prefix conjugation, second person masculine plural",תִּקְטְלוּ,tiqtelu,you will kill
-  "Qal prefix conjugation, second person feminine plural",תִּקְטֹלְנָה,tiqtolenah,you will kill
-  "Independent personal pronoun, second person masculine singular",אַתָּה,'attah,you
-  "Independent personal pronoun, second person feminine singular",אַתְּ,'at,you
-  "Independent personal pronoun, second person masculine plural",אַתֶּם,'attem,you
-  "Independent personal pronoun, second person feminine plural",אַתֵּנָה,'attenah,you
-  "Object pronoun, second person masculine singular",אֹתְךָ,'othekha,you
-  "Object pronoun, second person feminine singular",אֹתָךְ,'othakh,you
-  "Object pronoun, second person masculine plural",אֹתְכֶֶם,'othekhem,you
-  "Object pronoun, second person feminine plural",אֹתְכֶֶן,'thekhem,you
-  "Pronomial suffix, second person masculine singular",לְךָ / - ְךָ,lekha / -ekha,(to) you
-  "Pronomial suffix, second person feminine singular",לָךְ / - ָךְ,lakh / -akh,(to) you
-  "Pronomial suffix, second person masculine plural",לָכֶם / -כֶם,lakhem / -khem,(to) you
-  "Pronomial suffix, second person feminine plural",לָכֶן / -כֶן,lakhen / -khen,(to) you
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,קָטַלְתָּ,qatalta,you killed
+  second person feminine singular,קָטַלְתְּ,qatalt,you killed
+  second person masculine plural,קְטַלְתֶּם,qetaltem,you killed
+  second person feminine plural,קְטַלְתֶּן,qetalten,you killed
+
+.. csv-table:: Second Person Qal Prefix Conjugation Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,תִּקְטֹל,tiqtol,you will kill
+  second person feminine singular,תִּקְטְלִי,tiqteli,you will kill
+  second person masculine plural,תִּקְטְלוּ,tiqtelu,you will kill
+  second person feminine plural,תִּקְטֹלְנָה,tiqtolenah,you will kill
+
+.. csv-table:: Second Person Indepdent Personal Pronoun Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,אַתָּה,'attah,you
+  second person feminine singular,אַתְּ,'at,you
+  second person masculine plural,אַתֶּם,'attem,you
+  second person feminine plural,אַתֵּנָה,'attenah,you
+
+.. csv-table:: Second Person Object Pronoun Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,אֹתְךָ,'othekha,you
+  second person feminine singular,אֹתָךְ,'othakh,you
+  second person masculine plural,אֹתְכֶֶם,'othekhem,you
+  second person feminine plural,אֹתְכֶֶן,'thekhem,you
+
+.. csv-table:: Second Person Pronominal Suffix Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,לְךָ / - ְךָ,lekha / -ekha,(to) you
+  second person feminine singular,לָךְ / - ָךְ,lakh / -akh,(to) you
+  second person masculine plural,לָכֶם / -כֶם,lakhem / -khem,(to) you
+  second person feminine plural,לָכֶן / -כֶן,lakhen / -khen,(to) you
 
 English does not have a distinction between
 :ref:`number_singular`
@@ -71,8 +87,9 @@ Translators are free to use their own judgement to translate formally or
 informally. If a speaker is addressing God, many languages (including
 German, Spanish, and French) address God with the informal voice while
 capitalizing the first letter of the personal pronoun. Some other
-languages (like Dutch), speak to God in the formal voice. See also the
-translation academy.
+languages (like Dutch), speak to God in the formal voice.
+See also `translationAcademy <http://ufw.io/academy/>`_ and
+`translationNotes <http://ufw.io/academy/>`_.
 
 The second person can be found in
 :ref:`verb`

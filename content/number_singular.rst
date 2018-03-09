@@ -41,17 +41,21 @@ singular nouns usually end in either ה or ת.
 Paradigm
 ^^^^^^^^
 
-.. csv-table::
+.. csv-table:: Singular Noun Paradigm
 
-  Word,Hebrew,Transliteration,Gloss
-  "Noun, masculine singular absolute",סוּס,sus,stallion
-  "Noun, masculine singular construct",סוּס,sus,stallion of
-  "Noun, feminine singular absolute",סוּסָה,susah,mare
-  "Noun, feminine singular construct",סוּסַת,susat,mare of
-  "Adjective, masculine singular absolute",טוֹב,tov,good
-  "Adjective, masculine singular construct",טוֹב,tov,good
-  "Adjective, feminine singular absolute",טוֹבָה,tovah,good
-  "Adjective, feminine singular construct",טוֹבַת,tovath,good
+  Parsing,Hebrew,Transliteration,Gloss
+  masculine singular absolute,סוּס,sus,stallion
+  masculine singular construct,סוּס,sus,stallion of
+  feminine singular absolute,סוּסָה,susah,mare
+  feminine singular construct,סוּסַת,susat,mare of
+
+.. csv-table:: Singular Adjective Paradigm
+
+  Parsing,Hebrew,Transliteration,Gloss
+  masculine singular absolute,טוֹב,tov,good
+  masculine singular construct,טוֹב,tov,good
+  feminine singular absolute,טוֹבָה,tovah,good
+  feminine singular construct,טוֹבַת,tovath,good
 
 Other words
 ~~~~~~~~~~~
@@ -64,31 +68,43 @@ kinds of changes that signal a singular form.
 Paradigm
 ^^^^^^^^
 
-.. csv-table::
+.. csv-table:: Qal Suffix Conjugation Singular Forms
 
-  Word,Hebrew,Transliteration,Gloss
-  "Qal suffix conjugation, common singular first person",קָטַלְתִּי,qatalti,I killed
-  "Qal suffix conjugation, second person masculine singular",קָטַלְתָּ,qatalta,you killed
-  "Qal suffix conjugation, second person feminine singular",קָטַלְתְּ,qatalt,you killed
-  "Qal suffix conjugation, third person masculine singular",קָטַל,qatal,he killed
-  "Qal suffix conjugation, third person feminine singular",קָטְלָה,qatlah,she killed
-  "Qal prefix conjugation, common singular first person",אֶקְטֹל,'eqtol,I will kill
-  "Qal prefix conjugation, second person masculine singular",תִּקְטֹל,tiqtol,you will kill
-  "Qal prefix conjugation, second person feminine singular",תִּקְטְלִי,tiqteli,you will kill
-  "Qal prefix conjugation, third person masculine singular",יִקְטֹל,yiqtol,he will kill
-  "Qal prefix conjugation, third person feminine singular",תִּקְטֹל,tiqtol,she will kill
-  "Independent personal pronoun, second person masculine singular",אַתָּה,'attah,you
-  "Independent personal pronoun, second person feminine singular",אַתְּ,'at,you
-  "Independent personal pronoun, third person masculine singular",הוּא,hu,he / it
-  "Independent personal pronoun, third person feminine singular",הִיא / הִוא,hi / hiw,she / it
-  "Object pronoun, second person masculine singular",אֹתְךָ,'othekha,you
-  "Object pronoun, second person feminine singular",אֹתָךְ,'othakh,you
-  "Object pronoun, third person masculine singular",אֹתוֹ,'otho,him / it
-  "Object pronoun, third person feminine singular",אֹתָהּ,'othah,her / it
-  "Pronomial suffix, second person masculine singular",לְךָ / - ְךָ,lekha / -ekha,(to) you
-  "Pronomial suffix, second person feminine singular",לָךְ / - ָךְ,lakh / -akh,(to) you
-  "Pronomial suffix, third person masculine singular",לוֹ / -וֹ,lo / -o,(to) him
-  "Pronomial suffix, third person feminine singular",לָהּ / - ָהּ,lah / -ah,(to) her
+  Parsing,Hebrew,Transliteration,Gloss
+  common singular first person,קָטַלְתִּי,qatalti,I killed
+  second person masculine singular,קָטַלְתָּ,qatalta,you killed
+  second person feminine singular,קָטַלְתְּ,qatalt,you killed
+  third person masculine singular,קָטַל,qatal,he killed
+  third person feminine singular,קָטְלָה,qatlah,she killed
+  common singular first person,אֶקְטֹל,'eqtol,I will kill
+  second person masculine singular,תִּקְטֹל,tiqtol,you will kill
+  second person feminine singular,תִּקְטְלִי,tiqteli,you will kill
+  third person masculine singular,יִקְטֹל,yiqtol,he will kill
+  third person feminine singular,תִּקְטֹל,tiqtol,she will kill
+
+.. csv-table:: Independent Personal Pronoun Singular Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,אַתָּה,'attah,you
+  second person feminine singular,אַתְּ,'at,you
+  third person masculine singular,הוּא,hu,he / it
+  third person feminine singular,הִיא / הִוא,hi / hiw,she / it
+
+.. csv-table:: Object Pronoun Singular Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,אֹתְךָ,'othekha,you
+  second person feminine singular,אֹתָךְ,'othakh,you
+  third person masculine singular,אֹתוֹ,'otho,him / it
+  third person feminine singular,אֹתָהּ,'othah,her / it
+
+.. csv-table:: Pronominal Suffix Singular Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,לְךָ / - ְךָ,lekha / -ekha,(to) you
+  second person feminine singular,לָךְ / - ָךְ,lakh / -akh,(to) you
+  third person masculine singular,לוֹ / -וֹ,lo / -o,(to) him
+  third person feminine singular,לָהּ / - ָהּ,lah / -ah,(to) her
 
 Function
 --------

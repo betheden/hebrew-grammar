@@ -110,13 +110,11 @@ Paradigm
   masculine plural,קַטְּלוּ,qattelu,you must slaughter
   feminine plural,קַטֵּלְנָה,qattelnah,you must slaughter
 
-**Jussive**
-
 .. note:: The jussive form in the Piel stem is recognizable only for certain
           verbs. Here the sample verb is גָּלָה (meaning "to uncover nakedness" in
           the Piel stem), where the 3rd radical (ה) has dropped out.
 
-.. csv-table::
+.. csv-table:: Piel Jussive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -261,10 +259,11 @@ context demonstrates that none of the normal meanings of the verbal
 action make sense. A dictionary or lexicon will indicate the correct
 meaning in these rare instances of the Piel stem.
 
--  ISA 10:1 –– the Piel form of the verb כָּתַב ("to write") has
-   uncertain meaning, but seems to indicate *a specific kind* of writing
+The Piel form of the verb כָּתַב ("to write") has
+uncertain meaning, but seems to indicate *a specific kind* of writing,
+for example:
 
-.. csv-table::
+.. csv-table:: Example: ISA 10:1
 
   "ה֥וֹי הַחֹֽקְקִ֖ים חִקְקֵי־אָ֑וֶן **וּֽמְכַתְּבִ֥ים** עָמָ֖ל
      **כִּתֵּֽבוּ**\ ׃"
@@ -273,20 +272,20 @@ meaning in these rare instances of the Piel stem.
      **they-write**"
   Woe to those who enact unjust laws **and write** unfair **decrees**
 
--  NUM 19:19 –– the verb חָטָא means "to sin" in the Qal stem, but ִin
-   the Piel stem it means "to purify"
+The verb חָטָא means "to sin" in the Qal stem, but ִin
+the Piel stem it means "to purify", for example:
 
-.. csv-table::
+.. csv-table:: Example: NUM 19:19
 
   וְחִטְּאוֹ֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י
   **wehitte'o** bayyom hashevi'i
   **and-he-purifies-him** on-the-day the-seventh
   On the seventh day the unclean person **must purify himself**
 
--  JOB 1:5 –– verbal action is the *opposite* of the normal meaning of
-   the verb
+The verbal action may be the *opposite* of the normal meaning of
+the verb, for example:
 
-.. csv-table::
+.. csv-table:: Example JOB 1:5
 
   אוּלַי֙ חָטְא֣וּ בָנַ֔י **וּבֵרֲכ֥וּ** אֱלֹהִ֖ים בִּלְבָבָ֑ם
   'ulay hot'u vanay **uverakhu** 'elohim bilvavam

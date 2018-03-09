@@ -38,7 +38,7 @@ or the :ref:`state_construct`.
 Paradigm
 ~~~~~~~~
 
-.. csv-table::
+.. csv-table:: Noun Paradigm
 
   word,Hebrew,Transliteration,Gloss
   masculine singular absolute,סוּס,sus,stallion

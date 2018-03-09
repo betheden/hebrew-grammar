@@ -39,7 +39,7 @@ each instance.
 Form
 ----
 
-.. csv-table::
+.. csv-table:: Infinive Absolute Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -54,7 +54,7 @@ Form
 Function
 --------
 
-The infinitive absolute can express the following range of meanings:
+The infinitive absolute can express the following range of meanings.
 
 Expresses intensity or certainty of verbal action
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -69,14 +69,20 @@ and
 :ref:`participle_active`;
 in those cases, the infinitive absolute follows.
 
-.. csv-table:: Example: GEN 2:16 – Infinitive absolute expressing intensity of action
+The following example shows the infinitive absolute expressing intensity of
+action.
+
+.. csv-table:: Example: GEN 2:16
 
   מִכֹּ֥ל עֵֽץ־הַגָּ֖ן **אָכֹ֥ל** תֹּאכֵֽל
   mikkol 'ets-haggan **'akhol** tokhel
   from-every tree-of\_the-garden **eating** you-may-eat
   From every tree in the garden you may **freely** eat.
 
-.. csv-table:: Example: GEN 2:17 – Infinitive absolute expressing certainty of action
+The following example shows the infinitive absolute expressing certainty of
+action.
+
+.. csv-table:: Example: GEN 2:17
 
   בְּי֛וֹם אֲכָלְךָ֥ מִמֶּ֖נּוּ **מ֥וֹת** תָּמֽוּת
   beyom 'akholkha mimmennu **moth** tamuth
@@ -84,7 +90,7 @@ in those cases, the infinitive absolute follows.
   "on the day that you eat from it, you will **surely** die."
 
 Functions as a :ref:`verb-finite-verbs`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The infinitive absolute often substitutes for a finite verb. In these
 cases, the infinitive absolute can carry an emotive sense and should be
@@ -100,32 +106,30 @@ provide a sampling of potential options for the exact meaning.
   "Should anyone who wishes to criticize **try to correct** the
      Almighty?"
 
--  GEN 41:43 – an infinitive absolute continuing the action of the
-   preceding verb
+The following example shows the infinitive absolute continuing the action
+of the preceding verb.
 
-.. csv-table::
+.. csv-table:: Example: GEN 41:43
 
   וְנָת֣וֹן אֹת֔וֹ עַ֖ל כָּל־אֶ֥רֶץ מִצְרָֽיִם׃
   **wenathon** 'otho 'al kol-'erets mitsrayim
   **and-placing** [dir.obj]-him over whole\_land-of Egypt
   Pharaoh **put** him over all the land of Egypt.
 
--  EXO 20:8 – infinitive absolute functioning as an emphatic command
-   (either direct or indirect)
+The following example shows the infinitive absolute functioning as an
+emphatic command (either direct or indirect).
 
-.. csv-table::
+.. csv-table:: Example: EXO 20:8
 
   זָכ֛וֹר אֶת־י֥וֹם הַשַּׁבָּ֖ת
   **zakhor** 'eth-yom hashabbath
   **Remember** [dir.obj]\_day the-Sabbath
   **Remember** the Sabbath day
 
--  HOS 10:4 – a pair of infinitive absolutes functioning ambiguously
-   (could be
-   :ref:`adverb`
-   or finite verbs)
+The following example shows the infinitive absolute functioning ambiguously
+(could be :ref:`adverb` or finite verbs).
 
-.. csv-table::
+.. csv-table:: Example: HOS 10:4
 
   דִּבְּר֣וּ דְבָרִ֔ים **אָל֥וֹת** שָׁ֖וְא **כָּרֹ֣ת** בְּרִ֑ית
   dibberu devarim **'aloth** shawe **karoth** berith
@@ -139,7 +143,10 @@ Complements the action of the main verb
 An infinitive absolute (or a pair of infinitive absolutes) can follow a
 finite verb of a different root to describe complementary action.
 
-.. csv-table:: Example: GEN 30:32 – a single infinitive absolute functioning adverbially
+In the following example, a single infinitive absolute is functioning
+adverbially.
+
+.. csv-table:: Example: GEN 30:32
 
   "אֶֽעֱבֹ֨ר בְּכָל־צֹֽאנְךָ֜ הַיּ֗וֹם **הָסֵ֨ר** מִשָּׁ֜ם כָּל־שֶׂ֣ה׀
      נָקֹ֣ד וְטָל֗וּא"
@@ -149,7 +156,10 @@ finite verb of a different root to describe complementary action.
   "Let me walk through all your flock today, **removing** from it every
      speckled and spotted sheep"
 
-.. csv-table:: Example: 1SA 3:12 – a pair of infinitive absolutes functioning adverbially
+In the following example, a pair of infinitive absolutes are functioning
+adverbially.
+
+.. csv-table:: Example: 1SA 3:12
 
   בַּיּ֤וֹם הַהוּא֙ אָקִ֣ים ... הָחֵ֖ל וְכַלֵּֽה
   bayyom hahu' 'aqim ... **hahel wekhalleh**
@@ -189,9 +199,9 @@ or continuance of the action of a main verb.
 Functions as a :ref:`verb-verbal-nouns`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This is an extremely rare use of the infinitive absolute. \* ISA 22:13
+This is an extremely rare use of the infinitive absolute.
 
-.. csv-table::
+.. csv-table:: Example: ISA 22:13
 
   "וְהִנֵּ֣ה׀ שָׂשׂ֣וֹן וְשִׂמְחָ֗ה **הָרֹ֤ג**\ ׀ בָּקָר֙ **וְשָׁחֹ֣ט**
   צֹ֔אן **אָכֹ֥ל** בָּשָׂ֖ר **וְשָׁת֣וֹת** יָ֑יִן"

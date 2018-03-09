@@ -48,29 +48,49 @@ changes to the form. These changes differ greatly from each other and
 are hard to sum up in a simple, helpful way. This paradigm shows a
 sample of the kinds of changes that signal a masculine form.
 
-.. csv-table::
+.. csv-table:: Masculine Noun Forms
 
-  Word,Hebrew,Transliteration,Gloss
-  "Noun, masculine singular absolute",סוּס,sus,stallion
-  "Noun, masculine singular construct",סוּס,sus,stallion of
-  "Noun, masculine plural absolute",סוּסִים,susim,stallions
-  "Noun, masculine plural construct",סוּסֵי,suse,stallions of
-  "Qal suffix conjugation, second person masculine singular",קָטַלְתָּ,qatalta,you killed
-  "Qal suffix conjugation, second person masculine plural",קְטַלְתֶּם,qetaltem,you killed
-  "Qal suffix conjugation, third person masculine singular",קָטַל,qatal,he killed
-  "Qal prefix conjugation, second person masculine singular",תִּקְטֹל,tiqtol,you will kill
-  "Qal prefix conjugation, second person masculine plural",תִּקְטְל,tiqtelu,you will kill
-  "Qal prefix conjugation, third person masculine singular",יִקְטֹל,yiqtol,he will kill
-  "Qal prefix conjugation, third person masculine plural",יִקְטְלוּ,yiqtelu,they will kill
-  "Independent personal pronoun, second person masculine singular",אַתָּה,'attah,you
-  "Independent personal pronoun, second person masculine plural",אַתֶּם,'attem,you
-  "Independent personal pronoun, third person masculine singular",הוּא,hu,he / it
-  "Independent personal pronoun, third person masculine plural",הֵם / הֵמָּה,hem / hemmah,they
-  "Object pronoun, second person masculine singular",אֹתְךָ,'othekha,you
-  "Object pronoun, second person masculine plural",אֹתְכֶֶם,'othekhem,you
-  "Object pronoun, third person masculine singular",אֹתוֹ,'otho,him / it
-  "Object pronoun, third person masculine plural",אֶתְהֶם / אֹתָם,'ethhem / 'otham,them
-  "Pronomial suffix, second person masculine singular",לְךָ / - ְךָ,lekha / -ekha,(to) you
-  "Pronomial suffix, second person masculine plural",לָכֶם / -כֶם,lakhem / -khem,(to) you
-  "Pronomial suffix, third person masculine singular",לוֹ / -וֹ,lo / -o,(to) him
-  "Pronomial suffix, third person masculine plural",לָהֶם / -הֶם / - ָם,lahem / -hem / -am,(to) them
+  Parsing,Hebrew,Transliteration,Gloss
+  masculine singular absolute,סוּס,sus,stallion
+  masculine singular construct,סוּס,sus,stallion of
+  masculine plural absolute,סוּסִים,susim,stallions
+  masculine plural construct,סוּסֵי,suse,stallions of
+
+.. csv-table:: Qal Suffix Conjugation Masculine Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,קָטַלְתָּ,qatalta,you killed
+  second person masculine plural,קְטַלְתֶּם,qetaltem,you killed
+  third person masculine singular,קָטַל,qatal,he killed
+
+.. csv-table:: Qal Prefix Conjugation Masculine Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,תִּקְטֹל,tiqtol,you will kill
+  second person masculine plural,תִּקְטְל,tiqtelu,you will kill
+  third person masculine singular,יִקְטֹל,yiqtol,he will kill
+  third person masculine plural,יִקְטְלוּ,yiqtelu,they will kill
+
+.. csv-table:: Independent Personal Pronoun Masculine Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,אַתָּה,'attah,you
+  second person masculine plural,אַתֶּם,'attem,you
+  third person masculine singular,הוּא,hu,he / it
+  third person masculine plural,הֵם / הֵמָּה,hem / hemmah,they
+
+.. csv-table:: Object Pronoun Masculine Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,אֹתְךָ,'othekha,you
+  second person masculine plural,אֹתְכֶֶם,'othekhem,you
+  third person masculine singular,אֹתוֹ,'otho,him / it
+  third person masculine plural,אֶתְהֶם / אֹתָם,'ethhem / 'otham,them
+
+.. csv-table:: Pronominal Suffix Masculine Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person masculine singular,לְךָ / - ְךָ,lekha / -ekha,(to) you
+  second person masculine plural,לָכֶם / -כֶם,lakhem / -khem,(to) you
+  third person masculine singular,לוֹ / -וֹ,lo / -o,(to) him
+  third person masculine plural,לָהֶם / -הֶם / - ָם,lahem / -hem / -am,(to) them

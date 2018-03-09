@@ -36,7 +36,7 @@ and/or the :ref:`state_determined`.
 "One"
 -----
 
-.. csv-table::
+.. csv-table:: "One" Paradigm
 
   Form,Hebrew,Transliteration,Gloss
   masculine singular absolute,אֶחָד,'ehad,one
@@ -58,7 +58,9 @@ and/or the :ref:`state_determined`.
   The-group **one**
   **One** group
 
-.. csv-table:: Example: GEN 19:9 –– cardinal number "one" functioning as a noun
+The following example is a cardinal number functioning as a noun.
+
+.. csv-table:: Example: GEN 19:9
 
   הָאֶחָ֤ד בָּֽא־לָגוּר֙
   **ha'ehad** ba-lagur
@@ -73,7 +75,7 @@ the
 :ref:`number_dual`
 form.
 
-.. csv-table::
+.. csv-table:: "Two" Paradigm
 
   Form,Hebrew,Transliteration,Gloss
   masculine dual absolute,שְׁנַיִם,shenayim,two
@@ -95,7 +97,9 @@ form.
   pillars **two**
   **two** pillars
 
-.. csv-table:: Example: GEN 3:7 –– a cardinal number with a :ref:`suffix_pronominal`
+The following example is a cardinal number with a :ref:`suffix_pronominal`.
+
+.. csv-table:: Example: GEN 3:7
 
   שְׁנֵיהֶ֔ם
   **shenehem**
@@ -112,7 +116,7 @@ form.
           take a plural ending, they become multiples of ten ("thirty", "forty",
           "fifty", etc.).
 
-.. csv-table::
+.. csv-table:: 3-10 Paradigm
 
   Form,Hebrew,Transliteration,Gloss
   masculine singular absolute,שָׁלֹשׁ,shalosh,three
@@ -183,7 +187,7 @@ The numbers 11-19 are formed by writing the number 1-9 followed by the
 number 10. Thus, in Biblical Hebrew the number "eleven" is written as
 "one ten"; the number "seventeen" is written as "seven ten", etc.
 
-.. csv-table::
+.. csv-table:: 11-19 Paradigm
 
   Form,Hebrew,Transliteration,Gloss
   masculine,אַחַד עָשָׂר,'ahad 'asar,eleven
@@ -232,7 +236,7 @@ number 10. Thus, in Biblical Hebrew the number "eleven" is written as
 Multiples of ten (20, 30, 40, etc.)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. csv-table::
+.. csv-table:: Multiples of Ten Paradigm
 
   Form,Hebrew,Transliteration,Gloss
   gender both,עֶשְׂרִים,'esrim,twenty
@@ -251,10 +255,10 @@ Multiples of ten (20, 30, 40, etc.)
   not I-will-destroy for-sake-of **the-twenty**.
   I will not destroy it for **the twenty**'s sake
 
--  GEN 7:4 –– the nouns "day" and "night" are singular in form but
-   plural in meaning
+In the following example, the nouns "day" and "night" are singular in form
+but plural in meaning.
 
-.. csv-table::
+.. csv-table:: Example: GEN 7:4
 
   אַרְבָּעִ֣ים יֹ֔ום **וְאַרְבָּעִ֖ים** לָ֑יְלָה
   **'arba'im** yowm **we'arba'im** laylah
@@ -293,7 +297,7 @@ uses masculine endings, both numbers should be classified as "gender
 both" because the same form can be both grammatically-masculine and
 grammatically-feminine.
 
-.. csv-table::
+.. csv-table:: Multiples of 100, 1000, 10000, etc. Paradigm
 
   Form,Hebrew,Transliteration,Gloss
   gender both singular absolute,מֵאָה,me'ah,hundred
@@ -339,10 +343,10 @@ grammatically-feminine.
   and-by-thousands"
   The princes of the Philistines passed on by hundreds and by thousands
 
--  JDG 1:4 –– multiples of 1,000 are expressed by numbers in a construct
-   phrase
+In the following example, multiples of 1,000 are expressed by numbers
+in a construct phrase.
 
-.. csv-table::
+.. csv-table:: Example: JDG 1:4
 
   וַיַּכּ֣וּם בְּבֶ֔זֶק עֲשֶׂ֥רֶת אֲלָפִ֖ים אִֽישׁ׃
   wayyakkum bevezeq 'asereth 'alafim 'ish

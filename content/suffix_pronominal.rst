@@ -53,9 +53,7 @@ suffix automatically makes the noun
 Paradigm
 ~~~~~~~~
 
-With a singular noun
-
-.. csv-table::
+.. csv-table:: Pronominal Suffix with a Singular Noun
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -70,9 +68,7 @@ With a singular noun
   masculine plural third person,סוּסְהֶם / סוּסָם,susehem / susam,their horse
   feminine plural third person,סוּסְהֶן / סוּסָן,susehen / susan,their horse
 
-With a plural noun
-
-.. csv-table::
+.. csv-table:: Pronominal Suffix with a Plural Noun
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

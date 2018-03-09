@@ -33,20 +33,20 @@ Examples
 A single word with both masculine and feminine forms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  GEN 1:3 –– the noun אוֹר (light) is masculine in form and takes
-   grammatically-masculine verbs (יְהִ֣י and וַֽיְהִי).
+In the following example, the noun אוֹר (light) is masculine in form and
+takes grammatically-masculine verbs (יְהִ֣י and וַֽיְהִי).
 
-.. csv-table::
+.. csv-table:: Example: GEN 1:3
 
   וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י **אֹ֑ור** וַֽיְהִי־\ **אֹֽור**\ ׃
   wayyomer 'elohim yehi **'owr** wayehi-\ **'owr**
   And-he-said God there-will-be **light** and-there-was\_\ **light**.
   "God said, ""Let there be **light**,"" and there was **light**."
 
--  EST 8:16 –– the noun אוֹרָה (light) is feminine in form and takes a
-   grammatically-feminine verb (הָֽיְתָ֥ה).
+In the following example, the noun אוֹרָה (light) is feminine in form and
+takes a grammatically-feminine verb (הָֽיְתָ֥ה).
 
-.. csv-table::
+.. csv-table:: Example: EST 8:16
 
   לַיְּהוּדִ֕ים הָֽיְתָ֥ה אֹורָ֖ה
   layyehudim hayethah **'owrah**
@@ -56,24 +56,30 @@ A single word with both masculine and feminine forms
 A single form that can be either masculine or feminine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. csv-table:: Example: GEN 15:17 –– the noun שֶׁמֶשׁ (sun) can be grammatically feminine
+In the following example, the noun שֶׁמֶשׁ (sun) can be grammatically
+feminine.
+
+.. csv-table:: Example: GEN 15:17
 
   וַיְהִ֤י **הַשֶּׁ֙מֶשׁ֙** בָּ֔אָה
   wayhi **hashemesh** ba'ah
   And-it-happened **the-sun** it-went
   When **the sun** had gone down
 
-.. csv-table:: Example: GEN 19:23 –– the noun שֶׁמֶשׁ (sun) can be grammatically masculine
+In the following example, the noun שֶׁמֶשׁ (sun) can be grammatically
+masculine.
+
+.. csv-table:: Example: GEN 19:23
 
   הַשֶּׁ֖מֶשׁ יָצָ֣א עַל־הָאָ֑רֶץ
   **hashemesh** yatsa 'al-ha'arets
   **The-sun** it-went-out over\_the-earth
   **The sun** had risen upon the earth
 
--  JOL 4:15 –– the noun נֹגַהּ (brightness) could be either masculine or
-   feminine
+In the following example, the noun נֹגַהּ (brightness) could be either masculine or
+feminine.
 
-.. csv-table::
+.. csv-table:: Example: JOL 4:15
 
   וְכוֹכָבִ֖ים אָסְפ֥וּ נָגְהָֽם
   

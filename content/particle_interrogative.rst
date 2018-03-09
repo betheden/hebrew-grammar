@@ -35,9 +35,7 @@ while the interrogative particle can appear before other words as well.
 Paradigm
 ~~~~~~~~
 
-**With a standard noun**
-
-.. csv-table::
+.. csv-table:: Interrogative Particle With a standard noun
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -45,9 +43,7 @@ Paradigm
   noun + definite article,הַסּוּס,hassus,the horse
   noun + interrogative particle,הֲסוּס,hasus,a horse?
 
-**With a shewa under the first letter**
-
-.. csv-table::
+.. csv-table:: Interrogative Particle With a shewa under the first letter
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -55,9 +51,7 @@ Paradigm
   noun + definite article,הַמְּרַגֵּל,hammeraggel,the spy
   noun + interrogative particle,הַמְרַגֵּל,hamraggel,a spy?
 
-**With a first guttural**
-
-.. csv-table::
+.. csv-table:: Interrogative Particle With a first guttural
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -65,9 +59,7 @@ Paradigm
   noun + definite article,הָאִישׁ,ha'ish,the man
   noun + interrogative particle,הַאִישׁ,ha'ish,a man?
 
-**With a first guttural that has a qamets**
-
-.. csv-table::
+.. csv-table:: Interrogative Particle With a first guttural that has a qamets
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -83,9 +75,7 @@ Examples
   הֲיֵ֣שׁ לָכֶ֣ם אָ֔ח
   **hayesh** lakhem 'ah
   **[quest.]-is-there** to-you brother
-  **Do** you **have** a brother\ **?**
-
-.. csv-table:: Example: 2SA 20:17
+  .. csv-table:: Interrogative Particle Do** you **have** a brother\ **? Example: 2SA 20:17
 
   הַאַתָּ֥ה יוֹאָ֖ב
   **ha'attah** yo'av

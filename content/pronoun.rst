@@ -23,16 +23,39 @@ itself.
 Types
 -----
 
-Hebraists usually identify five types of pronouns:
-:ref:`pronoun_indefinite`,
-:ref:`pronoun_personal`,
-and
-:ref:`pronoun_relative`.
+Scholars identify the following five types of pronouns.
 
-.. csv-table::
+:ref:`pronoun_demonstrative`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  Demonstrative,refers to a noun or a noun phrase,"this, that, these, those"
-  Indefinite,if the subject or the object is indetermined,"who, whoever, what, whatever"
-  Interrogative,introduces a question,who? what? when? how?
-  Personal,takes the place of a person or a group of people,"I, you, he, she, we, they"
-  Relative,introduces relative clauses,"that, which, where"
+.. include:: pronoun_demonstrative.rst
+   :start-after: -------
+   :end-before: Article
+
+:ref:`pronoun_indefinite`
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. include:: pronoun_indefinite.rst
+   :start-after: -------
+   :end-before: Article
+
+:ref:`pronoun_interrogative`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. include:: pronoun_interrogative.rst
+   :start-after: -------
+   :end-before: Article
+
+:ref:`pronoun_personal`
+^^^^^^^^^^^^^^^^^^^^^^^
+
+.. include:: pronoun_personal.rst
+   :start-after: -------
+   :end-before: Article
+
+:ref:`pronoun_relative`
+^^^^^^^^^^^^^^^^^^^^^^^
+
+.. include:: pronoun_relative.rst
+   :start-after: -------
+   :end-before: Article

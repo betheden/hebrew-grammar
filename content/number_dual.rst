@@ -33,7 +33,7 @@ Dual nouns use
 Paradigm
 ~~~~~~~~
 
-.. csv-table::
+.. csv-table:: Dual Paradigm
 
   Word,Hebrew,Transliteration,Gloss
   Masculine dual absolute,אָזְנַיִם,'aznayim,(both) ears

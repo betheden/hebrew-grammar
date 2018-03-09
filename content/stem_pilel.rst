@@ -25,10 +25,10 @@ Hebrew.
 
 .. include:: includes/consult_dictionary.txt
 
--  GEN 21:16 –– כִּמְטַחֲוֵ֣י has two prefixed elements: כִּ is a bound
-   preposition, and מְ is the participle prefix
+In the following example, כִּמְטַחֲוֵ֣י has two prefixed elements:
+כִּ is a bound preposition, and מְ is the participle prefix.
 
-.. csv-table::
+.. csv-table:: Example: GEN 21:16
 
   כִּמְטַחֲוֵ֣י קֶ֔שֶׁת
   **kimtahawe** qesheth

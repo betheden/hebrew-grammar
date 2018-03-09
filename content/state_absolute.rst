@@ -30,9 +30,9 @@ form. It can have a preposition, but it cannot have a :ref:`suffix_pronominal`.
 Paradigm
 ~~~~~~~~
 
-.. csv-table::
+.. csv-table:: Absolute State Examples
 
-  Word,Hebrew,Transliteration,Gloss
+  Parsing,Hebrew,Transliteration,Gloss
   "Noun, masculine singular absolute",סוּס,sus,stallion
   "Noun, masculine plural absolute",סוּסִים,susim,stallions
   "Noun, feminine singular absolute",סוּסָה,susah,mare
@@ -65,12 +65,12 @@ is in the absolute state.
    direct objects, are in the absolute state.
 
 :ref:`noun_proper_name`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Names, or proper nouns, are always in the absolute state.
 
 As part of a :ref:`state_construct` chain
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If a word in the absolute state is connected with a word in the
 construct state, it forms a so-called construct chain, in which case the
@@ -100,7 +100,7 @@ sometimes translate with an indefinite article.
    smooth translation reads "a warrior".
 
 :ref:`state_determined`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 If the final, absolute, noun in a constuct chain is definite, the whole
 chain is definite.

@@ -65,29 +65,49 @@ Besides nouns, a feminine word can be recognized by a variety of changes
 to the form. This paradigm shows a sample of the kinds of changes that
 signal a feminine form.
 
-.. csv-table::
+.. csv-table:: Feminine Noun Paradigm
 
-  Word,Hebrew,Transliteration,Gloss
-  "Noun, feminine singular absolute",סוּסָה,susah,mare
-  "Noun, feminine singular construct",סוּסַת,susat,mare of
-  "Noun, feminine plural absolute",סוּסוֹת,susoth,mares
-  "Noun, feminine plural construct",סוּסוֹת,susoth,mares of
-  "Qal suffix conjugation, second person feminine singular",קָטַלְתְּ,qatalt,you killed
-  "Qal suffix conjugation, second person feminine plural",קְטַלְתֶּן,qetalten,you killed
-  "Qal suffix conjugation, third person feminine singular",קָטְלָה,qatlah,she killed
-  "Qal prefix conjugation, second person feminine singular",תִּקְטְלִי,tiqteli,you will kill
-  "Qal prefix conjugation, second person feminine plural",תִּקְטֹלְנָה,tiqtolenah,you will kill
-  "Qal prefix conjugation, third person feminine singular",תִּקְטֹל,tiqtol,she will kill
-  "Qal prefix conjugation, third person feminine plural",תִּקְטֹלְנָה,tiqtolenah,they will kill
-  "Independent personal pronoun, second person feminine singular",אַתְּ,'at,you
-  "Independent personal pronoun, second person feminine plural",אַתֵּנָה,'attenah,you
-  "Independent personal pronoun, third person feminine singular",הִיא / הִוא,hi / hiw,she / it
-  "Independent personal pronoun, third person feminine plural",הֵן / הֵנָּה,hen / hennah,they
-  "Object pronoun, second person feminine singular",אֹתָךְ,'othakh,you
-  "Object pronoun, second person feminine plural",אֹתְכֶֶן,'thekhem,you
-  "Object pronoun, third person feminine singular",אֹתָהּ,'othah,her / it
-  "Object pronoun, third person feminine plural",אֶתְהֶן / אֹתָן,'ethhen / 'othan,them
-  "Pronomial suffix, second person feminine singular",לָךְ / - ָךְ,lakh / -akh,(to) you
-  "Pronomial suffix, second person feminine plural",לָכֶן / -כֶן,lakhen / -khen,(to) you
-  "Pronomial suffix, third person feminine singular",לָהּ / - ָהּ,lah / -ah,(to) her
-  "Pronomial suffix, third person feminine plural",לָהֶן / -הֶן / - ָן,lahen / -hen / -an,(to) them
+  Parsing,Hebrew,Transliteration,Gloss
+  feminine singular absolute,סוּסָה,susah,mare
+  feminine singular construct,סוּסַת,susat,mare of
+  feminine plural absolute,סוּסוֹת,susoth,mares
+  feminine plural construct,סוּסוֹת,susoth,mares of
+
+.. csv-table:: Qal Suffix Conjugation Feminine Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person feminine singular,קָטַלְתְּ,qatalt,you killed
+  second person feminine plural,קְטַלְתֶּן,qetalten,you killed
+  third person feminine singular,קָטְלָה,qatlah,she killed
+
+.. csv-table:: Qal Prefix Conjugation Feminine Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person feminine singular,תִּקְטְלִי,tiqteli,you will kill
+  second person feminine plural,תִּקְטֹלְנָה,tiqtolenah,you will kill
+  third person feminine singular,תִּקְטֹל,tiqtol,she will kill
+  third person feminine plural,תִּקְטֹלְנָה,tiqtolenah,they will kill
+
+.. csv-table:: Independent Personal Pronoun Feminine Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person feminine singular,אַתְּ,'at,you
+  second person feminine plural,אַתֵּנָה,'attenah,you
+  third person feminine singular,הִיא / הִוא,hi / hiw,she / it
+  third person feminine plural,הֵן / הֵנָּה,hen / hennah,they
+
+.. csv-table:: Object Pronoun Feminine Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person feminine singular,אֹתָךְ,'othakh,you
+  second person feminine plural,אֹתְכֶֶן,'thekhem,you
+  third person feminine singular,אֹתָהּ,'othah,her / it
+  third person feminine plural,אֶתְהֶן / אֹתָן,'ethhen / 'othan,them
+
+.. csv-table:: Pronominal Suffix Feminine Forms
+
+  Parsing,Hebrew,Transliteration,Gloss
+  second person feminine singular,לָךְ / - ָךְ,lakh / -akh,(to) you
+  second person feminine plural,לָכֶן / -כֶן,lakhen / -khen,(to) you
+  third person feminine singular,לָהּ / - ָהּ,lah / -ah,(to) her
+  third person feminine plural,לָהֶן / -הֶן / - ָן,lahen / -hen / -an,(to) them

@@ -25,28 +25,28 @@ pronouns or verbs.
 Examples
 --------
 
--  1KI 18:22 - with a :ref:`pronoun_personal`
-   :ref:`person_first`
+The following example is of a :ref:`pronoun_personal` :ref:`person_first`.
 
-.. csv-table::
+.. csv-table:: Example: 1KI 18:22
 
   אֲנִ֞י נֹותַ֧רְתִּי נָבִ֛יא לַיהוָ֖ה
   **'ani** nowtharti navi layhwah
   **I** I-am-left prophet for-Yahweh
   "I, **I alone**, am left as a prophet of Yahweh"
 
--  ISA 2:5 - with a
-   :ref:`verb`
-   first person
+The following example is of a :ref:`verb` first person.
 
-.. csv-table::
+.. csv-table:: Example: ISA 2:5
 
   בֵּ֖ית יַעֲקֹ֑ב לְכ֥וּ **וְנֵלְכָ֖ה** בְּא֥וֹר יְהוָֽה
   beth ya'aqov lekhu **wenelekhah** be'or yehwah
   House-of Jacob come **and-let-us-walk** in-light-of Yahweh.
   "House of Jacob, come, **and let us walk** in the light of Yahweh."
 
-.. csv-table:: Example: ISA 28:7 - with the plural "near" form of the :ref:`pronoun_demonstrative`
+The following example is of the plural "near" form of the
+:ref:`pronoun_demonstrative`.
+
+.. csv-table:: Example: ISA 28:7
 
   וְגַם־\ **אֵ֨לֶּה֙** בַּיַּ֣יִן שָׁג֔וּ
   wegam-\ **'elleh** bayyayin shagu
