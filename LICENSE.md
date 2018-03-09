@@ -1,4 +1,5 @@
 # License
+
 ## Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 This is a human-readable summary of (and not a substitute for) the [license](http://creativecommons.org/licenses/by-sa/4.0/).
@@ -14,7 +15,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ### Under the following conditions:
 
-  * **Attribution** — You must attribute the work as follows: "Original work available at https://door43.org/." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
+  * **Attribution** — You must attribute the work as follows: "Original work available at https://unfoldingword.org/uhg/." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
   * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
