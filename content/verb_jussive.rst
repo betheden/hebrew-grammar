@@ -44,9 +44,7 @@ in nearly all instances.
 Form
 ----
 
-**Qal**
-
-.. csv-table::
+.. csv-table:: Qal Jussive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -59,9 +57,7 @@ Form
   masculine plural second person,תִּקְטְלוּ,tiqtelu,may you kill
   feminine plural second person,תִּקְטֹלְנָה,tiqtolenah,may you kill
 
-**Niphal**
-
-.. csv-table::
+.. csv-table:: Niphal Jussive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -74,9 +70,7 @@ Form
   masculine plural second person,תִּקָּטְלוּ,tiqqatlu,may you be killed
   feminine plural second person,תִּקָּטַלְנָה,tiqqatalnah,may you be killed
 
-**Hiphil**
-
-.. csv-table::
+.. csv-table:: Hiphil Jussive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -89,9 +83,7 @@ Form
   masculine plural second person,תַּקְטֵלוּ,taqtelu,you will be caused to kill
   feminine plural second person,תַּקְטֵלְנָה,taqtelenah,you will be caused to kill
 
-**Hophal**
-
-.. csv-table::
+.. csv-table:: Hophal Jussive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -104,9 +96,7 @@ Form
   masculine plural second person,תָּקְטְלוּ,toqtelu,may you be caused to kill
   feminine plural second person,תָּקְטַלְנָה,toqtalnah,may you be caused to kill
 
-**Piel**
-
-.. csv-table::
+.. csv-table:: Piel Jussive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -119,9 +109,7 @@ Form
   masculine plural second person,תְּקַטְּלוּ,tiqattelu,may you slaughter
   feminine plural second person,תְּקַטַּלְנָה,tiqattalnah,may you slaughter
 
-**Pual**
-
-.. csv-table::
+.. csv-table:: Pual Jussive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -134,9 +122,7 @@ Form
   masculine plural second person,תְּקֻטְּלוּ,tequttelu,may you be slaughtered
   feminine plural second person,תְּקֻטַּלְנָה,tequttalnah,may you be slaughtered
 
-**Hithpael**
-
-.. csv-table::
+.. csv-table:: Hithpael Jussive Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

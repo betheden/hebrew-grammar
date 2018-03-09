@@ -44,9 +44,7 @@ with the verb in the clause before it, but the normal Prefix Conjugation
 Form
 ----
 
-**Qal**
-
-.. csv-table::
+.. csv-table:: Qal Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -60,9 +58,7 @@ Form
   feminine plural second person,וּקְטַלְתֶּן,uqetalten,(and) you will kill
   common plural first person,וְקָטַלְנוּ,weqatalnu,(and) we will kill
 
-**Niphal**
-
-.. csv-table::
+.. csv-table:: Niphal Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -76,9 +72,7 @@ Form
   feminine plural second person,וְנִקְטַלְתֶּן,weniqtalten,(and) you will be killed
   common plural first person,וְנִקְטַלְתֶּנוּ,weniqtaltenu,(and) we will be killed
 
-**Hiphil**
-
-.. csv-table::
+.. csv-table:: Hiphil Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -92,9 +86,7 @@ Form
   feminine plural second person,וְהִקְטַלְתֶּן,wehiqtalten,(and) you will cause to kill
   common plural first person,וְהִקְטַלְנוּ,wehiqtalnu,(and) we will cause to kill
 
-**Hophal**
-
-.. csv-table::
+.. csv-table:: Hophal Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -108,9 +100,7 @@ Form
   feminine plural second person,וְהָקְטַלְתֶּן,wehoqtalten,(and) you will be caused to kill
   common plural first person,וְהָקְטַלְנוּ,wehoqtalnu,(and) we will be caused to kill
 
-**Piel**
-
-.. csv-table::
+.. csv-table:: Piel Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -124,9 +114,7 @@ Form
   feminine plural second person,וְקִטַּלְתֶּן,weqittalten,(and) you will slaughter
   common plural first person,וְקִטַּלְנוּ,weqittalnu,(and) we will slaughter
 
-**Pual**
-
-.. csv-table::
+.. csv-table:: Pual Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -140,9 +128,7 @@ Form
   feminine plural second person,וְקֻטַּלְתֶּן,wequttalten,(and) you will be slaughtered
   common plural first person,וְקֻטַּלְנוּ,wequttalnu,(and) we will be slaughtered
 
-**Hithpael**
-
-.. csv-table::
+.. csv-table:: Hithpael Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

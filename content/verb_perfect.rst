@@ -37,9 +37,7 @@ copulative verb or a Sequential Suffix Conjugation verb.
 Form
 ----
 
-**Qal**
-
-.. csv-table::
+.. csv-table:: Qal Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -53,9 +51,7 @@ Form
   feminine plural second person,קְטַלְתֶּן,qetalten,you killed
   common plural first person,קָטַלְנוּ,qatalnu,we killed
 
-**Niphal**
-
-.. csv-table::
+.. csv-table:: Niphal Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -69,9 +65,7 @@ Form
   feminine plural second person,נִקְטַלְתֶּן,niqtalten,you were killed
   common plural first person,נִקְטַלְתֶּנוּ,niqtaltenu,we were killed
 
-**Hiphil**
-
-.. csv-table::
+.. csv-table:: Hiphil Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -85,9 +79,7 @@ Form
   feminine plural second person,הִקְטַלְתֶּן,hiqtalten,you caused to kill
   common plural first person,הִקְטַלְנוּ,hiqtalnu,we caused to kill
 
-**Hophal**
-
-.. csv-table::
+.. csv-table:: Hophal Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -101,9 +93,7 @@ Form
   feminine plural second person,הָקְטַלְתֶּן,hoqtalten,you were caused to kill
   common plural first person,הָקְטַלְנוּ,hoqtalnu,we were caused to kill
 
-**Piel**
-
-.. csv-table::
+.. csv-table:: Piel Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -117,9 +107,7 @@ Form
   feminine plural second person,קִטַּלְתֶּן,qittalten,you slaughtered
   common plural first person,קִטַּלְנוּ,qittalnu,we slaughtered
 
-**Pual**
-
-.. csv-table::
+.. csv-table:: Pual Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -133,9 +121,7 @@ Form
   feminine plural second person,קֻטַּלְתֶּן,quttalten,you were slaughtered
   common plural first person,קֻטַּלְנוּ,quttalnu,we were slaughtered
 
-**Hithpael**
-
-.. csv-table::
+.. csv-table:: Hithpael Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

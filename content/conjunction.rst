@@ -334,10 +334,10 @@ desirability.
   **If**\ \_I-find in-Sodom fifty righteous in-place the-city
   **If** I find fifty people in Sodom who have done nothing wrong
 
--  JER 15:1 –– hypothetical condition as affirmation of an actual
-   condition
+The following example is a hypothetical condition as an affirmation of
+an actual condition.
 
-.. csv-table::
+.. csv-table:: Example: JER 15:1
 
   אִם־יַעֲמֹ֨ד מֹשֶׁ֤ה וּשְׁמוּאֵל֙ לְפָנַ֔י
   **'im**-ya'amod mosheh ushemu'el lefanay

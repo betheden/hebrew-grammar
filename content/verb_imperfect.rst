@@ -42,9 +42,7 @@ verbal idea.
 Form
 ----
 
-**Qal**
-
-.. csv-table::
+.. csv-table:: Qal Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -59,9 +57,7 @@ Form
   feminine plural second person,תִּקְטֹלְנָה,tiqtolenah,you will kill
   common plural first person,נִקְטֹל,niqtol,we will kill
 
-**Niphal**
-
-.. csv-table::
+.. csv-table:: Niphal Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -76,9 +72,7 @@ Form
   feminine plural second person,תִּקָּטַלְנָה,tiqqatalnah,you will be killed
   common plural first person,נִקָּטֵל,niqqatel,we will be killed
 
-**Hiphil**
-
-.. csv-table::
+.. csv-table:: Hiphil Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -93,9 +87,7 @@ Form
   feminine plural second person,תַּקְטֵלְנָה,taqtelenah,you will cause to kill
   common plural first person,נַקְטִיל,naqtil,we will cause to kill
 
-**Hophal**
-
-.. csv-table::
+.. csv-table:: Hophal Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -110,9 +102,7 @@ Form
   feminine plural second person,תָּקְטַלְנָה,toqtalnah,you will be caused to kill
   common plural first person,נָקְטַל,noqtal,we will be caused to kill
 
-**Piel**
-
-.. csv-table::
+.. csv-table:: Piel Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -127,9 +117,7 @@ Form
   feminine plural second person,תְּקַטַּלְנָה,tiqattalnah,you will slaughter
   common plural first person,נְקַטֵּל,niqattel,we will slaughter
 
-**Pual**
-
-.. csv-table::
+.. csv-table:: Pual Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -144,9 +132,7 @@ Form
   feminine plural second person,תְּקֻטַּלְנָה,tequttalnah,you will be slaughtered
   common plural first person,נְקֻטַּל,nequttal,we will be slaughtered
 
-**Hithpael**
-
-.. csv-table::
+.. csv-table:: Hithpael Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -235,9 +221,9 @@ Actions of greater or lesser desirability
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 These may include instructions, requests, permissions, invitations,
-assurances, wishes, etc. \* GEN 3:16
+assurances, wishes, etc.
 
-.. csv-table::
+.. csv-table:: Example: GEN 3:16
 
   מִכֹּ֥ל עֵֽץ־הַגָּ֖ן אָכֹ֥ל **תֹּאכֵֽל**\ ׃
   mikkol 'ets-haggan 'akhol **tokhel**

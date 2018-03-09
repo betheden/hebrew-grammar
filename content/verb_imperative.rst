@@ -40,9 +40,7 @@ in these cases, the meaning of the ה suffix is unknown.
 Form
 ----
 
-**Qal**
-
-.. csv-table::
+.. csv-table:: Qal Imperative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -51,9 +49,7 @@ Form
   masculine plural,כִּבְדוּ,kivdu,you must be heavy
   feminine plural,כְּבַדְנָה,kevadnah,you must be heavy
 
-**Niphal**
-
-.. csv-table::
+.. csv-table:: Niphal Imperative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -62,9 +58,7 @@ Form
   masculine plural,הִקָּטְלוּ,hiqqatlu,you must be killed
   feminine plural,הִקָּטַלְנָה,hiqqatalnah,you must be killed
 
-**Hiphil**
-
-.. csv-table::
+.. csv-table:: Hiphil Imperative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -73,9 +67,7 @@ Form
   masculine plural,הַקְטִילוּ,haqtilu,you must cause to kill
   feminine plural,הַקְטֵלְנָה,haqtelenah,you must cause to kill
 
-**Piel**
-
-.. csv-table::
+.. csv-table:: Piel Imperative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -84,9 +76,7 @@ Form
   masculine plural,קַטְּלוּ,qattelu,you must slaughter
   feminine plural,קַטֵּלְנָה,qattelnah,you must slaughter
 
-**Hithpael**
-
-.. csv-table::
+.. csv-table:: Hithpael Imperative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

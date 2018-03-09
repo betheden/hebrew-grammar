@@ -20,14 +20,14 @@ The sequential prefix conjugation of a
 looks similar to the normal :ref:`verb_imperfect`,
 but it is a separate verbal form and must be treated as such. A
 Sequential Prefix Conjugation verb does not function like a normal
-Prefix Conjugation verb, but it functions similar to a *:ref:`verb_perfect`*
+Prefix Conjugation verb, but it functions similar to a :ref:`verb_perfect`
 verb. The difference is an added sense of being connected to an earlier
 verb to form a sequence of time or a sequence of thought. In Hebrew
 narratives, the Sequential Prefix Conjugation also serves the function
 of controlling the flow of a story en often occurs at the beginning of a
 sentence.
 
-The endings of the Sequential Prefix Conjugation are teh same as the
+The endings of the Sequential Prefix Conjugation are the same as the
 normal Prefix Conjugation but the Sequential form also has an extra
 prefix, which is a *specialized* form of the
 :ref:`conjunction`.
@@ -43,7 +43,7 @@ vowel (usually pathach) under the conjunction instead of the shewa, and
 (2) a daghesh in the prefix consonant of the verbal form (see table
 below).
 
-.. csv-table::
+.. csv-table:: Example: Prefix Conjugation + conjunction (וְ) vs. Sequential Prefix Conjugation
 
   Verbal root,Prefix Conjugation + conjunction (וְ),Sequential Prefix Conjugation
   כתב,וְיִכְתֹּב,וַיִּכְתֹּב
@@ -53,9 +53,7 @@ below).
 Form
 ----
 
-**Qal**
-
-.. csv-table::
+.. csv-table:: Qal Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -70,9 +68,7 @@ Form
   feminine plural second person,וַתִּקְטֹלְנָה,wattiqtolenah,(and) you killed
   common plural first person,וַנִּקְטֹל,wanniqtol,(and) we killed
 
-**Niphal**
-
-.. csv-table::
+.. csv-table:: Niphal Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -87,9 +83,7 @@ Form
   feminine plural second person,וַתִּקָּטַלְנָה,wattiqqatalnah,(and) you were killed
   common plural first person,וַנִּקָּטֵל,wanniqqatel,(and) we were killed
 
-**Hiphil**
-
-.. csv-table::
+.. csv-table:: Hiphil Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -104,9 +98,7 @@ Form
   feminine plural second person,וַתַּקְטֵלְנָה,wattaqtelenah,(and) you caused to kill
   common plural first person,וַנַּקְטִיל,wannaqtil,(and) we caused to kill
 
-**Hophal**
-
-.. csv-table::
+.. csv-table:: Hophal Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -121,9 +113,7 @@ Form
   feminine plural second person,וַתָּקְטַלְנָה,wattoqtalnah,(and) you were caused to kill
   common plural first person,וַנָּקְטַל,wannoqtal,(and) we were caused to kill
 
-**Piel**
-
-.. csv-table::
+.. csv-table:: Piel Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -138,9 +128,7 @@ Form
   feminine plural second person,וַתְּקַטַּלְנָה,watteqattelnah,(and) you slaughtered
   common plural first person,וַנְּקַטֵּל,wanneqattel,(and) we slaughtered
 
-**Pual**
-
-.. csv-table::
+.. csv-table:: Pual Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -155,9 +143,7 @@ Form
   feminine plural second person,וַתְּקֻטַּלְנָה,wattequttalnah,(and) you were slaughtered
   common plural first person,וַנְּקֻטַּל,wannequttal,(and) we were slaughtered
 
-**Hithpael**
-
-.. csv-table::
+.. csv-table:: Hithpael Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -202,9 +188,8 @@ This kind of action describes a state or condition, usually with a
 :ref:`verb-stative-or-non-action-verbs`
 or in a passive
 :ref:`stem`.
-\* GEN 22:19
 
-.. csv-table::
+.. csv-table:: Example: GEN 22:19
 
   וַיֵּ֥שֶׁב אַבְרָהָ֖ם בִּבְאֵ֥ר שָֽׁבַע
   **wayyeshev** 'avraham biv'er shava'
