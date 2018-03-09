@@ -156,8 +156,8 @@ Construction with determined noun
   "These were **the events** concerning the heavens and the earth, when
      they were created"
 
-   "the heavens and the earth" are determined by the definite article,
-   and "account" or "events" is therefore also determined.
+In the above example, "the heavens and the earth" are determined by
+the definite article, and "account" or "events" is therefore also determined.
 
 .. csv-table:: Example: DEU 10:19
 
@@ -166,8 +166,8 @@ Construction with determined noun
   for\_foreigners you-were **in-land-of** Egypt.
   for you were foreigners **in the land** of Egypt.
 
-   "Egypt" is the intrinsically determined word and "land" is therefore
-   also determined.
+In the above example, "Egypt" is the intrinsically determined word and
+"land" is therefore also determined.
 
 Poetry
 ^^^^^^

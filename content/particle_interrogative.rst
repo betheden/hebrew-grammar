@@ -75,7 +75,9 @@ Examples
   הֲיֵ֣שׁ לָכֶ֣ם אָ֔ח
   **hayesh** lakhem 'ah
   **[quest.]-is-there** to-you brother
-  .. csv-table:: Interrogative Particle Do** you **have** a brother\ **? Example: 2SA 20:17
+  **Do** you **have** a brother\ **?**
+
+.. csv-table:: Example: 2SA 20:17
 
   הַאַתָּ֥ה יוֹאָ֖ב
   **ha'attah** yo'av
