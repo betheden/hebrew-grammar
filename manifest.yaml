@@ -3,15 +3,17 @@
 dublin_core:
   conformsto: 'rc0.2'
   contributor:
-    - 'Perry Oakes'
-    - 'Joel Ruark'
-    - 'Jesse Griffin'
-    - 'Kenny Hilliard'
+    - 'Bram van den Heuvel (BA Theology, Utrecht University; MA Biblical Studies, Utrecht University / University of Amsterdam; Ph.D.  Candidate Old Testament, Evangelische Theologische Faculteit)'
+    - 'Chapel Presson (BA Pre-Seminary Studies/Bible, Central Bible College; MDiv, Liberty Baptist Theological Seminary)'
+    - 'Daniel Bowman (BA Ancient Languages, Cornerstone University; MDiv, Grand Rapids Theological Seminary)'
     - 'Ethan Knapp'
-    - 'Stephen Andrews'
-    - 'Bram van den Heuvel'
-    - 'Daniel Bowman'
-  creator: 'Door43 World Missions Community'
+    - 'Joel D. Ruark (M.A.Th. Gordon-Conwell Theological Seminary; Th.M.  Stellenbosch University; Ph.D. Candidate in Old Testament Studies, Stellenbosch University)'
+    - 'Jesse Griffin (BA Biblical Studies, Liberty University; MA Biblical Languages, Gordon-Conwell Theological Seminary)'
+    - 'Kenny E. Hilliard III (BA Christian Studies, North Greenville University; MDiv Christian Ministry: Biblical Languages, Southeastern Baptist Theological Seminary; PHD Candidate Biblical Studies: Old Testament, Southeastern Baptist Theological Seminary)'
+    - 'Perry Oakes (BA Biblical Studies, Taylor University; MA Theology, Fuller Seminary; MA Linguistics, University of Texas at Arlington; PhD Old Testament, Southwestern Baptist Theological Seminary)'
+    - 'Stephen J. Andrews (BA Carson-Newman; M.Div. Eastern Baptist Theological Seminary; Th.M. Southeastern Baptist Theological Seminary; Ph.D. Hebrew Union College)'
+    - 'Door43 World Missions Community'
+  creator: 'unfoldingWord'
   description: 'An open-licensed Hebrew grammar (reference first, eventually for teaching), providing information about Hebrew grammatical elements. It enables the global Church to gain the best possible understanding of the grammar of the original texts of the Old Testament.'
   format: 'text/x-rst'
   identifier: 'uhg'
@@ -31,7 +33,7 @@ dublin_core:
       language: 'en'
       version: '0'
   subject: 'Hebrew Grammar'
-  title: 'Unlocked Hebrew Grammar'
+  title: 'unfoldingWord Hebrew Grammar'
   type: 'man'
   version: '0'
 
@@ -45,5 +47,5 @@ projects:
     identifier: 'content'
     path: './content'
     sort: 0
-    title: 'Unlocked Hebrew Grammar'
+    title: 'unfoldingWord Hebrew Grammar'
     versification:

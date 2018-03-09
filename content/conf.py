@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'unfoldingWord Hebrew Grammar'
-copyright = u'2018, unfoldingWord'
+copyright = u'2018, unfoldingWord, CC BY-SA 4.0'
 author = u'unfoldingWord'
 
 # The version info for the project you're documenting, acts as replacement for

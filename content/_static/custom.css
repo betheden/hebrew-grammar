@@ -4,6 +4,16 @@
  *
  */
 
+body {
+    font-family: "SBL Hebrew","Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+}
 td,tr {
     text-align: center;
+}
+
+@font-face {
+  font-family: "SBL Hebrew";
+  src: url(../fonts/SBL_Hbrw.ttf) format("truetype"),
+       url(../fonts/SBL_Hbrw.woff) format("woff");
+  unicode-range: U+0590-05FF; /* only applies to Hebrew characters */
 }
