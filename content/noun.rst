@@ -32,10 +32,10 @@ can be
 or
 :ref:`gender_feminine`.
 
-Sometimes an
-:ref:`adjective-substantive`
-or a
-:ref:`verb-verbal-nouns`
+Sometimes an adjective
+(:ref:`adjective-substantive`)
+or a participle
+(:ref:`participle_active`, :ref:`participle_passive`)
 can function like a noun.
 
 In Hebrew, nouns do not change their form based on the function (or
