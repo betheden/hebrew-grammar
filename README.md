@@ -10,6 +10,54 @@ The unfoldingWord Hebrew Grammar (UHG) is a Biblical Hebrew reference grammar ba
 
 Coming soon...
 
+## Contributing
+
+We welcome contributions! Please make sure you understand the goal of the project by reading the [UHG Introduction](https://uhg.readthedocs.io/en/latest/front.html). Then, follow the links below to get started.
+
+### Reporting Issues
+
+If you've notice a problem that needs address please create an [issue](https://git.door43.org/Door43/en_uhg/issues) with a description of the problem.
+
+### Fixing Issues
+
+If you would like to fix or enhance the grammar, you may use the [suggest an edit process](http://help.door43.org/en/knowledgebase/15-door43-content-service/docs/39-suggest-an-edit-on-dcs) to suggest changes.
+
+### Regular Contributors
+
+#### Branching Process
+
+If you are a regular contributor, we use the [protected branch workflow](http://help.door43.org/en/knowledgebase/15-door43-content-service/docs/46-protected-branch-workflow) to make changes.
+
+#### Milestones
+
+We use [milestones](https://git.door43.org/Door43/en_uhg/milestones) to track the work we'd like to complete before a release.
+
+#### Issues
+
+Please create an [issue](https://git.door43.org/Door43/en_uhg/issues) for tasks that you are working on. Make sure that you:
+
+* Assign yourself to the issue
+* Add the issue to a milestone
+* Add the blue "In Progress" label to the issue once you begin work on it.
+
+Closing Issues: After your Pull Request for an issue has been reviewed and merged into the master repository, you can mark your issue closed and remove the "In Progress" label from the issue.
+
+## Format
+
+The UHG is written in [reStructuredText](http://www.sphinx-doc.org/en/master/rest.html), processed by [Sphinx](http://www.sphinx-doc.org/en/master/index.html), and hosted online by [Read the Docs](https://readthedocs.org/).
+
+See the [reStructuredText Primer](http://www.sphinx-doc.org/en/master/rest.html) and the [Docutils reStructuredText Directives](http://docutils.sourceforge.net/docs/ref/rst/directives.html) documentation to learn how to use the syntax.
+
+## Guidelines
+
+Please refer to the [Grammar Guidelines](http://ug-info.readthedocs.io/en/latest/). Take note of the following as well:
+
+* Use simple English as much as possible. Remember that a key goal of the project is to make entries translatable.
+* Summary entries should consist of one to two sentences maximum.
+* Articles should include basic information that would be included in a teaching grammar along with two to three good examples.
+* Article length should be 250-500 words.
+* Generally, you may only review and merge content from another contributor, not your own content.
+
 ## Roadmap
 
 ### Stage One
