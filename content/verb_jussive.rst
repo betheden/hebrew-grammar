@@ -186,9 +186,3 @@ assurances, wishes, etc.
   tasheth-hoshekh **wihi** laylah
   You-bring\_darkness **and-let-it-be** night
   You make the darkness **of the night**
-
---------------
-
-*Information in this article is taken from* Biblical Hebrew Reference
-Grammar, *by van der Merwe, Naudé, and Kroeze, p.152-153; and* Hebrew
-Grammar, *by Gesenius, section 109.*

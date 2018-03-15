@@ -2,8 +2,8 @@
 
 .. _verb_imperfect:
 
-Verb Imperfect
-==============
+Verb Prefix Conjugation
+=======================
 
 Summary
 -------
@@ -229,9 +229,3 @@ assurances, wishes, etc.
   mikkol 'ets-haggan 'akhol **tokhel**
   from-every tree-of\_the-garden eating **you-eat**
   From every tree in the garden **you may** freely **eat**.
-
---------------
-
-*Information in this article is taken from* Biblical Hebrew Reference
-Grammar, *by van der Merwe, Naudé, and Kroeze (London: A&C Black, 1999),
-p.146-149; and* Hebrew Grammar, *by Gesenius, sections 107 and 120.*

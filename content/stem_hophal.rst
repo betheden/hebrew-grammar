@@ -28,7 +28,7 @@ forms.) The Hophal stem usually expresses the passive voice of the
 meaning of a verb in the Hiphil stem. Scholars sometimes disagree
 whether certain verb forms should be classified as belonging to the
 Hophal, the
-:ref:`stem_hiphil`
+:ref:`stem_pual`
 or even the :ref:`stem_qal_passive`
 stem. In English, passive voice is expressed using the helping verb "to
 be." In Biblical Hebrew, the passive nature of the verbal action is

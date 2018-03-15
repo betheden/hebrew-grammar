@@ -94,9 +94,3 @@ assurances, wishes, etc.
   'elohay bekha vatahti 'al-**'evoshah**
   My-God in-you I-trust not\_\ **let-me-be-ashamed**
   "My God, I trust in you. **Do not let me be humiliated**"
-
---------------
-
-*Information in this article is taken from* Biblical Hebrew Reference
-Grammar, *by van der Merwe, Naudé, and Kroeze, p.151-152; and* Hebrew
-Grammar, *by Gesenius, section 108.*

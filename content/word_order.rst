@@ -149,10 +149,3 @@ instances will be clearly discerned from the context.
      [dir.obj]\_pillar"
   "**Now Absalom**, while still alive, had built for himself a large
      stone pillar"
-
---------------
-
-*Information in this article is taken from: 'Fronting: Biblical Hebrew',
-by van der Merwe, in the* Encyclopedia of Hebrew Language and
-Linguistics, *p.931-935; and* Biblical Grammar, *by Gesenius, section
-142.*

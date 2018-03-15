@@ -131,9 +131,3 @@ Actions of greater or lesser desirability
   **wesha'ali**-lo 'eth-hammelukhah
   **And-ask**\ \_for-him [dir.obj]\_the-kingdom
   **Why do you not ask** the kingdom for him also?
-
---------------
-
-*Information in this article is taken from* Biblical Hebrew Reference
-Grammar, *by van der Merwe, Naudé, and Kroeze, p.150-151; and* Hebrew
-Grammar, *by Gesenius, section 110.*

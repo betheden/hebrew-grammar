@@ -23,7 +23,8 @@ daghesh in the middle consonsant of the
 and a qibbuts vowel under the first consonant. Generally speaking, the
 Pual stem expresses the passive voice of the meaning of a verb in the
 Piel stem. Scholars sometimes disagree whether certain verb forms should
-be classified as belonging to the Pual stem or the :ref:`stem_qal_passive`.
+be classified as belonging to the Pual, the :ref:`stem_hophal`, 
+or the :ref:`stem_qal_passive`.
 In English, passive action is expressed using the helping verb "to be."
 In Biblical Hebrew, the passive nature of the verbal action is expressed
 by the Pual form of the verb itself without any helping verbs.

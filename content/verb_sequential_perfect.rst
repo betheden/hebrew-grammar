@@ -2,8 +2,8 @@
 
 .. _verb_sequential_perfect:
 
-Verb Sequential Perfect
-=======================
+Verb Sequential Suffix Conjugation
+==================================
 
 Summary
 -------
@@ -236,9 +236,3 @@ translated with :ref:`verb_cohortative` meaning.
   'alaqotah-nna' **we'asafti** vo'omarim
   let-me-glean\_oh **and-let-me-gather** among-the-reapers
   Please let me glean **and gather** after the reapers.
-
---------------
-
-*Information in this article is taken from* Biblical Hebrew Reference
-Grammar, *by van der Merwe, Naudé & Kroeze, p.168-171; and* Hebrew
-Grammar, *by Gesenius, section 112.*

@@ -8,24 +8,30 @@ State Determined
 Summary
 -------
 
-The determined or definite state means that a noun or pronoun refers to
-something or someone specific instead of to something in general.
+The concept of definiteness in Biblical Hebrew means "a way of referring to a person(s) or thing(s)".  Nouns, pronouns, adjectives, and participles can be either definite or indefinite, depending on several factors.
 
 Article
 -------
 
-:ref:`noun`
-are determined because of their nature, or because of their context.
+In Biblical Hebrew, 
+:ref:`noun`s
+and
+:ref:`pronoun`s
+either can be definite on the basis of their own intrinsic nature or can be made definite by some linguistic marking or grammatical construction.  Generally speaking,  
+:ref:`adjective`s
+and 
+:ref:`participle`s
+are always intrinsically indefinite, but they can be made definite by an attached 
+:ref:`Particle Definite Article`
+or 
+:ref:`Suffix Pronominal`, 
+or by being conjoined (via a construct relationship) to a definite noun in the 
+:ref:`state absolute`.
 
-Function of determined nouns
-----------------------------
+Function of definiteness
+------------------------
 
-A noun or
-:ref:`pronoun`
-is determined (or definite) if it is used to explicitly refer to one
-single thing (the lamp), person (John), or example (the first world
-war), instead of to a general idea (a lamp/lamps, people/men, war/a
-war).
+Definiteness in Biblical Hebrew serves both a semantic and pragmatic function.  As a general summary, these functions include: 1) to designate a specific person/thing, or a class of person(s)/thing(s) that are intrinsically definite; 2) to match a noun to its accompanying descriptor (often with adjectives or participles); 3) to introduce a relative clause (often with participles); and/or 4) to indicate a superlative or demonstrative (especially in regard to time) referent.  However, these are only general designations and do not represent a comprehesive list.  The concept of definiteness works different in various languages; therefore, definite/indefinite referents should always be translated from Biblical Hebrew into other languages with great sensitivity to the context of each individual use and according to the conventions of definiteness in the target language.
 
 Recognizing determined nouns
 ----------------------------
@@ -60,7 +66,7 @@ and :ref:`pronoun_demonstrative`.
      back to **Jerusalem**."
 
 :ref:`pronoun_personal`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JER 12:1
 
@@ -381,10 +387,10 @@ Material
      iron, and wood for the things to be made of wood**."
 
 With :ref:`adjective`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 :ref:`adjective-attributive`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When a
 :ref:`noun_common`
@@ -454,7 +460,7 @@ When the definite article is used in front of a
 it takes on a relative meaning.
 
 With :ref:`participle_passive`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: GEN 12:7
 
@@ -472,7 +478,7 @@ With :ref:`participle_passive`
   **The soldiers hiding in ambush** quickly rushed out of their place
 
 With :ref:`verb-finite-verbs`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 10:24
 

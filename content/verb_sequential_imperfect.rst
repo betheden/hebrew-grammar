@@ -2,8 +2,8 @@
 
 .. _verb_sequential_imperfect:
 
-Verb Sequential Imperfect
-=========================
+Verb Sequential Prefix Conjugation
+==================================
 
 Summary
 -------
@@ -228,9 +228,3 @@ Actions that are paired together in a sentence (often with the verb היה)
   wayvarekh 'otham 'elohim wayyomer lahem 'elohim
   **And-he-blessed** them God **and-he-said** to-them God
   God **blessed** them **and** God **said** to them
-
---------------
-
-*Information in this article is taken from* Biblical Hebrew Reference
-Grammar, *by van der Merwe, Naudé & Kroeze, p.165-167; and* Hebrew
-Grammar, *by Gesenius, section 111.*

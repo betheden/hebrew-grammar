@@ -2,14 +2,14 @@
 
 .. _verb_perfect:
 
-Verb Perfect
+Verb Suffix Conjugation
 ============
 
 Summary
 -------
 
-A verb with suffix conjugation communicates perfect or perfective aspect, and so is used normally to indicate a completed
-action, usually in the past. However, the suffix
+A verb with suffix conjugation usually expresses a completed
+action in the past. However, the suffix
 conjugation can also be used to describe other kinds of actions.
 
 Article
@@ -17,10 +17,10 @@ Article
 
 In Biblical Hebrew a Suffix Conjugation
 :ref:`verb`
-communicates perfect or perfective aspect, and is normally used to describe actions that have occurred in the past or
+is normally used to describe actions that have occurred in the past or
 actions that are seen as completed (even in present or future time). However,
 the Suffix Conjugation is also used to describe a variety of other kinds
-of actions. Thus, for tense-prominent languages, a Suffix Conjugation verb has the potential to be
+of actions. Thus, a Suffix Conjugation verb has the potential to be
 translated with the past tense, the present tense, or even the future
 tense. The context must determine the proper meaning for each instance
 of a Suffix Conjugation verb.
@@ -144,25 +144,25 @@ actions:
 Completed actions in past time
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The Suffix Conjugation can be translated as simple past action, present
-perfect (= completed) action ("he has done"), or past perfect action
+The Suffix Conjugation can be translated as simple past action ("he did"), present
+completed action ("he has done"), or past completed action
 ("he had done").
 
-.. csv-table:: Example: JER 43:7 — Suffix Conjugation translated as simple past
+.. csv-table:: Example: JER 43:7 — Suffix Conjugation translated as simple past action
 
   כִּ֛י לֹ֥א **שָׁמְע֖וּ** בְּק֣וֹל יְהוָ֑ה
   ki lo **shom'u** beqol yehwah
   for not **they-listened** to-voice-of Yahweh.
   because **they** did not **listen** to Yahweh's voice.
 
-.. csv-table:: Example: JER 43:10 — Suffix Conjugation translated as present perfect
+.. csv-table:: Example: JER 43:10 — Suffix Conjugation translated as present completed action
 
   מִמַּ֛עַל לָאֲבָנִ֥ים הָאֵ֖לֶּה אֲשֶׁ֣ר טָמָ֑נְתִּי
   mimma'al la'avanim ha'elleh 'asher **tamanti**
   from-over to-the-stones the-these that **you-buried**.
   over these stones that **you have buried**.
 
-.. csv-table:: Example: JER 43:5 — Suffix Conjugation translated as past perfect
+.. csv-table:: Example: JER 43:5 — Suffix Conjugation translated as past completed action
 
   כָּל־שְׁאֵרִ֣ית יְהוּדָ֑ה אֲשֶׁר־\ **שָׁ֗בוּ** מִכָּל־הַגּוֹיִם֙
   kol-she'erith yehudah 'asher-**shavu** mikkol-haggoyim
@@ -229,7 +229,7 @@ This is an action that is performed by speaking it.
 Prophetic actions
 ~~~~~~~~~~~~~~~~~
 
-This is a very rare use of the perfect, occurring in prophetic
+This is a very rare use of the suffix conjugation verb, occurring in prophetic
 utterances.
 
 .. csv-table:: Example: ISA 11:9
@@ -263,10 +263,3 @@ the above meanings. This form appears identical to the
   banim giddalti **werowmamti**
   sons I-made-great **and-I-raised-up**
   I have nourished **and brought up** children
-
---------------
-
-*Information in this article is taken from:* Biblical Hebrew Reference
-Grammar, *by van der Merwe, Naudé, and Kroeze, p.144-146; and* An
-Introduction to Biblical Hebrew Syntax, *by Waltke and O'Connor,
-p.479-495; and* Hebrew Grammar, *by Gesenius, section 106.*
