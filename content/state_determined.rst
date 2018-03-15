@@ -2,47 +2,46 @@
 
 .. _state_determined:
 
-State Determined
-================
+Definiteness (sometimes called the "determined state")
+======================================================
 
 Summary
 -------
 
-The concept of definiteness in Biblical Hebrew means "a way of referring to a person(s) or thing(s)".  Nouns, pronouns, adjectives, and participles can be either definite or indefinite, depending on several factors.
+The concept of definiteness in Biblical Hebrew is a way of referring to a person(s) or thing(s).  Nouns, pronouns, adjectives, and participles can be either definite or indefinite, depending on several factors.
 
 Article
 -------
 
 In Biblical Hebrew, 
-:ref:`noun`s
+:ref:`noun`/s
 and
-:ref:`pronoun`s
+:ref:`pronoun`/s
 either can be definite on the basis of their own intrinsic nature or can be made definite by some linguistic marking or grammatical construction.  Generally speaking,  
-:ref:`adjective`s
+:ref:`adjective`/s
 and 
-:ref:`participle`s
+:ref:`participle`/s
 are always intrinsically indefinite, but they can be made definite by an attached 
-:ref:`Particle Definite Article`
+:ref:`Particle_Definite_Article`
 or 
-:ref:`Suffix Pronominal`, 
-or by being conjoined (via a construct relationship) to a definite noun in the 
-:ref:`state absolute`.
+:ref:`Suffix_Pronominal`/, 
+or by being connected to a definite noun in a construct relationship.
 
 Function of definiteness
 ------------------------
 
 Definiteness in Biblical Hebrew serves both a semantic and pragmatic function.  As a general summary, these functions include: 1) to designate a specific person/thing, or a class of person(s)/thing(s) that are intrinsically definite; 2) to match a noun to its accompanying descriptor (often with adjectives or participles); 3) to introduce a relative clause (often with participles); and/or 4) to indicate a superlative or demonstrative (especially in regard to time) referent.  However, these are only general designations and do not represent a comprehesive list.  The concept of definiteness works different in various languages; therefore, definite/indefinite referents should always be translated from Biblical Hebrew into other languages with great sensitivity to the context of each individual use and according to the conventions of definiteness in the target language.
 
-Recognizing determined nouns
-----------------------------
+Recognizing definite nouns
+--------------------------
 
-Intrinsically determined
-~~~~~~~~~~~~~~~~~~~~~~~~
+Intrinsically definite
+~~~~~~~~~~~~~~~~~~~~~~
 
-There are three types of nouns that are intrinsically determined:
-:ref:`noun_proper_name`,
-:ref:`pronoun_personal`,
-and :ref:`pronoun_demonstrative`.
+There are three types of nouns that are intrinsically definite:
+:ref:`noun_proper_name`/,
+:ref:`pronoun_personal`/,
+and :ref:`pronoun_demonstrative`/.
 
 :ref:`noun_proper_name`
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -104,12 +103,12 @@ and :ref:`pronoun_demonstrative`.
   And-he-called **this** to\_\ **this**
   And **each one** called to **another**
 
-Contextually determined
-~~~~~~~~~~~~~~~~~~~~~~~
+Made definite by lingistic marking or grammatical construction
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-There are three ways to make a noun determined: the :ref:`particle_definite_article`,
+There are three ways to make a term definite: the :ref:`particle_definite_article`,
 the :ref:`suffix_pronominal`,
-and connected with another determined noun in the :ref:`state_construct`.
+and connected with a definite noun in a construct relationship.
 
 :ref:`particle_definite_article`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -151,8 +150,8 @@ and connected with another determined noun in the :ref:`state_construct`.
   "So now, do not give **your daughters to their sons**; do not take
      **their daughters** for **your sons**"
 
-Construction with determined noun
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Construction with definite noun
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: GEN 2:4
 
@@ -162,8 +161,8 @@ Construction with determined noun
   "These were **the events** concerning the heavens and the earth, when
      they were created"
 
-In the above example, "the heavens and the earth" are determined by
-the definite article, and "account" or "events" is therefore also determined.
+In the above example, "the heavens and the earth" are made definite by
+the definite article, and "account" or "events" is therefore also definite.
 
 .. csv-table:: Example: DEU 10:19
 
@@ -172,13 +171,13 @@ the definite article, and "account" or "events" is therefore also determined.
   for\_foreigners you-were **in-land-of** Egypt.
   for you were foreigners **in the land** of Egypt.
 
-In the above example, "Egypt" is the intrinsically determined word and
-"land" is therefore also determined.
+In the above example, "Egypt" is an intrinsically definite word and
+"land" is therefore also definite.
 
 Poetry
 ^^^^^^
 
-In poetry determined words often do not have the
+In poetry definite words often do not have the
 :ref:`particle_definite_article`.
 
 .. csv-table:: Example: PSA 2:2
