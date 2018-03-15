@@ -2,13 +2,13 @@
 
 .. _state_determined:
 
-Definiteness 
-============
+State Determined (or "definiteness") 
+====================================
 
 Summary
 -------
 
-The concept of definiteness (sometimes called the "determined state") in Biblical Hebrew is a way of referring to a person(s) or thing(s).  Nouns, pronouns, adjectives, and participles can be either definite or indefinite, depending on several factors.
+The concept of definiteness in Biblical Hebrew is a way of referring to a person(s) or thing(s).  Nouns, pronouns, adjectives, and participles can be either definite or indefinite, depending on several factors.
 
 Article
 -------
@@ -19,8 +19,8 @@ and
 :ref:`pronoun`\s
 either can be definite on the basis of their own intrinsic nature or can be made definite by some linguistic marking or grammatical construction.  Generally speaking,  
 :ref:`adjective`\s
-and 
-:ref:`participle`\s
+and participles (both :ref:`participle_active`
+and :ref:`participle_passive`)
 are always intrinsically indefinite, but they can be made definite by an attached 
 :ref:`Particle_Definite_Article`
 or 
@@ -103,7 +103,7 @@ and :ref:`pronoun_demonstrative`.
   And-he-called **this** to\_\ **this**
   And **each one** called to **another**
 
-Made definite by lingistic marking or grammatical construction
+Made definite by linguistic marking or grammatical construction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 There are three ways to make a term definite: the :ref:`particle_definite_article`,
