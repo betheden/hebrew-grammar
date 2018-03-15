@@ -2,29 +2,29 @@
 
 .. _state_determined:
 
-Definiteness (sometimes called the "determined state")
-======================================================
+Definiteness 
+============
 
 Summary
 -------
 
-The concept of definiteness in Biblical Hebrew is a way of referring to a person(s) or thing(s).  Nouns, pronouns, adjectives, and participles can be either definite or indefinite, depending on several factors.
+The concept of definiteness (sometimes called the "determined state") in Biblical Hebrew is a way of referring to a person(s) or thing(s).  Nouns, pronouns, adjectives, and participles can be either definite or indefinite, depending on several factors.
 
 Article
 -------
 
 In Biblical Hebrew, 
-:ref:`noun`/s
+:ref:`noun`\s
 and
-:ref:`pronoun`/s
+:ref:`pronoun`\s
 either can be definite on the basis of their own intrinsic nature or can be made definite by some linguistic marking or grammatical construction.  Generally speaking,  
-:ref:`adjective`/s
+:ref:`adjective`\s
 and 
-:ref:`participle`/s
+:ref:`participle`\s
 are always intrinsically indefinite, but they can be made definite by an attached 
 :ref:`Particle_Definite_Article`
 or 
-:ref:`Suffix_Pronominal`/, 
+:ref:`Suffix_Pronominal`, 
 or by being connected to a definite noun in a construct relationship.
 
 Function of definiteness
@@ -39,9 +39,9 @@ Intrinsically definite
 ~~~~~~~~~~~~~~~~~~~~~~
 
 There are three types of nouns that are intrinsically definite:
-:ref:`noun_proper_name`/,
-:ref:`pronoun_personal`/,
-and :ref:`pronoun_demonstrative`/.
+:ref:`noun_proper_name`,
+:ref:`pronoun_personal`,
+and :ref:`pronoun_demonstrative`.
 
 :ref:`noun_proper_name`
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -393,9 +393,7 @@ With :ref:`adjective`
 
 When a
 :ref:`noun_common`
-is followed by an adjective and both words are
-:ref:`state_determined`,
-the adjective describes an attribute of the noun.
+is followed by an adjective and both words are definite, the adjective describes an attribute of the noun.
 
 .. csv-table:: Example: JOS 21:45
 
@@ -456,7 +454,7 @@ Relative
 
 When the definite article is used in front of a
 :ref:`verb`,
-it takes on a relative meaning.
+it functions like a :ref:`particle_relative`.
 
 With :ref:`participle_passive`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
