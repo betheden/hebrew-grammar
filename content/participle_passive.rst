@@ -26,7 +26,7 @@ Article
 Form
 ----
 
-.. csv-table:: Qal passive Passive Participle Paradigm
+.. csv-table:: Qal Passive Participle Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
