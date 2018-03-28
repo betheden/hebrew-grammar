@@ -21,7 +21,7 @@ indicate that the following clause or sentence is a question.
 Form
 ----
 
-The interrogative particle appearing a ה-prefix can be differentiated
+The interrogative particle appearing as a ה-prefix can be differentiated
 from the :ref:`particle_definite_article`
 by checking the context and also the vowels under the ה, and the lack of
 a dagesh since the radical after the interrogative ה is not doubled.
