@@ -12,7 +12,7 @@ In Biblical Hebrew, all :ref:`noun`, finite :ref:`adjective`,
 :ref:`pronoun` :ref:`suffix_pronominal`,
 and some :ref:`particle`
 are grammatically marked for gender. This gender marking can be
-:ref:`gender_feminine`, :ref:`gender_common`, or :ref:`gender_both`.
+:ref:`gender_feminine`, :ref:`gender_masculine`, :ref:`gender_common`, or :ref:`gender_both`.
 
 Article
 -------
