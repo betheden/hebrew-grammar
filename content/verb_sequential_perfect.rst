@@ -8,9 +8,9 @@ Verb Sequential Suffix Conjugation
 Summary
 -------
 
-A verb with sequential suffix conjugation functions generally like a
-verb with *prefix conjugation*, but it also connects to some earlier
-verb to form either a sequence of time or a sequence of thought.
+A verb with sequential suffix conjugation often appears to function like a
+verb with *prefix conjugation*, but it usually connects to some earlier
+verb of a different conjugation which it then imitates in function. 
 
 Article
 -------
@@ -23,13 +23,11 @@ normal Suffix Conjugation but includes the
 :ref:`conjunction`
 *waw* (וְ "and") as a prefix. A Sequential Suffix Conjugation
 :ref:`verb`
-does not function like a normal Suffix Conjugation verb. Rather, it
-functions more like an :ref:`verb_imperfect` verb, but with
-the added sense of being connected to an earlier verb to form a sequence
-of time or a sequence of thought in narrative texts. In poetic texts
-this verb form can be understood in a variety of other ways as well.
-Sequential Suffix Conjugation verbs often appear in a series following a
-clause with a Prefix Conjugation verb.
+does not function like a normal Suffix Conjugation verb. Rather, it appears to
+function more like a :ref:`verb_imperfect` verb, because it often appear in a series following a
+clause with a Prefix Conjugation verb. It functions in a variety of other ways, as well, because it actually derives its function 
+from a previous verb form that it then imitates. This previous verb can be any of several different forms, allowing the 
+Sequential Suffix Conjugation to function in many different ways (see the examples below). 
 
 There is a difference between (1) the Sequential Suffix Conjugation, (2)
 the :ref:`verb_perfect-suffix-conjugation-copulative`,
