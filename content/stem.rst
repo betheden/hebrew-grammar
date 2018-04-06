@@ -26,7 +26,7 @@ stems and several rare ones.
 Function
 --------
 
-The following able is a brief overview of the most common stems and
+The following table is a brief overview of the most common stems and
 their most common functions.
 
 .. csv-table:: Common Stem Functions
