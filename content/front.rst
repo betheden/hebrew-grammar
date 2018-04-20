@@ -1,4 +1,4 @@
-:github_url: https://git.door43.org/Door43/en_uhg/src/branch/master/content/front.rst
+:github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/front.rst
 
 .. _front:
 
@@ -54,7 +54,7 @@ English language.
 The work was completed using an online content creation and translation
 platform, the `Door43 Content Service <https://git.door43.org>`__.
 Because of this, all the work is under revision control, you can go back
-and see the `commit history <https://git.door43.org/Door43/en_uhg/commits/branch/master>`__
+and see the `commit history <https://git.door43.org/unfoldingWord/en_uhg/commits/branch/master>`__
 if you'd like (it totals over 2500 commits at the time of writing).
 
 Future

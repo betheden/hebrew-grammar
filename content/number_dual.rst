@@ -1,4 +1,4 @@
-:github_url: https://git.door43.org/Door43/en_uhg/src/branch/master/content/number_dual.rst
+:github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/number_dual.rst
 
 .. _number_dual:
 

@@ -1,4 +1,4 @@
-:github_url: https://git.door43.org/Door43/en_uhg/src/branch/master/content/noun_proper_name.rst
+:github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/noun_proper_name.rst
 
 .. _noun_proper_name:
 

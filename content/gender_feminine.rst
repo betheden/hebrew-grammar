@@ -1,4 +1,4 @@
-:github_url: https://git.door43.org/Door43/en_uhg/src/branch/master/content/gender_feminine.rst
+:github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/gender_feminine.rst
 
 .. _gender_feminine:
 
@@ -12,10 +12,10 @@ In Biblical Hebrew, all
 :ref:`noun`,
 finite
 :ref:`adjective`,
-`pronouns <https://git.door43.org/Door43/en-uhg/src/master/content/pronoun/01.md>`__,
+`pronouns <https://git.door43.org/unfoldingWord/en_uhg/src/master/content/pronoun/01.md>`__,
 :ref:`suffix_pronominal`,
 and some
-`particles <https://git.door43.org/Door43/en-uhg/src/master/content/particle/01.md>`__
+`particles <https://git.door43.org/unfoldingWord/en_uhg/src/master/content/particle/01.md>`__
 are grammatically marked for gender. This gender marking can be
 :ref:`gender_feminine`,
 :ref:`gender_common`,
@@ -38,7 +38,7 @@ agree with the gender of the noun they refer to. The gender of a :ref:`verb-fini
 agrees with its subject. All references to female persons in Biblical
 Hebrew are grammatically masculine. However, other entities apart from
 people can also be classified as grammatically-masculine. For example,
-the `propernames <https://git.door43.org/Door43/en-uhg/src/master/content/noun_proper_name/01.md>`__
+the `propernames <https://git.door43.org/unfoldingWord/en_uhg/src/master/content/noun_proper_name/01.md>`__
 of places are often feminine in Biblical Hebrew, as well as body parts
 that exist as pairs (hand, foot, etc.).
 

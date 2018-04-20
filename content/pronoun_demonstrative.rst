@@ -1,4 +1,4 @@
-:github_url: https://git.door43.org/Door43/en_uhg/src/branch/master/content/pronoun_demonstrative.rst
+:github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/pronoun_demonstrative.rst
 
 .. _pronoun_demonstrative:
 
@@ -44,7 +44,7 @@ and
 :ref:`gender_feminine`
 forms for each of those (with the exception of the plural, near
 demonstratives which has a
-`common <https://git.door43.org/Door43/en-uhg/src/master/content/gender_common/01.md>`__
+`common <https://git.door43.org/unfoldingWord/en_uhg/src/master/content/gender_common/01.md>`__
 form). Their gender and number are based on the word they replace,
 modify, or refer to.
 

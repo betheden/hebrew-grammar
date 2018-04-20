@@ -1,4 +1,4 @@
-:github_url: https://git.door43.org/Door43/en_uhg/src/branch/master/content/suffix_paragogic_nun.rst
+:github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/suffix_paragogic_nun.rst
 
 .. _suffix_paragogic_nun:
 
