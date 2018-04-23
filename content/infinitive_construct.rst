@@ -8,17 +8,17 @@ Infinitive Construct
 Summary
 -------
 
-The infinitive construct modifies a finite verb, usually providing extra
+The infinitive construct is a non-finite verbal form that usually functions as a verbal complement, providing extra
 information regarding the purpose, result, or temporal frame of the
 verbal action of the main verb. In rare cases, the infinitive construct
-functions independently as a verbal noun.
+functions independently as a noun.
 
 Article
 -------
 
 The infinitive construct generally functions as a verbal complement to a
 :ref:`verb-finite-verbs`,
-but in rare cases it also functions independently as a verbal :ref:`noun`.
+but in rare cases it also functions independently as a :ref:`noun`.
 The infinitive construct is described as being in the construct state
 because it can occur in various constructions with prepositions,
 :ref:`suffix`,
@@ -158,7 +158,7 @@ Infinitive construct with preposition עַד to express durative action (until a
   and-he-said myself I-will-remain until **you-return**
   "Yahweh said, ""I will wait until **you return**"""
 
-Functions as a Verbal :ref:`noun`
+Functions as a :ref:`noun`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The infinitive construct sometimes functions as an independent

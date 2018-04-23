@@ -30,9 +30,9 @@ Paradigm
   :header-rows: 1
 
   Conjugation,Parsing,Hebrew,Transliteration,Gloss
-  Suffix Conjugation,masculine singular third person,הִשְׁתַּחֲוָה,hishtahawah,he worshipped
-  Prefix Conjugation,masculine singular third person,יִשְׁתַּחֲוֶה,yishtahaweh,he will worship
-  Sequential Prefix Conjugation,masculine singular third person,וַיִּשְׁתַּחוּ,wayyishtahu,(and) he worshipped
+  Perfect,masculine singular third person,הִשְׁתַּחֲוָה,hishtahawah,he worshipped
+  Imperfect,masculine singular third person,יִשְׁתַּחֲוֶה,yishtahaweh,he will worship
+  Sequential Imperfect,masculine singular third person,וַיִּשְׁתַּחוּ,wayyishtahu,(and) he worshipped
   Imperative,masculine singular,הִשְׁתַּחֲוִי,hishtahawi,you must worship
   Infinitive Construct,---,הִשְׁתַּחֲוֹת,hishtahawoth,worship
   Participle,masculine singular absolute,מִשְׁתַּחֲוֶה,mishtahaweh,worshipping

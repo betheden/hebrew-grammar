@@ -33,8 +33,8 @@ Form
   :header-rows: 1
 
   Conjugation,Parsing,Hebrew,Transliteration,Gloss
-  Suffix Conjugation,masculine singular third person,הִתְכַּלְכֵּל,hithkalkel,he sustained himself
-  Prefix Conjugation,masculine singular third person,יִתְכַּלְכֵּל,yithkalkel,he will sustain himself
+  Perfect,masculine singular third person,הִתְכַּלְכֵּל,hithkalkel,he sustained himself
+  Imperfect,masculine singular third person,יִתְכַּלְכֵּל,yithkalkel,he will sustain himself
   Participle,masculine singular absolute,מִתְכַּלְכֵּל,mithkalkel,sustaining himself / he who is sustaining himself
 
 Examples

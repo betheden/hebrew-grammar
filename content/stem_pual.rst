@@ -37,7 +37,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-.. csv-table:: Pual Suffix Conjugation Paradigm
+.. csv-table:: Pual Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -51,7 +51,7 @@ Paradigm
   feminine plural second person,קֻטַּלְתֶּן,quttalten,you were slaughtered
   common plural first person,קֻטַּלְנוּ,quttalnu,we were slaughtered
 
-.. csv-table:: Pual Prefix Conjugation Paradigm
+.. csv-table:: Pual Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -66,7 +66,7 @@ Paradigm
   feminine plural second person,תְּקֻטַּלְנָה,tequttalnah,you will be slaughtered
   common plural first person,נְקֻטַּל,nequttal,we will be slaughtered
 
-.. csv-table:: Pual Sequential Suffix Conjugation Paradigm
+.. csv-table:: Pual Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -80,7 +80,7 @@ Paradigm
   feminine plural second person,וְקֻטַּלְתֶּן,wequttalten,(and) you will be slaughtered
   common plural first person,וְקֻטַּלְנוּ,wequttalnu,(and) we will be slaughtered
 
-.. csv-table:: Pual Sequential Prefix Conjugation Paradigm
+.. csv-table:: Pual Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

@@ -30,7 +30,7 @@ Form
 These paradigms use the root כּוּל, meaning "to sustain" in the
 Pilpel stem.
 
-.. csv-table:: Pilpel Suffix Conjugation Paradigm
+.. csv-table:: Pilpel Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -44,7 +44,7 @@ Pilpel stem.
   feminine plural second person,כִּלְכַּלְתֶּן,kilkalten,you sustained
   common plural first person,כִּלכַּלְנוּ,kilkalnu,we sustained
 
-.. csv-table:: Pilpel Prefix Conjugation Paradigm
+.. csv-table:: Pilpel Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

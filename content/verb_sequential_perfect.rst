@@ -2,41 +2,40 @@
 
 .. _verb_sequential_perfect:
 
-Verb Sequential Suffix Conjugation
-==================================
+Verb Sequential Perfect
+=======================
 
 Summary
 -------
 
-A verb with sequential suffix conjugation often appears to function like a
-verb with *prefix conjugation*, but it usually connects to some earlier
+A Sequential Perfect verb often appears to function like an Imperfect verb, but it usually connects to some earlier
 verb of a different conjugation which it then imitates in function. 
 
 Article
 -------
 
-The Sequential Suffix Conjugation looks very similar to the normal
-:ref:`verb_perfect`,
+The Sequential Perfect conjugation looks very similar to the normal
+:ref:`verb_Perfect`,
 but it is a separate verbal form and must be treated as such. The
-Sequential Suffix Conjugation takes the same verbal endings as the
-normal Suffix Conjugation but includes the
+Sequential Perfect conjugation takes the same verbal endings as the
+normal Perfect conjugation but includes the
 :ref:`conjunction`
-*waw* (וְ "and") as a prefix. A Sequential Suffix Conjugation
+*waw* (וְ "and") as a prefix. A Sequential Perfect
 :ref:`verb`
-does not function like a normal Suffix Conjugation verb. Rather, it appears to
-function more like a :ref:`verb_imperfect` verb, because it often appear in a series following a
-clause with a Prefix Conjugation verb. It functions in a variety of other ways, as well, because it actually derives its function 
+does not function like a normal Perfect conjugation verb. Rather, it appears to
+function more like a :ref:`verb_imperfect` verb, because it often appears in a series following a
+clause with an Imperfect verb. It functions in a variety of other ways as well, because it actually derives its function 
 from a previous verb form that it then imitates. This previous verb can be any of several different forms, allowing the 
-Sequential Suffix Conjugation to function in many different ways (see the examples below). 
+Sequential Perfect verb to function in many different ways (see the examples below). 
 
-There is a difference between (1) the Sequential Suffix Conjugation, (2)
-the :ref:`verb_perfect-suffix-conjugation-copulative`,
-and (3) the normal Prefix Conjugation with the conjunction. (1) and (2)
+There is a difference between (1) the Sequential Perfect conjugation, (2)
+the :ref:`verb_perfect-perfect-copulative`,
+and (3) the normal Imperfect conjugation with the conjunction. (1) and (2)
 have an identical form, including the vocalization, so the reader must
 determine from the context which one is being used in any given
 instance. (1) is also different than (3), although they can have similar
-meanings. The Sequential Suffix Conjugation ((1) above) forms a sequence
-with the verb in the clause before it, but the normal Prefix Conjugation
+meanings. The Sequential Perfect conjugation ((1) above) forms a sequence
+with the verb in the clause before it, but the normal Imperfect conjugation
 ((3) above) with the conjunction does not.
 
 Form
@@ -143,7 +142,7 @@ Form
 Function
 --------
 
-The sequential suffix conjugation can indicate any one of many different
+The Sequential Perfect conjugation can indicate any one of many different
 kinds of actions:
 
 Incomplete actions, in present or future time

@@ -37,7 +37,7 @@ Depending on the verb form, there are often two or three different ways
 of conjugating a verb in the Qal stem. Which way is used depends on
 which verb it is.
 
-.. csv-table:: Qal Suffix Conjugation Paradigm 1
+.. csv-table:: Qal Perfect Paradigm 1
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -51,7 +51,7 @@ which verb it is.
   feminine plural second person,קְטַלְתֶּן,qetalten,you killed
   common plural first person,קָטַלְנוּ,qatalnu,we killed
 
-.. csv-table:: Qal Suffix Conjugation Paradigm 2
+.. csv-table:: Qal Perfect Paradigm 2
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -65,7 +65,7 @@ which verb it is.
   feminine plural second person,כְּבַדְתֶּן,kevadten,you heavy
   common plural first person,כָּבַדְנוּ,kavadnu,we were heavy
 
-.. csv-table:: Qal Suffix Conjugation Paradigm 3
+.. csv-table:: Qal Perfect Paradigm 3
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -79,7 +79,7 @@ which verb it is.
   feminine plural second person,קְטָנְתֶּן,qetanten,you were small
   common plural first person,קָטֹנּוּ,qatonnu,we were small
 
-.. csv-table:: Qal Prefix Conjugation Paradigm 1
+.. csv-table:: Qal Imperfect Paradigm 1
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -94,7 +94,7 @@ which verb it is.
   feminine plural second person,תִּקְטֹלְנָה,tiqtolenah,you will kill
   common plural first person,נִקְטֹל,niqtol,we will kill
 
-.. csv-table:: Qal Prefix Conjugation Paradigm 2
+.. csv-table:: Qal Imperfect Paradigm 2
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -109,7 +109,7 @@ which verb it is.
   feminine plural second person,תִּכְבַּדְנָה,tikhbadnah,you will be heavy
   common plural first person,נִכְבַּד,nikhbad,we will be heavy
 
-.. csv-table:: Qal Sequential Suffix Conjugation Paradigm
+.. csv-table:: Qal Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -123,7 +123,7 @@ which verb it is.
   feminine plural second person,וּקְטַלְתֶּן,uqetalten,(and) you will kill
   common plural first person,וְקָטַלְנוּ,weqatalnu,(and) we will kill
 
-.. csv-table:: Qal Sequential Prefix Conjugation Paradigm
+.. csv-table:: Qal Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

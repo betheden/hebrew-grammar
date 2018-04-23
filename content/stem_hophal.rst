@@ -47,7 +47,7 @@ Paradigm
           qibbuts under the first letter (so הָ or הֻ). Here the qamets hatuf is
           used throughout.
 
-.. csv-table:: Hophal Suffix Conjugation Paradigm
+.. csv-table:: Hophal Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -61,7 +61,7 @@ Paradigm
   feminine plural second person,הָקְטַלְתֶּן,hoqtalten,you were caused to kill
   common plural first person,הָקְטַלְנוּ,hoqtalnu,we were caused to kill
 
-.. csv-table:: Hophal Prefix Conjugation Paradigm
+.. csv-table:: Hophal Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -76,7 +76,7 @@ Paradigm
   feminine plural second person,תָּקְטַלְנָה,toqtalnah,you will be caused to kill
   common plural first person,נָקְטַל,noqtal,we will be caused to kill
 
-.. csv-table:: Hophal Sequential Suffix Conjugation Paradigm
+.. csv-table:: Hophal Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -90,7 +90,7 @@ Paradigm
   feminine plural second person,וְהָקְטַלְתֶּן,wehoqtalten,(and) you will be caused to kill
   common plural first person,וְהָקְטַלְנוּ,wehoqtalnu,(and) we will be caused to kill
 
-.. csv-table:: Hophal Sequential Prefix Conjugation Paradigm
+.. csv-table:: Hophal Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

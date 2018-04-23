@@ -35,7 +35,7 @@ each specific instance.
 
 Biblical Hebrew does not use the Imperative form to express negative
 commands. Rather, negative commands are always expressed using either
-the Prefix Conjugation form or the Jussive form. In cases where the
+the Imperfect conjugation form or the Jussive form. In cases where the
 Jussive form is being used to express a negative command, the verb will
 appear in a 2nd person form rather than a 3rd person form. When used in
 this way, the Jussive form takes the :ref:`particle_negative`

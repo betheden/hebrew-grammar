@@ -39,7 +39,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-.. csv-table:: Hiphil Suffix Conjugation Paradigm
+.. csv-table:: Hiphil Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -53,7 +53,7 @@ Paradigm
   feminine plural second person,הִקְטַלְתֶּן,hiqtalten,you caused to kill
   common plural first person,הִקְטַלְנוּ,hiqtalnu,we caused to kill
 
-.. csv-table:: Hiphil Prefix Conjugation Paradigm
+.. csv-table:: Hiphil Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -68,7 +68,7 @@ Paradigm
   feminine plural second person,תַּקְטֵלְנָה,taqtelenah,you will cause to kill
   common plural first person,נַקְטִיל,naqtil,we will cause to kill
 
-.. csv-table:: Hiphil Sequential Suffix Conjugation Paradigm
+.. csv-table:: Hiphil Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -82,7 +82,7 @@ Paradigm
   feminine plural second person,וְהִקְטַלְתֶּן,wehiqtalten,(and) you will cause to kill
   common plural first person,וְהִקְטַלְנוּ,wehiqtalnu,(and) we will cause to kill
 
-.. csv-table:: Hiphil Sequential Prefix Conjugation Paradigm
+.. csv-table:: Hiphil Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

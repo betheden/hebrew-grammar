@@ -18,7 +18,7 @@ Article
 In Biblical Hebrew, all
 :ref:`verb`
 have both a stem formation (Qal, Niphal, Piel, etc.) and a conjugation
-(Prefix Conjugation, Suffix Conjugation, Imperative, etc.). These work
+(Perfect, Imperfect, Imperative, etc.). These work
 together like two "layers", and each layer supplies different
 information about the verb. In Biblical Hebrew, there are seven major
 stems and several rare ones.

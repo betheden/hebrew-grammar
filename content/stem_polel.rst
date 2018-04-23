@@ -29,7 +29,7 @@ form in Biblical Hebrew.
 Form
 ----
 
-.. csv-table:: Polel Suffix Conjugation Paradigm
+.. csv-table:: Polel Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -43,7 +43,7 @@ Form
   feminine plural second person,כּוֹנַנְתֶּן,konanten,you established
   common plural first person,כּוֹנַנּוּ,konannu,we established
 
-.. csv-table:: Polel Prefix Conjugation Paradigm
+.. csv-table:: Polel Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -58,7 +58,7 @@ Form
   feminine plural second person,תְּכוֹנֵנָּה,tekhonennah,you will establish
   common plural first person,נְכוֹנֵן,nekhonen,we will establish
 
-.. csv-table:: Polel Sequential Prefix Conjugation Paradigm
+.. csv-table:: Polel Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

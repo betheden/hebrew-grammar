@@ -8,7 +8,7 @@ Participle Passive
 Summary
 -------
 
-In Biblical Hebrew, a participle is a verbal noun that can function as a
+In Biblical Hebrew, a participle is a non-finite verbal form that takes the same endings as adjectives and can appear in either the construct state or the absolute state. A participle can function as a
 verb (or verbal complement), an adjective, or a noun. The passive
 participle most often functions as an attributive adjective or predicate
 adjective.
@@ -86,7 +86,7 @@ future time, or without any specified timeframe.
 A passive participle can function in a sentence in any of the following
 ways:
 
-Functions as a verbal adjective
+Functions as a adjective
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This is the most common use of the passive participle in Biblical
@@ -164,7 +164,7 @@ Functions as a verbal complement
   she **being-brought-out** and-she sent to\_her-father-in-law saying
   "When she **was brought out**, she sent to her father-in-law a message"
 
-Functions as a Verbal :ref:`noun`
+Functions as a :ref:`noun`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 8:34

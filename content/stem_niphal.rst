@@ -38,7 +38,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-.. csv-table:: Niphal Suffix Conjugation Paradigm
+.. csv-table:: Niphal Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -52,7 +52,7 @@ Paradigm
   feminine plural second person,נִקְטַלְתֶּן,niqtalten,you were killed
   common plural first person,נִקְטַלְתֶּנוּ,niqtaltenu,we were killed
 
-.. csv-table:: Niphal Prefix Conjugation Paradigm
+.. csv-table:: Niphal Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -67,7 +67,7 @@ Paradigm
   feminine plural second person,תִּקָּטַלְנָה,tiqqatalnah,you will be killed
   common plural first person,נִקָּטֵל,niqqatel,we will be killed
 
-.. csv-table:: Niphal Sequential Suffix Conjugation Paradigm
+.. csv-table:: Niphal Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -81,7 +81,7 @@ Paradigm
   feminine plural second person,וְנִקְטַלְתֶּן,weniqtalten,(and) you will be killed
   common plural first person,וְנִקְטַלְתֶּנוּ,weniqtaltenu,(and) we will be killed
 
-.. csv-table:: Niphal Sequential Prefix Conjugation Paradigm
+.. csv-table:: Niphal Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

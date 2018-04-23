@@ -79,8 +79,7 @@ complement to form a complete sentence. Their form shows tense (:ref:`verb_perfe
 :ref:`verb_imperfect`,
 :ref:`verb_imperative`,
 etc.), as well as person and number. Biblical Hebrew has 7 finite verb
-forms – Suffix conjugation, prefix conjugation, Sequential suffix
-conjugation, Sequential prefix conjugation, Imperative, Jussive, and
+forms – Perfect, Imperfect, Sequential perfect, Sequential Imperfect, Imperative, Jussive, and
 Cohortative.
 
 .. _verb-non-finite-verbs:

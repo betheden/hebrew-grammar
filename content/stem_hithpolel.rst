@@ -20,7 +20,7 @@ The Hithpolel stem is formed from the Hithpael by dropping the 2nd
 radical and repeating the 3rd radical (with a vowel change). It is a
 rare verbal form in Biblical Hebrew. It is recommended to *always*
 consult a dictionary or lexicon for the precise nuance of any verb in
-the Nithpael stem.
+the Hithpolel stem.
 
 .. note:: The Hithpolel stem conjugates exactly like the Polel stem, but
           with the reflexive prefix (הִתְ) added.
@@ -28,7 +28,7 @@ the Nithpael stem.
 Form
 ----
 
-.. csv-table:: Hithpolel Suffix Conjugation Paradigm
+.. csv-table:: Hithpolel Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -42,7 +42,7 @@ Form
   feminine plural second person,הִתְכּוֹנַנְתֶּן,hithkonanten,you established yourselves
   common plural first person,הִתְכּוֹנַנּוּ,hithkonannu,we established ourselves
 
-.. csv-table:: Hithpolel Prefix Conjugation Paradigm
+.. csv-table:: Hithpolel Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -57,7 +57,7 @@ Form
   feminine plural second person,תִּתְכּוֹנֵנָּה,tithkonennah,you will establish yourselves
   common plural first person,נִתְכּוֹנֵן,nithkonen,we will establish ourselves
 
-.. csv-table:: Hithpolel Sequential Prefix Conjugation Paradigm
+.. csv-table:: Hithpolel Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

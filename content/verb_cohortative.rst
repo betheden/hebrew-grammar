@@ -38,7 +38,7 @@ instance.
 Form
 ----
 
-.. csv-table:: Cohortativ Paradigm
+.. csv-table:: Cohortative Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

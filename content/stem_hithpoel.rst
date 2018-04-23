@@ -31,8 +31,8 @@ Form
   :header-rows: 1
 
   Conjugation,Parsing,Hebrew,Transliteration,Gloss
-  Suffix Conjugation,masculine singular third person,הִתְהוֹלֵל,hithholel,he humiliated himself
-  Prefix Conjugation,masculine singular third person,יִתְהוֹלֵל,yithholel,he will humiliate himself
+  Perfect,masculine singular third person,הִתְהוֹלֵל,hithholel,he humiliated himself
+  Imperfect,masculine singular third person,יִתְהוֹלֵל,yithholel,he will humiliate himself
   Participle,masculine singular third person,מִתְהוֹלֵל,mithholel,humiliating oneself / he who humiliates himself
 
 Example

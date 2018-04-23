@@ -28,7 +28,7 @@ in Biblical Hebrew.
 Form
 ----
 
-.. csv-table:: Poel Suffix Conjugation Paradigm
+.. csv-table:: Poel Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -42,7 +42,7 @@ Form
   feminine plural second person,הוֹלַלְתֶּן,holalten,you humiliated
   common plural first person,הוֹלַלְנוּ,holalnu,we humiliated
 
-.. csv-table:: Poel Prefix Conjugation Paradigm
+.. csv-table:: Poel Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

@@ -8,8 +8,8 @@ Infinitive Absolute
 Summary
 -------
 
-The infinitive absolute is an extremely flexible verbal form and can
-function as an adverb, a verb, or a noun. Its most common use is to
+The infinitive absolute is an extremely flexible non-finite verbal form and can
+function as an adverb, a finite verb, a verbal complement, or a noun. Its most common use is to
 express intensity or certainty of verbal action.
 
 Article
@@ -20,10 +20,10 @@ absolute is the simplest in form but the most complex in function,
 demanding the most sensitivity to its context to determine its meaning.
 The infinitive absolute is described as being in the :ref:`state_absolute`
 because it always stands entirely on its own as an independent
-grammatical entity. The form never occurs in any kind of construction
+grammatical entity. The form can appear with the conjunction, but it never occurs in any other kind of construction
 with a prefix or
 :ref:`suffix`,
-an attached preposition, or even another
+an attached preposition, or with a
 :ref:`noun`
 in a construct chain. The infinitive absolute generally has only one
 form in each
@@ -32,7 +32,7 @@ form in each
 person, gender, or number like the :ref:`verb-finite-verbs`
 forms. Grammatically, the infinitive absolute can function as an
 :ref:`adverb`,
-a finite verb, or even as a noun. The context must be carefully
+a finite verb, a verbal complement, or even as a noun. The context must be carefully
 investigated to discern the precise meaning of an infinitive absolute in
 each instance.
 
@@ -196,7 +196,7 @@ or continuance of the action of a main verb.
   And-he-walked **going and-eating**
   "He ... went on, **eating as he went**"
 
-Functions as a Verbal :ref:`noun`
+Functions as a :ref:`noun`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This is an extremely rare use of the infinitive absolute.

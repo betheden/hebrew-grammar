@@ -32,8 +32,8 @@ Form
   :header-rows: 1
 
   Conjugation,Parsing,Hebrew,Transliteration,Gloss
-  Suffix Conjugation,masculine singular third person,הוֹלַל,holal,he is humiliated
-  Prefix Conjugation,masculine singular third person,יְהוֹלַל,yeholal,he will be humiliated
+  Perfect,masculine singular third person,הוֹלַל,holal,he is humiliated
+  Imperfect,masculine singular third person,יְהוֹלַל,yeholal,he will be humiliated
   Participle,masculine singular absolute,מְהוֹלָל,meholal,being humiliated / he who is humiliated
 
 Example

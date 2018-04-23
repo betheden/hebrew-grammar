@@ -32,8 +32,8 @@ Form
   :header-rows: 1
 
   Conjugation,Parsing,Hebrew,Transliteration,Gloss
-  Suffix Conjugation,masculine singular third person,כָּלְכַּל,kalkal,he is sustained
-  Prefix Conjugation,masculine singular third person,יְכָלְכַּל,yekholkal,he will be sustained
+  Perfect,masculine singular third person,כָּלְכַּל,kalkal,he is sustained
+  Imperfect,masculine singular third person,יְכָלְכַּל,yekholkal,he will be sustained
   Participle,masculine singular absolute,מְכָלְכַּל,mekholkal,being sustained / he who is being sustained
 
 Example

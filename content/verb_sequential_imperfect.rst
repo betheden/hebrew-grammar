@@ -2,50 +2,50 @@
 
 .. _verb_sequential_imperfect:
 
-Verb Sequential Prefix Conjugation
-==================================
+Verb Sequential Imperfect
+=========================
 
 Summary
 -------
 
-A verb with sequential prefix conjugation functions generally like a
-verb with *suffix conjugation*, but it also connects to an earlier verb
+A Sequential Imperfect verb functions generally like a
+verb with *Perfect conjugation*, but it also connects to an earlier verb
 to form either a sequence of time or a sequence of thought.
 
 Article
 -------
 
-The sequential prefix conjugation of a
+The Sequential Imperfect conjugation of a
 :ref:`verb`
 looks similar to the normal :ref:`verb_imperfect`,
 but it is a separate verbal form and must be treated as such. A
-Sequential Prefix Conjugation verb does not function like a normal
-Prefix Conjugation verb, but it functions similar to a :ref:`verb_perfect`
+Sequential Imperfect verb does not function like a normal
+Imperfect verb, but it functions similar to a :ref:`verb_Perfect`
 verb. The difference is an added sense of being connected to an earlier
 verb to form a sequence of time or a sequence of thought. In Hebrew
-narratives, the Sequential Prefix Conjugation also serves the function
-of controlling the flow of a story en often occurs at the beginning of a
+narratives, the Sequential Imperfect conjugation also serves the function
+of controlling the flow of a story and often occurs at the beginning of a
 sentence.
 
-The endings of the Sequential Prefix Conjugation are the same as the
-normal Prefix Conjugation but the Sequential form also has an extra
+The endings of the Sequential Imperfect conjugation are the same as the
+normal Imperfect conjugation but the sequential form also has an extra
 prefix, which is a *specialized* form of the
 :ref:`conjunction`.
-The difference between the Sequential Prefix Conjugation and the normal
-Prefix Conjugation with the conjunction is in the vowel pattern. The
-normal Prefix Conjugation with the conjunction looks exactly like what
+The difference between the Sequential Imperfect and the normal
+Imperfect conjugation with the conjunction is in the vowel pattern. The
+normal Imperfect conjugation with the conjunction looks exactly like what
 one would expect: a normal conjunction (וְ) is added to the beginning of
-the normal Prefix Conjugation (יִקְטֹל) to make a single word
-(וְיִקְטֹל). However, the Sequential Prefix Conjugation looks different
-(וַיִּקְטֹל). In contrast to the normal Prefix Conjugation with the
-conjunction, the Sequential Prefix Conjugation usually contains (1) a
+a normal Imperfect verb (יִקְטֹל) to make a single word
+(וְיִקְטֹל). However, the Sequential Imperfect conjugation looks different
+(וַיִּקְטֹל). In contrast to the normal Imperfect conjugation with the
+conjunction, the Sequential Imperfect conjugation usually contains (1) a
 vowel (usually pathach) under the conjunction instead of the shewa, and
 (2) a daghesh in the prefix consonant of the verbal form (see table
 below).
 
-.. csv-table:: Example: Prefix Conjugation + conjunction (וְ) vs. Sequential Prefix Conjugation
+.. csv-table:: Example: Imperfect conjugation + conjunction (וְ) vs. Sequential Imperfect conjugation
 
-  Verbal root,Prefix Conjugation + conjunction (וְ),Sequential Prefix Conjugation
+  Verbal root,Imperfect conjugation + conjunction (וְ),Sequential Imperfect conjugation
   כתב,וְיִכְתֹּב,וַיִּכְתֹּב
   פעל,וְיִפְעַל,וַיִּפְעַל
   קרא,וְיִקְרָא,וַיִּקְרָא
@@ -161,7 +161,7 @@ Form
 Function
 --------
 
-The Sequential Prefix Conjugation indicates any one of these kinds of
+The Sequential Imperfect conjugation indicates any one of these kinds of
 verbal actions:
 
 Completed actions, or actions in the past

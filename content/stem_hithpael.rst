@@ -34,7 +34,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-.. csv-table:: Hithpael Suffix Conjugation Paradigm
+.. csv-table:: Hithpael Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -48,7 +48,7 @@ Paradigm
   feminine plural second person,הִתְקַטַּלְתֶּן,hithqattalten,you killed yourselves
   common plural first person,הִתְקַטַּלְנוּ,hithqattalnu,we killed ourselves
 
-.. csv-table:: Hithpael Prefix Conjugation Paradigm
+.. csv-table:: Hithpael Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -63,7 +63,7 @@ Paradigm
   feminine plural second person,תִּתְקַטֵּלְנָה,tithqattelnah,you will kill yourselves
   common plural first person,נִתְקַטֵּל,nithqattel,we will kill ourselves
 
-.. csv-table:: Hithpael Sequential Suffix Conjugation Paradigm
+.. csv-table:: Hithpael Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -77,7 +77,7 @@ Paradigm
   feminine plural second person,וְהִתְקַטַּלְתֶּן,wehithqattalten,(and) you will kill yourselves
   common plural first person,וְהִתְקַטַּלְנוּ,wehithqattalnu,(and) we will kill ourselves
 
-.. csv-table:: Hithpael Sequential Prefix Conjugation Paradigm
+.. csv-table:: Hithpael Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

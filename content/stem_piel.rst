@@ -36,7 +36,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-.. csv-table:: Piel Suffix Conjugation Paradigm
+.. csv-table:: Piel Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -50,7 +50,7 @@ Paradigm
   feminine plural second person,קִטַּלְתֶּן,qittalten,you slaughtered
   common plural first person,קִטַּלְנוּ,qittalnu,we slaughtered
 
-.. csv-table:: Piel Prefix Conjugation Paradigm
+.. csv-table:: Piel Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -65,7 +65,7 @@ Paradigm
   feminine plural second person,תְּקַטַּלְנָה,tiqattalnah,you will slaughter
   common plural first person,נְקַטֵּל,niqattel,we will slaughter
 
-.. csv-table:: Piel Sequential Suffix Conjugation Paradigm
+.. csv-table:: Piel Sequential Perfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
@@ -79,7 +79,7 @@ Paradigm
   feminine plural second person,וְקִטַּלְתֶּן,weqittalten,(and) you will slaughter
   common plural first person,וְקִטַּלְנוּ,weqittalnu,(and) we will slaughter
 
-.. csv-table:: Piel Sequential Prefix Conjugation Paradigm
+.. csv-table:: Piel Sequential Imperfect Paradigm
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

@@ -33,9 +33,9 @@ Form
   :header-rows: 1
 
   Conjugation,Parsing,Hebrew,Transliteration,Gloss
-  Suffix Conjugation,masculine singular third person,כּוֹנַן,konan,he is established
-  Prefix Conjugation,masculine singular third person,יְכוֹנַן,yekonan,he will be established
-  Sequential Prefix Conjugation,masculine singular third person,וַיְּכוֹנַן,wayyekhonan,(and) he was established
+  Perfect,masculine singular third person,כּוֹנַן,konan,he is established
+  Imperfect,masculine singular third person,יְכוֹנַן,yekonan,he will be established
+  Sequential Imperfect,masculine singular third person,וַיְּכוֹנַן,wayyekhonan,(and) he was established
   Imperative,masculine singular,כּוֹנַן,konan,you must be established
   Participle,masculine singular absolute,מְכוֹנָן,mekhonan,being established
 

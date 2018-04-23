@@ -2,23 +2,23 @@
 
 .. _verb_imperfect:
 
-Verb Prefix Conjugation
-=======================
+Verb Imperfect
+==============
 
 Summary
 -------
 
-A verb with prefix conjugation is used generally to indicate an action
+An Imperfect verb is used generally to indicate an action
 that is not complete, or an action that either occurs in the present or
-will occur in the future. However, the prefix conjugation can also be
+will occur in the future. However, an Imperfect verb can also be
 used to describe other kinds of actions.
 
 Article
 -------
 
-In Biblical Hebrew the Prefix Conjugation is used generally to describe
+In Biblical Hebrew the Imperfect conjugation is used generally to describe
 actions that are not completed or actions that occur in the present or
-future. However, the Prefix Conjugation is also used to describe several
+future. However, the Imperfect conjugation is also used to describe several
 other kinds of actions as determined by the context. These include
 frequentive or durative actions, negative commands, indirect commands,
 potential actions, and actions of greater or lesser desirability
@@ -27,15 +27,15 @@ potential actions, and actions of greater or lesser desirability
 and
 :ref:`verb_cohortative`).
 
-The normal Prefix Conjugation with the
+The normal Imperfect conjugation with the
 :ref:`conjunction`
 *waw* (וְ "and") as a prefix is different from the :ref:`verb_sequential_imperfect`,
 which utilizes a specialized form of the conjunction and contains a
 different meaning. Sometimes a
 :ref:`verb`
-with Prefix Conjugation occurs within a clause after another :ref:`verb-finite-verbs`
+with Imperfect conjugation occurs within a clause after another :ref:`verb-finite-verbs`
 (as in Gen 49:27 below, supplying the linking verb *to be*). In these
-cases, the context must determine whether the Prefix Conjugation verb is
+cases, the context must determine whether the Imperfect verb is
 complementing the main verb or whether it is communicating its own
 verbal idea.
 
@@ -150,7 +150,7 @@ Form
 Function
 --------
 
-The Prefix Conjugation can indicate any of the following kinds of
+The Imperfect conjugation can indicate any of the following kinds of
 actions:
 
 Actions in future time

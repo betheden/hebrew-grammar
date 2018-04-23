@@ -2,37 +2,37 @@
 
 .. _verb_perfect:
 
-Verb Suffix Conjugation
+Verb Perfect
 ============
 
 Summary
 -------
 
-A verb with suffix conjugation usually expresses a completed
-action in the past. However, the suffix
+A Perfect verb usually expresses a completed
+action in the past. However, the Perfect
 conjugation can also be used to describe other kinds of actions.
 
 Article
 -------
 
-In Biblical Hebrew a Suffix Conjugation
+In Biblical Hebrew a Perfect
 :ref:`verb`
 is normally used to describe actions that have occurred in the past or
 actions that are seen as completed (even in present or future time). However,
-the Suffix Conjugation is also used to describe a variety of other kinds
-of actions. Thus, a Suffix Conjugation verb has the potential to be
+the Perfect conjugation is also used to describe a variety of other kinds
+of actions. Thus, a Perfect verb has the potential to be
 translated with the past tense, the present tense, or even the future
 tense. The context must determine the proper meaning for each instance
-of a Suffix Conjugation verb.
+of a Perfect verb.
 
 When the
 :ref:`conjunction`
-*waw* (וְ "and") is added to the Suffix Conjugation as a prefix, this
+*waw* (וְ "and") is added to the Perfect conjugation as a prefix, this
 can indicate either the :ref:`verb_perfect-suffix-conjugation-copulative`
 or the :ref:`verb_sequential_perfect`.
 The meaning of the verb is different in either case, and the context
-must be carefully considered to determine if it is a suffix conjugation
-copulative verb or a Sequential Suffix Conjugation verb.
+must be carefully considered to determine if it is a Perfect
+copulative verb or a Sequential Perfect verb.
 
 Form
 ----
@@ -138,31 +138,31 @@ Form
 Function
 --------
 
-The Suffix Conjugation can indicate any of the following kinds of
+The Perfect conjugation can indicate any of the following kinds of
 actions:
 
 Completed actions in past time
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The Suffix Conjugation can be translated as simple past action ("he did"), present
+The Perfect conjugation can be translated as simple past action ("he did"), present
 completed action ("he has done"), or past completed action
 ("he had done").
 
-.. csv-table:: Example: JER 43:7 — Suffix Conjugation translated as simple past action
+.. csv-table:: Example: JER 43:7 — Perfect conjugation translated as simple past action
 
   כִּ֛י לֹ֥א **שָׁמְע֖וּ** בְּק֣וֹל יְהוָ֑ה
   ki lo **shom'u** beqol yehwah
   for not **they-listened** to-voice-of Yahweh.
   because **they** did not **listen** to Yahweh's voice.
 
-.. csv-table:: Example: JER 43:10 — Suffix Conjugation translated as present completed action
+.. csv-table:: Example: JER 43:10 — Perfect conjugation translated as present completed action
 
   מִמַּ֛עַל לָאֲבָנִ֥ים הָאֵ֖לֶּה אֲשֶׁ֣ר טָמָ֑נְתִּי
   mimma'al la'avanim ha'elleh 'asher **tamanti**
   from-over to-the-stones the-these that **you-buried**.
   over these stones that **you have buried**.
 
-.. csv-table:: Example: JER 43:5 — Suffix Conjugation translated as past completed action
+.. csv-table:: Example: JER 43:5 — Perfect conjugation translated as past completed action
 
   כָּל־שְׁאֵרִ֣ית יְהוּדָ֑ה אֲשֶׁר־\ **שָׁ֗בוּ** מִכָּל־הַגּוֹיִם֙
   kol-she'erith yehudah 'asher-**shavu** mikkol-haggoyim
@@ -241,12 +241,12 @@ utterances.
 
 .. _verb_perfect-suffix-conjugation-copulative:
 
-Suffix conjugation copulative
+Perfect copulative
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This form adds the
 :ref:`conjunction`
-*waw* (וְ "and") to the normal Suffix Conjugation and can express any of
+*waw* (וְ "and") to the normal Perfect conjugation and can express any of
 the above meanings. This form appears identical to the
 :ref:`verb_sequential_perfect`.
 
