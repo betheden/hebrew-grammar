@@ -8,7 +8,7 @@ Participle Active
 Summary
 -------
 
-In Biblical Hebrew, a participle is a non-finite verbal form that takes the same endings as adjectives and can appear in either the construct state or the absolute state.  Participles can function as a
+In Biblical Hebrew, a participle is a non-finite verbal form that can function as a
 verb (or verbal complement), an adjective, or a noun. When used as a
 verb, an active participle most often expresses continuous or imminent
 action.

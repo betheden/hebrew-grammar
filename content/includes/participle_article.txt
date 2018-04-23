@@ -1,5 +1,4 @@
-Participles in Biblical Hebrew are verbal :ref:`noun`\s.
-Like the infinitive forms, they conjugate in the various :ref:`stem`
+Participles in Biblical Hebrew are non-finite verbal forms that conjugate in the various :ref:`stem`
 formations. They also inflect for person and gender like both 
 :ref:`adjective`\s and :ref:`noun`\s. They can also appear in either the
 :ref:`state_absolute` or the :ref:`state_construct`, like nouns.
