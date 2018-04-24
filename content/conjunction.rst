@@ -9,7 +9,7 @@ Summary
 -------
 
 Conjunctions connect words, clauses, or phrases. Common conjunctions are
-"and," "but," "or."
+"and," "or," "but," and "for."
 
 Article
 -------
@@ -79,17 +79,8 @@ relationships:
 Conjunctive
 ^^^^^^^^^^
 
-A conjunctive conjunction connects two words/clauses and is usually translated as "and" in
-English.
-
-.. csv-table:: Example: GEN 1:5
-
-  "וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם **וְלַחֹ֖שֶׁךְ** קָ֣רָא
-     לָ֑יְלָה"
-  wayyiqra 'elohim la'or yom **welahoshekh** qara laylah
-  "And-he-called God to-the-light day **and-to-the-darkness** he-called
-     night"
-  "He named the light ""day,"" **and** he named **the darkness** ""night."""
+A conjunctive conjunction simply joins two words/phrases/sentences together and is usually translated as "and" in
+English.  This kind of conjunction can be used either comparatively (joining similar ideas) or contrastively (joining dissimilar ideas).
 
 .. csv-table:: Example: GEN 2:17
 
@@ -100,8 +91,17 @@ English.
   "But from the tree of the knowledge of good **and evil** you may not
      eat"
 
-In Biblical Hebrew, when a conjunctive conjunction connects clauses/phrases that happen at the same time, it has a similar meaning to a conditional conjunction expressing an actual condition. In these cases, the conjunction 
+In Biblical Hebrew, when a conjunctive conjunction connects two events that happen at the same time, it has a similar meaning to a conditional conjunction expressing an actual condition. In these cases, the conjunction 
 can be translated as “while” or “when” in English.
+
+.. csv-table:: Example: GEN 1:5
+
+  "וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם **וְלַחֹ֖שֶׁךְ** קָ֣רָא
+     לָ֑יְלָה"
+  wayyiqra 'elohim la'or yom **welahoshekh** qara laylah
+  "And-he-called God to-the-light day **and-to-the-darkness** he-called
+     night"
+  "He named the light ""day,"" **and** he named **the darkness** ""night."""
 
 .. csv-table:: Example: GEN 45:14
 
@@ -117,7 +117,7 @@ can be translated as “while” or “when” in English.
 Alternative
 ^^^^^^^^^^^
 
-A disjunctive conjunction compares two words/clauses as alternates and is usually
+An alternative conjunction compares two words/phrases/sentences as alternates and is usually
 translated as “or” in English.
 
 .. csv-table:: Example: EXO 20:10
@@ -134,10 +134,10 @@ translated as “or” in English.
      or your male servant, or your female servant, or your cattle, or the
      foreigner** who is within your gates."
 
-Adversative
+Contrastive
 ^^^^^^^^^^^
 
-A contrastive conjunction contrasts two words/clauses as different in some way and is usually translated as “but” in
+A contrastive conjunction contrasts two words/phrases/sentences as different in some way and is usually translated as “but” in
 English.
 
 .. csv-table:: Example: GEN 6:8
@@ -150,7 +150,7 @@ English.
 Affirmative
 ^^^^^^^^^^^
 
-An affirmative conjunction conncects two words/clauses in such a way that the second either strengthens or adds to the first. This kind of conjunction is often translated
+An affirmative conjunction connects two words/phrases/sentences in such a way that the second either strengthens or adds to the first. This kind of conjunction is often translated
 “even” (or is sometimes left untranslated) in English.
 
 .. csv-table:: Example: GEN 4:4
@@ -166,7 +166,7 @@ An affirmative conjunction conncects two words/clauses in such a way that the se
 ֹאו
 ---
 
-The word אוֹ is the standard disjunctive conjunction in Biblical Hebrew,
+The word אוֹ is the standard alternative conjunction in Biblical Hebrew,
 usually translated as "or" in English.
 
 .. csv-table:: Example: EXO 21:32
