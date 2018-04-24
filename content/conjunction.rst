@@ -76,10 +76,10 @@ Function
 The conjunction וְ can express any of the following connective
 relationships:
 
-Copulative
+Conjunctive
 ^^^^^^^^^^
 
-This connects two similar ideas and is usually translated as "and" in
+A conjunctive conjunction connects two words/clauses and is usually translated as "and" in
 English.
 
 .. csv-table:: Example: GEN 1:5
@@ -91,12 +91,6 @@ English.
      night"
   "He named the light ""day,"" **and** he named **the darkness** ""night."""
 
-Disjunctive
-^^^^^^^^^^^
-
-This connects two opposite ideas and is usually translated as "and" in
-English.
-
 .. csv-table:: Example: GEN 2:17
 
   וּמֵעֵ֗ץ הַדַּ֙עַת֙ ט֣וֹב **וָרָ֔ע** לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ
@@ -106,23 +100,24 @@ English.
   "But from the tree of the knowledge of good **and evil** you may not
      eat"
 
-Adversative
-^^^^^^^^^^^
+In Biblical Hebrew, when a conjunctive conjunction connects clauses/phrases that happen at the same time, it has a similar meaning to a conditional conjunction expressing an actual condition. In these cases, the conjunction 
+can be translated as “while” or “when” in English.
 
-This contrasts two different ideas and is usually translated as “but” in
-English.
+.. csv-table:: Example: GEN 45:14
 
-.. csv-table:: Example: GEN 6:8
-
-  וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה׃
-  **wenoah** matsa hen be'ene yehwah
-  **But-Noah** found favor in-eyes-of Yahweh.
-  **But Noah** found favor in the eyes of Yahweh.
+  "וַיִּפֹּ֛ל עַל־צַוְּארֵ֥י בִנְיָמִֽן־אָחִ֖יו וַיֵּ֑בְךְּ
+     **וּבִנְיָמִ֔ן** בָּכָ֖ה עַל־צַוָּארָֽיו׃"
+  "wayyippol 'al-tsawwere vinyamin-'ahiw wayyevk **uvinyamin** bakhah
+     'al-tsawwarayw"
+  "And-he-fell on\_neck-of Benjamin\_his-brother and-he-wept
+     **and-Benjamin** wept on\_his-neck."
+  "He hugged his brother Benjamin's neck and wept, **while Benjamin**
+     wept on his neck."
 
 Alternative
 ^^^^^^^^^^^
 
-This compares two ideas as potentially equivalent and is usually
+A disjunctive conjunction compares two words/clauses as alternates and is usually
 translated as “or” in English.
 
 .. csv-table:: Example: EXO 20:10
@@ -139,10 +134,23 @@ translated as “or” in English.
      or your male servant, or your female servant, or your cattle, or the
      foreigner** who is within your gates."
 
-Explicative
+Adversative
 ^^^^^^^^^^^
 
-This provides additional information about one idea and is translated
+A contrastive conjunction contrasts two words/clauses as different in some way and is usually translated as “but” in
+English.
+
+.. csv-table:: Example: GEN 6:8
+
+  וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה׃
+  **wenoah** matsa hen be'ene yehwah
+  **But-Noah** found favor in-eyes-of Yahweh.
+  **But Noah** found favor in the eyes of Yahweh.
+
+Affirmative
+^^^^^^^^^^^
+
+An affirmative conjunction conncects two words/clauses in such a way that the second either strengthens or adds to the first. This kind of conjunction is often translated
 “even” (or is sometimes left untranslated) in English.
 
 .. csv-table:: Example: GEN 4:4
@@ -154,27 +162,11 @@ This provides additional information about one idea and is translated
   "As for Abel, he brought some of the firstborn of his flock **and some
      of the fat**"
 
-Circumstantial
-^^^^^^^^^^^^^^
-
-This connects clauses/phrases that happen at the same time; it is
-usually translated as “while” or “when” in English.
-
-.. csv-table:: Example: GEN 45:14
-
-  "וַיִּפֹּ֛ל עַל־צַוְּארֵ֥י בִנְיָמִֽן־אָחִ֖יו וַיֵּ֑בְךְּ
-     **וּבִנְיָמִ֔ן** בָּכָ֖ה עַל־צַוָּארָֽיו׃"
-  "wayyippol 'al-tsawwere vinyamin-'ahiw wayyevk **uvinyamin** bakhah
-     'al-tsawwarayw"
-  "And-he-fell on\_neck-of Benjamin\_his-brother and-he-wept
-     **and-Benjamin** wept on\_his-neck."
-  "He hugged his brother Benjamin's neck and wept, **while Benjamin**
-     wept on his neck."
 
 ֹאו
 ---
 
-The word אוֹ is the standard alternative conjunction in Biblical Hebrew,
+The word אוֹ is the standard disjunctive conjunction in Biblical Hebrew,
 usually translated as "or" in English.
 
 .. csv-table:: Example: EXO 21:32
@@ -285,7 +277,7 @@ Other uses
 ~~~~~~~~~~
 
 The word כִּי can also express other conjunctive meanings, often as an
-adversative following a negated statement. If in doubt, it is
+contrastive following a negated statement. If in doubt, it is
 recommended to always consult a dictionary or lexicon for the exact
 meaning of the word in any specific instance.
 
@@ -375,7 +367,7 @@ something that has happened in the past in certain circumstances.
   "**If** he said, 'The speckled animals will be your wages,' then all
      the flock bore speckled young."
 
-Alternative
+Disjunctive
 ~~~~~~~~~~~
 
 This use of the conjunction אִם is often found in a question and is
@@ -391,12 +383,12 @@ usually translated as "or" in English.
 וְעַתָּה
 --------
 
-The word עַתָּה ("now") in Biblical Hebrew often functions as an adverb
+The word עַתָּה ("now") in Biblical Hebrew often functions as a temporal adverb
 in a sentence. However, when עַתָּה appears at the beginning of a
 sentence or clause, it usually functions not as an adverb but as a
 conjunction, either standing alone or as a compound conjunction (when
 paired with the prefix וְ or with particles such as גַּם or כִּי). In
-either case, the term functions as a causal conjunction, indicating that
+either case, the term functions as a type of causal conjunction, indicating that
 what follows is based upon what has come before. This conjunction must
 be translated always with great sensitivity to the context to express
 the correct nuance; in English, this conjunction can be translated as
@@ -491,10 +483,16 @@ that...not" (or similar phrasing) in English.
 Compound conjunctions
 ---------------------
 
+.. note:: Sometimes multiple conjunctions or particles appear
+          together but do NOT form a compound conjunction; in such cases, each
+          word retains its individual range of meanings. These instances must be
+          determined from the context. If in doubt, consult a dictionary or
+          lexicon for the exact meaning of any specific occurrence.
+
 כִּי אִם
 ~~~~~~~~
 
-This compound conjunction functions most often as a strong adversative
+Sometimes the words כִּי and אִם are paired together to form a compound conjunction that functions most often as a strong contrastive
 or a strong concessive. In English, it is usually translated as "but",
 "but if", or "except". It is recommended to always consult a dictionary
 or lexicon for the exact meaning of any specific occurrence of this
@@ -511,17 +509,10 @@ compound conjunction.
 ~~~~~~~~
 
 Sometimes the words אַף and כִּי are paired together to form a compound
-conjunction that functions much like an :ref:`particle_affirmation`,
-conveying a strong sense of affirmation or addition. This compound
+conjunction that functions as a strong affirmative.  This compound
 conjunction can appear with or without the prefix conjunction וְ
 ("and").
 
-.. note:: Like other particles, the words אַף and כִּי sometimes appear
-          together but do NOT form a compound conjunction; in such cases, each
-          word retains its individual meaning, usually as an affirmation particle
-          (אַף) and a conditional conjunction (כִּי). These instances must be
-          determined from the context. If in doubt, consult a dictionary or
-          lexicon for the exact meaning of any specific occurrence.
 
 .. csv-table:: Example: GEN 3:1
 

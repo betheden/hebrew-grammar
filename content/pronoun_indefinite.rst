@@ -9,8 +9,8 @@ Summary
 -------
 
 An indefinite pronoun is a pronoun that doesn’t refer to anyone or
-anything specific. It’s usually translated “who(m)(ever)” or
-“what(ever).”
+anything specific. Indefinite pronouns are usually translated as “who" or "whoever” (when referring to persons), or
+“what” or "whatever" (when referring to objects).
 
 Article
 -------
@@ -27,7 +27,7 @@ person. Their vowels can change a little bit based on with which sound
 the next word begins.
 
 Regarding a person (מִי)
-------------------------
+-----------------------
 
 Who / Whoever
 
@@ -59,7 +59,7 @@ Embedded question
   I do not know **who** has done this thing.
 
 When followed by the :ref:`particle_relative` אֲשֶׁר.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: EXO 32:33
 
