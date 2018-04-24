@@ -77,6 +77,14 @@ and adapted into other Gateway Languages.
 If either of these ideas intrigue you, let us know at
 https://unfoldingword.org/contact/, we'd love to have your involvement!
 
+Downloads
+---------
+
+The latest version of the UHG may be downloaded in the following formats:
+
+- `UHG HTML <https://readthedocs.org/projects/uhg/downloads/htmlzip/latest/>`__
+- `UHG reStructuredText source files <https://git.door43.org/unfoldingWord/en_uhg/archive/master.zip>`__
+
 Contributors
 ------------
 
