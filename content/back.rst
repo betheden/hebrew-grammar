@@ -31,7 +31,7 @@ Seow, C. L. *Grammar for Biblical Hebrew,* Revised Edition. Place of
 publication not identified: Abingdon Press, 2013.
 
 Van der Merwe, C.H.J., J.A. Naudé, and J.H. Kroeze. *Biblical Hebrew
-Reference Grammar.* Sheffield, England: Sheffield Academic, 1999.
+Reference Grammar.* London, England: T&T Clark, 2017.
 
 Waltke, B. K., and M. P. O’Connor. *An Introduction to Biblical Hebrew
 Syntax.* Winona Lake, IN: Eisenbrauns, 1990.

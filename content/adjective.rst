@@ -10,7 +10,7 @@ Summary
 
 An adjective is a word that describes another word in the sentence,
 usually a noun. In Biblical Hebrew, an adjective can sometimes function
-as an adverb or even as a noun.
+as a noun or even as an adverb.
 
 Article
 -------
@@ -66,13 +66,12 @@ Function
 
 .. _adjective-attributive:
 
-Attributive
+Describes a noun
 ~~~~~~~~~~~
 
-An attributive adjective is an adjective that describes a noun. This is
-the most common use of adjectives in Biblical Hebrew. In almost all
-instances, attributive adjectives immediately follow the noun that they
-describe and have the same form. Thus, if the noun is masculine, the
+The most common use of adjectives in Biblical Hebrew is to describe a noun.  There are two kinds of adjective that function in this way, attributive adjectves and predicative adjectives. In almost all
+instances, an attributive adjective immediately follows the noun that it
+describes and has the same form. Thus, if the noun is masculine, the
 adjective is also masculine; if the noun is singular, the adjective is
 also singular; if the noun is
 :ref:`state_determined`,
@@ -99,15 +98,11 @@ the adjective is also definite; and so on.
 
 .. _adjective-predicative:
 
-Predicative
-~~~~~~~~~~~
-
-A predicative adjective is an adjective that describes a noun using a
+Predicative adjectives are adjectives that describes a noun using
 :ref:`verb-linking-verbs`.
 Often the linking verb is not present in the Hebrew text and must be
-supplied when translating into English. Like attributive adjectives,
-predicative adjectives usually have the same form as the noun they
-describe in both gender (masculine/feminine) and number
+supplied when translating into English. Like attributive adjectives, a predicative adjective usually has the same form as the noun it
+describes in both gender (masculine/feminine) and number
 (singular/plural). Unlike attributive adjectives, however, a predicative
 adjective can be indefinite even if it describes a definite noun.
 
@@ -130,11 +125,10 @@ adjective can be indefinite even if it describes a definite noun.
 
 .. _adjective-substantive:
 
-Substantive
-~~~~~~~~~~~
+Functions as a noun
+~~~~~~~~~~~~~~~~~~~
 
-A substantive adjective is an adjective that functions as a noun in the
-sentence. This is a common occurrence in Biblical Hebrew.
+Rather than describing a noun, sometimes in a sentence an adjective itself functions as a noun. This is a called a substantive adjective.
 
 .. csv-table:: Example: PSA 3:2
 
@@ -150,12 +144,10 @@ sentence. This is a common occurrence in Biblical Hebrew.
   Therefore thus he-says **holy-of** Israel
   "Therefore the **Holy One** of Israel says,"
 
-Adverbial
-~~~~~~~~~
+Functions as an adverb
+~~~~~~~~~~~~~~~~~~~~~~
 
-An adverbial adjective is an adjective that functions as an adverb,
-meaning that it describes a verb instead of a noun. This is a rare
-occurrence in Biblical Hebrew.
+Sometimes an adjective functions as an adverb, meaning that it describes a verb instead of a noun.
 
 .. csv-table:: Example: JOS 21:10
 
@@ -167,8 +159,8 @@ occurrence in Biblical Hebrew.
 Other Uses
 ~~~~~~~~~~
 
-Comparative
-^^^^^^^^^^^
+Compares two or more items
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In Biblical Hebrew, adjectives are often used with either the
 preposition מִן ("from") or the phrase מִכֹּל ("from all") to express a
@@ -188,8 +180,8 @@ comparison between two or more items.
   And-the-serpent was **shrewd from-all** beings-of the-field
   Now the serpent was **more shrewd than any other** beast of the field
 
-Intensive
-^^^^^^^^^
+Adjectives with strengthened meaning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In Biblical Hebrew, the meaning of an adjective can be strengthened by
 pairing it either with the word מְאֹד ("very") or with the phrase
@@ -211,12 +203,12 @@ pairing it either with the word מְאֹד ("very") or with the phrase
 
 .. _adjective-superlative:
 
-Superlative
-^^^^^^^^^^^
+Adjectives with strongest meaning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Biblical Hebrew utilizes different ways to strengthen an adjective to
-its greatest degree ("the smallest", "the greatest", etc.). Usually, the
-superlative meaning of an adjective must be determined from the context.
+its greatest degree ("the smallest", "the greatest", etc.). This is called a superlative adjective.
+Usually, the superlative meaning of an adjective must be determined from the context.
 
 .. csv-table:: Example: 1SA 16:11 –– adjective with the :ref:`preposition_definite_article`
 

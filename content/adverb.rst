@@ -9,7 +9,7 @@ Summary
 -------
 
 An adverb is a word that describes the verb, or sometimes describes the
-sentence as a whole. Particles in Biblical Hebrew are closely related to
+sentence as a whole. Some particles in Biblical Hebrew are closely related to
 adverbs.
 
 Article
@@ -17,10 +17,10 @@ Article
 
 Biblical Hebrew does not contain many words that are classified directly
 as adverbs. However, many different kinds of words have potential to
-function as adverbs, including
-:ref:`infinitive_absolute`,
+function as adverbs, including an
+:ref:`infinitive_absolute`, an
 :ref:`adjective`,
-and even
+or even a
 :ref:`noun`.
 Many adverbs in Biblical Hebrew have the potential to serve multiple
 functions. For example, כֹּה can function as an adverb of place, an
@@ -30,7 +30,7 @@ of time or an adverb of place, etc.
 Many particles are closely related to adverbs in Biblical Hebrew. A
 general rule is that when a particle occurs after the verb, it functions
 as an adverb; but when a particle appears before the verb, then it
-functions in some other way (usually as a particle or conjunction). But
+functions in some other way (usually as a conjunction or discourse particle). But
 this rule is not universal; both adverbs and adverbial particles
 sometimes appear before the verb rather than after the verb, as in the
 example below (GEN 32:11).
@@ -117,14 +117,12 @@ Adverbs of manner
   **bitterly** cries there hero.
   even brave soldiers will cry **loudly**.
 
-Substantive adverbs
--------------------
 
 Because there are not many direct adverbs in Biblical Hebrew, other
 kinds of words often function as adverbs.
 
-Particles
-~~~~~~~~~
+Particles functioning as adverbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 3:22
 
@@ -142,8 +140,8 @@ Particles
   "every inclination of the thoughts of their hearts was **only** evil
      continually"
 
-Infinitives (absolute state)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Infinitives (absolute state) functioning as adverbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 2:16
 
@@ -163,8 +161,8 @@ Infinitives (absolute state)
   "I will fulfill against Eli everything that I have spoken concerning
      his house, **from beginning to end**."
 
-Adjectives
-~~~~~~~~~~
+Adjectives functioning as adverbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: JOS 21:10
 
@@ -180,8 +178,8 @@ Adjectives
   And-he-said Esau 'There-is\_for-me **enough** my-brother'
   "Esau said, ""I have **enough**, my brother."""
 
-Nouns
-~~~~~
+Nouns functioning as adverbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: 1SA 12:11
 

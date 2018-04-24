@@ -63,12 +63,6 @@ if the subject is not identified; this is because the form of the verb
 itself includes the subject. A :ref:`suffix_pronominal`
 attached to a verb can function as its object.
 
-Types of verbs I
-~~~~~~~~~~~~~~~~
-
-A important way of distinguishing between different types of verbs is to
-separate finite verbs from non-finite verbs.
-
 .. _verb-finite-verbs:
 
 Finite verbs
@@ -102,8 +96,8 @@ way that the word functions like a
 .. note:: In Biblical Hebrew, the non-finite verb forms are sometimes used
           as finite verbs.
 
-Types of verbs II
-~~~~~~~~~~~~~~~~~
+Types of verbs
+~~~~~~~~~~~~~~
 
 Grammarians often distinguish between different types of verbs. When
 considering the best way to translate a sentence, it is helpful to
