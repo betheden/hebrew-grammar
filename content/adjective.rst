@@ -8,9 +8,8 @@ Adjective
 Summary
 -------
 
-An adjective is a word that describes another word in the sentence,
-usually a noun. In Biblical Hebrew, sometimes an adjective can function
-as a noun or even as an adverb.
+An adjective is a word that describes a person(s), place(s), or thing(s).  Adjectives usually describe a noun(s) in a sentence.
+In Biblical Hebrew, sometimes an adjective can function as a noun or even as an adverb (to describe a verb).
 
 Article
 -------
@@ -98,7 +97,7 @@ the adjective is also definite; and so on.
 
 .. _adjective-predicative:
 
-Predicative adjectives are adjectives that describes a noun using
+Predicative adjectives are adjectives that describe nouns using
 :ref:`verb-linking-verbs`.
 Often the linking verb is not present in the Hebrew text and must be
 supplied when translating into English. Like attributive adjectives, a predicative adjective usually has the same form as the noun it
@@ -125,7 +124,7 @@ adjective can be indefinite even if it describes a definite noun.
 
 .. _adjective-substantive:
 
-Functions as a noun
+functions as a noun
 ~~~~~~~~~~~~~~~~~~~
 
 Rather than describing a noun, sometimes in a sentence an adjective itself functions as a noun. This is a called a substantive adjective.
@@ -144,7 +143,7 @@ Rather than describing a noun, sometimes in a sentence an adjective itself funct
   Therefore thus he-says **holy-of** Israel
   "Therefore the **Holy One** of Israel says,"
 
-Functions as an adverb
+functions as an adverb
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Sometimes an adjective functions as an adverb, meaning that it describes a verb instead of a noun.
@@ -159,7 +158,7 @@ Sometimes an adjective functions as an adverb, meaning that it describes a verb 
 Other Uses
 ~~~~~~~~~~
 
-Compares two or more items
+compares two or more items
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In Biblical Hebrew, adjectives are often used with either the
@@ -180,8 +179,8 @@ comparison between two or more items.
   And-the-serpent was **shrewd from-all** beings-of the-field
   Now the serpent was **more shrewd than any other** beast of the field
 
-Adjectives with stronger meaning
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+adjectives with stronger meaning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In Biblical Hebrew, the meaning of an adjective can be strengthened by
 pairing it either with the word מְאֹד ("very") or with the phrase
@@ -203,7 +202,7 @@ pairing it either with the word מְאֹד ("very") or with the phrase
 
 .. _adjective-superlative:
 
-Adjectives with strongest meaning
+adjectives with strongest meaning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Biblical Hebrew utilizes different ways to strengthen an adjective to
