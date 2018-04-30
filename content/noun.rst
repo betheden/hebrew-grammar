@@ -23,23 +23,27 @@ or
 :ref:`state_absolute`.
 All nouns are either indefinite or definite (i.e. 
 :ref:`state_determined`).
-The dictionary form is singular absolute. Nouns can also have a variety
+Nouns are listed in a dictionary by their singular absolute form. Nouns can also have a variety
 of prefixes and
-:ref:`suffix`
+:ref:`suffix`es
 that give extra information.
 
-The form of the noun often, but not always, indicates its gender, which
+The form of the noun usually indicates its gender, which
 can be
 :ref:`gender_masculine`
 or
-:ref:`gender_feminine`.
+:ref:`gender_feminine`.  
+However, sometimes the gender of a noun does not match its form.
 
-Sometimes an adjective
-:ref:`adjective-substantive`
-or a participle
-(:ref:`participle_active`, :ref:`participle_passive`)
-can function like a noun.
-
-In Hebrew, nouns do not change their form based on the function (or
+In Biblical Hebrew, nouns do not change their form based on the function (or
 case) they have in a sentence (subject/nominative, direct
 object/accusative, etc.). They only change if they are in :ref:`state_construct`.
+
+Sometimes an adjective
+:ref:`adjective-substantive`. Also, sometimes a 
+:ref:`participle_active`, 
+of a
+:ref:`participle_passive`)
+functions as a noun.
+
+

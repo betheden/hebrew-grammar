@@ -65,7 +65,7 @@ complement or a finite verb.
 The active participle can function in a sentence in any of the following
 ways:
 
-Functions as a verbal complement
+functions as a verbal complement
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When functioning as a verbal complement, the participle is governed by
@@ -103,7 +103,7 @@ contrast to the normal conventions of :ref:`word_order`.
   and-I-was **fasting and-praying** before God-of the-heavens
   I **was fasting and praying** before the God of heaven.
 
-Functions as a :ref:`verb-finite-verbs`
+functions as a :ref:`verb-finite-verbs`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When functioning as a verb, the participle is governed by the context
@@ -137,8 +137,8 @@ determined by the context.
   Behold I **am-doing** thing in-Israel
   "See, I **am about to do** something in Israel"
 
-Functions as a verbal :ref:`adjective`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+functions as a :ref:`adjective`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When functioning as an adjective, a participle follows the noun in the
 attributive position and matches the noun in gender, number, and
@@ -164,8 +164,8 @@ introduce a clause that functions as an adjective.
   "The earth produced vegetation, plants **producing** seed after their
      kind"
 
-Functions as a Verbal :ref:`noun`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+functions as a :ref:`noun`
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When functioning as a noun, a participle will often take the
 :ref:`particle_definite_article`

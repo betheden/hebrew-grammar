@@ -63,10 +63,10 @@ if the subject is not identified; this is because the form of the verb
 itself includes the subject. A :ref:`suffix_pronominal`
 attached to a verb can function as its object.
 
-.. _verb-finite-verbs:
+.. _verb-finite-verb:
 
-Finite verbs
-^^^^^^^^^^^^
+finite verb
+^^^^^^^^^^^
 
 Finite verbs are verbs that have a subject and do not require any verbal
 complement to form a complete sentence. Their form shows tense (:ref:`verb_perfect`,
@@ -76,10 +76,10 @@ etc.), as well as person and number. Biblical Hebrew has 7 finite verb
 forms – Perfect, Imperfect, Sequential perfect, Sequential Imperfect, Imperative, Jussive, and
 Cohortative.
 
-.. _verb-non-finite-verbs:
+.. _verb-non-finite-verb:
 
-Non-finite verbs
-^^^^^^^^^^^^^^^^
+non-finite verb
+^^^^^^^^^^^^^^^
 
 Properly speaking, non-finite verbs are verbal complements that require
 a finite verb to form a complete sentence. Biblical Hebrew has three
@@ -101,12 +101,12 @@ Types of verbs
 
 Grammarians often distinguish between different types of verbs. When
 considering the best way to translate a sentence, it is helpful to
-understand whether a verb is describing an action or a state of being.
+understand what kind of verb is being used in any given instance.
 
-.. _verb-dynamic-or-action-verbs:
+.. _verb-dynamic:
 
-Dynamic (or Action) verbs
-~~~~~~~~~~~~~~~~~~~~~~~~~
+dynamic (or action)
+~~~~~~~~~~~~~~~~~~~
 
 Dynamic verbs describe a subject performing an action. The subject is
 *doing* something.
@@ -125,10 +125,10 @@ Dynamic verbs describe a subject performing an action. The subject is
   And-Yahweh **cast** wind-great on-the-sea
   But Yahweh **sent** out a great wind on the sea
 
-.. _verb-stative-or-non-action-verbs:
+.. _verb-stative:
 
-Stative (or Non-action) verbs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+stative (or non-action)
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Rather than describing a specific action, stative verbs describe the
 subject's state of being (the way the subject is). The subject is *not*
@@ -148,10 +148,10 @@ doing anything.
   **And-we-were** in-our-eyes like-grashoppers
   In our own sight **we were** like grasshoppers
 
-.. _verb-transitive-verbs:
+.. _verb-transitive:
 
-Transitive Verbs
-~~~~~~~~~~~~~~~~
+transitive
+~~~~~~~~~~
 
 A transitive verb is an action verb which requires an object that
 receives the verbal action. A sentence with a transitive verb is not
@@ -177,10 +177,10 @@ You must keep...\ *what?*, for example:
   **keep** my-words
   **keep** my words
 
-.. _verb-intransitive-verbs:
+.. _verb-intransitive:
 
-Intransitive Verbs
-~~~~~~~~~~~~~~~~~~
+intransitive
+~~~~~~~~~~~~
 
 An intransitive verb is a verb that does NOT require an object to
 receive the verbal action. A sentence with an intransitive verb is
@@ -203,8 +203,8 @@ intransitive, but stative verbs are always intransitive.
 
 .. _verb-linking-verbs:
 
-Linking verbs
-~~~~~~~~~~~~~
+linking
+~~~~~~~
 
 Linking verbs are verbs that link two
 :ref:`noun`,
@@ -227,14 +227,16 @@ supplied in English.
   like-all\_the-good in-your-eyes.
   whatever **seems** good to you.
 
-Helping verbs
-~~~~~~~~~~~~~
+.. _verb-helping-verb:
 
-Hebrew does not use helping verbs, but English does. Often, it is
+helping
+~~~~~~~
+
+Biblical Hebrew does not use helping verbs, but English does. Often, it is
 necessary to supply a helping verb in English to express the meaning of
 a Hebrew verb.
 
-Helping verbs in questions and negations
+helping verbs in questions and negations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The following example in English adds the helping verb "have"
@@ -257,7 +259,7 @@ The following example in English adds the helping verb "did"
   and-not\_they-stopped them
   and they **did** not stop them
 
-Helping verbs to express possibility or desirability
+helping verbs to express possibility or desirability
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 English uses helping verbs to express varying degrees of possiblity or
