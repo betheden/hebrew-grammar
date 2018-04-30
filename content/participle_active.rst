@@ -8,7 +8,7 @@ Participle Active
 Summary
 -------
 
-In Biblical Hebrew, a participle is a 
+A participle is a 
 :ref:`verb-non-finite` 
 verbal form that can function as a
 :ref:`verb` 
@@ -68,10 +68,11 @@ function independently as their own grammatical entity, but they often
 introduce entire clauses that function either as adjectives or nouns.
 When used verbally, the active participle is closely related in meaning
 to the 
-:ref:`verb-imperfect` 
-verb; they are both often used to describe continuous or repeating action and can function as either a verbal
-complement or a 
-:ref:`finite` 
+:ref:`verb_imperfect` 
+verb; they are both often used to describe continuous or repeating action and can function as either a
+:ref:`verb-non-finite`
+verbal complement or a 
+:ref:`verb-finite` 
 verb.
 
 functions as a :ref:`verb-non-finite` verbal complement
@@ -80,9 +81,12 @@ functions as a :ref:`verb-non-finite` verbal complement
 When functioning as a verbal complement, the participle is governed by
 the main verb of the sentence and has potential to be translated as past
 time, present time, or future time. A verbal participle can express
-imminent, continuous, habitual, or even stative action as determined by the
-context. The subject of a verbal participle usually precedes the participle, in
-contrast to the normal conventions of :ref:`word_order`.
+continuous, imminent, habitual, or even stative action as determined by the
+context.
+
+.. note:: The subject of a verbal participle usually
+          precedes the participle, in contrast to the normal conventions of
+          :ref:`word_order`.
 
 .. csv-table:: Example: HOS 2:10 –– expressing stative action
 
@@ -118,11 +122,10 @@ functions as a :ref:`verb-finite` main verb
 When functioning as a main verb, the participle is governed by the context
 and has the potential to be translated as past time, present time,
 future time, or even without a specified timeframe. A verbal participle
-can express imminent, continuous, habitual, or even stative action as
-determined by the context. The subject of a verbal participle usually precedes the participle, in
-contrast to the normal conventions of :ref:`word_order`.
+can express continuous, imminent, habitual, or even stative action as
+determined by the context.
 
-.. note:: The subject of a participle usually
+.. note:: The subject of a verbal participle usually
           precedes the participle, in contrast to the normal conventions of
           :ref:`word_order`.
 
@@ -150,11 +153,9 @@ contrast to the normal conventions of :ref:`word_order`.
 functions as an :ref:`adjective`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When functioning as an adjective, a participle follows the noun in the
-attributive position and matches the noun in gender, number, and
-:ref:`state_determined`.
+When functioning as an adjective, a participle immediately follows the noun it describes, and matches that noun in gender, number, and definiteness.
 The participle can either function as an adjective by itself or
-introduce a clause that functions as an adjective.
+introduce an entire clause that functions as an adjective.
 
 .. csv-table:: Example: DEU 4:24 –– a participle functioning by itself as an adjective
 
@@ -180,7 +181,12 @@ functions as a :ref:`noun`
 When functioning as a noun, a participle will often take the
 :ref:`particle_definite_article`
 (but not always). The participle can either function as a noun by itself
-or introduce a relative clause that functions as a noun.
+or introduce an entire clause that functions as a noun.  A participle will appear in the
+:ref:`state_construct`
+either when it takes a 
+:ref:`suffix`
+or when it is in a construct relationship with another noun in the
+:ref:`state_absolute`.
 
 .. csv-table:: Example: GEN 1:30 –– a participle functioning by itself as a noun
 
