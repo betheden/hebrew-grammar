@@ -16,10 +16,7 @@ verbal form that can function as a
 :ref:`adjective`, 
 or a 
 :ref:`noun`. 
-The passive participle most often functions as an
-:ref:`adjective-attributive`:``attributive adjective`` 
-or 
-:ref:`adjective-predicative`:``predicate adjective``.
+The passive participle most often functions as an attributive adjective or a predicate adjective.
 
 Article
 -------
