@@ -65,8 +65,8 @@ Function
 
 .. _adjective-attributive:
 
-Describes a noun
-~~~~~~~~~~~
+describes a noun
+~~~~~~~~~~~~~~~~
 
 The most common use of adjectives in Biblical Hebrew is to describe a noun.  There are two kinds of adjective that function in this way, attributive adjectves and predicative adjectives. In almost all
 instances, an attributive adjective immediately follows the noun that it
@@ -97,9 +97,9 @@ the adjective is also definite; and so on.
 
 .. _adjective-predicative:
 
-Predicative adjectives are adjectives that describe nouns using
-:ref:`verb-linking-verbs`.
-Often the linking verb is not present in the Hebrew text and must be
+Predicative adjectives are adjectives that describe nouns using a
+:ref:`verb-linking`
+verb. Often the linking verb is not present in the Hebrew text and must be
 supplied when translating into English. Like attributive adjectives, a predicative adjective usually has the same form as the noun it
 describes in both gender (masculine/feminine) and number
 (singular/plural). Unlike attributive adjectives, however, a predicative
