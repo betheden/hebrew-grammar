@@ -74,17 +74,14 @@ complement or a
 :ref:`finite` 
 verb.
 
-The active participle can function in a sentence in any of the following
-ways:
-
-functions as a verbal complement
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+functions as a :ref:`verb-non-finite` verbal complement
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When functioning as a verbal complement, the participle is governed by
 the main verb of the sentence and has potential to be translated as past
 time, present time, or future time. A verbal participle can express
-stative, frequentive, durative, or imminent action as determined by the
-context. The subject of a participle usually precedes the participle, in
+imminent, continuous, habitual, or even stative action as determined by the
+context. The subject of a verbal participle usually precedes the participle, in
 contrast to the normal conventions of :ref:`word_order`.
 
 .. csv-table:: Example: HOS 2:10 –– expressing stative action
@@ -115,14 +112,15 @@ contrast to the normal conventions of :ref:`word_order`.
   and-I-was **fasting and-praying** before God-of the-heavens
   I **was fasting and praying** before the God of heaven.
 
-functions as a :ref:`verb-finite-verbs`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+functions as a :ref:`verb-finite` main verb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When functioning as a verb, the participle is governed by the context
+When functioning as a main verb, the participle is governed by the context
 and has the potential to be translated as past time, present time,
 future time, or even without a specified timeframe. A verbal participle
-can express stative, frequentive, durative, or imminent action as
-determined by the context.
+can express imminent, continuous, habitual, or even stative action as
+determined by the context. The subject of a verbal participle usually precedes the participle, in
+contrast to the normal conventions of :ref:`word_order`.
 
 .. note:: The subject of a participle usually
           precedes the participle, in contrast to the normal conventions of
@@ -149,8 +147,8 @@ determined by the context.
   Behold I **am-doing** thing in-Israel
   "See, I **am about to do** something in Israel"
 
-functions as a :ref:`adjective`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+functions as an :ref:`adjective`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When functioning as an adjective, a participle follows the noun in the
 attributive position and matches the noun in gender, number, and
