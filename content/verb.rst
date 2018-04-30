@@ -65,8 +65,8 @@ attached to a verb can function as its object.
 
 .. _verb-finite:
 
-finite verb
-^^^^^^^^^^^
+finite
+^^^^^^
 
 Finite verbs are verbs that have a subject and do not require any verbal
 complement to form a complete sentence. Their form shows tense (:ref:`verb_perfect`,

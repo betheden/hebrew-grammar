@@ -8,10 +8,15 @@ Participle Active
 Summary
 -------
 
-In Biblical Hebrew, a participle is a non-finite verbal form that can function as a
-verb (or verbal complement), an adjective, or a noun. When used as a
-verb, an active participle most often expresses continuous or imminent
-action.
+In Biblical Hebrew, a participle is a 
+:ref:`verb-non-finite` 
+verbal form that can function as a
+:ref:`verb` 
+(or verbal complement), an 
+:ref:`adjective`, 
+or a 
+:ref:`noun`. 
+When used verbally, an active participle most often expresses continuous or imminent action.
 
 Article
 -------
@@ -54,13 +59,20 @@ Function
 In Biblical Hebrew, it is helpful to classify participles according to
 their function in the sentence as a whole: as a
 :ref:`verb`
-(or verbal complement); as an adjective; or as a noun. Participles can
+(or verbal complement); as an 
+:ref:`adjective`; 
+or as a 
+:ref:`noun`. 
+Participles can
 function independently as their own grammatical entity, but they often
 introduce entire clauses that function either as adjectives or nouns.
 When used verbally, the active participle is closely related in meaning
-to the Imperfect verb; they are both often used to describe
-frequentive or durative action and can function as either a verbal
-complement or a finite verb.
+to the 
+:ref:`verb-imperfect` 
+verb; they are both often used to describe continuous or repeating action and can function as either a verbal
+complement or a 
+:ref:`finite` 
+verb.
 
 The active participle can function in a sentence in any of the following
 ways:
