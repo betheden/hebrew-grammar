@@ -8,8 +8,10 @@ Conjunction
 Summary
 -------
 
-Conjunctions connect words, phrases, sentences, or paragraphs. Common conjunctions are
-"and," "or," "but," and "for."
+Conjunctions connect words, phrases, sentences, or paragraphs. The most common conjunctions in English are
+"and," "or," "but," and "for."  Some 
+:ref:`particle`\s
+in Biblical Hebrew are closely related to conjunctions.
 
 Article
 -------

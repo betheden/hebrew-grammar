@@ -10,7 +10,10 @@ Summary
 
 Particles are auxiliary words that do not fit into any strict
 grammatical categorization. They often mark grammatical structures
-and/or show how other words within a sentence are related to each other.
+and/or show how other words within a sentence are related to each other.  Many particles in Biblical Hebrew are closely related to
+:ref:`adverb`\s 
+or
+:ref:`conjunction`\s.
 
 Article
 -------

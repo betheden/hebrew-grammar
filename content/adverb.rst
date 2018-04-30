@@ -9,14 +9,15 @@ Summary
 -------
 
 An adverb is a word that describes the verb, or sometimes describes the
-sentence as a whole. Some particles in Biblical Hebrew are closely related to
-adverbs.
+sentence as a whole. Some 
+:ref:`particle`\s 
+in Biblical Hebrew are closely related to adverbs.
 
 Article
 -------
 
 Biblical Hebrew does not contain many words that are classified directly
-as adverbs. However, many different kinds of words have potential to
+as adverbs. However, many different kinds of words can
 function as adverbs, including an
 :ref:`infinitive_absolute`, an
 :ref:`adjective`,
@@ -30,7 +31,7 @@ of time or an adverb of place, etc.
 Many particles are closely related to adverbs in Biblical Hebrew. A
 general rule is that when a particle occurs after the verb, it functions
 as an adverb; but when a particle appears before the verb, then it
-functions in some other way (usually as a conjunction or discourse particle). But
+functions in some other way (usually as a conjunction or a discourse particle). But
 this rule is not universal; both adverbs and adverbial particles
 sometimes appear before the verb rather than after the verb, as in the
 example below (GEN 32:11).
