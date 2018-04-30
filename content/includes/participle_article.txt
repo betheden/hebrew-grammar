@@ -1,9 +1,15 @@
-Participles in Biblical Hebrew are :ref:`verb-non-finite` verbal forms that can change form based on :ref:`stem`
+Participles in Biblical Hebrew are 
+:ref:`verb-non-finite`
+verbal forms that can change form based on 
+:ref:`stem`
 formation (like verbs) as well as person, gender, state, and definiteness (like both 
 :ref:`adjective`\s and :ref:`noun`\s).
 Participles are very flexible in their grammatical use and can function
-as a verbal complement, a :ref:`verb-finite` verb, an :ref:`adjective`,
-or a :ref:`noun`.  In most cases, the context will clearly show how the 
+as a verbal complement, a 
+:ref:`verb-finite`
+verb, an :ref:`adjective`,
+or a :ref:`noun`.  
+In most cases, the context will clearly show how the 
 participle is being used in the sentence. The meaning of a participle is 
 usually clear, even in cases where its specific grammatical function cannot 
 be determined precisely.
