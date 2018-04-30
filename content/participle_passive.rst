@@ -16,8 +16,10 @@ verbal form that can function as a
 :ref:`adjective`, 
 or a 
 :ref:`noun`. 
-The passive participle most often functions as an attributive adjective or predicate
-adjective.
+The passive participle most often functions as an
+:ref:`adjective-attributive`:``attributive adjective`` 
+or 
+:ref:`adjective-predicative`:``predicate adjective``.
 
 Article
 -------
@@ -158,6 +160,10 @@ is the normal :ref:`word_order` for finite verbs.
 
 functions as a :ref:`verb-non-finite` verbal complement
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. note:: The subject of a verbal participle usually
+          precedes the participle, in contrast to the normal conventions of
+          :ref:`word_order`.
 
 .. csv-table:: Example: GEN 38:25
 
