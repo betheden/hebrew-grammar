@@ -17,10 +17,12 @@ Every noun also has a number, which can be
 :ref:`number_plural`,
 or
 :ref:`number_dual`.
-It also has a state, which can be
+A noun also has a state, which can be
 :ref:`state_construct`
 or
 :ref:`state_absolute`.
+All nouns are either indefinite or definite (i.e. 
+:ref:`state_determined`).
 The dictionary form is singular absolute. Nouns can also have a variety
 of prefixes and
 :ref:`suffix`
@@ -33,7 +35,7 @@ or
 :ref:`gender_feminine`.
 
 Sometimes an adjective
-(:ref:`adjective-substantive`)
+:ref:`adjective-substantive`
 or a participle
 (:ref:`participle_active`, :ref:`participle_passive`)
 can function like a noun.

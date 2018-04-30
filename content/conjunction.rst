@@ -8,7 +8,7 @@ Conjunction
 Summary
 -------
 
-Conjunctions connect words, clauses, or phrases. Common conjunctions are
+Conjunctions connect words, phrases, sentences, or paragraphs. Common conjunctions are
 "and," "or," "but," and "for."
 
 Article
@@ -17,9 +17,8 @@ Article
 Biblical Hebrew contains only one primary conjunction (the prefix וְ),
 but a whole family of other words also function as conjunctions. A
 conjunction is a word that shows a relationship between two different
-things within a text; these "things" can be individual words or phrases,
-or even entire sentences or paragraphs. In Biblical Hebrew, particles
-are often combined with each other to form compound conjunctions.
+words, phrases, sentences, or even entire paragraphs. In Biblical Hebrew, particles
+and conjunctions are often combined with each other to form compound conjunctions.
 Compound conjunctions should not be considered merely as the sum of the
 components, but rather as a single grammatical entity with its own range
 of meanings which may or may not be different than the individual

@@ -9,7 +9,7 @@ Summary
 -------
 
 An adjective is a word that describes another word in the sentence,
-usually a noun. In Biblical Hebrew, an adjective can sometimes function
+usually a noun. In Biblical Hebrew, sometimes an adjective can function
 as a noun or even as an adverb.
 
 Article
@@ -77,9 +77,9 @@ also singular; if the noun is
 :ref:`state_determined`,
 the adjective is also definite; and so on.
 
-.. note:: When :ref:`adjective_cardinal_number` and
-          :ref:`adjective_ordinal_number` numbers are used as attributive
-          adjectives, they sometimes come *before* the noun they describe
+.. note:: When an :ref:`adjective_cardinal_number` or an
+          :ref:`adjective_ordinal_number` is used as attributive
+          adjectives, sometimes it comes *before* the noun it describes
           instead of *after* the noun.
 
 .. csv-table:: Example: 1SA 18:17
@@ -180,7 +180,7 @@ comparison between two or more items.
   And-the-serpent was **shrewd from-all** beings-of the-field
   Now the serpent was **more shrewd than any other** beast of the field
 
-Adjectives with strengthened meaning
+Adjectives with stronger meaning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In Biblical Hebrew, the meaning of an adjective can be strengthened by
