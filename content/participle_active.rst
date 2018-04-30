@@ -184,7 +184,7 @@ When functioning as a noun, a participle will often take the
 or introduce an entire clause that functions as a noun.  A participle will appear in the
 :ref:`state_construct`
 either when it takes a 
-:ref:`suffix`
+:ref:`suffix_pronominal`
 or when it is in a construct relationship with another noun in the
 :ref:`state_absolute`.
 

@@ -8,9 +8,15 @@ Participle Passive
 Summary
 -------
 
-In Biblical Hebrew, a participle is a non-finite verbal form that can function as a
-verb (or verbal complement), an adjective, or a noun. The passive
-participle most often functions as an attributive adjective or predicate
+A participle is a 
+:ref:`verb-non-finite`
+verbal form that can function as a
+:ref:`verb`
+(or verbal complement), an 
+:ref:`adjective`, 
+or a 
+:ref:`noun`. 
+The passive participle most often functions as an attributive adjective or predicate
 adjective.
 
 Article
@@ -83,18 +89,15 @@ participles are governed either by the main verb of a sentence or by the
 context; thus, they can express action in past time, present time,
 future time, or without any specified timeframe.
 
-A passive participle can function in a sentence in any of the following
-ways:
-
-Functions as a adjective
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+functions as an :ref:`adjective`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This is the most common use of the passive participle in Biblical
-Hebrew. When a passive participle functions as an adjective, it is
-usually either an :ref:`adjective-attributive`
-or a :ref:`adjective-predicative`.
+Hebrew. When a passive participle functions as an adjective, it 
+:ref:`adjective-attributive`
+either as an attributive adjective or a predicate adjective.
 The context must determine whether a passive participle is functioning
-as a predicate adjective or as a finite verb, because both appear the
+as a predicate adjective or as a main verb, because both appear the
 same in many instances (compare EXO 5:16 and 1SA 19:11).
 
 The following example shows a passive participle
@@ -130,11 +133,11 @@ introducing clauses functioning as predicate adjectives.
   "But I am a worm and not a man, a **disgrace** to humanity **and
      despised** by the people."
 
-Functions as a :ref:`verb-finite-verbs`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+functions as a :ref:`verb-finite` main verb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The context must determine whether a passive participle is functioning
-as a finite verb or as a predicate adjective, because both appear the
+as a main verb or as a predicate adjective, because both appear the
 same in many instances (compare 1SA 19:11 and EXO 5:16).
 
 In the following example, the participle is in the first position here, which
@@ -154,8 +157,8 @@ is the normal :ref:`word_order` for finite verbs.
   tomorrow you **being-made-dead**
   tomorrow you **will be killed**
 
-Functions as a verbal complement
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+functions as a :ref:`verb-non-finite` verbal complement
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: GEN 38:25
 
@@ -164,8 +167,8 @@ Functions as a verbal complement
   she **being-brought-out** and-she sent to\_her-father-in-law saying
   "When she **was brought out**, she sent to her father-in-law a message"
 
-Functions as a :ref:`noun`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+functions as a :ref:`noun`
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 8:34
 
