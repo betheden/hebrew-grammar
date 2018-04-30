@@ -63,7 +63,7 @@ if the subject is not identified; this is because the form of the verb
 itself includes the subject. A :ref:`suffix_pronominal`
 attached to a verb can function as its object.
 
-.. _verb-finite-verb:
+.. _verb-finite:
 
 finite verb
 ^^^^^^^^^^^
@@ -76,10 +76,10 @@ etc.), as well as person and number. Biblical Hebrew has 7 finite verb
 forms – Perfect, Imperfect, Sequential perfect, Sequential Imperfect, Imperative, Jussive, and
 Cohortative.
 
-.. _verb-non-finite-verb:
+.. _verb-non-finite:
 
-non-finite verb
-^^^^^^^^^^^^^^^
+non-finite
+^^^^^^^^^^
 
 Properly speaking, non-finite verbs are verbal complements that require
 a finite verb to form a complete sentence. Biblical Hebrew has three
