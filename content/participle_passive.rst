@@ -80,12 +80,11 @@ Form
 Function
 --------
 
-Participles in passive/reflexive voice are often used as an independent
-grammatical entity, although it can introduce relative clauses, like
-active participles. Passive participles are generally more limited in
-meaning than :ref:`participle_active`,
-usually functioning descriptively or expressing stative actions. Passive
-participles are governed either by the main verb of a sentence or by the
+A passive/reflexive participle is often used as an independent
+grammatical entity, although it can introduce entire clauses, like a
+:ref:`participle_active`.
+Passive participles are generally more limited in
+meaning than active participles. Passive participles are governed either by the main verb of a sentence or by the
 context; thus, they can express action in past time, present time,
 future time, or without any specified timeframe.
 
