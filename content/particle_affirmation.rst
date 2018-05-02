@@ -92,6 +92,20 @@ concepts of affirmation or addition.
   "Why do wicked people continue to live, become old, **also** grow
      mighty in power?"
 
+.. csv-table:: Example: GEN 44:16
+
+  גַּם־אֲנַ֕חְנוּ **גַּ֛ם** אֲשֶׁר־נִמְצָ֥א הַגָּבִ֖יעַ בְּיָדֽוֹ׃
+  **gam**-'anahnu **gam** 'asher-nimtsa haggavia' beyado
+  **both**\ \_we **and** who it-was-found the-cup in-his-hand
+  **both** we **and** the one in whose sack the cup was found.
+
+.. csv-table:: Example: GEN 3:6 –– here the word גַּם is left untranslated
+
+  וַתִּתֵּ֧ן **גַּם**\ ־לְאִישָׁ֛הּ עִמָּ֖הּ וַיֹּאכַֽל׃
+  wattitten **gam**-le'ishah 'immah wayyokhal
+  And-she-gave **also** to-her-husband with-her and-he-ate.
+  "Then she gave some to her husband, and he ate it."
+
 כִּי
 ----
 
