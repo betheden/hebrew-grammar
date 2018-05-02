@@ -119,8 +119,7 @@ Adverbs of manner
   even brave soldiers will cry **loudly**.
 
 
-Because there are not many direct adverbs in Biblical Hebrew, other
-kinds of words often function as adverbs.
+.. note:: Because there are not many direct adverbs in Biblical Hebrew, other kinds of words often function as adverbs.
 
 Particles functioning as adverbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
