@@ -153,7 +153,7 @@ In Biblical Hebrew, sometimes an adverb functions as a noun rather than function
   יִשָּׁבַ֖ע בֵּאלֹהֵ֣י אָמֵ֑ן
   
   he-will-swear by-God-of **Amen**
-  Whoever ... will swear by me, the God of **truth**
+  "Whoever ... will swear by me, the God of **truth**"
 
 .. note:: Because there are not many direct adverbs in Biblical Hebrew, other kinds of words often function as adverbs.
 
