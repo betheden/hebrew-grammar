@@ -13,6 +13,10 @@ word that functions as a noun) to another word/concept in the sentence.
 In Biblical Hebrew, prepositions can also be used with an infinitive
 construct verb to show its relationship to the main verb of a sentence.
 
+.. note:: When a word contains both a prefixed preposition and a prefixed 
+:ref:particle:`particle_definite_article`, 
+the ה consonant of the definite article disappears and the shewa under the preposition lengthens, usually either to a pathah vowel or a qamets vowel.
+
 Article
 -------
 
@@ -55,57 +59,6 @@ Form
   noun + definite article only,הַנָּהָר,hannahar,the river
   noun + preposition + definite article,בַּנָּהָר,bannahar,in the river
 
-Examples
---------
-
-בְּ preposition without definite article.
-
-.. csv-table:: Example: GEN 1:1
-
-  בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
-  **bereshith** bara 'elohim
-  **In-beginning** he-created God
-  "**In the beginning,** God created"
-
-בְּ preposition with definite article (shewa lengthens to pathah vowel).
-
-.. csv-table:: ISA 5:11
-
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
-
-לְ preposition with definite article (shewa lengthens to qamets vowel).
-
-.. csv-table:: GEN 1:5
-
-  וַיִּקְרָ֨א אֱלֹהִ֤ים׀ **לָאֹור֙** יֹ֔ום
-  wayyiqra 'elohim **la'owr** yowm
-  And-he-called **to-the-light** day
-  "God called **the light** ""day"""
-
-לְ preposition with infinitive construct verb.
-
-.. csv-table:: Example: GEN 1:18
-
-  וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה
-  **welimshol** bayyom uvallaylah
-  **and to rule** in the day and in the night
-  **to rule** over the day and over the night
-
-The following is an example of an independent preposition.
-
-.. csv-table:: Example: GEN 1:2
-
-  וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת **עַל**\ ־פְּנֵ֥י הַמָּֽיִם
-  weruah 'elohim merahefeth **'al**-pene hammayim
-  and-spirit-of God hovering **over**\ \_face-of the-waters
-  The Spirit of God was moving **above** the surface of the waters.
-
---------------
-
-Deleted material:
 
 **Preposition before a noun starting with a normal shewa**
 
@@ -127,7 +80,7 @@ Deleted material:
   noun + definite article only,הָאִישׁ,ha'ish,the man
   noun + preposition + definite article,לָאִישׁ,la'ish,to the man
 
-**Preposition before a noun starting with a composit shewa**
+**Preposition before a noun starting with a composite shewa**
 
 .. csv-table::
 
@@ -136,3 +89,38 @@ Deleted material:
   noun + preposition only,כָּאֳנִיָה,ko'oniyah,like a ship
   noun + definite article only,הָאֳנִיָה,ha'oniyah,the ship
   noun + preposition + definite article,כָּאֳנִיָה,ka'oniyah,like the ship
+
+Examples
+--------
+
+.. csv-table:: GEN 1:1 –– בְּ preposition without definite article.
+
+  בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
+  **bereshith** bara 'elohim
+  **In-beginning** he-created God
+  "**In the beginning,** God created"
+
+.. csv-table:: ISA 5:11 –– בְּ preposition with definite article (shewa lengthens to pathah vowel).
+
+  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
+  howy mashkime **vabboqer**
+  Woe those-rising-early **in-the-morning**
+  Woe to those who rise up early **in the morning**
+
+.. csv-table:: GEN 1:5 –– לְ preposition with definite article (shewa lengthens to qamets vowel).
+
+  וַיִּקְרָ֨א אֱלֹהִ֤ים׀ **לָאֹור֙** יֹ֔ום
+  wayyiqra 'elohim **la'owr** yowm
+  And-he-called **to-the-light** day
+  "God called **the light** ""day"""
+
+
+.. csv-table:: GEN 1:18 –– לְ preposition with infinitive construct verb.
+
+  וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה
+  **welimshol** bayyom uvallaylah
+  **and to rule** in the day and in the night
+  **to rule** over the day and over the night
+
+
+
