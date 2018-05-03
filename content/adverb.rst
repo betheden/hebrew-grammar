@@ -23,10 +23,6 @@ function as adverbs, including an
 :ref:`adjective`,
 or even a
 :ref:`noun`.
-Many adverbs in Biblical Hebrew have the potential to serve multiple
-functions. For example, כֹּה can function as an adverb of place, an
-adverb of time, or an adverb of manner; פֹּה can function as an adverb
-of time or an adverb of place, etc.
 
 Many particles are closely related to adverbs in Biblical Hebrew. A
 general rule is that when a particle occurs after the verb, it functions
@@ -36,8 +32,16 @@ this rule is not universal; sometimes both adverbs and particles
 can appear before the verb rather than after the verb, as in the
 example below (GEN 32:11).
 
-describes place or location
----------------------------
+describes a verb
+----------------
+
+There are several different ways that an adverb can describe a verb. Many adverbs in Biblical Hebrew have the potential to serve multiple
+functions. For example, כֹּה can function as an adverb of place, an
+adverb of time, or an adverb of manner; פֹּה can function as an adverb
+of time or an adverb of place, etc. 
+
+describes a place or location
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 22:5
 
@@ -66,7 +70,7 @@ describes place or location
   There were also porticos **all around** the inner wall
 
 describes time
---------------
+~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 32:11
 
@@ -83,7 +87,7 @@ describes time
   **At that time** people began to call on the name of Yahweh.
 
 describes quantity
-------------------
+~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 31:41
 
@@ -102,7 +106,7 @@ describes quantity
   The angel of Yahweh called to Abraham **a second time** from heaven
 
 describes manner of action
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: JDG 21:14
 
@@ -120,6 +124,8 @@ describes manner of action
 
 describes an entire clause or sentence
 --------------------------------------
+
+Sometimes an adverb describes an entire clause or sentence rather than the individual verb.  When an adverb functions in this way, it is closely related to a conjunction.
 
 .. csv-table:: Example: GEN 9:4 ––  אַךְ as a restrictive adverb
 
@@ -156,6 +162,11 @@ In Biblical Hebrew, sometimes an adverb functions as a noun rather than function
   "Whoever ... will swear by me, the God of **truth**"
 
 .. note:: Because there are not many direct adverbs in Biblical Hebrew, other kinds of words often function as adverbs.
+
+Other words functioning as adverbs
+----------------------------------
+
+Because Biblical Hebrew does not contain many adverbs, sometimes other kinds of words can function as adverbs.
 
 Particles functioning as adverbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
