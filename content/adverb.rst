@@ -13,6 +13,8 @@ sentence as a whole. Some
 :ref:`particle`\s 
 in Biblical Hebrew are closely related to adverbs.
 
+.. note:: Because there are not many direct adverbs in Biblical Hebrew, other kinds of words often function as adverbs.
+
 Article
 -------
 
@@ -161,15 +163,13 @@ In Biblical Hebrew, sometimes an adverb functions as a noun rather than function
   he-will-swear by-God-of **Amen**
   "Whoever ... will swear by me, the God of **truth**"
 
-.. note:: Because there are not many direct adverbs in Biblical Hebrew, other kinds of words often function as adverbs.
-
 Other words functioning as adverbs
 ----------------------------------
 
 Because Biblical Hebrew does not contain many adverbs, sometimes other kinds of words can function as adverbs.
 
-Particles functioning as adverbs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`particle`\s functioning as adverbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 3:22
 
@@ -187,7 +187,7 @@ Particles functioning as adverbs
   "every inclination of the thoughts of their hearts was **only** evil
      continually"
 
-Infinitives (absolute state) functioning as adverbs
+:ref:`infinitive_absolute`\s functioning as adverbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 2:16
@@ -208,8 +208,8 @@ Infinitives (absolute state) functioning as adverbs
   "I will fulfill against Eli everything that I have spoken concerning
      his house, **from beginning to end**."
 
-Adjectives functioning as adverbs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`adjective`\s functioning as adverbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: JOS 21:10
 
@@ -225,8 +225,8 @@ Adjectives functioning as adverbs
   And-he-said Esau 'There-is\_for-me **enough** my-brother'
   "Esau said, ""I have **enough**, my brother."""
 
-Nouns functioning as adverbs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`noun`\s functioning as adverbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: 1SA 12:11
 
