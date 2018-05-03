@@ -14,7 +14,7 @@ In Biblical Hebrew, prepositions can also be used with an infinitive
 construct verb to show its relationship to the main verb of a sentence.
 
 .. note:: When a word contains both a prefixed preposition and a prefixed 
-:ref:particle:`particle_definite_article`, 
+:ref:`particle_definite_article`, 
 the ה consonant of the definite article disappears and the shewa under the preposition lengthens, usually either to a pathah vowel or a qamets vowel.
 
 Article
