@@ -19,6 +19,7 @@ The concept of definiteness in Biblical Hebrew is a way of referring to a person
 In Biblical Hebrew, the "determined state" is simply another way of saying that a word is definite instead of indefinite.  
 Unlike the "absolute state" and the "construct state," it does not refer to any specific form of a word.
 
+.. note:: The "determined state" in Biblical Hebrew should not be confused with the "determined state" in Biblical Aramaic.  In Biblical Aramaic, the determined state is an actual linguistic ending.  In Biblical Hebrew, the determined state is simply another way of saying that a term is definite instead of indefinite.  
 
 Article
 -------
@@ -157,6 +158,9 @@ or by connecting it to a definite term in a construct relationship.
 Construction with definite noun
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+In the example below, "the heavens and the earth" are made definite by
+the definite article, and "account" or "events" is therefore also definite.
+
 .. csv-table:: Example: GEN 2:4
 
   אֵ֣לֶּה **תֹולְדֹ֧ות** הַשָּׁמַ֛יִם וְהָאָ֖רֶץ בְּהִבָּֽרְאָ֑ם
@@ -165,8 +169,8 @@ Construction with definite noun
   "These were **the events** concerning the heavens and the earth, when
      they were created"
 
-In the above example, "the heavens and the earth" are made definite by
-the definite article, and "account" or "events" is therefore also definite.
+In the above example, "Egypt" is an intrinsically definite word and
+"land" is therefore also definite.
 
 .. csv-table:: Example: DEU 10:19
 
@@ -175,29 +179,9 @@ the definite article, and "account" or "events" is therefore also definite.
   for\_foreigners you-were **in-land-of** Egypt.
   for you were foreigners **in the land** of Egypt.
 
-In the above example, "Egypt" is an intrinsically definite word and
-"land" is therefore also definite.
 
 Function of definiteness
 ------------------------
-
-Poetry
-^^^^^^
-
-In poetry definite words often do not have the
-:ref:`particle_definite_article`.
-
-.. csv-table:: Example: PSA 2:2
-
-  יִ֥תְיַצְּב֨וּ׀ מַלְכֵי־אֶ֗רֶץ
-  yithyatsevu malkhe-\ **'erets**
-  They-take-their-stand kings-of\_\ **earth**
-  The kings of **the earth** take their stand
-
-   In "normal" narrative texts the Hebrew would probably read
-   יִ֥תְיַצְּב֨וּ׀ מַלְכֵי הָאָ֖רֶץ
-
---------------
 
 .. _state_determined-demonstrative:
 
@@ -416,11 +400,10 @@ is followed by an adjective and both words are definite, the adjective describes
   **the-sufferings the-great** which\_saw your-eyes
   **the great sufferings** that your eyes saw
 
-:ref:`adjective-superlative`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Indicates an :ref:`adjective-superlative`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When two or more items are compared and one of the items is the most
-extreme in one aspect, the definite article plays a part.
+When attached to an adjective, the definite article can indicate that the adjective has the strongest possible meaning.
 
 .. csv-table:: Example: 1SA 16:11
 
@@ -481,7 +464,7 @@ With :ref:`participle_passive`
      from-their-place"
   **The soldiers hiding in ambush** quickly rushed out of their place
 
-With :ref:`verb-finite-verbs`
+With :ref:`verb-finite-verb`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 10:24
@@ -490,3 +473,19 @@ With :ref:`verb-finite-verbs`
   **heholkhu** 'itto
   **the-walked** with-him
   **who had gone** with him
+  
+Definiteness in poetry
+----------------------
+
+In poetry definite words often do not have the
+:ref:`particle_definite_article`.
+
+.. csv-table:: Example: PSA 2:2
+
+  יִ֥תְיַצְּב֨וּ׀ מַלְכֵי־אֶ֗רֶץ
+  yithyatsevu malkhe-\ **'erets**
+  They-take-their-stand kings-of\_\ **earth**
+  The kings of **the earth** take their stand
+
+   In "normal" narrative texts the Hebrew would probably read
+   יִ֥תְיַצְּב֨וּ׀ מַלְכֵי הָאָ֖רֶץ
