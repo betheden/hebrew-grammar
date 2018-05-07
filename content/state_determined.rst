@@ -2,8 +2,8 @@
 
 .. _state_determined:
 
-State Determined (or "definiteness") 
-====================================
+Definiteness 
+============
 
 Summary
 -------
@@ -27,16 +27,10 @@ or
 :ref:`Suffix_Pronominal`, 
 or by being connected to a definite noun in a construct relationship.
 
-Function of definiteness
-------------------------
+Definiteness in Biblical Hebrew serves both a semantic and pragmatic function.  As a general summary, these functions include: 1) to designate a specific person/thing, or a class of person(s)/thing(s) that are intrinsically definite; 2) to match a noun to its accompanying descriptor (often with adjectives or participles); 3) to introduce a relative clause (often with participles); and/or 4) to indicate a superlative or demonstrative (especially in regard to time) referent.  However, these are only general designations and do not represent a comprehesive list.  The concept of definiteness works differently in various languages; therefore, definite/indefinite referents should always be translated from Biblical Hebrew into other languages with great sensitivity to the context of each individual use and according to the conventions of definiteness in the target language.
 
-Definiteness in Biblical Hebrew serves both a semantic and pragmatic function.  As a general summary, these functions include: 1) to designate a specific person/thing, or a class of person(s)/thing(s) that are intrinsically definite; 2) to match a noun to its accompanying descriptor (often with adjectives or participles); 3) to introduce a relative clause (often with participles); and/or 4) to indicate a superlative or demonstrative (especially in regard to time) referent.  However, these are only general designations and do not represent a comprehesive list.  The concept of definiteness works different in various languages; therefore, definite/indefinite referents should always be translated from Biblical Hebrew into other languages with great sensitivity to the context of each individual use and according to the conventions of definiteness in the target language.
-
-Recognizing definite nouns
---------------------------
-
-Intrinsically definite
-~~~~~~~~~~~~~~~~~~~~~~
+Intrinsically definite terms
+----------------------------
 
 There are three types of nouns that are intrinsically definite:
 :ref:`noun_proper_name`,
@@ -103,12 +97,12 @@ and :ref:`pronoun_demonstrative`.
   And-he-called **this** to\_\ **this**
   And **each one** called to **another**
 
-Made definite by linguistic marking or grammatical construction
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Terms made definite by linguistic marking or grammatical construction
+---------------------------------------------------------------------
 
-There are three ways to make a term definite: the :ref:`particle_definite_article`,
-the :ref:`suffix_pronominal`,
-and connected with a definite noun in a construct relationship.
+Biblical Hebrew has three ways to make a term definite: by adding the :ref:`particle_definite_article`,
+by adding a :ref:`suffix_pronominal`,
+or by connecting it to a definite term in a construct relationship.
 
 :ref:`particle_definite_article`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -173,6 +167,9 @@ the definite article, and "account" or "events" is therefore also definite.
 
 In the above example, "Egypt" is an intrinsically definite word and
 "land" is therefore also definite.
+
+Function of definiteness
+------------------------
 
 Poetry
 ^^^^^^
