@@ -2,13 +2,23 @@
 
 .. _state_determined:
 
-Definiteness 
+State Determined 
+================
+
+ALSO KNOWN AS
+
+.. _definiteness:
+
+definiteness 
 ============
 
 Summary
 -------
 
-In Biblical Hebrew, the "determined state" is simply another way of saying that a word is definite instead of indefinite.  Unlike the "absolute state" and the "construct state," it does not refer to any specific form of a word.  The concept of definiteness in Biblical Hebrew is a way of referring to a person(s) or thing(s).  Nouns, pronouns, adjectives, and participles can be either definite or indefinite, depending on several factors.
+The concept of definiteness in Biblical Hebrew is a way of referring to a person(s) or thing(s).  Nouns, pronouns, adjectives, and participles can be either definite or indefinite, depending on several factors.  
+In Biblical Hebrew, the "determined state" is simply another way of saying that a word is definite instead of indefinite.  
+Unlike the "absolute state" and the "construct state," it does not refer to any specific form of a word.
+
 
 Article
 -------
