@@ -384,7 +384,7 @@ Matches an :ref:`adjective` to a :ref:`noun`
 In Biblical Hebrew, when a definite
 :ref:`noun_common`
 is followed by a definite adjective, the definiteness of both terms shows that they belong together.  
-In other words, that particular adjective is describing an attribute of that particular noun.
+That particular adjective is describing that particular noun.  
 
 .. csv-table:: Example: JOS 21:45
 
@@ -405,11 +405,10 @@ Introduces a verbal relative clause
 
 When the definite article is used in front of a
 :ref:`verb`,
-it functions very much like a :ref:`particle_relative`.  
-It refers to the person(s) doing the action described by the verb.
+it refers to the person(s) doing the action described by the verb and is translated very much like a :ref:`particle_relative`.
 The definite article is used in this way usually with non-finite verbal forms (infinitives or participles) and only rarely with finite verbs.
 
-With a :ref:`verb-non-finite` verb
+with a :ref:`verb-non-finite` verb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: GEN 12:7
@@ -427,7 +426,7 @@ With a :ref:`verb-non-finite` verb
      from-their-place"
   **The soldiers hiding in ambush** quickly rushed out of their place
 
-With a :ref:`verb-finite` verb
+with a :ref:`verb-finite` verb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 10:24
@@ -440,8 +439,9 @@ With a :ref:`verb-finite` verb
 Definiteness in poetry
 ----------------------
 
-In poetry definite words often do not have the
-:ref:`particle_definite_article`.
+The :ref:`particle_definite_article` is used very rarely in Hebrew poetry.  
+In poetry, therefore, definite terms and indefinite terms often look exactly alike
+and must be recognized based on other indicators or discerned simply from the context. 
 
 .. csv-table:: Example: PSA 2:2
 

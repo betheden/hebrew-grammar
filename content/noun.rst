@@ -8,32 +8,31 @@ Noun
 Summary
 -------
 
-A noun is a person, a thing, a place, or an idea.
+A noun is a word that refers to a person, a thing, a place, or an idea.
 
 Article
 -------
 
-Every noun also has a number, which can be
+In Biblical Hebrew, all nouns contain number, gender, state, and :ref:`definiteness`.
+By number, a noun can be 
+:ref:`number_singular`,
 :ref:`number_plural`,
 or
 :ref:`number_dual`.
-A noun also has a state, which can be
-:ref:`state_construct`
-or
-:ref:`state_absolute`.
-All nouns are either indefinite or definite (i.e. 
-:ref:`state_determined`).
-Nouns are listed in a dictionary by their singular absolute form. Nouns can also have a variety
-of prefixes or
-:ref:`suffix`\es
-that give extra information.
-
-The form of the noun usually indicates its gender, which
+By gender, a noun can be either
 can be
 :ref:`gender_masculine`
 or
-:ref:`gender_feminine`.  
-However, sometimes the gender of a noun does not match its form.
+:ref:`gender_feminine`.
+By state, a noun can be in the
+:ref:`state_construct`
+or in the
+:ref:`state_absolute`.
+Nouns are listed in a dictionary by their singular absolute form. Also, a variety of prefixes and/or
+:ref:`suffix`\es
+can be attached to nouns that give extra information.
+
+.. note:: Sometimes the actual classification of a noun does not match its form. For example, a noun can appear dual when it is actually plural; a noun can appear masculine when it is actually feminine; and so on.
 
 In Biblical Hebrew, it is very common for words to change their function within a sentence.  For example, sometimes an adjective
 :ref:`adjective-substantive`. Sometimes a 

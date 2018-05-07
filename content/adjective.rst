@@ -70,11 +70,9 @@ describes a noun
 
 The most common use of adjectives in Biblical Hebrew is to describe a noun.  There are two kinds of adjective that function in this way, attributive adjectves and predicative adjectives. In almost all
 instances, an attributive adjective immediately follows the noun that it
-describes and has the same form. Thus, if the noun is masculine, the
-adjective is also masculine; if the noun is singular, the adjective is
-also singular; if the noun is
-:ref:`state_determined`,
-the adjective is also definite; and so on.
+describes and has the same form in gender, number, and :ref:`definiteness`. 
+Thus, if the noun is masculine, the adjective is also masculine. If the noun is singular, the adjective is
+also singular. If the noun is definite, the adjective is also definite; and so on.
 
 .. note:: When an :ref:`adjective_cardinal_number` or an
           :ref:`adjective_ordinal_number` is used as attributive
@@ -106,7 +104,7 @@ describes in both gender (masculine/feminine) and number
 adjective can be indefinite even if it describes a definite noun.
 
 .. note:: Sometimes, predicative adjectives and attributive adjectives look
-          identical and must be distinguished based only on the context.
+          identical and must be distinguished simply from the context.
 
 .. csv-table:: Example: 2SA 14:20
 
