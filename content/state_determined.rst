@@ -10,7 +10,7 @@ ALSO KNOWN AS
 .. _definiteness:
 
 definiteness 
-============
+------------
 
 Summary
 -------
