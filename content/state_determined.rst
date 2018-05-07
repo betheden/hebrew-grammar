@@ -169,7 +169,7 @@ the definite article, and "account" or "events" is therefore also definite.
   "These were **the events** concerning the heavens and the earth, when
      they were created"
 
-In the above example, "Egypt" is an intrinsically definite word and
+In the example below, "Egypt" is an intrinsically definite word and
 "land" is therefore also definite.
 
 .. csv-table:: Example: DEU 10:19
@@ -185,56 +185,40 @@ Function of definiteness
 
 .. _state_determined-demonstrative:
 
-Demonstrative
-^^^^^^^^^^^^^
+refers to a specific person, thing, or idea
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In these instances the definite article has the same function as a
-:ref:`pronoun_demonstrative`.
-
-.. csv-table:: Example: GEN 19:14 - the night = this night = tonight
+.. csv-table:: Example: GEN 19:14 -– "the night" = tonight
 
   אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר־בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה
   'ayyeh ha'anashim 'asher-ba'u 'eleykha **hallaylah**
   Where the-men who\_came-in to-you **the-night**
   Where are the men that came in to you **tonight**?
 
-.. csv-table:: Example: 1SA 18:21 - the day = this day = today
+.. csv-table:: Example: 1SA 18:21 -– "the day" = today
 
   תִּתְחַתֵּ֥ן בִּ֖י **הַיֹּֽום**\ ׃
   tithhatten bi **hayyowm**
   You-will-become-son-in-law to-me **the day**.
   **Today** you will be my son-in-law.
 
-Possessive
-^^^^^^^^^^
+Sometimes a definite adjective can indicate a specific member of a group.
 
-In this case the definite article has the same function as a :ref:`suffix_pronominal`.
-The person or group to whom the object or objects belong is always
-mentioned in the immediate context.
+.. csv-table:: Example: 1SA 16:11
 
-.. csv-table:: Example: JDG 4:15
+  עֹ֚וד שָׁאַ֣ר **הַקָּטָ֔ן** וְהִנֵּ֥ה רֹעֶ֖ה בַּצֹּ֑אן
+  'owd sha'ar **haqqatan** wehinneh ro'eh batson
+  Still remains **the-youngest** and-see tending to-the-sheep.
+  "There remains yet **the youngest**, but he is tending the sheep."
 
-  "וַיָּ֣הָם יְ֠הוָה אֶת־סִֽיסְרָ֨א וְאֶת־כָּל־הָרֶ֧כֶב
-     וְאֶת־כָּל־הַֽמַּחֲנֶ֛ה"
-  "wayyahom yehwah 'eth-sisera we'eth-kol-harekhev
-     we'eth-kol-\ **hammahaneh**"
-  "And-he-confused Yahweh [dir.obj]\_Sisera
-     and-[dir.obj]\_all\_the-chariots and-[dir.obj]\_all\_\ **the-army**."
-  "Yahweh made Sisera's army confused, all his chariots, and all **his
-     army**."
+.. csv-table:: Example: SNG 1:8
 
-.. csv-table:: Example: 1SA 16:23
+  הַיָּפָ֖ה בַּנָּשִׁ֑ים
+  **hayyafah** bannashim
+  **the-fair** among-the-women
+  **the fairest** among women
 
-  וְלָקַ֥ח דָּוִ֛ד אֶת־הַכִּנּ֖וֹר
-  welaqah dawid 'eth-**hakkinnor**
-  and-he-took David [dir.obj]\_**the-harp**
-  David took **his harp**
-
-Already mentioned
-^^^^^^^^^^^^^^^^^
-
-If an item has been mentioned before, it can take the article later as a
-short reference.
+Sometimes a definite term refers to an item that has been mentioned previously in some way, either directly or indirectly.
 
 .. csv-table:: Example: 1KI 3:24
 
@@ -257,8 +241,33 @@ short reference.
   "I said, ""Let them put a clean turban on his head!"" So they set **a
      clean turban** on his head"
 
-Well known fact
-^^^^^^^^^^^^^^^
+.. csv-table:: Example: JDG 4:15
+
+  "וַיָּ֣הָם יְ֠הוָה אֶת־סִֽיסְרָ֨א וְאֶת־כָּל־הָרֶ֧כֶב
+     וְאֶת־כָּל־הַֽמַּחֲנֶ֛ה"
+  "wayyahom yehwah 'eth-sisera we'eth-kol-harekhev
+     we'eth-kol-\ **hammahaneh**"
+  "And-he-confused Yahweh [dir.obj]\_Sisera
+     and-[dir.obj]\_all\_the-chariots and-[dir.obj]\_all\_\ **the-army**."
+  "Yahweh made Sisera's army confused, all his chariots, and all **his
+     army**."
+
+.. csv-table:: Example: 1SA 16:23
+
+  וְלָקַ֥ח דָּוִ֛ד אֶת־הַכִּנּ֖וֹר
+  welaqah dawid 'eth-**hakkinnor**
+  and-he-took David [dir.obj]\_**the-harp**
+  David took **his harp**
+
+Sometimes a definite term refers to an unidentified item with the assumption that the reader already understands the referent, 
+either from the context of the narrative or from simple knowledge of the world.
+
+.. csv-table:: Example: GEN 8:7
+
+  וַיְשַׁלַּ֖ח אֶת־הָֽעֹרֵ֑ב
+  wayshallah 'eth-**ha'orev**
+  He-sent [dir.obj]\_**the-raven**
+  He sent out **a raven**
 
 .. csv-table:: Example: GEN 22:6
 
@@ -271,41 +280,12 @@ Well known fact
   "Then Abraham took the wood for the burnt offering ... he took in his
      own hand **the fire** and **the knife**"
 
-Vocative
-^^^^^^^^
-
-Vocative means that you speak to someone directly. In older English this
-is sometimes done with "oh", in modern English there is no special way
-to mark direct address.
-
-.. csv-table:: Example: 1SA 17:58
-
-  בֶּן־מִ֥י אַתָּ֖ה הַנָּ֑עַר
-  ben-mi 'attah **hanna'ar**
-  Son-of\_whom you **the-young-man**
-  "Whose son are you, **young man**?"
-
-.. csv-table:: Example: 2KI 6:26
-
-  הוֹשִׁ֖יעָה אֲדֹנִ֥י הַמֶּֽלֶךְ
-  hoshi'ah 'adoni **hammelekh**
-  Help my-lord **the-king**
-  "Help, my master, **king**"
-
-Unique objects
-^^^^^^^^^^^^^^
-
-A small number of unique objects in the universe (almost) always receive
-a definite article.
-
 .. csv-table:: Example: 2KI 3:22
 
   וְהַשֶּׁ֖מֶשׁ זָרְחָ֣ה עַל־הַמָּ֑יִם
   **wehashemesh** zorhah 'al-**hammayim**
   **and-the-sun** shone on\_\ **the-water**.
   **and the sun** reflected on **the water**.
-
-   Unique object: "the sun"
 
 .. csv-table:: Example: NEH 9:6
 
@@ -318,13 +298,19 @@ a definite article.
   "You have made **heaven**, **the** highest **heavens**, with all their
      host, and **the earth** and everything on it"
 
-   Unique objects: "the heavens" and "the earth"
+.. csv-table:: Example: 1KI 18:39
 
-Classes
-^^^^^^^
+  יְהוָ֖ה ה֥וּא **הָאֱלֹהִֽים**\ ׃
+  yhwh hu **ha'elohim**
+  Yahweh he **the-God**.
+  "Yahweh, he is **God**!"
 
-Sometimes a person or a group belongs to a class or a type of people, or
-an object is made of a class or a type of material.
+refers to a general class/category of items
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Sometimes a definite term refers to a general class or category instead to referring to a specific item.  
+This can be a general category of people, a general class of objects, a generic type of material, etc.
+Usually the meaning is clear from the context.
 
 People
 ''''''
@@ -351,6 +337,22 @@ People
    :ref:`participle_active`
    (see below).
 
+Sometimes the definite article is used in this way when a person directly addresses another person.
+
+.. csv-table:: Example: 1SA 17:58
+
+  בֶּן־מִ֥י אַתָּ֖ה הַנָּ֑עַר
+  ben-mi 'attah **hanna'ar**
+  Son-of\_whom you **the-young-man**
+  "Whose son are you, **young man**?"
+
+.. csv-table:: Example: 2KI 6:26
+
+  הוֹשִׁ֖יעָה אֲדֹנִ֥י הַמֶּֽלֶךְ
+  hoshi'ah 'adoni **hammelekh**
+  Help my-lord **the-king**
+  "Help, my master, **king**"
+
 Material
 ''''''''
 
@@ -376,15 +378,13 @@ Material
      the things to be made of bronze, iron for the things to be made of
      iron, and wood for the things to be made of wood**."
 
-With :ref:`adjective`
-~~~~~~~~~~~~~~~~~~~~~
+Matches an :ref:`adjective` to a :ref:`noun`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`adjective-attributive`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-When a
+In Biblical Hebrew, when a definite
 :ref:`noun_common`
-is followed by an adjective and both words are definite, the adjective describes an attribute of the noun.
+is followed by a definite adjective, the definiteness of both terms shows that they belong together.  
+In other words, that particular adjective is describing an attribute of that particular noun.
 
 .. csv-table:: Example: JOS 21:45
 
@@ -400,54 +400,17 @@ is followed by an adjective and both words are definite, the adjective describes
   **the-sufferings the-great** which\_saw your-eyes
   **the great sufferings** that your eyes saw
 
-Indicates an :ref:`adjective-superlative`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-When attached to an adjective, the definite article can indicate that the adjective has the strongest possible meaning.
-
-.. csv-table:: Example: 1SA 16:11
-
-  עֹ֚וד שָׁאַ֣ר **הַקָּטָ֔ן** וְהִנֵּ֥ה רֹעֶ֖ה בַּצֹּ֑אן
-  'owd sha'ar **haqqatan** wehinneh ro'eh batson
-  Still remains **the-youngest** and-see tending to-the-sheep.
-  "There remains yet **the youngest**, but he is tending the sheep."
-
-.. csv-table:: Example: SNG 1:8
-
-  הַיָּפָ֖ה בַּנָּשִׁ֑ים
-  **hayyafah** bannashim
-  **the-fair** among-the-women
-  **the fairest** among women
-
-Distinctive
-~~~~~~~~~~~
-
-.. csv-table:: Example: 1KI 18:39
-
-  יְהוָ֖ה ה֥וּא **הָאֱלֹהִֽים**\ ׃
-  yhwh hu **ha'elohim**
-  Yahweh he **the-God**.
-  "Yahweh, he is **God**!"
-
-Generic classes
-~~~~~~~~~~~~~~~
-
-.. csv-table:: Example: GEN 8:7
-
-  וַיְשַׁלַּ֖ח אֶת־הָֽעֹרֵ֑ב
-  wayshallah 'eth-**ha'orev**
-  He-sent [dir.obj]\_**the-raven**
-  He sent out **a raven**
-
-Relative
-~~~~~~~~
+Introduces a verbal relative clause
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When the definite article is used in front of a
 :ref:`verb`,
-it functions like a :ref:`particle_relative`.
+it functions very much like a :ref:`particle_relative`.  
+It refers to the person(s) doing the action described by the verb.
+The definite article is used in this way usually with non-finite verbal forms (infinitives or participles) and only rarely with finite verbs.
 
-With :ref:`participle_passive`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+With a :ref:`verb-non-finite` verb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: GEN 12:7
 
@@ -464,8 +427,8 @@ With :ref:`participle_passive`
      from-their-place"
   **The soldiers hiding in ambush** quickly rushed out of their place
 
-With :ref:`verb-finite-verb`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+With a :ref:`verb-finite` verb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 10:24
 
