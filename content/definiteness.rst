@@ -29,8 +29,7 @@ Definiteness in Biblical Hebrew serves both a semantic and pragmatic function.  
 4) to indicate a :ref:`superlative<adjective-superlative>` or :ref:`demonstrative<pronoun_demonstrative>` (especially in regard to time) referent.  
 However, these are only general designations and do not represent a comprehesive list.  
 
-.. note:: The concept of definiteness works differently in various languages; therefore, definite/indefinite terms should always be translated from Biblical Hebrew into other languages with great sensitivity 
-to the context of each individual use and according to the conventions of definiteness in the target language.
+.. note:: The concept of definiteness works differently in various languages; therefore, definite/indefinite terms should always be translated from Biblical Hebrew into other languages with great sensitivity to the context of each individual use and according to the conventions of definiteness in the target language.
 
 Intrinsically definite terms
 ----------------------------
