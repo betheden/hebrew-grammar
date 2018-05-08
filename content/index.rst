@@ -42,6 +42,7 @@ unfoldingWord Hebrew Grammar
    person_first
    person_second
    person_third
+   preposition
    preposition_definite_article
    pronoun
    pronoun_demonstrative
