@@ -8,38 +8,39 @@ Definiteness
 Summary
 -------
 
-The concept of definiteness in Biblical Hebrew is a way of referring to a person(s) or thing(s).  Nouns, pronouns, adjectives, and participles can be either definite or indefinite, depending on several factors.  
-In Biblical Hebrew, the "determined state" is simply another way of saying that a word is definite instead of indefinite.  
-Unlike the "absolute state" and the "construct state," it does not refer to any specific form of a word.
+The concept of definiteness in Biblical Hebrew is a way of referring to a person(s) or thing(s).  
+Nouns, pronouns, adjectives, and participles can be either definite or indefinite, depending on several factors.  
+
 
 Article
 -------
 
-In Biblical Hebrew, 
-:ref:`noun`\s
-and
-:ref:`pronoun`\s
-either can be definite on the basis of their own intrinsic nature or can be made definite by some linguistic marking or grammatical construction.  Generally speaking,  
-:ref:`adjective`\s
-and participles (both :ref:`participle_active`
-and :ref:`participle_passive`)
-are always intrinsically indefinite, but they can be made definite by an attached 
-:ref:`Particle_Definite_Article`
-or 
-:ref:`Suffix_Pronominal`, 
+In Biblical Hebrew, :ref:`nouns<noun>` and :ref:`pronouns<pronoun>` either can be definite on the basis of their own intrinsic nature
+or can be made definite by some linguistic marking or grammatical construction.  
+Generally speaking, :ref:`adjectives<adjective>` and participles (both :ref:`active<participle_active>`
+and :ref:`passive<participle_passive>`) are always intrinsically indefinite, but they can be made definite by an attached 
+:ref:`definite article<Particle_Definite_Article>` or :ref:`pronominal suffix<Suffix_Pronominal>`, 
 or by being connected to a definite noun in a construct relationship.
 
-Definiteness in Biblical Hebrew serves both a semantic and pragmatic function.  As a general summary, these functions include: 1) to designate a specific person/thing, or a class of person(s)/thing(s) that are intrinsically definite; 2) to match a noun to its accompanying descriptor (often with adjectives or participles); 3) to introduce a relative clause (often with participles); and/or 4) to indicate a superlative or demonstrative (especially in regard to time) referent.  However, these are only general designations and do not represent a comprehesive list.  The concept of definiteness works differently in various languages; therefore, definite/indefinite referents should always be translated from Biblical Hebrew into other languages with great sensitivity to the context of each individual use and according to the conventions of definiteness in the target language.
+Definiteness in Biblical Hebrew serves both a semantic and pragmatic function.  As a general summary, these functions include: 
+1) to designate a specific person/thing, or a class of person(s)/thing(s) that are intrinsically definite; 
+2) to match a noun to its accompanying descriptor (often with adjectives or participles); 
+3) to introduce a relative clause (often with participles); and/or 
+4) to indicate a :ref:`superlative<adjective_superlative>` or :ref:`demonstrative<pronoun_demonstrative>` (especially in regard to time) referent.  
+However, these are only general designations and do not represent a comprehesive list.  
+The concept of definiteness works differently in various languages; therefore, definite/indefinite terms 
+should always be translated from Biblical Hebrew into other languages with great sensitivity 
+to the context of each individual use and according to the conventions of definiteness in the target language.
 
 Intrinsically definite terms
 ----------------------------
 
-There are three types of nouns that are intrinsically definite:
-:ref:`noun_proper_name`,
-:ref:`pronoun_personal`,
-and :ref:`pronoun_demonstrative`.
+There are three types of terms that are intrinsically definite:
+:ref:`proper nouns<noun_proper_name>`,
+:ref:`personal pronouns<pronoun_personal>`,
+and :ref:`demonstrative pronouns<pronoun_demonstrative>`.
 
-:ref:`noun_proper_name`
+:ref:`Proper<noun_proper_name>` Nouns
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 1SA 9:17
@@ -60,7 +61,7 @@ and :ref:`pronoun_demonstrative`.
   "So **Joab** left and went throughout all **Israel**. Then he came
      back to **Jerusalem**."
 
-:ref:`pronoun_personal`
+:ref:`Personal<pronoun_personal>` Pronouns
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JER 12:1
@@ -77,9 +78,7 @@ and :ref:`pronoun_demonstrative`.
   Bless-me also\_\ **me** my-father
   "Bless me, **me** also, my father"
 
-.. _state_determined-demonstrative-pronouns:
-
-:ref:`pronoun_demonstrative`
+:ref:`Demonstrative<pronoun_demonstrative>` Pronouns
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JDG 7:4
@@ -102,11 +101,11 @@ and :ref:`pronoun_demonstrative`.
 Terms made definite by linguistic marking or grammatical construction
 ---------------------------------------------------------------------
 
-Biblical Hebrew has three ways to make a term definite: by adding the :ref:`particle_definite_article`,
-by adding a :ref:`suffix_pronominal`,
+Biblical Hebrew has three ways to make a term definite: by adding the :ref:`definite article<particle_definite_article>`,
+by adding a :ref:`pronominal suffix<suffix_pronominal>`,
 or by connecting it to a definite term in a construct relationship.
 
-:ref:`particle_definite_article`
+:ref:`Definite article<particle_definite_article>` prefix
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: DEU 1:23
@@ -125,7 +124,7 @@ or by connecting it to a definite term in a construct relationship.
 
 .. _state_determined-pronominal-suffix:
 
-:ref:`suffix_pronominal`
+:ref:`Pronominal<suffix_pronominal>` suffix
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2SA 17:23
@@ -146,8 +145,8 @@ or by connecting it to a definite term in a construct relationship.
   "So now, do not give **your daughters to their sons**; do not take
      **their daughters** for **your sons**"
 
-Construction with definite noun
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Construction with definite :ref:`noun<noun>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In the example below, "the heavens and the earth" are made definite by
 the definite article, and "account" or "events" is therefore also definite.
@@ -174,10 +173,10 @@ In the example below, "Egypt" is an intrinsically definite word and
 Function of definiteness
 ------------------------
 
-.. _state_determined-demonstrative:
-
 refers to a specific person, thing, or idea
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _definiteness_demonstrative:
 
 .. csv-table:: Example: GEN 19:14 -– "the night" = tonight
 
@@ -193,7 +192,9 @@ refers to a specific person, thing, or idea
   You-will-become-son-in-law to-me **the day**.
   **Today** you will be my son-in-law.
 
-Sometimes a definite adjective can indicate a specific member of a group.
+.. _definiteness_superlative:
+
+Sometimes a definite adjective can indicate a :ref:`superlative<adjective_superlative>` member of a group.
 
 .. csv-table:: Example: 1SA 16:11
 
@@ -306,6 +307,8 @@ Usually the meaning is clear from the context.
 People
 ''''''
 
+In the example below, the definite article is incorporated in the prepositions כַ and כָּ (like).
+
 .. csv-table:: Example: GEN 18:25
 
   וְהָיָ֥ה כַצַּדִּ֖יק כָּרָשָׁ֑ע
@@ -313,20 +316,6 @@ People
   and-they-are **like-the-righteous like-the-wicked**
   "so that **the righteous** should be treated **the same as the
      wicked**"
-
-   The definite article is incorporated in the prepositions כַ and כָּ
-   (like).
-
-.. csv-table:: Example: JOS 8:19
-
-  וְהָאֹורֵ֡ב קָם֩ מְהֵרָ֨ה מִמְּקֹומֹ֤ו
-  **weha'owrev** qam meherah mimmeqowmow
-  **And-the-people-laying-in-ambush** stood quickly from-their-place
-  **The soldiers hiding in ambush** quickly rushed out of their place
-
-   The word "people laying in ambush" is a
-   :ref:`participle_active`
-   (see below).
 
 Sometimes the definite article is used in this way when a person directly addresses another person.
 
@@ -373,9 +362,9 @@ Matches an :ref:`adjective` to a :ref:`noun`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In Biblical Hebrew, when a definite
-:ref:`noun_common`
-is followed by a definite adjective, the definiteness of both terms shows that they belong together.  
-That particular adjective is describing that particular noun.  
+:ref:`common noun<noun_common>`
+is followed by a definite :ref:`attributive adjective<adjective_attributive>`, the definiteness of both terms shows that they belong together.  
+In other words, that particular adjective is describing that particular noun.  
 
 .. csv-table:: Example: JOS 21:45
 
@@ -402,20 +391,20 @@ The definite article is used in this way usually with non-finite verbal forms (i
 with a :ref:`verb-non-finite` verb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. csv-table:: Example: JOS 8:19
+
+  וְהָאֹורֵ֡ב קָם֩ מְהֵרָ֨ה מִמְּקֹומֹ֤ו
+  **weha'owrev** qam meherah mimmeqowmow
+  **And-the-people-laying-in-ambush** stood quickly from-their-place
+  **The soldiers hiding in ambush** quickly rushed out of their place
+
+
 .. csv-table:: Example: GEN 12:7
 
   לַיהוָ֖ה \ **הַנִּרְאֶ֥ה** אֵלָֽיו
   layhwah **hannir'eh** 'elayw
   to-Yahweh **the-appeared** to-him
   "to Yahweh, **who had appeared** to him"
-
-.. csv-table:: Example: JOS 8:19
-
-  וְהָאֹורֵ֡ב קָם֩ מְהֵרָ֨ה מִמְּקֹומֹ֤ו
-  **weha'owrev** qam meherah mimmeqowmow
-  "**And-those-who-were-laying-in-ambush** stood quickly
-     from-their-place"
-  **The soldiers hiding in ambush** quickly rushed out of their place
 
 with a :ref:`verb-finite` verb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -430,7 +419,7 @@ with a :ref:`verb-finite` verb
 Definiteness in poetry
 ----------------------
 
-The :ref:`particle_definite_article` is used very rarely in Hebrew poetry.  
+The :ref:`definite article<particle_definite_article>` is used very rarely in Hebrew poetry.  
 In poetry, therefore, definite terms and indefinite terms often look exactly alike
 and must be recognized based on other indicators or discerned simply from the context. 
 
