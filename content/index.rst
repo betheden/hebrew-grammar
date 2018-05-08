@@ -13,6 +13,7 @@ unfoldingWord Hebrew Grammar
    adjective_ordinal_number
    adverb
    conjunction
+   definiteness
    gender_both
    gender_common
    gender_feminine
@@ -50,7 +51,6 @@ unfoldingWord Hebrew Grammar
    pronoun_relative
    state_absolute
    state_construct
-   state_determined
    stem
    stem_hiphil
    stem_hishtaphel
