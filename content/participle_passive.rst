@@ -8,25 +8,19 @@ Participle Passive
 Summary
 -------
 
-A participle is a 
-:ref:`verb-non-finite`
-verbal form that can function as a
-:ref:`verb`
-(or verbal complement), an 
-:ref:`adjective`, 
-or a 
-:ref:`noun`. 
-The passive participle most often functions as an attributive adjective or a predicate adjective.
+A participle is a non-finite verbal form that can function as a :ref:`verb<verb>`(or verbal complement),
+an adjective, or a noun. The passive participle most often functions as either an
+:ref:`attributive<adjective-attributive>` adjective or a :ref:`predicative<adjective-predicative>` adjective.
 
 Article
 -------
 
 .. include:: includes/participle_article.txt
 
-.. note:: Only the :ref:`stem_qal`
+.. note:: Only the :ref:`Qal<stem_qal>` stem
           has a distinct passive form for the participle; in all other cases, the
-          passive (sometimes reflexive) meaning is determined by the stem
-          formation and the specific verb.
+          passive (or sometimes reflexive) meaning is determined by the :ref:`stem formation<stem>`
+          and the specific verb.
 
 Form
 ----
@@ -80,26 +74,24 @@ Function
 --------
 
 A passive/reflexive participle is often used as an independent
-grammatical entity, although it can introduce entire clauses, like a
-:ref:`participle_active`.
-Passive participles are generally more limited in
-meaning than active participles. Passive participles are governed either by the main verb of a sentence or by the
+grammatical entity, although it can introduce entire clauses similar to the :ref:`active<participle_active>` participle.
+Passive participles are generally more limited in meaning than active participles. 
+Passive participles are governed either by the main verb of a sentence or by the
 context; thus, they can express action in past time, present time,
 future time, or without any specified timeframe.
 
-functions as an :ref:`adjective`
+.. _participle_passive-adjectival:
+
+Functions as an :ref:`adjective<adjective>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This is the most common use of the passive participle in Biblical
-Hebrew. When a passive participle functions as an adjective, it 
-:ref:`adjective-attributive`
-either as an attributive adjective or a predicate adjective.
-The context must determine whether a passive participle is functioning
-as a predicate adjective or as a main verb, because both appear the
+This is the most common use of the passive participle in Biblical Hebrew.
+A passive participle can function as either an :ref:`attributive<adjective-attributive>`adjective 
+or a :ref:`predicative<adjective-predicative>` adjective.  The context must determine whether a passive participle
+is functioning as a predicative adjective or as a main verb, because both appear the
 same in many instances (compare EXO 5:16 and 1SA 19:11).
 
-The following example shows a passive participle
-functioning as an attributive adjective.
+The following example shows a passive participle functioning as an attributive adjective.
 
 .. csv-table:: Example: PSA 149:9
 
@@ -108,8 +100,7 @@ functioning as an attributive adjective.
   to-do to-them judgment **written**
   They will execute the judgment **that is written**
 
-The following example shows a passive participle
-functioning as a predicate adjective.
+The following example shows a passive participle functioning as a predicative adjective.
 
 .. csv-table:: Example: EXO 5:16
 
@@ -118,8 +109,7 @@ functioning as a predicate adjective.
   and-behold your-servants **beaten**
   "We, your servants, are even **beaten** now"
 
-The following example shows passive participles
-introducing clauses functioning as predicate adjectives.
+The following example shows passive participles introducing an entire clause that functions as a predicate adjective.
 
 .. csv-table:: Example: PSA 22:7
 
@@ -131,15 +121,17 @@ introducing clauses functioning as predicate adjectives.
   "But I am a worm and not a man, a **disgrace** to humanity **and
      despised** by the people."
 
-functions as a :ref:`verb-finite` main verb
+.. participle_passive-verbal-MV:
+
+Functions as a :ref:`verb-finite` main verb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The context must determine whether a passive participle is functioning
 as a main verb or as a predicate adjective, because both appear the
 same in many instances (compare 1SA 19:11 and EXO 5:16).
 
-In the following example, the participle is in the first position here, which
-is the normal :ref:`word_order` for finite verbs.
+In the following example, the participle is in the first position, which
+is the normal :ref:`word order<word_order>` for finite verbs but not for participles.
 
 .. csv-table:: Example: ISA 17:2
 
@@ -155,12 +147,14 @@ is the normal :ref:`word_order` for finite verbs.
   tomorrow you **being-made-dead**
   tomorrow you **will be killed**
 
-functions as a :ref:`verb-non-finite` verbal complement
+.. _participle_passive-verbal-VC:
+
+Functions as a :ref:`verb-non-finite` verbal complement
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note:: The subject of a verbal participle usually
-          precedes the participle, in contrast to the normal conventions of
-          :ref:`word_order`.
+          precedes the participle, in contrast to the normal conventions of Hebrew
+          :ref:` word order<word_order>`.
 
 .. csv-table:: Example: GEN 38:25
 
@@ -169,7 +163,9 @@ functions as a :ref:`verb-non-finite` verbal complement
   she **being-brought-out** and-she sent to\_her-father-in-law saying
   "When she **was brought out**, she sent to her father-in-law a message"
 
-functions as a :ref:`noun`
+.. _participle_passive-nominal:
+
+Functions as a :ref:`noun`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 8:34

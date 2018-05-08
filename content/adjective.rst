@@ -8,13 +8,13 @@ Adjective
 Summary
 -------
 
-An adjective is a word that describes a person(s), place(s), or thing(s).  Adjectives usually describe a noun(s) in a sentence.
-In Biblical Hebrew, sometimes an adjective can function as a noun or even as an adverb (to describe a verb).
+An adjective is a word that describes a person(s), place(s), or thing(s). Within a sentence, usually an adjective describes a noun.
+However, in Biblical Hebrew an adjective itself can function as a noun or even as an adverb (to describe a verb).
 
 Article
 -------
 
-In Bibical Hebrew, adjectives always match the noun they describe in
+In Bibical Hebrew, adjectives always match the :ref:`noun<noun>` they describe in
 gender (:ref:`masculine<gender_masculine>` or :ref:`feminine<gender_feminine>`)
 and number (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`).
 However, there are some exceptions to this rule. If a noun is :ref:`dual<number_dual>`,
@@ -58,11 +58,12 @@ Function
 
 .. _adjective-attributive:
 
-describes a noun
+Describes a noun
 ~~~~~~~~~~~~~~~~
 
-The most common use of adjectives in Biblical Hebrew is to describe a noun.  There are two kinds of adjective that function in this way, attributive adjectves and predicative adjectives. In almost all
-instances, an attributive adjective immediately follows the noun that it
+The most common use of adjectives in Biblical Hebrew is to describe a noun.  
+There are two kinds of adjectives that function in this way, attributive adjectives and predicative adjectives. 
+In almost all instances, an attributive adjective immediately follows the noun that it
 describes and has the same form in gender, number, and :ref:`definiteness<definiteness>`. 
 Thus, if the noun is masculine, the adjective is also masculine. If the noun is singular, the adjective is
 also singular. If the noun is definite, the adjective is also definite; and so on.
@@ -113,7 +114,7 @@ adjective can be indefinite even if it describes a definite noun.
 
 .. _adjective-nominal:
 
-functions as a noun
+Functions as a :ref:`noun<noun>`
 ~~~~~~~~~~~~~~~~~~~
 
 Rather than describing a noun, sometimes an adjective itself functions as a noun in the sentence. This is called a nominal adjective.
@@ -134,7 +135,7 @@ Rather than describing a noun, sometimes an adjective itself functions as a noun
 
 .. _adjective-adverbial:
 
-functions as an adverb
+Functions as an :ref:`adverb<adverb>`
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Sometimes an adjective functions as an adverb, meaning that it describes a verb instead of a noun.  This is called an adverbial adjective.

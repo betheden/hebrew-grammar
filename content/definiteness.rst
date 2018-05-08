@@ -144,8 +144,8 @@ or by connecting it to a definite term in a construct relationship.
   "So now, do not give **your daughters to their sons**; do not take
      **their daughters** for **your sons**"
 
-construction with definite :ref:`noun<noun>`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+construction with a definite :ref:`noun<noun>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In the example below, "the heavens and the earth" are made definite by
 the definite article, and "account" or "events" is therefore also definite.
@@ -177,14 +177,16 @@ Refers to a specific person, thing, or idea
 
 .. _definiteness-demonstrative:
 
-.. csv-table:: Example: GEN 19:14 -– "the night" = tonight
+Sometimes the definite article can indicate a :ref:`demonstrative<pronoun_demonstrative>` unit of time.
+
+.. csv-table:: Example: GEN 19:14 -– "the night" = "this" night = tonight
 
   אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר־בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה
   'ayyeh ha'anashim 'asher-ba'u 'eleykha **hallaylah**
   Where the-men who\_came-in to-you **the-night**
   Where are the men that came in to you **tonight**?
 
-.. csv-table:: Example: 1SA 18:21 -– "the day" = today
+.. csv-table:: Example: 1SA 18:21 -– "the day" = "this" day = today
 
   תִּתְחַתֵּ֥ן בִּ֖י **הַיֹּֽום**\ ׃
   tithhatten bi **hayyowm**
@@ -357,12 +359,11 @@ material
      the things to be made of bronze, iron for the things to be made of
      iron, and wood for the things to be made of wood**."
 
-Matches an :ref:`adjective` to a :ref:`noun`
+Matches an :ref:`adjective<adjective>` to a :ref:`noun<noun>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In Biblical Hebrew, when a definite
-:ref:`common noun<noun_common>`
-is followed by a definite :ref:`attributive adjective<adjective_attributive>`, the definiteness of both terms shows that they belong together.  
+In Biblical Hebrew, when a definite :ref:`common noun<noun_common>`is followed by a definite 
+:ref:`attributive adjective<adjective-attributive>`, the definiteness of both terms shows that they belong together.  
 In other words, that particular adjective is describing that particular noun.  
 
 .. csv-table:: Example: JOS 21:45
@@ -382,10 +383,11 @@ In other words, that particular adjective is describing that particular noun.
 Introduces a verbal relative clause
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-When the definite article is used in front of a
-:ref:`verb`,
+When the definite article is used in front of a :ref:`verb<verb>`,
 it refers to the person(s) doing the action described by the verb and is translated very much like a :ref:`particle_relative`.
-The definite article is used in this way usually with non-finite verbal forms (infinitives or participles) and only rarely with finite verbs.
+The definite article is used in this way usually with infinitives (:ref:`construct<infinitive_construct>`
+or :ref:`absolute<infinitive_absolute>`) or participles (:ref:`active<active_participle-nominal>`
+or :ref:`passive<passive_participle-nominal>`), and only rarely with finite verbal forms.
 
 with a :ref:`non-finite<verb-non-finite>` verb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
