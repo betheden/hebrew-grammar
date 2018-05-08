@@ -8,14 +8,8 @@ Participle Active
 Summary
 -------
 
-A participle is a 
-:ref:`verb-non-finite` 
-verbal form that can function as a
-:ref:`verb` 
-(or verbal complement), an 
-:ref:`adjective`, 
-or a 
-:ref:`noun`. 
+A participle is a non-finite verbal form that can function as a :ref:`verb<verb>` 
+(either as a main verb or as a verbal complement), an adjective, or a noun.
 When used verbally, an active participle most often expresses continuous or imminent action.
 
 Article
@@ -57,26 +51,18 @@ Function
 --------
 
 In Biblical Hebrew, it is helpful to classify participles according to
-their function in the sentence as a whole: as a
-:ref:`verb`
-(or verbal complement); as an 
-:ref:`adjective`; 
-or as a 
-:ref:`noun`. 
-Participles can
-function independently as their own grammatical entity, but they often
+their function in the sentence as a whole: as a :ref:`verb<verb>`(or verbal complement); 
+as an :ref:`adjective<adjective>`; or as a :ref:`noun<noun>`. 
+Participles can function independently as their own grammatical entity, but they often
 introduce entire clauses that function either as adjectives or nouns.
-When used verbally, the active participle is closely related in meaning
-to the 
-:ref:`verb_imperfect` 
-verb; they are both often used to describe continuous or repeating action and can function as either a
-:ref:`verb-non-finite`
-verbal complement or a 
-:ref:`verb-finite` 
-verb.
+When used verbally, the active participle is closely related in meaning to an :ref:`imperfect<verb_imperfect>` verb. 
+They are both often used to describe continuous or repeating action and can function as either a
+:ref:`non-finite<verb-non-finite>` verbal complement or a :ref:`finite<verb-finite>` main verb.
 
-functions as a :ref:`verb-non-finite` verbal complement
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _participle_active-verbal-VC:
+
+Functions as a :ref:`non-finite<verb-non-finite>` verbal complement
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When functioning as a verbal complement, the participle is governed by
 the main verb of the sentence and has potential to be translated as past
@@ -85,8 +71,8 @@ continuous, imminent, habitual, or even stative action as determined by the
 context.
 
 .. note:: The subject of a verbal participle usually
-          precedes the participle, in contrast to the normal conventions of
-          :ref:`word_order`.
+          precedes the participle, in contrast to the normal conventions of Hebrew
+          :ref:`word order<word_order>`.
 
 .. csv-table:: Example: HOS 2:10 –– expressing stative action
 
@@ -116,8 +102,10 @@ context.
   and-I-was **fasting and-praying** before God-of the-heavens
   I **was fasting and praying** before the God of heaven.
 
-functions as a :ref:`verb-finite` main verb
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _participle_active-verbal-MV:
+
+Functions as a :ref:`finite<verb-finite>` main verb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When functioning as a main verb, the participle is governed by the context
 and has the potential to be translated as past time, present time,
@@ -150,12 +138,14 @@ determined by the context.
   Behold I **am-doing** thing in-Israel
   "See, I **am about to do** something in Israel"
 
-functions as an :ref:`adjective`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _participle_active-adjectival:
 
-When functioning as an adjective, a participle immediately follows the noun it describes, and matches that noun in gender, number, and definiteness.
-The participle can either function as an adjective by itself or
-introduce an entire clause that functions as an adjective.
+Functions as an :ref:`adjective<adjective>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+When functioning as an adjective, a participle immediately follows the noun it describes, 
+and matches that noun in gender, number, and :ref:`definiteness<definiteness>`.
+The participle can either function as an :ref:`attributive<adjective-attributive>` adjective by itself or introduce an entire clause that functions as an adjective.
 
 .. csv-table:: Example: DEU 4:24 –– a participle functioning by itself as an adjective
 
@@ -164,8 +154,7 @@ introduce an entire clause that functions as an adjective.
   for Yahweh your-God fire **eating**
   For Yahweh your God is a **devouring** fire
 
-.. csv-table:: Example: GEN 1:12 –– a participle introducing a clause functioning as an
-   adjective
+.. csv-table:: Example: GEN 1:12 –– a participle introducing a clause functioning as an adjective
 
   "וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב **מַזְרִ֤יעַ** זֶ֙רַע֙
      לְמִינֵ֔הוּ"
@@ -175,18 +164,15 @@ introduce an entire clause that functions as an adjective.
   "The earth produced vegetation, plants **producing** seed after their
      kind"
 
-functions as a :ref:`noun`
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _participle_active-nominal:
 
-When functioning as a noun, a participle will often take the
-:ref:`particle_definite_article`
-(but not always). The participle can either function as a noun by itself
-or introduce an entire clause that functions as a noun.  A participle will appear in the
-:ref:`state_construct`
-either when it takes a 
-:ref:`suffix_pronominal`
-or when it is in a construct relationship with another noun in the
-:ref:`state_absolute`.
+Functions as a :ref:`noun<noun>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+When functioning as a noun, a participle often takes the :ref:`definite article<particle_definite_article>` (but not always). 
+The participle can either function as a noun by itself or introduce an entire clause that functions as a noun.  
+A participle will appear in the :ref:`construct<state_construct>` state either when it takes a :ref:`pronominal suffix<suffix_pronominal>`
+or when it is in a construct relationship with another noun in the :ref:`absolute<state_absolute>` state.
 
 .. csv-table:: Example: GEN 1:30 –– a participle functioning by itself as a noun
 
