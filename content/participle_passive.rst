@@ -8,8 +8,8 @@ Participle Passive
 Summary
 -------
 
-A participle is a non-finite verbal form with passive or reflexive voice that can function as a :ref:`verb<verb>`(or verbal complement), an adjective, or a noun.
-The passive participle most often functions as either an :ref:`attributive<adjective-attributive>` adjective or a :ref:`predicative<adjective-predicative>` adjective.
+A passive participle is a non-finite verbal form with passive or reflexive voice that can function as a :ref:`verb<verb>`(or verbal complement), an adjective, or a noun.
+In Biblical Hebrew, passive participles most often function as either an :ref:`attributive<adjective-attributive>` adjective or a :ref:`predicative<adjective-predicative>` adjective.
 
 Article
 -------
@@ -82,10 +82,10 @@ future time, or without any specified timeframe.
 .. _participle_passive-adjectival:
 
 Functions as an :ref:`adjective<adjective>`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This is the most common use of the passive participle in Biblical Hebrew.
-An adjectival passive participle can function as either an :ref:`attributive<adjective-attributive>`adjective 
+An adjectival passive participle can function as either an :ref:`attributive<adjective-attributive>` adjective 
 or a :ref:`predicative<adjective-predicative>` adjective.  The context must determine whether a passive participle
 is functioning as a predicative adjective or as a main verb, because both appear the
 same in many instances (compare EXO 5:16 and 1SA 19:11).
@@ -123,14 +123,11 @@ The following example shows passive participles introducing an entire clause tha
 .. _participle_passive-verbal-MV:
 
 Functions as a :ref:`finite<verb-finite>` main verb
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The context must determine whether a passive participle is functioning
-as a main verb or as a predicative adjective, because both appear the
-same in many instances (compare 1SA 19:11 and EXO 5:16).
-
-In the following example, the participle is in the first position, which
-is the normal :ref:`word order<word_order>` for finite verbs but not for participles.
+The context must determine whether a passive participle is functioning as a main verb or as a predicative adjective,
+because both appear the same in many instances (compare 1SA 19:11 and EXO 5:16). In the following example, the participle
+is in the first position, which is the normal :ref:`word order<word_order>` for finite verbs but not for participles.
 
 .. csv-table:: Example: ISA 17:2
 
@@ -149,11 +146,11 @@ is the normal :ref:`word order<word_order>` for finite verbs but not for partici
 .. _participle_passive-verbal-VC:
 
 Functions as a :ref:`non-finite<verb-non-finite>` verbal complement
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note:: The subject of a verbal participle usually
           precedes the participle, in contrast to the normal conventions of Hebrew
-          :ref:` word order<word_order>`.
+          :ref:`word order<word_order>`.
 
 .. csv-table:: Example: GEN 38:25
 
@@ -165,7 +162,7 @@ Functions as a :ref:`non-finite<verb-non-finite>` verbal complement
 .. _participle_passive-nominal:
 
 Functions as a :ref:`noun<noun>`
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 8:34
 
