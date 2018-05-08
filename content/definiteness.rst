@@ -26,7 +26,7 @@ Definiteness in Biblical Hebrew serves both a semantic and pragmatic function.  
 1) to designate a specific person/thing, or a class of person(s)/thing(s) that are intrinsically definite; 
 2) to match a noun to its accompanying descriptor (often with adjectives or participles); 
 3) to introduce a relative clause (often with participles); and/or 
-4) to indicate a :ref:`superlative<adjective_superlative>` or :ref:`demonstrative<pronoun_demonstrative>` (especially in regard to time) referent.  
+4) to indicate a :ref:`superlative<adjective-superlative>` or :ref:`demonstrative<pronoun_demonstrative>` (especially in regard to time) referent.  
 However, these are only general designations and do not represent a comprehesive list.  
 The concept of definiteness works differently in various languages; therefore, definite/indefinite terms 
 should always be translated from Biblical Hebrew into other languages with great sensitivity 
@@ -176,7 +176,7 @@ Function of definiteness
 refers to a specific person, thing, or idea
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _definiteness_demonstrative:
+.. _definiteness-demonstrative:
 
 .. csv-table:: Example: GEN 19:14 -– "the night" = tonight
 
@@ -192,7 +192,7 @@ refers to a specific person, thing, or idea
   You-will-become-son-in-law to-me **the day**.
   **Today** you will be my son-in-law.
 
-.. _definiteness_superlative:
+.. _definiteness-superlative:
 
 Sometimes a definite adjective can indicate a :ref:`superlative<adjective_superlative>` member of a group.
 
@@ -388,7 +388,7 @@ When the definite article is used in front of a
 it refers to the person(s) doing the action described by the verb and is translated very much like a :ref:`particle_relative`.
 The definite article is used in this way usually with non-finite verbal forms (infinitives or participles) and only rarely with finite verbs.
 
-with a :ref:`verb-non-finite` verb
+with a :ref:`non-finite<verb-non-finite>` verb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 8:19
@@ -406,7 +406,7 @@ with a :ref:`verb-non-finite` verb
   to-Yahweh **the-appeared** to-him
   "to Yahweh, **who had appeared** to him"
 
-with a :ref:`verb-finite` verb
+with a :ref:`finite<verb-finite>` verb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 10:24

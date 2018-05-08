@@ -15,16 +15,9 @@ Article
 -------
 
 In Bibical Hebrew, adjectives always match the noun they describe in
-gender
-(:ref:`gender_masculine`
-or
-:ref:`gender_feminine`)
-and number
-(:ref:`number_singular`
-or
-:ref:`number_plural`).
-However, there are some exceptions to this rule. If a noun is
-:ref:`number_dual`,
+gender (:ref:`masculine<gender_masculine>` or :ref:`feminine<gender_feminine>`)
+and number (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`).
+However, there are some exceptions to this rule. If a noun is :ref:`dual<number_dual>`,
 its accompanying adjective will be plural. Also, the gender of some
 nouns does not match their apparent form (as in נָשִׁים "women", which is
 grammatically-feminine although it appears grammatically-masculine); in
@@ -38,7 +31,7 @@ Form
 ----
 
 The forms of the adjective closely resemble the forms of the
-:ref:`noun_common`.
+:ref:`common noun<noun_common>`.
 
 Paradigm
 ~~~~~~~~
@@ -70,13 +63,13 @@ describes a noun
 
 The most common use of adjectives in Biblical Hebrew is to describe a noun.  There are two kinds of adjective that function in this way, attributive adjectves and predicative adjectives. In almost all
 instances, an attributive adjective immediately follows the noun that it
-describes and has the same form in gender, number, and :ref:`definiteness`. 
+describes and has the same form in gender, number, and :ref:`definiteness<definiteness>`. 
 Thus, if the noun is masculine, the adjective is also masculine. If the noun is singular, the adjective is
 also singular. If the noun is definite, the adjective is also definite; and so on.
 
-.. note:: When an :ref:`adjective_cardinal_number` or an
-          :ref:`adjective_ordinal_number` is used as attributive
-          adjectives, sometimes it comes *before* the noun it describes
+.. note:: When a :ref:`cardinal<adjective_cardinal_number>` or an
+          :ref:`ordinal<adjective_ordinal_number>` number functions as an attributive
+          adjective, sometimes it comes *before* the noun it describes
           instead of *after* the noun.
 
 .. csv-table:: Example: 1SA 18:17
@@ -95,12 +88,10 @@ also singular. If the noun is definite, the adjective is also definite; and so o
 
 .. _adjective-predicative:
 
-Predicative adjectives are adjectives that describe nouns using a
-:ref:`verb-linking`
-verb. Often the linking verb is not present in the Hebrew text and must be
-supplied when translating into English. Like attributive adjectives, a predicative adjective usually has the same form as the noun it
-describes in both gender (masculine/feminine) and number
-(singular/plural). Unlike attributive adjectives, however, a predicative
+Predicative adjectives are adjectives that describe nouns using a :ref:`linking verb<verb-linking>`. 
+Often the linking verb is not present in the Hebrew text and must be supplied when translating into English. 
+Like attributive adjectives, a predicative adjective usually has the same form as the noun it
+describes in both gender and number. Unlike attributive adjectives, however, a predicative
 adjective can be indefinite even if it describes a definite noun.
 
 .. note:: Sometimes, predicative adjectives and attributive adjectives look
@@ -120,12 +111,12 @@ adjective can be indefinite even if it describes a definite noun.
   **Good** word-of\_Yahweh that you-spoke.
   The word of Yahweh that you have spoken is **good**.
 
-.. _adjective-substantive:
+.. _adjective-nominal:
 
 functions as a noun
 ~~~~~~~~~~~~~~~~~~~
 
-Rather than describing a noun, sometimes in a sentence an adjective itself functions as a noun. This is a called a substantive adjective.
+Rather than describing a noun, sometimes an adjective itself functions as a noun in the sentence. This is called a nominal adjective.
 
 .. csv-table:: Example: PSA 3:2
 
@@ -141,10 +132,12 @@ Rather than describing a noun, sometimes in a sentence an adjective itself funct
   Therefore thus he-says **holy-of** Israel
   "Therefore the **Holy One** of Israel says,"
 
+.. _adjective-adverbial:
+
 functions as an adverb
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Sometimes an adjective functions as an adverb, meaning that it describes a verb instead of a noun.
+Sometimes an adjective functions as an adverb, meaning that it describes a verb instead of a noun.  This is called an adverbial adjective.
 
 .. csv-table:: Example: JOS 21:10
 
@@ -155,6 +148,8 @@ Sometimes an adjective functions as an adverb, meaning that it describes a verb 
 
 Other Uses
 ~~~~~~~~~~
+
+.. _adjective-comparative:
 
 compares two or more items
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -207,21 +202,21 @@ Biblical Hebrew utilizes different ways to strengthen an adjective to
 its greatest degree ("the smallest", "the greatest", etc.). This is called a superlative adjective.
 Usually, the superlative meaning of an adjective must be determined from the context.
 
-.. csv-table:: Example: 1SA 16:11 –– adjective with the :ref:`preposition_definite_article`
+.. csv-table:: Example: 1SA 16:11 –– adjective with the :ref:`definite article<particle_definite_article>`
 
   עֹ֚וד שָׁאַ֣ר הַקָּטָ֔ן
   'owd sha'ar **haqqatan**
   Still remains **the-young**
   There remains yet **the youngest**
 
-.. csv-table:: Example: MIC 7:4 –– adjective with a :ref:`suffix_pronominal`
+.. csv-table:: Example: MIC 7:4 –– adjective with a :ref:`pronominal suffix<suffix_pronominal>`
 
   טוֹבָ֣ם כְּחֵ֔דֶק
   **tovam** kehedeq
   **good-their** like-brier
   **the best of them** is like a brier
 
-.. csv-table:: Example: SNG 1:8 –– adjective with a prepositional phrase
+.. csv-table:: Example: SNG 1:8 –– adjective with a :ref:`prepositional<preposition>` phrase
 
   הַיָּפָ֖ה בַּנָּשִׁ֑ים
   **hayyafah** bannashim
