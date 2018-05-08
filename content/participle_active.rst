@@ -8,8 +8,8 @@ Participle Active
 Summary
 -------
 
-An active participle is a non-finite verbal form with active (or sometimes reflexive) voice 
-that can function as a :ref:`verb<verb>` (either as a main verb or as a verbal complement), an adjective, or a noun.
+An active participle is a non-finite verbal form with active voice 
+that can function as a verb (either a main verb or a verbal complement), an adjective, or a noun.
 When used verbally, an active participle most often expresses continuous or imminent action.
 
 Article
@@ -143,9 +143,9 @@ determined by the context.
 Functions as an :ref:`adjective<adjective>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When functioning as an adjective, a participle immediately follows the noun it describes, 
-and matches that noun in gender, number, and :ref:`definiteness<definiteness>`.
-The participle can either function as an :ref:`attributive<adjective-attributive>` adjective by itself or introduce an entire clause that functions as an adjective.
+An adjectival participle immediately follows the noun it describes, and matches that noun in gender, number, and :ref:`definiteness<definiteness>`.
+An adjectival participle can either function as an :ref:`attributive<adjective-attributive>` adjective by itself
+or introduce an entire clause that functions as an adjective (either attributive or :ref:`predicative<adjective-predicative>`).
 
 .. csv-table:: Example: DEU 4:24 –– a participle functioning by itself as an adjective
 
@@ -169,9 +169,9 @@ The participle can either function as an :ref:`attributive<adjective-attributive
 Functions as a :ref:`noun<noun>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When functioning as a noun, a participle often takes the :ref:`definite article<particle_definite_article>` (but not always). 
-The participle can either function as a noun by itself or introduce an entire clause that functions as a noun.  
-A participle will appear in the :ref:`construct<state_construct>` state either when it takes a :ref:`pronominal suffix<suffix_pronominal>`
+A nominal participle often takes the :ref:`definite article<particle_definite_article>` (but not always),   
+and can either function as a noun by itself or introduce an entire clause that functions as a noun.
+A nominal participle will appear in the :ref:`construct<state_construct>` state either when it takes a :ref:`pronominal suffix<suffix_pronominal>`
 or when it is in a construct relationship with another noun in the :ref:`absolute<state_absolute>` state.
 
 .. csv-table:: Example: GEN 1:30 –– a participle functioning by itself as a noun

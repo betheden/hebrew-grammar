@@ -89,11 +89,11 @@ also singular. If the noun is definite, the adjective is also definite; and so o
 
 .. _adjective-predicative:
 
-Predicative adjectives are adjectives that describe nouns using a :ref:`linking verb<verb-linking>`. 
+Predicative adjectives are adjectives that describe nouns using a :ref:`linking verb<verb-linking-verb>`. 
 Often the linking verb is not present in the Hebrew text and must be supplied when translating into English. 
 Like attributive adjectives, a predicative adjective usually has the same form as the noun it
 describes in both gender and number. Unlike attributive adjectives, however, a predicative
-adjective can be indefinite even if it describes a definite noun.
+adjective can be indefinite even if it describes a :ref:`definite<definiteness>` noun.
 
 .. note:: Sometimes, predicative adjectives and attributive adjectives look
           identical and must be distinguished simply from the context.
@@ -147,8 +147,8 @@ Sometimes an adjective functions as an adverb, meaning that it describes a verb 
   for to-them it-was the-lot **first**
   For the **first** casting of lots had fallen to them.
 
-Other Uses
-~~~~~~~~~~
+Other uses of adjectives
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _adjective-comparative:
 
@@ -157,7 +157,7 @@ compares two or more items
 
 In Biblical Hebrew, adjectives are often used with either the
 preposition מִן ("from") or the phrase מִכֹּל ("from all") to express a
-comparison between two or more items.
+comparison between two or more items.  This is called a comparative adjective.
 
 .. csv-table:: Example: JDG 14:18
 
@@ -173,12 +173,14 @@ comparison between two or more items.
   And-the-serpent was **shrewd from-all** beings-of the-field
   Now the serpent was **more shrewd than any other** beast of the field
 
+.. _adjective-intensive:
+
 adjectives with stronger meaning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In Biblical Hebrew, the meaning of an adjective can be strengthened by
 pairing it either with the word מְאֹד ("very") or with the phrase
-לֵאלֹהִים ("to God").
+לֵאלֹהִים ("to God").  This is called an intensive adjective.
 
 .. csv-table:: Example: GEN 1:31
 

@@ -85,7 +85,7 @@ Functions as an :ref:`adjective<adjective>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This is the most common use of the passive participle in Biblical Hebrew.
-A passive participle can function as either an :ref:`attributive<adjective-attributive>`adjective 
+An adjectival passive participle can function as either an :ref:`attributive<adjective-attributive>`adjective 
 or a :ref:`predicative<adjective-predicative>` adjective.  The context must determine whether a passive participle
 is functioning as a predicative adjective or as a main verb, because both appear the
 same in many instances (compare EXO 5:16 and 1SA 19:11).
@@ -108,7 +108,7 @@ The following example shows a passive participle functioning as a predicative ad
   and-behold your-servants **beaten**
   "We, your servants, are even **beaten** now"
 
-The following example shows passive participles introducing an entire clause that functions as a predicate adjective.
+The following example shows passive participles introducing an entire clause that functions as a predicative adjective.
 
 .. csv-table:: Example: PSA 22:7
 
@@ -120,13 +120,13 @@ The following example shows passive participles introducing an entire clause tha
   "But I am a worm and not a man, a **disgrace** to humanity **and
      despised** by the people."
 
-.. participle_passive-verbal-MV:
+.. _participle_passive-verbal-MV:
 
-Functions as a :ref:`verb-finite` main verb
+Functions as a :ref:`finite<verb-finite>` main verb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The context must determine whether a passive participle is functioning
-as a main verb or as a predicate adjective, because both appear the
+as a main verb or as a predicative adjective, because both appear the
 same in many instances (compare 1SA 19:11 and EXO 5:16).
 
 In the following example, the participle is in the first position, which
@@ -148,7 +148,7 @@ is the normal :ref:`word order<word_order>` for finite verbs but not for partici
 
 .. _participle_passive-verbal-VC:
 
-Functions as a :ref:`verb-non-finite` verbal complement
+Functions as a :ref:`non-finite<verb-non-finite>` verbal complement
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note:: The subject of a verbal participle usually
@@ -164,7 +164,7 @@ Functions as a :ref:`verb-non-finite` verbal complement
 
 .. _participle_passive-nominal:
 
-Functions as a :ref:`noun`
+Functions as a :ref:`noun<noun>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 8:34

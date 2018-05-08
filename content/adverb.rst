@@ -8,10 +8,8 @@ Adverb
 Summary
 -------
 
-An adverb is a word that describes a verb, or sometimes describes a
-sentence as a whole. Some 
-:ref:`particle`\s 
-in Biblical Hebrew are closely related to adverbs.
+An adverb is a word that describes a verb, or sometimes describes a sentence as a whole. Some 
+:ref:`particles<particle>` in Biblical Hebrew are closely related to adverbs.
 
 .. note:: Because there are not many direct adverbs in Biblical Hebrew, other kinds of words often function as adverbs.
 
@@ -21,10 +19,10 @@ Article
 Biblical Hebrew does not contain many words that are classified directly
 as adverbs. However, many different kinds of words can
 function as adverbs, including an
-:ref:`infinitive_absolute`, an
-:ref:`adjective`,
+:ref:`infinitive absolute<infinitive_absolute>`, an
+:ref:`adjective<adjective>`,
 or even a
-:ref:`noun`.
+:ref:`noun<noun>`.
 
 Many particles are closely related to adverbs in Biblical Hebrew. A
 general rule is that when a particle occurs after the verb, it functions
@@ -34,7 +32,7 @@ this rule is not universal; sometimes both adverbs and particles
 can appear before the verb rather than after the verb, as in the
 example below (GEN 32:11).
 
-describes a verb
+Describes a verb
 ----------------
 
 There are several different ways that an adverb can describe a verb. Many adverbs in Biblical Hebrew have the potential to serve multiple
@@ -124,10 +122,14 @@ describes manner of action
   **bitterly** cries there hero.
   even brave soldiers will cry **loudly**.
 
-describes an entire clause or sentence
+.. _adverb-sentential:
+
+Describes an entire clause or sentence
 --------------------------------------
 
-Sometimes an adverb describes an entire clause or sentence rather than the individual verb.  When an adverb functions in this way, it is closely related to a conjunction.
+Sometimes an adverb describes an entire clause or sentence rather than the individual verb.
+When an adverb functions in this way, it is called a sentential adverb.
+Sentential adverbs are closely related to :ref:`conjunctions<conjunction>`.
 
 .. csv-table:: Example: GEN 9:4 ––  אַךְ as a restrictive adverb
 
@@ -151,10 +153,13 @@ Sometimes an adverb describes an entire clause or sentence rather than the indiv
   **only** if\_listening you-will-listen to-voice-of Yahweh your-God
   if **only** you diligently listen to the voice of Yahweh your God
 
-functions as a noun
+.. _adverb-nominal:
+
+Functions as a noun
 -------------------
 
 In Biblical Hebrew, sometimes an adverb functions as a noun rather than functioning to describe the verb.
+This is called a nominal adverb.
 
 .. csv-table:: Example: ISA 65:16
 
@@ -168,7 +173,7 @@ Other words functioning as adverbs
 
 Because Biblical Hebrew does not contain many adverbs, sometimes other kinds of words can function as adverbs.
 
-:ref:`particle`\s functioning as adverbs
+:ref:`Particles<particle>` functioning as adverbs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 3:22
@@ -187,8 +192,8 @@ Because Biblical Hebrew does not contain many adverbs, sometimes other kinds of 
   "every inclination of the thoughts of their hearts was **only** evil
      continually"
 
-:ref:`infinitive_absolute`\s functioning as adverbs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Infinitive absolute<infinitive_absolute>` verbs functioning as adverbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 2:16
 
@@ -208,8 +213,10 @@ Because Biblical Hebrew does not contain many adverbs, sometimes other kinds of 
   "I will fulfill against Eli everything that I have spoken concerning
      his house, **from beginning to end**."
 
-:ref:`adjective`\s functioning as adverbs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Adjectives<adjective>` functioning as adverbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is called an :ref:`adverbial adjective<adjective-adverbial>`.
 
 .. csv-table:: Example: JOS 21:10
 
@@ -225,8 +232,10 @@ Because Biblical Hebrew does not contain many adverbs, sometimes other kinds of 
   And-he-said Esau 'There-is\_for-me **enough** my-brother'
   "Esau said, ""I have **enough**, my brother."""
 
-:ref:`noun`\s functioning as adverbs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Nouns<noun>` functioning as adverbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is called an adverbial noun.
 
 .. csv-table:: Example: 1SA 12:11
 
