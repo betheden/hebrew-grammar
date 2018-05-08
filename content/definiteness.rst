@@ -28,8 +28,8 @@ Definiteness in Biblical Hebrew serves both a semantic and pragmatic function.  
 3) to introduce a relative clause (often with participles); and/or 
 4) to indicate a :ref:`superlative<adjective-superlative>` or :ref:`demonstrative<pronoun_demonstrative>` (especially in regard to time) referent.  
 However, these are only general designations and do not represent a comprehesive list.  
-The concept of definiteness works differently in various languages; therefore, definite/indefinite terms 
-should always be translated from Biblical Hebrew into other languages with great sensitivity 
+
+.. note:: The concept of definiteness works differently in various languages; therefore, definite/indefinite terms should always be translated from Biblical Hebrew into other languages with great sensitivity 
 to the context of each individual use and according to the conventions of definiteness in the target language.
 
 Intrinsically definite terms
@@ -40,8 +40,8 @@ There are three types of terms that are intrinsically definite:
 :ref:`personal pronouns<pronoun_personal>`,
 and :ref:`demonstrative pronouns<pronoun_demonstrative>`.
 
-:ref:`Proper<noun_proper_name>` Nouns
-^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`proper<noun_proper_name>` nouns
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 1SA 9:17
 
@@ -61,8 +61,8 @@ and :ref:`demonstrative pronouns<pronoun_demonstrative>`.
   "So **Joab** left and went throughout all **Israel**. Then he came
      back to **Jerusalem**."
 
-:ref:`Personal<pronoun_personal>` Pronouns
-^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`personal<pronoun_personal>` pronouns
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JER 12:1
 
@@ -78,8 +78,8 @@ and :ref:`demonstrative pronouns<pronoun_demonstrative>`.
   Bless-me also\_\ **me** my-father
   "Bless me, **me** also, my father"
 
-:ref:`Demonstrative<pronoun_demonstrative>` Pronouns
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`demonstrative<pronoun_demonstrative>` pronouns
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JDG 7:4
 
@@ -105,8 +105,8 @@ Biblical Hebrew has three ways to make a term definite: by adding the :ref:`defi
 by adding a :ref:`pronominal suffix<suffix_pronominal>`,
 or by connecting it to a definite term in a construct relationship.
 
-:ref:`Definite article<particle_definite_article>` prefix
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`definite article<particle_definite_article>` prefix
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: DEU 1:23
 
@@ -124,8 +124,8 @@ or by connecting it to a definite term in a construct relationship.
 
 .. _state_determined-pronominal-suffix:
 
-:ref:`Pronominal<suffix_pronominal>` suffix
-^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`pronominal<suffix_pronominal>` suffix
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2SA 17:23
 
@@ -145,7 +145,7 @@ or by connecting it to a definite term in a construct relationship.
   "So now, do not give **your daughters to their sons**; do not take
      **their daughters** for **your sons**"
 
-Construction with definite :ref:`noun<noun>`
+construction with definite :ref:`noun<noun>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In the example below, "the heavens and the earth" are made definite by
@@ -173,7 +173,7 @@ In the example below, "Egypt" is an intrinsically definite word and
 Function of definiteness
 ------------------------
 
-refers to a specific person, thing, or idea
+Refers to a specific person, thing, or idea
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _definiteness-demonstrative:
@@ -194,7 +194,7 @@ refers to a specific person, thing, or idea
 
 .. _definiteness-superlative:
 
-Sometimes a definite adjective can indicate a :ref:`superlative<adjective_superlative>` member of a group.
+Sometimes a definite adjective can indicate a :ref:`superlative<adjective-superlative>` member of a group.
 
 .. csv-table:: Example: 1SA 16:11
 
@@ -297,14 +297,14 @@ either from the context of the narrative or from simple knowledge of the world.
   Yahweh he **the-God**.
   "Yahweh, he is **God**!"
 
-refers to a general class/category of items
+Refers to a general class/category of items
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Sometimes a definite term refers to a general class or category instead to referring to a specific item.  
 This can be a general category of people, a general class of objects, a generic type of material, etc.
 Usually the meaning is clear from the context.
 
-People
+people
 ''''''
 
 In the example below, the definite article is incorporated in the prepositions כַ and כָּ (like).
@@ -333,7 +333,7 @@ Sometimes the definite article is used in this way when a person directly addres
   Help my-lord **the-king**
   "Help, my master, **king**"
 
-Material
+material
 ''''''''
 
 .. csv-table:: Example: 1KI 15:18
@@ -389,7 +389,7 @@ it refers to the person(s) doing the action described by the verb and is transla
 The definite article is used in this way usually with non-finite verbal forms (infinitives or participles) and only rarely with finite verbs.
 
 with a :ref:`non-finite<verb-non-finite>` verb
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 8:19
 
@@ -407,7 +407,7 @@ with a :ref:`non-finite<verb-non-finite>` verb
   "to Yahweh, **who had appeared** to him"
 
 with a :ref:`finite<verb-finite>` verb
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOS 10:24
 
