@@ -8,8 +8,8 @@ Participle Active
 Summary
 -------
 
-A participle is a non-finite verbal form that can function as a :ref:`verb<verb>` 
-(either as a main verb or as a verbal complement), an adjective, or a noun.
+An active participle is a non-finite verbal form with active (or sometimes reflexive) voice 
+that can function as a :ref:`verb<verb>` (either as a main verb or as a verbal complement), an adjective, or a noun.
 When used verbally, an active participle most often expresses continuous or imminent action.
 
 Article

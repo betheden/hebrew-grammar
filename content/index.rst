@@ -27,9 +27,9 @@ unfoldingWord Hebrew Grammar
    number_dual
    number_plural
    number_singular
-   particle
    participle_active
    participle_passive
+   particle
    particle_affirmation
    particle_definite_article
    particle_demonstrative
