@@ -78,7 +78,7 @@ their most common functions.
 
   --,Active Voice,Passive/Reflexive Voice
   Simple Action,"Qal (simple action, active voice)","Niphal (simple action, passive voice)"
-  Causative Action,"Niphal (simple action, passive voice)","Hophal (causative action, passive voice)"
+  Causative Action,"Hiphl (causative action, active voice)","Hophal (causative action, passive voice)"
   Intensive Action,"Piel (resultative action, active voice)","Pual (resultative action, passive voice)"
   Intensive Action,--,"Hithpael (resultative action, reflexive voice)" 
 
