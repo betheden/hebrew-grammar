@@ -25,45 +25,45 @@ Form
 This is a brief overview on how to quickly recognize the simplest forms
 of each stem:
 
-:ref:`Qal<stem_qal>` stem formation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Qal<stem_qal>` stem
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The simplest form of the verb, usually with "a" vowels (qamets or patah).
 
-:ref:`Niphal<stem_niphal>` stem formation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Niphal<stem_niphal>` stem
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Adds נִ (nun with hireq) to the beginning of the verb. If the form also
 adds a prefix (like in the prefix conjugation), the נ disappears and
 causes the 1st radical to double (with a daghesh).
 
-:ref:`Hiphil<stem_hiphil>` stem formation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Hiphil<stem_hiphil>` stem
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Often has הִ (he with hireq) before the verb, or a patah under the
 letter that the form adds before the root.
 
-:ref:`Hophal<stem_hophal>` stem formation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Hophal<stem_hophal>` stem
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Also adds a ה before the verb, but with a qamets hatuf (or sometimes
 qibbuts) vowel.
 
 
-:ref:`Piel<stem_piel>` stem formation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Piel<stem_piel>` stem
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Here the 2nd radical of the verb is doubled (with a daghesh), and
 usually have a shewa or a hireq under the 1st radical.
 
-:ref:`Pual<stem_pual>` stem formation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Pual<stem_pual>` stem
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Also doubles the 2nd radical but often has a qibbuts under the 1st
 radical.
 
-:ref:`Hithpael<stem_hithpael>` stem formation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Hithpael<stem_hithpael>` stem
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 It adds הִתְ (he with hireq and taw with shewa) before the verb, and
 puts a qamets or patah under the 1st radical.
@@ -172,8 +172,7 @@ Expresses the voice of the verb
 Active voice
 ~~~~~~~~~~~~
 
-Active voice means that the subject of the verb is performing the action described by the verb.
-Most verbs are in the active voice.
+Active voice means that the subject of the verb is performing the verbal action. Most verbs are in the active voice.
 
 .. csv-table:: Example: GEN 16:2
 
@@ -186,7 +185,7 @@ Passive voice
 ~~~~~~~~~~~~~
 
 Passive voice means that the subject of the verb is *receiving* the
-action rather than *performing* the action. In English, passive voice is
+verbal action rather than *performing* the verbal action. In English, passive voice is
 expressed using the helping verb "to be." In Biblical Hebrew, the
 passive nature of the verbal action is expressed by the stem formation itself without any helping verbs.
 
@@ -201,7 +200,7 @@ Reflexive voice
 ~~~~~~~~~~~~~~~
 
 Reflexive voice means that the subject of the verb is *both* performing
-*and* receiving the action. In English, reflexive voice is expressed
+*and* receiving the verbal action. In English, reflexive voice is expressed
 using a reflexive pronoun as the object of the verb, "I tell *myself*".
 In Biblical Hebrew, the reflexive nature of the verbal action is
 expressed by the stem formation of the verb itself without any additional
@@ -217,8 +216,8 @@ words.
 Middle voice
 ~~~~~~~~~~~~
 
-Middle voice means that the subject receives the action but also is
-(partially) involved in performing the action. This kind of action
+Middle voice means that the subject receives the verbal action but also is
+(partially) involved in performing the verbal action. Middle voice
 stands somewhere between passive voice and reflexive voice.
 
 .. csv-table:: Example: GEN 3:5
@@ -232,7 +231,7 @@ Reciprocal voice
 ~~~~~~~~~~~~~~~~
 
 Reciprocal voice means that multiple subjects are in view who are both
-performing the action for another and receiving the action from another.
+performing the verbal action for another and receiving the verbal action from another.
 In English, reciprocal voice is expressed using the phrase "each other"
 as the object of the verb, "They tell each other." Reciprocal voice must be distinguished from reflexive voice. The phrase
 "They tell themselves" is reflexive: the subject "they" is a unified
