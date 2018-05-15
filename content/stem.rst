@@ -2,8 +2,8 @@
 
 .. _stem:
 
-Stem
-====
+Stem Formation
+==============
 
 Summary
 -------
@@ -76,12 +76,13 @@ their most common functions.
 
 .. csv-table:: Common Stem Functions
 
-  Active Voice,Passive/Reflexive Voice
+  --,Active Voice,Passive/Reflexive Voice
   Simple Action,"Qal (simple action, active voice)","Niphal (simple action, passive voice)"
   Causative Action,"Niphal (simple action, passive voice)","Hophal (causative action, passive voice)"
   Intensive Action,"Piel (resultative action, active voice)","Pual (resultative action, passive voice)"
-  Intensive Action,--,"Hithpael (resultative action, reflexive voice)"
+  Intensive Action,--,"Hithpael (resultative action, reflexive voice)" 
 
+The stem formation of a verb performs the following functions:
 
 Expresses the kind of verbal action
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -194,99 +195,4 @@ passive nature of the verbal action is expressed by the stem formation itself wi
   וַיִּקָּבֵ֥ר בְּגַן־בֵּית֖וֹ
   **wayyiqqaver** began-betho
   **and-he-was-buried** in-garden-of\_his-house
-  **and he was buried** in the garden of his own house
-
-Reflexive voice
-~~~~~~~~~~~~~~~
-
-Reflexive voice means that the subject of the verb is *both* performing
-*and* receiving the verbal action. In English, reflexive voice is expressed
-using a reflexive pronoun as the object of the verb, "I tell *myself*".
-In Biblical Hebrew, the reflexive nature of the verbal action is
-expressed by the stem formation of the verb itself without any additional
-words.
-
-.. csv-table:: Example: NUM 1:21
-
-  הִבָּ֣דְל֔וּ מִתּ֖וֹךְ הָעֵדָ֣ה הַזֹּ֑את
-  **hibbodlu** mittokh ha'edah hazzoth
-  **Separate-yourselves** from-midst-of the-congregation the-this
-  **Separate yourselves** from among this community
-
-Middle voice
-~~~~~~~~~~~~
-
-Middle voice means that the subject receives the verbal action but also is
-(partially) involved in performing the verbal action. Middle voice
-stands somewhere between passive voice and reflexive voice.
-
-.. csv-table:: Example: GEN 3:5
-
-  וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם
-  **wenifqehu** 'enekhem
-  **and-they-will-be-opened** your-eyes
-  your eyes **will be opened**
-
-Reciprocal voice
-~~~~~~~~~~~~~~~~
-
-Reciprocal voice means that multiple subjects are in view who are both
-performing the verbal action for another and receiving the verbal action from another.
-In English, reciprocal voice is expressed using the phrase "each other"
-as the object of the verb, "They tell each other." Reciprocal voice must be distinguished from reflexive voice. The phrase
-"They tell themselves" is reflexive: the subject "they" is a unified
-group and the action could be expressed reflexively for each individual
-as "he tells himself, and he tells himself, and she tells herself, etc."
-The phrase "They tell each other" is reciprocal: each member of the
-group is telling something to another member of the group, and each
-member of the group is being told something by another member of the
-group.
-
-
-.. _stem-rare-stems:
-
-Rare stem formations
---------------------
-
-Most of these stems occur only a few times in the Hebrew Bible. Their
-function is usually similar to one of the above stems, or a combination
-of two of them. One simple rule that can help with a first guess as to
-its function is this: If it sounds similar to one of the seven common
-stems, it probably means something similar as well.
-
-The uncommon stems are:
-:ref:`Hishtaphel<stem_hishtaphel>`
--
-:ref:`Hithpalpel<stem_hithpalpel>`
--
-:ref:`Hithpoel<stem_hithpoel>`
--
-:ref:`Hithpolel<stem_hithpolel>`
--
-:ref:`Hothpaal<stem_hothpaal>`
--
-:ref:`Nithpael<stem_nithpael>`
--
-:ref:`Palel<stem_palel>`
--
-:ref:`Pealal<stem_pealal>`
--
-:ref:`Pilel<stem_pilel>`
--
-:ref:`Pilpel<stem_pilpel>`
--
-:ref:`Poal<stem_poal>`
--
-:ref:`Poel<stem_poel>`
--
-:ref:`Polal<stem_polal>`
--
-:ref:`Polel<stem_polel>`
--
-:ref:`Polpal<stem_polpal>`
--
-:ref:`Pulal<stem_pulal>`
--
-:ref:`Qal Passive<stem_qal_passive>`
--
-:ref:`Tiphil<stem_tiphil>`
+  **and he was bur
