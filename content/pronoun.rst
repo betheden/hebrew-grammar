@@ -8,53 +8,50 @@ Pronoun
 Summary
 -------
 
-A pronoun replaces a noun or noun phrase. For example, instead of
-writing "the man" multiple times, the writer uses "he" to avoid
-repeating the noun.
+A pronoun is a word that refers to a person or a thing, but in an indirect way.  
 
 Article
 -------
 
-A pronoun is a word that, like a
-:ref:`noun`,
-refers to a person or a thing, but it does not have any meaning in
-itself.
+In Biblical Hebrew, pronouns can function as either a :ref:`noun<noun>`, an :ref:`adjective<adjective>`, or a :ref:`relative particle<particle_relative>`.
+For example, the personal pronoun "he" can be used to refer to a man instead of the :ref:`definite<definiteness>` noun "the man".
+
 
 Types
 -----
 
-Scholars identify the following five types of pronouns.
+Biblical Hebrew contains the following five types of pronouns.
 
-:ref:`pronoun_demonstrative`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Demonstrative pronoun<pronoun_demonstrative>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. include:: pronoun_demonstrative.rst
    :start-after: -------
    :end-before: Article
 
-:ref:`pronoun_indefinite`
+:ref:`Indefinite pronoun<pronoun_indefinite>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. include:: pronoun_indefinite.rst
    :start-after: -------
    :end-before: Article
 
-:ref:`pronoun_interrogative`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Interrogative pronoun<pronoun_interrogative>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. include:: pronoun_interrogative.rst
    :start-after: -------
    :end-before: Article
 
-:ref:`pronoun_personal`
-^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Personal pronoun<pronoun_personal>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. include:: pronoun_personal.rst
    :start-after: -------
    :end-before: Article
 
-:ref:`pronoun_relative`
-^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Relative pronoun<pronoun_relative>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. include:: pronoun_relative.rst
    :start-after: -------

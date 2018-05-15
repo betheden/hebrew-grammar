@@ -8,20 +8,65 @@ Stem
 Summary
 -------
 
-The stem formation of a verb indicates both the *kind* of verbal action
-(simple, intensive, causative, etc.) and its *voice* (active, passive,
-reflexive, etc.).
+The stem formation of a verb indicates both the kind of verbal action
+(simple, intensive, causative, etc.) and the voice (active, passive,
+reflexive, etc.) of the verb.
 
 Article
 -------
 
-In Biblical Hebrew, all
-:ref:`verb`
-have both a stem formation (Qal, Niphal, Piel, etc.) and a conjugation
-(Perfect, Imperfect, Imperative, etc.). These work
-together like two "layers", and each layer supplies different
-information about the verb. In Biblical Hebrew, there are seven major
-stems and several rare ones.
+In Biblical Hebrew, all :ref:`verbs<verb>` have both a stem formation (Qal, Niphal, Piel, etc.) and a conjugation
+(Perfect, Imperfect, Imperative, etc.). These work together like two "layers", and each layer supplies different
+information about the verb. In Biblical Hebrew, there are seven major stem formations and several rare ones.
+
+Form
+----
+
+This is a brief overview on how to quickly recognize the simplest forms
+of each stem:
+
+:ref:`Qal<stem_qal>`
+^^^^^^^^^^^^^^^
+
+The simplest form of the verb, often has "a" vowels (qamets or patah).
+
+:ref:`Niphal<stem_niphal>`
+^^^^^^^^^^^^^^^^^^
+
+Adds נִ (nun with hireq) to the beginning of the verb. If the form also
+adds a prefix (like in the prefix conjugation), the נ disappears and
+causes the 1st radical to double (with a daghesh).
+
+:ref:`Hiphil<stem_hiphil>`
+^^^^^^^^^^^^^^^^^^
+
+Often has הִ (he with hireq) before the verb, or a patah under the
+letter that the form adds before the root.
+
+:ref:`Hophal<stem_hophal>`
+^^^^^^^^^^^^^^^^^^
+
+Also adds a ה before the verb, but with a qamets hatuf (or sometimes
+qibbuts) vowel.
+
+
+:ref:`Piel<stem_piel>`
+^^^^^^^^^^^^^^^^
+
+Here the 2nd radical of the verb is doubled (with a daghesh), and
+usually have a shewa or a hireq under the 1st radical.
+
+:ref:`Pual<stem_pual>`
+^^^^^^^^^^^^^^^^
+
+Also doubles the 2nd radical but often has a qibbuts under the 1st
+radical.
+
+:ref:`Hithpael<stem_hithpael>`
+^^^^^^^^^^^^^^^^^^^^
+
+It adds הִתְ (he with hireq and taw with shewa) before the verb, and
+puts a qamets or patah under the 1st radical.
 
 Function
 --------
@@ -34,63 +79,175 @@ their most common functions.
   Active Voice,Passive/Reflexive Voice
   Simple Action,"Qal (simple action, active voice)","Niphal (simple action, passive voice)"
   Causative Action,"Niphal (simple action, passive voice)","Hophal (causative action, passive voice)"
-  Intensive Action,"Piel (intensive action, active voice)[see note]","Pual (intensive action, passive voice)"
-  Intensive Action,--,"Hithpael (intensive action, reflexive voice)"
+  Intensive Action,"Piel (resultative action, active voice)[see note]","Pual (resultative action, passive voice)"
+  Intensive Action,--,"Hithpael (resultative action, reflexive voice)"
 
 .. include:: includes/consult_dictionary.txt
 
-Form
-----
+Expresses the kind of verbal action
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This is a brief overview on how to quickly recognize the simplest forms
-of each stem:
+Simple action
+~~~~~~~~~~~~~
 
-:ref:`stem_qal`
-^^^^^^^^^^^^^^^
+Simple action refers to a typical :ref:`dynamic<verb-dynamic>` verb;
+that is, the verb describes an action being performed by the subject of the verb.
 
-The simplest form of the verb, often has "a" vowels (qamets or patah).
+.. csv-table:: Example: GEN 16:2 –– Qal stem expressing simple action (dynamic verb)
 
-:ref:`stem_niphal`
-^^^^^^^^^^^^^^^^^^
+  וַתֹּ֨אמֶר שָׂרַ֜י אֶל־אַבְרָ֗ם
+  **wattomer** saray 'el-'avram
+  **And-she-said** Sarai to\_Abram
+  So Sarai **said** to Abram
 
-Adds נִ (nun with hireq) to the beginning of the verb. If the form also
-adds a prefix (like in the prefix conjugation), the נ disappears and
-causes the 1st radical to double (with a daghesh).
+Stative action
+~~~~~~~~~~~~~~
 
-:ref:`stem_piel`
-^^^^^^^^^^^^^^^^
+Stative action refers to a typical :ref:`stative<verb-stative>` verb;
+that is, the verb describes the subject of the verb as being in a certain state/condition.
 
-Here the 2nd radical of the verb is doubled (with a daghesh), and
-usually have a shewa or a hireq under the 1st radical.
+.. csv-table:: Example: GEN 6:11 –– Qal stem expressing stative action (stative verb)
 
-:ref:`stem_pual`
-^^^^^^^^^^^^^^^^
+  וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס
+  **wattimmale** ha'arets hamas
+  **and-it-was-full** the-earth violence
+  **and it was filled** with violence.
 
-Also doubles the 2nd radical but often has a qibbuts under the 1st
-radical.
+Causative action
+~~~~~~~~~~~~~~~~
 
-:ref:`stem_hiphil`
-^^^^^^^^^^^^^^^^^^
+Causative action means that the subject of the verb is causing the
+object of the verb either to perform the verbal action (with :ref:`dynamic<verb-dynamic>` verbs)
+or to be in the state described by the verb (with :ref:`stative<verb-stative>` verbs).
+In English, causative action is expressed using the main verb "to cause" paired with the infinitive of the verbal action
+in view. In Biblical Hebrew, the causative nature of the verbal action
+is expressed by the stem formation itself with no additional
+verbal element.
 
-Often has הִ (he with hireq) before the verb, or a patah under the
-letter that the form adds before the root.
+.. csv-table:: Example: PSA 98:2 –– Hiphil stem expressing causative action of a dynamic verb ("to cause to know")
 
-:ref:`stem_hophal`
-^^^^^^^^^^^^^^^^^^
+  הוֹדִ֣יעַ יְ֭הוָה יְשׁוּעָת֑וֹ
+  **hodia'** yehwah yeshu'atho
+  **He-made-known** Yahweh his-salvation
+  Yahweh **has made known** his salvation
 
-Also adds a ה before the verb, but with a qamets hatuf (or sometimes
-qibbuts) vowel.
+.. csv-table:: Example: GEN 21:19 –– Piel stem expressing causative action of a stative verb ("to cause to be filled")
 
-:ref:`stem_hithpael`
-^^^^^^^^^^^^^^^^^^^^
+  וַתֵּ֜לֶךְ **וַתְּמַלֵּ֤א** אֶת־הַחֵ֙מֶת֙ מַ֔יִם
+  wattelekh **wattemalle** 'eth-hahemeth mayim
+  and-she-went **and-she-filled** [dir.obj]\_the-skin-of water
+  She went **and filled** the skin with water
 
-It adds הִתְ (he with hireq and taw with shewa) before the verb, and
-puts a qamets or patah under the 1st radical.
+Resultative action
+~~~~~~~~~~~~~~~~~~
 
-.. _stem-uncommon-stems:
+Resultative action means that the primary focus of the verb is on the
+result of the verbal action.
 
-Uncommon stems
---------------
+.. csv-table:: Example: GEN 21:6 –– Piel stem expressing resultative action
+
+  וַיִּתֵּ֣ן ... וְאֶת־הַיֶּ֖לֶד וַֽיְשַׁלְּחֶ֑הָ
+  wayyitten ... we'eth-hayyeled **wayeshalleheha**
+  and-he-gave ... and-[dir.obj]\_the-boy **and-he-sent-her-away**
+  He gave her the boy and **sent her away**
+
+
+Intensive action
+~~~~~~~~~~~~~~~~
+
+Intensive action means that the verbal action is strengthened in some
+way.
+
+.. csv-table:: Example: EXO 9:25 –– Piel stem expressing intensive action
+
+  אֶת־מִזְבְּחֹתָם֙ תִּתֹּצ֔וּן וְאֶת־מַצֵּבֹתָ֖ם תְּשַׁבֵּר֑וּן
+  'eth-mizbehotham tittotsun we'eth-matsevotham **teshabberun**
+  "[dir.obj]\_their-altars you-break-down and-[dir.obj]\_their-pillars
+     **you-shatter**"
+  "you must break down their altars, **smash** their stone pillars"
+
+Expresses the voice of the verb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Active voice
+~~~~~~~~~~~~
+
+Active voice mean that the subject of the verb is performing the action described by the verb.
+Most verbs are in the active voice.
+
+.. csv-table:: Example: GEN 16:2
+
+  וַתֹּ֨אמֶר שָׂרַ֜י אֶל־אַבְרָ֗ם
+  **wattomer** saray 'el-'avram
+  **And-she-said** Sarai to\_Abram
+  So Sarai **said** to Abram
+
+Passive voice
+~~~~~~~~~~~~~
+
+Passive voice means that the subject of the verb is *receiving* the
+action rather than *performing* the action. In English, passive voice is
+expressed using the helping verb "to be." In Biblical Hebrew, the
+passive nature of the verbal action is expressed by the stem formation itself without any helping verbs.
+
+.. csv-table:: Example: 2KI 21:18
+
+  וַיִּקָּבֵ֥ר בְּגַן־בֵּית֖וֹ
+  **wayyiqqaver** began-betho
+  **and-he-was-buried** in-garden-of\_his-house
+  **and he was buried** in the garden of his own house
+
+Reflexive voice
+~~~~~~~~~~~~~~~
+
+Reflexive voice means that the subject of the verb is *both* performing
+*and* receiving the action. In English, reflexive voice is expressed
+using a reflexive pronoun as the object of the verb, "I tell *myself*".
+In Biblical Hebrew, the reflexive nature of the verbal action is
+expressed by the stem formation of the verb itself without any additional
+words.
+
+.. csv-table:: Example: NUM 1:21
+
+  הִבָּ֣דְל֔וּ מִתּ֖וֹךְ הָעֵדָ֣ה הַזֹּ֑את
+  **hibbodlu** mittokh ha'edah hazzoth
+  **Separate-yourselves** from-midst-of the-congregation the-this
+  **Separate yourselves** from among this community
+
+Middle voice
+~~~~~~~~~~~~
+
+Middle voice means that the subject receives the action but also is
+(partially) involved in performing the action. This kind of action
+stands somewhere between passive voice and reflexive voice.
+
+.. csv-table:: Example: GEN 3:5
+
+  וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם
+  **wenifqehu** 'enekhem
+  **and-they-will-be-opened** your-eyes
+  your eyes **will be opened**
+
+Reciprocal voice
+~~~~~~~~~~~~~~~~
+
+Reciprocal voice means that multiple subjects are in view who are both
+performing the action for another and receiving the action from another.
+In English, reciprocal voice is expressed using the phrase "each other"
+as the object of the verb, "They tell each other." Reciprocal voice must be distinguished from reflexive voice. The phrase
+"They tell themselves" is reflexive: the subject "they" is a unified
+group and the action could be expressed reflexively for each individual
+as "he tells himself, and he tells himself, and she tells herself, etc."
+The phrase "They tell each other" is reciprocal: each member of the
+group is telling something to another member of the group, and each
+member of the group is being told something by another member of the
+group.
+
+
+.. _stem-rare-stems:
+
+Rare stem formations
+--------------------
 
 Most of these stems occur only a few times in the Hebrew Bible. Their
 function is usually similar to one of the above stems, or a combination
@@ -99,38 +256,42 @@ its function is this: If it sounds similar to one of the seven common
 stems, it probably means something similar as well.
 
 The uncommon stems are:
-:ref:`stem_hishtaphel`
+:ref:`Hishtaphel<stem_hishtaphel>`
 -
-:ref:`stem_hithpalpel`
+:ref:`Hithpalpel<stem_hithpalpel>`
 -
-:ref:`stem_hithpoel`
+:ref:`Hithpoel<stem_hithpoel>`
 -
-:ref:`stem_hithpolel`
+:ref:`Hithpolel<stem_hithpolel>`
 -
-:ref:`stem_hothpaal`
+:ref:`Hothpaal<stem_hothpaal>`
 -
-:ref:`stem_nithpael`
+:ref:`Nithpael<stem_nithpael>`
 -
-:ref:`stem_palel`
+:ref:`Palel<stem_palel>`
 -
-:ref:`stem_pealal`
+:ref:`Pealal<stem_pealal>`
 -
-:ref:`stem_pilel`
+:ref:`Pilel<stem_pilel>`
 -
-:ref:`stem_pilpel`
+:ref:`Pilpel<stem_pilpel>`
 -
-:ref:`stem_poal`
+:ref:`Poal<stem_poal>`
 -
-:ref:`stem_poel`
+:ref:`Poel<stem_poel>`
 -
-:ref:`stem_polal`
+:ref:`Polal<stem_polal>`
 -
-:ref:`stem_polel`
+:ref:`Polel<stem_polel>`
 -
-:ref:`stem_polpal`
+:ref:`Polpal<stem_polpal>`
 -
-:ref:`stem_pulal`
+:ref:`Pulal<stem_pulal>`
 -
-:ref:`stem_qal_passive`
+:ref:`Qal Passive<stem_qal_passive>`
 -
-:ref:`stem_tiphil`
+:ref:`Tiphil<stem_tiphil>`
+
+
+
+
