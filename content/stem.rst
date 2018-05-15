@@ -31,39 +31,39 @@ of each stem:
 The simplest form of the verb, usually with "a" vowels (qamets or patah).
 
 :ref:`Niphal<stem_niphal>` stem
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Adds נִ (nun with hireq) to the beginning of the verb. If the form also
 adds a prefix (like in the prefix conjugation), the נ disappears and
 causes the 1st radical to double (with a daghesh).
 
 :ref:`Hiphil<stem_hiphil>` stem
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Often has הִ (he with hireq) before the verb, or a patah under the
 letter that the form adds before the root.
 
 :ref:`Hophal<stem_hophal>` stem
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Also adds a ה before the verb, but with a qamets hatuf (or sometimes
 qibbuts) vowel.
 
 
 :ref:`Piel<stem_piel>` stem
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Here the 2nd radical of the verb is doubled (with a daghesh), and
 usually have a shewa or a hireq under the 1st radical.
 
 :ref:`Pual<stem_pual>` stem
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Also doubles the 2nd radical but often has a qibbuts under the 1st
 radical.
 
 :ref:`Hithpael<stem_hithpael>` stem
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 It adds הִתְ (he with hireq and taw with shewa) before the verb, and
 puts a qamets or patah under the 1st radical.
@@ -85,10 +85,12 @@ their most common functions.
 The stem formation of a verb performs the following functions:
 
 Expresses the kind of verbal action
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. _action-simple:
 
 Simple action
-~~~~~~~~~~~~~
+^^^^^^^^^^^^^
 
 Simple action refers to a typical :ref:`dynamic<verb-dynamic>` verb;
 that is, the verb describes an action being performed by the subject of the verb.
@@ -100,8 +102,10 @@ that is, the verb describes an action being performed by the subject of the verb
   **And-she-said** Sarai to\_Abram
   So Sarai **said** to Abram
 
+.. _action-stative:
+
 Stative action
-~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^
 
 Stative action refers to a typical :ref:`stative<verb-stative>` verb;
 that is, the verb describes the subject of the verb as being in a certain state/condition.
@@ -113,8 +117,10 @@ that is, the verb describes the subject of the verb as being in a certain state/
   **and-it-was-full** the-earth violence
   **and it was filled** with violence.
 
+.. _action-causative:
+
 Causative action
-~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^
 
 Causative action means that the subject of the verb is causing the
 object of the verb either to perform the verbal action (with :ref:`dynamic<verb-dynamic>` verbs)
@@ -138,8 +144,10 @@ verbal element.
   and-she-went **and-she-filled** [dir.obj]\_the-skin-of water
   She went **and filled** the skin with water
 
+.. _action-resultative:
+
 Resultative action
-~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^
 
 Resultative action means that the primary focus of the verb is on the
 result of the verbal action.
@@ -151,9 +159,10 @@ result of the verbal action.
   and-he-gave ... and-[dir.obj]\_the-boy **and-he-sent-her-away**
   He gave her the boy and **sent her away**
 
+.. _action-intensive:
 
 Intensive action
-~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^
 
 Intensive action means that the verbal action is strengthened in some
 way.
@@ -168,10 +177,12 @@ way.
 
 
 Expresses the voice of the verb
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. _voice-active:
 
 Active voice
-~~~~~~~~~~~~
+^^^^^^^^^^^^
 
 Active voice means that the subject of the verb is performing the verbal action. Most verbs are in the active voice.
 
@@ -182,17 +193,83 @@ Active voice means that the subject of the verb is performing the verbal action.
   **And-she-said** Sarai to\_Abram
   So Sarai **said** to Abram
 
+.. _voice-passive:
+
 Passive voice
-~~~~~~~~~~~~~
+^^^^^^^^^^^^^
 
 Passive voice means that the subject of the verb is *receiving* the
 verbal action rather than *performing* the verbal action. In English, passive voice is
 expressed using the helping verb "to be." In Biblical Hebrew, the
-passive nature of the verbal action is expressed by the stem formation itself without any helping verbs.
+passive nature of the verbal action is expressed by the Niphal form of
+the verb itself without any helping verbs.
 
 .. csv-table:: Example: 2KI 21:18
 
   וַיִּקָּבֵ֥ר בְּגַן־בֵּית֖וֹ
   **wayyiqqaver** began-betho
   **and-he-was-buried** in-garden-of\_his-house
-  **and he was bur
+  **and he was buried** in the garden of his own house
+
+.. _voice-reflexive:
+
+Reflexive voice
+^^^^^^^^^^^^^^^
+
+Reflexive voice means that the subject of the verb is *both* performing
+*and* receiving the verbal action. In English, reflexive voice is expressed
+using a reflexive pronoun as the object of the verb, "I tell *myself*".
+In Biblical Hebrew, the reflexive nature of the verbal action is
+expressed by the Niphal form of the verb itself without any additional
+words.
+
+.. csv-table:: Example: NUM 1:21
+
+  הִבָּ֣דְל֔וּ מִתּ֖וֹךְ הָעֵדָ֣ה הַזֹּ֑את
+  **hibbodlu** mittokh ha'edah hazzoth
+  **Separate-yourselves** from-midst-of the-congregation the-this
+  **Separate yourselves** from among this community
+
+.. _voice-middle:
+
+Middle voice
+^^^^^^^^^^^^
+
+Middle voice means that the subject receives the action but also is
+(partially) involved in performing the action. Middle voice
+stands somewhere between passive voice and reflexive voice.
+
+.. csv-table:: Example: GEN 3:5
+
+  וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם
+  **wenifqehu** 'enekhem
+  **and-they-will-be-opened** your-eyes
+  your eyes **will be opened**
+
+.. _voice-reciprocal:
+
+Reciprocal voice
+^^^^^^^^^^^^^^^^
+
+Reciprocal voice means that multiple subjects are in view who are both
+performing the verbal action for another and receiving the verbal action from another.
+In English, reciprocal voice is expressed using the phrase "each other"
+as the object of the verb, "They tell each other." In Biblical Hebrew,
+the reciprocal nature of the action is expressed by the stem formation of
+the verb itself without any additional words.
+
+Reciprocal voice must be distinguished from reflexive voice. The phrase
+"They tell themselves" is reflexive: the subject "they" is a unified
+group and the action could be expressed reflexively for each individual
+as "he tells himself, and he tells himself, and she tells herself, etc."
+The phrase "They tell each other" is reciprocal: each member of the
+group is telling something to another member of the group, and each
+member of the group is being told something by another member of the
+group.
+
+.. csv-table:: Example: 2KI 3:23
+
+  נֶֽחֶרְבוּ֙ הַמְּלָכִ֔ים
+  **nehervu** hammelakhim
+  **they-have-killed-each-other** the-kings
+  the kings **have killed each other**
