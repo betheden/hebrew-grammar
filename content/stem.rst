@@ -273,3 +273,29 @@ group.
   **nehervu** hammelakhim
   **they-have-killed-each-other** the-kings
   the kings **have killed each other**
+
+.. _rare-stems:
+
+Rare stem formations
+--------------------
+
+The following stem formations occur only rarely in Biblical Hebrew:
+:ref:`Hishtaphel<stem_hishtaphel>` – 
+:ref:`Hithpalpel<stem_hithpalpel>` – 
+:ref:`Hithpoel<stem_hithpoel>` – 
+:ref:`Hithpolel<stem_hithpolel>` – 
+:ref:`Hothpaal<stem_hothpaal>` – 
+:ref:`Nithpael<stem_nithpael>` – 
+:ref:`Palel<stem_palel>` – 
+:ref:`Pealal<stem_pealal>` – 
+:ref:`Pilel<stem_pilel>` – 
+:ref:`Pilpel<stem_pilpel>` – 
+:ref:`Poal<stem_poal>` – 
+:ref:`Poel<stem_poel>` – 
+:ref:`Polal<stem_polal>` – 
+:ref:`Polel<stem_polel>` – 
+:ref:`Polpal<stem_polpal>` – 
+:ref:`Pulal<stem_pulal>` – 
+:ref:`Qal Passive<stem_qal_passive>` – 
+:ref:`Tiphil<stem_tiphil>`
+
