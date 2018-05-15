@@ -8,9 +8,9 @@ Preposition
 Summary
 -------
 
-A preposition introduces a phrase that describes another word/concept within a sentence, usually a noun or a verb.  However, like adverbs and particles, sometimes a prepositional phrase can describe the sentence as a whole.
-In Biblical Hebrew, prepositions can also be used with an infinitive
-construct verb to show its relationship to the main verb of a sentence.
+A preposition introduces a phrase that describes another word/concept within a sentence, usually a :ref:`noun<noun>` or a :ref:`verb<verb>`.
+However, like :ref:`adverbs<adverb>` and :ref:`particles<particle>`, sometimes a prepositional phrase can describe the sentence as a whole.
+In Biblical Hebrew, prepositions can also be used with an infinitive construct verb to show its relationship to the main verb of a sentence.
 
 Article
 -------
@@ -21,22 +21,15 @@ the prefix לְ (to, for); the prefix כְּ (as, like); and the prefix מִ
 "from"). However, there is also a family of other prepositions in
 Biblical Hebrew. It is common in Biblical Hebrew for prepositions to be
 combined together or with a noun to form new words that have their own
-range of meanings (similar to compound
-:ref:`conjunction`)
-that may or may not overlap with the meaning of the individual component
-terms.
+range of meanings (similar to :ref:`compound conjunctions<conjunction-compound>`)
+that may or may not overlap with the meaning of the individual component terms.
 
-In Biblical Hebrew, prepositions also function to
-describe the relationship between a 
-:ref:`verb-non-finite` 
-verbal complement 
-(:ref:`infinitive_construct`, :ref:`participle_active`, or :ref:`participle_passive`)
-and the :ref:`verb-finite` 
-main verb of a sentence. In some of
-these instances, the preposition introduces a dependent verbal phrase
-and thus changes its typical meaning. These specialized uses of
-prepositions are listed in the article on :ref:`infinitive_construct`
-verbs.
+In Biblical Hebrew, prepositions also function to describe the relationship between a
+:ref:`non-finite<verb-non-finite>` verbal complement (:ref:`infinitive construct<infinitive_construct>` verbs
+and :ref:`active<participle_active>` or :ref:`passive<participle_passive>` participles) and the :ref:`finite<verb-finite>` 
+main verb of a sentence. In some of these instances, the preposition introduces a dependent verbal phrase
+and thus changes its typical meaning. These specialized uses of prepositions are listed in the article
+on :ref:`infinitive construct<infinitive_construct>` verbs.
 
 .. note:: Of all the different kinds of words, prepositions are perhaps the
           most flexible in their meaning and are often translated in a variety of
@@ -95,37 +88,3 @@ Examples
   weruah 'elohim merahefeth **'al**-pene hammayim
   and-spirit-of God hovering **over**\ \_face-of the-waters
   The Spirit of God was moving **above** the surface of the waters.
-
---------------
-
-Deleted material:
-
-**Preposition before a noun starting with a normal shewa**
-
-.. csv-table::
-
-  Word,Hebrew,Transliteration,Gloss
-  normal noun,מְרַגֵּל,meraggel,spy
-  noun + preposition only,כִּמְרַגֵּל,kimraggel,like a spy
-  noun + definite article only,הַמְּרַגֵּל,hammeraggel,the spy
-  noun + preposition + definite article,כַּמְּרַגֵּל,kammeraggel,like the spy
-
-**Preposition before a noun with a guttural first consonant**
-
-.. csv-table::
-
-  Word,Hebrew,Transliteration,Gloss
-  normal noun,אִישׁ,'ish,man
-  noun + preposition only,לְאִישׁ,le'ish,to a man
-  noun + definite article only,הָאִישׁ,ha'ish,the man
-  noun + preposition + definite article,לָאִישׁ,la'ish,to the man
-
-**Preposition before a noun starting with a composite shewa**
-
-.. csv-table::
-
-  Word,Hebrew,Transliteration,Gloss
-  normal noun,אֳנִיָה,'oniyah,ship
-  noun + preposition only,כָּאֳנִיָה,ko'oniyah,like a ship
-  noun + definite article only,הָאֳנִיָה,ha'oniyah,the ship
-  noun + preposition + definite article,כָּאֳנִיָה,ka'oniyah,like the ship

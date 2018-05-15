@@ -8,12 +8,13 @@ Preposition Definite Article
 Summary
 -------
 
-A preposition is a word that describes the relationship of a noun (or
-word that functions as a noun) to another word/concept in the sentence.
-In Biblical Hebrew, prepositions can also be used with an infinitive
-construct verb to show its relationship to the main verb of a sentence.
+A preposition introduces a phrase that describes another word/concept within a sentence, usually a :ref:`noun<noun>` or a :ref:`verb<verb>`.
+However, like :ref:`adverbs<adverb>` and :ref:`particles<particle>`, sometimes a prepositional phrase can describe the sentence as a whole.
+In Biblical Hebrew, prepositions can also be used with an infinitive construct verb to show its relationship to the main verb of a sentence.
 
-.. note:: When a word contains both a prefixed preposition and a prefixed :ref:`particle_definite_article`, the ה consonant of the definite article disappears and the shewa under the preposition lengthens, usually either to a pathah vowel or a qamets vowel.
+.. note:: When a word contains both a prefixed preposition and a :ref:`definite article<particle_definite_article>`,
+the ה consonant of the definite article disappears and the shewa under the preposition lengthens,
+usually either to a pathah vowel or a qamets vowel.
 
 Article
 -------
@@ -24,18 +25,16 @@ the prefix לְ (to, for); the prefix כְּ (as, like); and the prefix מִ
 "from"). However, there is also a family of other prepositions in
 Biblical Hebrew. It is common in Biblical Hebrew for prepositions to be
 combined together or with a noun to form new words that have their own
-range of meanings (similar to compound
-:ref:`conjunction`)
+range of meanings (similar to :ref:`compound conjunctions<conjunction-compound>`)
 that may or may not overlap with the meaning of the individual component
 terms.
 
 In Biblical Hebrew, prepositions also have a specialized function of
 describing the relationship between a verbal complement (infinitive
-construct or participle) and the main verb of a sentence. In some of
+construct or participles) and the main verb of a sentence. In some of
 these instances, the preposition introduces a dependent verbal clauses
 and thus changes its typical meaning. These specialized uses of
-prepositions are listed in the article on :ref:`infinitive_construct`
-verbs.
+prepositions are listed in the article on :ref:`infinitive construct<infinitive_construct>` verbs.
 
 .. note:: Of all the different kinds of words, prepositions are perhaps the
           most flexible in their meaning and are often translated in a variety of
