@@ -474,6 +474,8 @@ that...not" (or similar phrasing) in English.
      until\_bad."
   Be careful **that** you speak to Jacob **neither** good **nor** bad.
 
+.. _conjunction-compound:
+
 Compound conjunctions
 ---------------------
 

@@ -8,12 +8,9 @@ Particle
 Summary
 -------
 
-Particles are auxiliary words that do not fit into any strict
-grammatical categorization. They often mark grammatical structures
-and/or show how other words within a sentence are related to each other.  Many particles in Biblical Hebrew are closely related to
-:ref:`adverb`\s 
-or
-:ref:`conjunction`\s.
+Particles are auxiliary words that do not fit into any strict grammatical categorization.
+They often mark grammatical structures and/or show how other words within a sentence are related to each other. 
+Many particles in Biblical Hebrew are closely related to :ref:`adverbs<adverb>` or :ref:`conjunctions<conjunction>`.
 
 Article
 -------
@@ -35,7 +32,7 @@ single unit with its own range of meanings which may or may not overlap
 with the meanings of the individual particles themselves. When in doubt,
 it is recommended to consult and dictionary or lexicon to determine
 whether any particular occurrence of a particle stands alone or as part
-of a compound conjunction.
+of a :ref:`compound conjunction<conjunction-compound>`.
 
 .. note:: The classification of these words (i.e. words called "particles"
           in this grammar) is a subject of much debate among Hebrew linguists.
@@ -43,7 +40,7 @@ of a compound conjunction.
           Other parsing systems may have different names for these groups of
           particles, may have different groupings, or may even parse an individual
           particle as another kind of word such as a
-          :ref:`noun`, an :ref:`adverb`, a :ref:`conjunction`, or others.
+          :ref:`noun<noun>`, an :ref:`adverb<adverb>`, a :ref:`conjunction<conjunction>`, or others.
 
 Types
 -----
@@ -51,7 +48,7 @@ Types
 The parsing system used by this grammar identifies the following types
 of particles:
 
-:ref:`particle_affirmation`
+:ref:`Affirmation particle<particle_affirmation>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 These particles usually convey a sense of "affirmation of" or "addition
@@ -59,14 +56,14 @@ to" some idea within the sentence. In English, they are commonly
 translated using words such as "yes" or "also" or "even" or "really",
 etc.
 
-:ref:`particle_definite_article`
+:ref:`Definite Article<particle_definite_article>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This is a prefix that makes a word
 :ref:`state_determined`
 (or determined).
 
-:ref:`particle_demonstrative`
+:ref:`Demonstrative particle<particle_demonstrative>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 These particles focus the attention of the reader/listener to the word,
@@ -74,39 +71,37 @@ phrase, or sentence that immediately follows. In English, they are
 commonly translated using words such as "See!" or "Look!" or "Behold!",
 etc.
 
-:ref:`particle_direct_object_marker`
+:ref:`Direct Object marker<particle_direct_object_marker>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This particle precedes the direct object in a sentence, used especially
 in places where there might be confusion.
 
-:ref:`particle_exhortation`
+:ref:`Exhortation particle<particle_exhortation>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Exhortation particles are used to emphasize or strengthen a request or
 command. They are often left untranslated in English.
 
-:ref:`particle_interjection`
+:ref:`Interjection<particle_interjection>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 These particles are exclamations of emotion. In English, they are
 commonly translated using words such as "Oh!" or "Woe!" or "Aha!", etc.
 
-:ref:`particle_interrogative`
+:ref:`Interrogative particle<particle_interrogative>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This prefix indicates that the sentence is a question and not a
 statement.
 
-:ref:`particle_negative`
+:ref:`Negative particle<particle_negative>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 These particles negate some word in the sentnce, usually a
-:ref:`verb`,
-or
-:ref:`adjective`.
+:ref:`verb<verb>` or :ref:`adjective<adjective>`.
 
-:ref:`particle_relative`
+:ref:`Relative particle<particle_relative>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 These particles introduce a relative clause or phrase, often more fully
