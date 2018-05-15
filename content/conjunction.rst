@@ -9,9 +9,7 @@ Summary
 -------
 
 Conjunctions connect words, phrases, sentences, or paragraphs. The most common conjunctions in English are
-"and," "or," "but," and "for."  Some 
-:ref:`particle`\s
-in Biblical Hebrew are closely related to conjunctions.
+"and," "or," "but," and "for."  Some :ref:`particles<particle>` in Biblical Hebrew are closely related to conjunctions.
 
 Article
 -------
@@ -26,23 +24,18 @@ components, but rather as a single grammatical entity with its own range
 of meanings which may or may not be different than the individual
 component words.
 
+Generally, there are eight different kinds of conjunctions in Biblical Hebrew: conjunctive ("and"); alternative ("or");
+contrastive ("but"); causal ("for"); conditional ("if"); concessive ("except"); affirmative ("surely"); restrictive ("only").
+Many conjunctions in Biblical Hebrew have potential to function in multiple categories.
+
 -וְ
 ---
 
-Sentences in Biblical Hebrew often begin with the conjunction ו (as
-either a consonant or a shureq vowel). This conjunction וְ ("and")
-cannot stand alone as an independent word but must be connected to
-another word as a prefix. This can be added to a
-:ref:`noun`,
-a
-:ref:`verb`,
-a
-:ref:`pronoun`,
-or a
-:ref:`particle`.
-The shewa in וְ can lengthen to a vowel, usually pathah (when paired
-with the definite article) or qamets (when paired with both the article
-and a ה prefix), but others are also possible.
+Sentences in Biblical Hebrew often begin with the conjunction ו (as either a consonant or a shureq vowel).
+This conjunction וְ ("and") cannot stand alone as an independent word but must be connected to another word as a prefix.
+This can be added to a :ref:`noun<noun>`, a :ref:`verb<verb>`, a :ref:`pronoun<pronoun>`, or a :ref:`particle<particle>`.
+The shewa in וְ can lengthen to a vowel, usually pathah (when paired with the definite article) or qamets 
+(when paired with both the article and a ה prefix), but others are also possible.
 
 .. note:: This conjunction is often left untranslated when it begins a
           sentence or clause, or when it appears within the sequential verbal
@@ -198,7 +191,7 @@ expresses purpose and one that expresses result. When כִּי functions as
 a causal conjunction, it is often translated into English simply as
 "for", which can express either purpose or result.
 
-Expresses purpose
+expresses purpose
 ^^^^^^^^^^^^^^^^^
 
 This means to express the purpose, reason, or cause for an action/event.
@@ -216,7 +209,7 @@ In English, this kind of causal conjunction is usually translated as
   "Then Yahweh God said to the snake, ""**Because** you did this, I will
      curse you."""
 
-Expresses result
+expresses result
 ^^^^^^^^^^^^^^^^
 
 This means to express the result or intended outcome of an action/event.
@@ -237,7 +230,7 @@ This is also a very common use of the word כִּי in Biblical Hebrew. This
 conjunction can describe either a hypothetical condition or an actual
 condition, as determined by the context.
 
-Expresses a hypothetical condition
+expresses a hypothetical condition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 A hypothetical condition expresses an imaginary action or event that has
@@ -257,7 +250,7 @@ desirability.
   "**If** you meet any man, do not greet him, and **if** anyone greets
      you, do not answer him."
 
-Expresses an actual condition
+expresses an actual condition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 An actual condition expresses an action or event that has actually
@@ -293,7 +286,7 @@ meaning of the word in any specific instance.
      her name will be Sarah."
 
 אִם
----
+----
 
 .. note:: Like the word כִּי, the word אִם in Biblical Hebrew is also
           extremely flexible in its meaning. If in doubt, it is recommended to
@@ -311,7 +304,7 @@ various other particles to form different compound conjunctions.
 Therefore, this word must be translated always with senstivity to the
 context to express the correct nuance.
 
-Expresses a hypothetical condition
+expresses a hypothetical condition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 A hypothetical condition expresses an imaginary action or event that has
@@ -337,7 +330,7 @@ an actual condition.
   **Though**\ \_stood Moses and-Samuel before-me
   **Even if** Moses or Samuel were standing in front of me
 
-Expresses an actual condition
+expresses an actual condition
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 An actual condition expresses an action or event that has actually
@@ -368,7 +361,7 @@ something that has happened in the past in certain circumstances.
   "**If** he said, 'The speckled animals will be your wages,' then all
      the flock bore speckled young."
 
-Disjunctive
+Alternative
 ~~~~~~~~~~~
 
 This use of the conjunction אִם is often found in a question and is
@@ -382,7 +375,7 @@ usually translated as "or" in English.
   Are you for us **or** for our enemies?
 
 וְעַתָּה
---------
+----
 
 The word עַתָּה ("now") in Biblical Hebrew often functions as a temporal adverb
 in a sentence. However, when עַתָּה appears at the beginning of a

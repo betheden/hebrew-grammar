@@ -115,7 +115,7 @@ determined by the context.
 
 .. note:: The subject of a verbal participle usually
           precedes the participle, in contrast to the normal conventions of
-          :ref:`word_order`.
+          :ref:`word order<word_order>`.
 
 .. csv-table:: Example: 1SA 3:8 –– expressing frequentive action
 
@@ -144,8 +144,8 @@ Functions as an :ref:`adjective<adjective>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 An adjectival participle immediately follows the noun it describes, and matches that noun in gender, number, and :ref:`definiteness<definiteness>`.
-An adjectival participle can either function as an :ref:`attributive<adjective-attributive>` adjective by itself
-or introduce an entire clause that functions as an adjective (either attributive or :ref:`predicative<adjective-predicative>`).
+An adjectival participle can either function as an adjective by itself or introduce an entire clause
+that functions as an adjective (either :ref:`attributive<adjective-attributive>` or :ref:`predicative<adjective-predicative>`).
 
 .. csv-table:: Example: DEU 4:24 –– a participle functioning by itself as an adjective
 
