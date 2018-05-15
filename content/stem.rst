@@ -78,7 +78,7 @@ their most common functions.
 
   --,Active Voice,Passive/Reflexive Voice
   Simple Action,"Qal (simple action, active voice)","Niphal (simple action, passive voice)"
-  Causative Action,"Hiphl (causative action, active voice)","Hophal (causative action, passive voice)"
+  Causative Action,"Hiphil (causative action, active voice)","Hophal (causative action, passive voice)"
   Intensive Action,"Piel (resultative action, active voice)","Pual (resultative action, passive voice)"
   Intensive Action,--,"Hithpael (resultative action, reflexive voice)" 
 
@@ -201,7 +201,7 @@ Passive voice
 Passive voice means that the subject of the verb is *receiving* the
 verbal action rather than *performing* the verbal action. In English, passive voice is
 expressed using the helping verb "to be." In Biblical Hebrew, the
-passive nature of the verbal action is expressed by the Niphal form of
+passive nature of the verbal action is expressed by the stem formation of
 the verb itself without any helping verbs.
 
 .. csv-table:: Example: 2KI 21:18
@@ -220,7 +220,7 @@ Reflexive voice means that the subject of the verb is *both* performing
 *and* receiving the verbal action. In English, reflexive voice is expressed
 using a reflexive pronoun as the object of the verb, "I tell *myself*".
 In Biblical Hebrew, the reflexive nature of the verbal action is
-expressed by the Niphal form of the verb itself without any additional
+expressed by the stem formation of the verb itself without any additional
 words.
 
 .. csv-table:: Example: NUM 1:21
