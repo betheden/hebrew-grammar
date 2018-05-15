@@ -79,10 +79,9 @@ their most common functions.
   Active Voice,Passive/Reflexive Voice
   Simple Action,"Qal (simple action, active voice)","Niphal (simple action, passive voice)"
   Causative Action,"Niphal (simple action, passive voice)","Hophal (causative action, passive voice)"
-  Intensive Action,"Piel (resultative action, active voice)[see note]","Pual (resultative action, passive voice)"
+  Intensive Action,"Piel (resultative action, active voice)","Pual (resultative action, passive voice)"
   Intensive Action,--,"Hithpael (resultative action, reflexive voice)"
 
-.. include:: includes/consult_dictionary.txt
 
 Expresses the kind of verbal action
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -165,6 +164,7 @@ way.
   "[dir.obj]\_their-altars you-break-down and-[dir.obj]\_their-pillars
      **you-shatter**"
   "you must break down their altars, **smash** their stone pillars"
+
 
 Expresses the voice of the verb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
