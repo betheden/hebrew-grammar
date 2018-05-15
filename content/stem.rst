@@ -53,19 +53,19 @@ qibbuts) vowel.
 :ref:`Piel<stem_piel>` stem
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Here the 2nd radical of the verb is doubled (with a daghesh), and
-usually have a shewa or a hireq under the 1st radical.
+Doubles the 2nd radical of the verb with a daghesh, and
+usually has a shewa or a hireq under the 1st radical.
 
 :ref:`Pual<stem_pual>` stem
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Also doubles the 2nd radical but often has a qibbuts under the 1st
+Also doubles the 2nd radical but usually has a qibbuts under the 1st
 radical.
 
 :ref:`Hithpael<stem_hithpael>` stem
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-It adds הִתְ (he with hireq and taw with shewa) before the verb, and
+Adds הִתְ (he with hireq and taw with shewa) before the verb, and
 puts a qamets or patah under the 1st radical.
 
 Function
