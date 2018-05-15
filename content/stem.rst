@@ -9,7 +9,7 @@ Summary
 -------
 
 The stem formation of a verb indicates both the kind of verbal action
-(simple, intensive, causative, etc.) and the voice (active, passive,
+(simple, stative, causative, etc.) and the voice (active, passive,
 reflexive, etc.) of the verb.
 
 Article
@@ -25,45 +25,45 @@ Form
 This is a brief overview on how to quickly recognize the simplest forms
 of each stem:
 
-:ref:`Qal<stem_qal>`
-^^^^^^^^^^^^^^^
+:ref:`Qal<stem_qal>` stem formation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The simplest form of the verb, often has "a" vowels (qamets or patah).
+The simplest form of the verb, usually with "a" vowels (qamets or patah).
 
-:ref:`Niphal<stem_niphal>`
-^^^^^^^^^^^^^^^^^^
+:ref:`Niphal<stem_niphal>` stem formation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Adds נִ (nun with hireq) to the beginning of the verb. If the form also
 adds a prefix (like in the prefix conjugation), the נ disappears and
 causes the 1st radical to double (with a daghesh).
 
-:ref:`Hiphil<stem_hiphil>`
-^^^^^^^^^^^^^^^^^^
+:ref:`Hiphil<stem_hiphil>` stem formation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Often has הִ (he with hireq) before the verb, or a patah under the
 letter that the form adds before the root.
 
-:ref:`Hophal<stem_hophal>`
-^^^^^^^^^^^^^^^^^^
+:ref:`Hophal<stem_hophal>` stem formation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Also adds a ה before the verb, but with a qamets hatuf (or sometimes
 qibbuts) vowel.
 
 
-:ref:`Piel<stem_piel>`
-^^^^^^^^^^^^^^^^
+:ref:`Piel<stem_piel>` stem formation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Here the 2nd radical of the verb is doubled (with a daghesh), and
 usually have a shewa or a hireq under the 1st radical.
 
-:ref:`Pual<stem_pual>`
-^^^^^^^^^^^^^^^^
+:ref:`Pual<stem_pual>` stem formation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Also doubles the 2nd radical but often has a qibbuts under the 1st
 radical.
 
-:ref:`Hithpael<stem_hithpael>`
-^^^^^^^^^^^^^^^^^^^^
+:ref:`Hithpael<stem_hithpael>` stem formation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 It adds הִתְ (he with hireq and taw with shewa) before the verb, and
 puts a qamets or patah under the 1st radical.
@@ -172,7 +172,7 @@ Expresses the voice of the verb
 Active voice
 ~~~~~~~~~~~~
 
-Active voice mean that the subject of the verb is performing the action described by the verb.
+Active voice means that the subject of the verb is performing the action described by the verb.
 Most verbs are in the active voice.
 
 .. csv-table:: Example: GEN 16:2
@@ -291,7 +291,3 @@ The uncommon stems are:
 :ref:`Qal Passive<stem_qal_passive>`
 -
 :ref:`Tiphil<stem_tiphil>`
-
-
-
-
