@@ -70,6 +70,8 @@ Function
 The conjunction וְ can express any of the following connective
 relationships:
 
+.. _conjunction-conjunctive:
+
 Conjunctive
 ^^^^^^^^^^
 
@@ -108,6 +110,8 @@ can be translated as “while” or “when” in English.
   "He hugged his brother Benjamin's neck and wept, **while Benjamin**
      wept on his neck."
 
+.. _conjunction-alternative:
+
 Alternative
 ^^^^^^^^^^^
 
@@ -128,6 +132,8 @@ translated as “or” in English.
      or your male servant, or your female servant, or your cattle, or the
      foreigner** who is within your gates."
 
+.. _conjunction-contrastive:
+
 Contrastive
 ^^^^^^^^^^^
 
@@ -140,6 +146,8 @@ English.
   **wenoah** matsa hen be'ene yehwah
   **But-Noah** found favor in-eyes-of Yahweh.
   **But Noah** found favor in the eyes of Yahweh.
+
+.. _conjunction-affirmative:
 
 Affirmative
 ^^^^^^^^^^^
@@ -181,6 +189,8 @@ used as a conditional conjunction (usually translated, "if"). Often,
 כִּי is conditional when it occurs at the beginning of a sentence and
 causal when it occurs in the middle (or toward the end) of a sentence,
 but there are notable exceptions to this general rule.
+
+.. _conjunction-causal:
 
 Causal
 ~~~~~~
@@ -292,6 +302,8 @@ meaning of the word in any specific instance.
           extremely flexible in its meaning. If in doubt, it is recommended to
           always consult a dictionary or lexicon for the exact meaning of the word
           in any specific instance.
+
+.. _conjunction-conditional:
 
 Conditional
 ~~~~~~~~~~~
