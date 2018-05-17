@@ -74,13 +74,12 @@ Function
 The following table is a brief overview of the most common stems and
 their most common functions.
 
-.. csv-table:: Common Stem Functions
+.. csv-table:: Most Common Stem Functions
 
-  Kind of Action,Active Voice,Passive Voice, Reflexive Voice
-  Simple,"Qal stem","Niphal stem",--
-  Causative,"Hiphil stem","Hophal stem",--
-  Resultative,"Piel stem","Pual stem","Hithpael stem"
-  Resultative,--,"Hithpael stem",-- 
+  --,Active Voice,Passive Voice, Reflexive Voice
+  Simple Action,"Qal stem","Niphal stem",--
+  Causative Action,"Hiphil stem","Hophal stem",--
+  Resultative Action,"Piel stem","Pual stem","Hithpael stem" 
 
 The stem formation of a verb performs the following functions:
 
@@ -297,5 +296,4 @@ The following stem formations occur only rarely in Biblical Hebrew:
 :ref:`Polpal<stem_polpal>` – 
 :ref:`Pulal<stem_pulal>` – 
 :ref:`Qal Passive<stem_qal_passive>` – 
-:ref:`Tiphil<stem_tiphil>`
-
+:ref:`Tiphil<stem_tiphil>`.
