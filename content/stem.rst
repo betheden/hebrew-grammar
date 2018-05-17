@@ -76,11 +76,11 @@ their most common functions.
 
 .. csv-table:: Common Stem Functions
 
-  --,Active Voice,Passive/Reflexive Voice
-  Simple Action,"Qal (simple action, active voice)","Niphal (simple action, passive voice)"
-  Causative Action,"Hiphil (causative action, active voice)","Hophal (causative action, passive voice)"
-  Intensive Action,"Piel (resultative action, active voice)","Pual (resultative action, passive voice)"
-  Intensive Action,--,"Hithpael (resultative action, reflexive voice)" 
+  Kind of Action,Active Voice,Passive Voice, Reflexive Voice
+  Simple,"Qal stem","Niphal stem",--
+  Causative,"Hiphil stem","Hophal stem",--
+  Resultative,"Piel stem","Pual stem","Hithpael stem"
+  Resultative,--,"Hithpael stem",-- 
 
 The stem formation of a verb performs the following functions:
 
