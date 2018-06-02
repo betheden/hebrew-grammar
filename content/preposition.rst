@@ -32,7 +32,7 @@ and thus changes its typical meaning. These specialized uses of prepositions are
 on :ref:`infinitive construct<infinitive_construct>` verbs.
 
 In Biblical Hebrew, there are 11 general categories of prepositions: spatial; temporal; locative; directional; instrumental;
-causal; explantory; correlative (the primary use of כְּ); comparative (a common use of מִן);
+causal; explanatory; correlative (the primary use of כְּ); comparative (a common use of מִן);
 indirect object (a common use of לְ); and direct object (a rare use of לְ).
 
 .. note:: Of all the different kinds of words, prepositions are perhaps the
