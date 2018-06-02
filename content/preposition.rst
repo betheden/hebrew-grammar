@@ -31,6 +31,10 @@ main verb of a sentence. In some of these instances, the preposition introduces 
 and thus changes its typical meaning. These specialized uses of prepositions are listed in the article
 on :ref:`infinitive construct<infinitive_construct>` verbs.
 
+In Biblical Hebrew, there are 11 general categories of prepositions: spatial; temporal; locative; directional; instrumental;
+causal; explantory; correlative (the primary use of כְּ); comparative (a common use of מִן);
+indirect object (a common use of לְ); and direct object (a rare use of לְ).
+
 .. note:: Of all the different kinds of words, prepositions are perhaps the
           most flexible in their meaning and are often translated in a variety of
           ways, or sometimes even left untranslated. For this reason, prepositions
