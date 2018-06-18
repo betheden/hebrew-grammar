@@ -57,13 +57,14 @@ Types
 In Biblical Hebrew, there are 11 general types of prepositions: spatial; temporal; locative; directional; instrumental;
 causal; explanatory; correlative (the primary use of כְּ); comparative (a common use of מִן);
 indirect object (a common use of לְ); and direct object (a rare use of לְ). 
-However, this are also other types of prepositions in Biblical Hebrew.
-
+However, this are also other types of prepositions in Biblical Hebrew.  The specific meanings of individual prepositions can
+be found in a dictionary or lexicon.
+ 
 Indirect Object
 ~~~~~~~~~~~~~~~
 
 A common use of the preposition לְ is to indicate the indirect object of the verb.  
-When used in this way, the preposition is usually transated into English with "to", or it can be left untranslated.
+When used in this way, the preposition is usually transated into English with "to" or "for", or it can be left untranslated.
 
 .. csv-table:: GEN 1:5 –– with the prefixed preposition לְ
 
@@ -82,15 +83,15 @@ When used in this way, the preposition is usually transated into English with "t
 Spatial
 ~~~~~~~
 
-Spatial prepositions are translated into English with terms such as "in", "on", "with", "beside", "under", etc.
+Spatial prepositions are translated into English with terms such as "in", "on", "under", "with", "beside", etc.
 This is a common use of the preposition בְּ.
 
 .. csv-table:: GEN 2:7 –– with the prefixed preposition בְּ
 
-  וַיִּפַּ֥ח **בְּ**אַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים
+  אֶת־קֹלְךָ֥ שָׁמַ֖עְתִּי בַּגָּ֑ן
   insert transliteration
-  and-he-breathed **in**-his-nostrils breath-of life
-  and breathed **into** his nostrils the breath of life
+  [dir-obj]\_your-sound I-heard **in**-the-garden
+  I heard you **in** the garden
 
 .. csv-table:: GEN 1:2 –– with the independent preposition עַל
 
@@ -98,6 +99,26 @@ This is a common use of the preposition בְּ.
   weruah 'elohim merahefeth **'al**-pene hammayim
   and-spirit-of God hovering **over**\ \_face-of the-waters
   The Spirit of God was moving **above** the surface of the waters.
+
+Locative
+~~~~~~~~
+
+Locative prepositions are translated into English with terms such as "to" or "from", etc.
+This is a common use of the prepositions אֶל and מִן.
+
+.. csv-table:: GEN 8:9 ––  with the prefixed preposition לְ
+
+  וַתָּ֤שָׁב אֵלָיו֙ אֶל־הַתֵּבָ֔ה
+  insert transliteration
+  And-she-returned **to** him, **to** the ark
+  and she returned **to** him **in** the ark
+  
+.. csv-table:: GEN 3:23 ––  with the independent preposition מִן
+
+  וַֽיְשַׁלְּחֵ֛הוּ יְהוָ֥ה אֱלֹהִ֖ים מִגַּן־עֵ֑דֶן
+  insert transliteration
+  And-he-sent-him-away Yahweh God **from**-the-garden-of_Eden
+  Therefore Yahweh God sent him out **from** the garden of Eden
 
 Temporal
 ~~~~~~~~
@@ -118,26 +139,6 @@ This is a common use of the preposition בְּ.
   insert transliteration
   **In-beginning** he-created God
   "**In the beginning,** God created"
-
-Locative
-~~~~~~~~
-
-Locative prepositions are translated into English with terms such as "to" or "from", etc.
-This is a common use of the prepositions לְ and מִן.
-
-.. csv-table:: ??? ––  with the prefixed preposition לְ
-
-  וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה
-  **welimshol** bayyom uvallaylah
-  **and to rule** in the day and in the night
-  **to rule** over the day and over the night
-  
-.. csv-table:: ??? ––  with the independent preposition מִן
-
-  וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה
-  **welimshol** bayyom uvallaylah
-  **and to rule** in the day and in the night
-  **to rule** over the day and over the night
 
 Instrumental
 ~~~~~~~~~~~~
@@ -165,32 +166,32 @@ Correlative
 Correlative prepositions are translated into English with terms such as "like", "as", "according to", etc.
 This is the primary use of the preposition כְּ.
 
-.. csv-table:: ??? –– with the prefixed preposition בְּ
+.. csv-table:: Gen 4:17 –– with the prefixed preposition כְּ
 
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
+  וַיִּקְרָא֙ שֵׁ֣ם הָעִ֔יר כְּשֵׁ֖ם בְּנ֥וֹ חֲנֽוֹךְ
+  insert transliteration
+  And-he-called name-of the-city **as**-name-of his-son Enoch
+  and named it after his son Enoch.
 
-.. csv-table:: ??? –– with the independent preposition ?
+.. csv-table:: GEN 12:4 –– preposition כְּ with relative particle אֲשֶׁר
 
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
+  וַיֵּ֣לֶךְ אַבְרָ֗ם כַּאֲשֶׁ֨ר דִּבֶּ֤ר אֵלָיו֙ יְהוָ֔ה
+  insert transliteration
+  And-he-went Abram **as**-what he-had-spoken to-him Yahweh
+  So Abram went, **as** Yahweh had told him to do
 
 Comparative
 ~~~~~~~~~~~
 
-Comparative prepositions are translated into English with terms such as "more than" or "less than", etc.
+Comparative prepositions are translated into English with terms such as "more than" or "greater than", etc.
 This is a common use of the preposition מִן.
 
-.. csv-table:: ??? –– with the prefixed preposition בְּ
+.. csv-table:: Gen 29:30 –– with the prefixed preposition מִן
 
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
+  וַיֶּאֱהַ֥ב גַּֽם־אֶת־רָחֵ֖ל מִלֵּאָ֑ה 
+  insert transliteration
+  And-he-loved also\_[dir-obj]\_Rachel **more-than**-Leah
+  but he loved Rachel **more than** Leah
 
 .. csv-table:: ??? –– with the independent preposition ?
 
@@ -225,12 +226,12 @@ Causal
 Causal prepositions are translated into English with terms such as "for" or "because", etc.
 This is a secondary use of the prepositions לְ and עַל.
 
-.. csv-table:: ??? ––  with the prefixed preposition לְ
+.. csv-table:: GEN 4:6 ––  with the prefixed preposition לְ
 
-  וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה
-  **welimshol** bayyom uvallaylah
-  **and to rule** in the day and in the night
-  **to rule** over the day and over the night
+  וְלָ֖מָּה נָפְל֥וּ פָנֶֽיךָ׃
+  insert transliteration
+  and-**for**-what he-is-fallen your-face
+  and **why** are you scowling?
 
 .. csv-table:: ??? –– with the independent preposition עַל
 
