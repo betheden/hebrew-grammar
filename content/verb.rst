@@ -20,7 +20,7 @@ subject of a sentence, or the subject itself. Therefore, the verb is
 often the most important word in understanding a sentence or a clause.
 
 Form
-~~~~
+----
 
 In Biblical Hebrew, the root of a verb consists of three consonants,
 sometimes called the tri-literal (meaning "three letters") root. In
@@ -29,75 +29,68 @@ easy to recognize, but "weak" verbs have one or more consonants that
 disappear in certain forms.
 
 Verbs in Biblical Hebrew change form according to both conjugation
-(:ref:`verb_perfect`,
-:ref:`verb_imperfect`,
-:ref:`infinitive_absolute`,
+(:ref:`Perfect<verb_perfect>`,
+:ref:`Imperfect<verb_imperfect>`,
+:ref:`Infinitive Absolute<infinitive_absolute>`,
 etc.) and stem formation
-(:ref:`stem_niphal`,
-:ref:`stem_hiphil`,
+(:ref:`Niphal<stem_niphal>`,
+:ref:`Hiphil<stem_hiphil>`,
 etc.). Generally speaking, changes in verb forms happen by adding
 prefixes/suffixes, by changing the vowels, or both. These changes in
 form show the
-:ref:`stem`
-formation of a verb with its conjugation, which includes the person
-(:ref:`person_second`,
+:ref:`stem formation<stem>`
+of a verb with its conjugation, which includes the person
+(:ref:`first<person_first>`, :ref:`second<person_second>`,
 or
-:ref:`person_third`),
+:ref:`third<person_third>`),
 the gender
-(:ref:`gender_masculine`
+(:ref:`masculine<gender_masculine>`
 or
-:ref:`gender_feminine`),
+:ref:`feminine<gender_feminine>`),
 the number
-(:ref:`number_singular`
+(:ref:`singular<number_singular>`
 or
-:ref:`number_plural`),
+:ref:`plural<number_plural>`),
 and sometimes the state
-(:ref:`state_absolute`
+(:ref:`absolute<state_absolute>`
 or
-:ref:`state_construct`).
+:ref:`construct<state_construct>`).
 The person, gender, and number of a verb always agree with the subject.
 
 Unlike English (but similar to other languages like Spanish), verbs in
-Biblical Hebrew do not require a separate :ref:`pronoun_personal`
+Biblical Hebrew do not require a separate :ref:`personal pronoun<pronoun_personal>`
 if the subject is not identified; this is because the form of the verb
-itself includes the subject. A :ref:`suffix_pronominal`
+itself includes the subject. A :ref:`pronominal suffix<suffix_pronominal>`
 attached to a verb can function as its object.
 
 .. _verb-finite:
 
-finite
-^^^^^^
+Finite verbs
+~~~~~~~~~~~~
 
 Finite verbs are verbs that have a subject and do not require any verbal
-complement to form a complete sentence. Their form shows tense (:ref:`verb_perfect`,
-:ref:`verb_imperfect`,
-:ref:`verb_imperative`,
-etc.), as well as person and number. Biblical Hebrew has 7 finite verb
-forms – Perfect, Imperfect, Sequential perfect, Sequential Imperfect, Imperative, Jussive, and
-Cohortative.
+complement to form a complete sentence. Their form shows tense as well as person and number. 
+Biblical Hebrew has 7 finite verb forms: :ref:`Perfect<verb_perfect>`, :ref:`Imperfect<verb_imperfect>`,
+:ref:`Sequential Perfect<verb_sequential_perfect>`, :ref:`Sequential Imperfect<verb_sequential_imperfect>`, 
+:ref:`Imperative<verb_imperative>`, :ref:`Jussive<verb_jussive>`, and :ref:`Cohortative<verb_cohortative>`.
 
 .. _verb-non-finite:
 
-non-finite
-^^^^^^^^^^
+Non-finite verbs
+~~~~~~~~~~~~~~~~
 
 Properly speaking, non-finite verbs are verbal complements that require
-a finite verb to form a complete sentence. Biblical Hebrew has three
-non-finite verb forms, namely the :ref:`infinitive_absolute`,
-:ref:`infinitive_construct`,
-and participles (both
-:ref:`participle_active`
-and
-:ref:`participle_passive`).
+a finite verb to form a complete sentence. The non-finite verb forms in Biblical Hebrew include
+the :ref:`infinitive_absolute`, the :ref:`infinitive_construct`, and the participles (both
+:ref:`active<participle_active>`and :ref:`passive<participle_passive>`).
 Non-finite verbs can sometimes describe an action or an event in such a
-way that the word functions like a
-:ref:`noun`.
+way that the word functions like a :ref:`noun<noun`>.
 
 .. note:: In Biblical Hebrew, the non-finite verb forms are sometimes used
-          as finite verbs.
+          as finite verbs, and the imperfect form is sometimes used as a non-finite verb.
 
-Types of verbs
-~~~~~~~~~~~~~~
+Types
+-----
 
 Grammarians often distinguish between different types of verbs. When
 considering the best way to translate a sentence, it is helpful to
@@ -105,8 +98,8 @@ understand what kind of verb is being used in any given instance.
 
 .. _verb-dynamic:
 
-dynamic (or action)
-~~~~~~~~~~~~~~~~~~~
+Dynamic (or action) verbs
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dynamic verbs describe a subject performing an action. The subject is
 *doing* something.
@@ -127,8 +120,8 @@ Dynamic verbs describe a subject performing an action. The subject is
 
 .. _verb-stative:
 
-stative (or non-action)
-~~~~~~~~~~~~~~~~~~~~~~~
+Stative (or non-action) verbs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Rather than describing a specific action, stative verbs describe the
 subject's state of being (the way the subject is). The subject is *not*
@@ -150,8 +143,8 @@ doing anything.
 
 .. _verb-transitive:
 
-transitive
-~~~~~~~~~~
+Transitive verbs
+~~~~~~~~~~~~~~~~
 
 A transitive verb is an action verb which requires an object that
 receives the verbal action. A sentence with a transitive verb is not
@@ -179,8 +172,8 @@ You must keep...\ *what?*, for example:
 
 .. _verb-intransitive:
 
-intransitive
-~~~~~~~~~~~~
+Intransitive verbs
+~~~~~~~~~~~~~~~~~~
 
 An intransitive verb is a verb that does NOT require an object to
 receive the verbal action. A sentence with an intransitive verb is
@@ -203,13 +196,13 @@ intransitive, but stative verbs are always intransitive.
 
 .. _verb-linking-verbs:
 
-linking
-~~~~~~~
+Linking verbs
+~~~~~~~~~~~~~
 
 Linking verbs are verbs that link two
-:ref:`noun`,
+:ref:`noun<noun>`,
 or a noun and an
-:ref:`adjective`.
+:ref:`adjective<adjective>`.
 Hebrew has very few linking verbs, so often a linking verb has to be
 supplied in English.
 
@@ -229,8 +222,8 @@ supplied in English.
 
 .. _verb-helping-verb:
 
-helping
-~~~~~~~
+Helping verbs
+~~~~~~~~~~~~~
 
 Biblical Hebrew does not use helping verbs, but English does. Often, it is
 necessary to supply a helping verb in English to express the meaning of

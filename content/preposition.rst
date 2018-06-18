@@ -31,10 +31,6 @@ main verb of a sentence. In some of these instances, the preposition introduces 
 and thus changes its typical meaning. These specialized uses of prepositions are listed in the article
 on :ref:`infinitive construct<infinitive_construct>` verbs.
 
-In Biblical Hebrew, there are 11 general categories of prepositions: spatial; temporal; locative; directional; instrumental;
-causal; explanatory; correlative (the primary use of כְּ); comparative (a common use of מִן);
-indirect object (a common use of לְ); and direct object (a rare use of לְ).
-
 .. note:: Of all the different kinds of words, prepositions are perhaps the
           most flexible in their meaning and are often translated in a variety of
           ways, or sometimes even left untranslated. For this reason, prepositions
@@ -55,36 +51,46 @@ Form
   noun + definite article only,הַנָּהָר,hannahar,the river
   noun + preposition + definite article,בַּנָּהָר,bannahar,in the river
 
-Examples
---------
+Types
+-----
 
-.. csv-table:: GEN 1:1 ––  בְּ preposition without definite article.
+In Biblical Hebrew, there are 11 general types of prepositions: spatial; temporal; locative; directional; instrumental;
+causal; explanatory; correlative (the primary use of כְּ); comparative (a common use of מִן);
+indirect object (a common use of לְ); and direct object (a rare use of לְ). 
+However, this are also other types of prepositions in Biblical Hebrew.
 
-  בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
-  **bereshith** bara 'elohim
-  **In-beginning** he-created God
-  "**In the beginning,** God created"
+Indirect Object
+~~~~~~~~~~~~~~~
 
-.. csv-table:: ISA 5:11 –– בְּ preposition with definite article (shewa lengthens to pathah vowel).
+A common use of the preposition לְ is to indicate the indirect object of the verb.  
+When used in this way, the preposition is usually transated into English with "to", or it can be left untranslated.
 
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
+.. csv-table:: GEN 1:5 –– with the prefixed preposition לְ
 
-.. csv-table:: GEN 1:5 –– לְ preposition with definite article (shewa lengthens to qamets vowel).
-
-  וַיִּקְרָ֨א אֱלֹהִ֤ים׀ **לָאֹור֙** יֹ֔ום
+  וַיִּקְרָ֨א אֱלֹהִ֤ים׀ **לָ**אֹור֙ יֹ֔ום
   wayyiqra 'elohim **la'owr** yowm
-  And-he-called **to-the-light** day
-  "God called **the light** ""day"""
+  And-he-called **to**-the-light day
+  "God called the light ""day"""
 
-.. csv-table:: GEN 1:18 ––  לְ preposition with infinitive construct verb.
+.. csv-table:: GEN 3:2 –– with the independent preposition אֶל
 
-  וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה
-  **welimshol** bayyom uvallaylah
-  **and to rule** in the day and in the night
-  **to rule** over the day and over the night
+  וַתֹּ֥אמֶר הָֽאִשָּׁ֖ה אֶל־הַנָּחָ֑שׁ
+  insert transliteration
+  And-she-said the-woman **to** _the-serpent
+  The woman said **to** the serpent
+
+Spatial
+~~~~~~~
+
+Spatial prepositions are translated into English with terms such as "in", "on", "with", "beside", "under", etc.
+This is a common use of the preposition בְּ.
+
+.. csv-table:: GEN 2:7 –– with the prefixed preposition בְּ
+
+  וַיִּפַּ֥ח **בְּ**אַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים
+  insert transliteration
+  and-he-breathed **in**-his-nostrils breath-of life
+  and breathed **into** his nostrils the breath of life
 
 .. csv-table:: GEN 1:2 –– with the independent preposition עַל
 
@@ -92,3 +98,175 @@ Examples
   weruah 'elohim merahefeth **'al**-pene hammayim
   and-spirit-of God hovering **over**\ \_face-of the-waters
   The Spirit of God was moving **above** the surface of the waters.
+
+Temporal
+~~~~~~~~
+
+Temporal prepositions are translated into English with terms such as "in", "at", "before", "after", etc.
+This is a common use of the preposition בְּ.
+
+.. csv-table:: GEN 1:1 ––  with the prefixed preposition בְּ
+
+  בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
+  insert transliteration
+  **In-beginning** he-created God
+  "**In the beginning,** God created"
+
+.. csv-table:: ??? ––  with the independent preposition ???
+
+  בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
+  insert transliteration
+  **In-beginning** he-created God
+  "**In the beginning,** God created"
+
+Locative
+~~~~~~~~
+
+Locative prepositions are translated into English with terms such as "to" or "from", etc.
+This is a common use of the prepositions לְ and מִן.
+
+.. csv-table:: ??? ––  with the prefixed preposition לְ
+
+  וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה
+  **welimshol** bayyom uvallaylah
+  **and to rule** in the day and in the night
+  **to rule** over the day and over the night
+  
+.. csv-table:: ??? ––  with the independent preposition מִן
+
+  וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה
+  **welimshol** bayyom uvallaylah
+  **and to rule** in the day and in the night
+  **to rule** over the day and over the night
+
+Instrumental
+~~~~~~~~~~~~
+
+Instrumental prepositions are translated into English with terms such as "by", "with", "by means of", etc.
+This is a common use of the preposition בְּ.
+
+.. csv-table:: ??? –– with the prefixed preposition בְּ
+
+  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
+  howy mashkime **vabboqer**
+  Woe those-rising-early **in-the-morning**
+  Woe to those who rise up early **in the morning**
+
+.. csv-table:: ??? –– with the independent preposition ?
+
+  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
+  howy mashkime **vabboqer**
+  Woe those-rising-early **in-the-morning**
+  Woe to those who rise up early **in the morning**
+
+Correlative
+~~~~~~~~~~~
+
+Correlative prepositions are translated into English with terms such as "like", "as", "according to", etc.
+This is the primary use of the preposition כְּ.
+
+.. csv-table:: ??? –– with the prefixed preposition בְּ
+
+  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
+  howy mashkime **vabboqer**
+  Woe those-rising-early **in-the-morning**
+  Woe to those who rise up early **in the morning**
+
+.. csv-table:: ??? –– with the independent preposition ?
+
+  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
+  howy mashkime **vabboqer**
+  Woe those-rising-early **in-the-morning**
+  Woe to those who rise up early **in the morning**
+
+Comparative
+~~~~~~~~~~~
+
+Comparative prepositions are translated into English with terms such as "more than" or "less than", etc.
+This is a common use of the preposition מִן.
+
+.. csv-table:: ??? –– with the prefixed preposition בְּ
+
+  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
+  howy mashkime **vabboqer**
+  Woe those-rising-early **in-the-morning**
+  Woe to those who rise up early **in the morning**
+
+.. csv-table:: ??? –– with the independent preposition ?
+
+  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
+  howy mashkime **vabboqer**
+  Woe those-rising-early **in-the-morning**
+  Woe to those who rise up early **in the morning**
+
+Directional
+~~~~~~~~~~~
+
+Directional prepositions are translated into English with terms such as "toward", etc.
+This is a common use of the preposition לְ.
+
+.. csv-table:: ??? –– with the prefixed preposition בְּ
+
+  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
+  howy mashkime **vabboqer**
+  Woe those-rising-early **in-the-morning**
+  Woe to those who rise up early **in the morning**
+
+.. csv-table:: ??? –– with the independent preposition ?
+
+  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
+  howy mashkime **vabboqer**
+  Woe those-rising-early **in-the-morning**
+  Woe to those who rise up early **in the morning**
+
+Causal
+~~~~~~
+
+Causal prepositions are translated into English with terms such as "for" or "because", etc.
+This is a secondary use of the prepositions לְ and עַל.
+
+.. csv-table:: ??? ––  with the prefixed preposition לְ
+
+  וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה
+  **welimshol** bayyom uvallaylah
+  **and to rule** in the day and in the night
+  **to rule** over the day and over the night
+
+.. csv-table:: ??? –– with the independent preposition עַל
+
+  וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת **עַל**\ ־פְּנֵ֥י הַמָּֽיִם
+  weruah 'elohim merahefeth **'al**-pene hammayim
+  and-spirit-of God hovering **over**\ \_face-of the-waters
+  The Spirit of God was moving **above** the surface of the waters.
+
+Explanatory
+~~~~~~~~~~~
+
+.. csv-table:: ??? –– with the prefixed preposition בְּ
+
+  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
+  howy mashkime **vabboqer**
+  Woe those-rising-early **in-the-morning**
+  Woe to those who rise up early **in the morning**
+
+.. csv-table:: ??? –– with the independent preposition ?
+
+  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
+  howy mashkime **vabboqer**
+  Woe those-rising-early **in-the-morning**
+  Woe to those who rise up early **in the morning**
+
+Direct Object
+~~~~~~~~~~~~~
+
+A rare use of the preposition לְ is to indicate the direct object of the verb. When used in this way,
+the preposition is almost always left untranslated in English.
+
+.. csv-table:: ???
+
+  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
+  howy mashkime **vabboqer**
+  Woe those-rising-early **in-the-morning**
+  Woe to those who rise up early **in the morning**
+
+
