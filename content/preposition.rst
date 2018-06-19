@@ -54,12 +54,13 @@ Form
 Types
 -----
 
-In Biblical Hebrew, there are 11 general types of prepositions: spatial; temporal; locative; directional; instrumental;
-causal; explanatory; correlative (the primary use of כְּ); comparative (a common use of מִן);
-indirect object (a common use of לְ); and direct object (a rare use of לְ). 
+In Biblical Hebrew, there are 11 general types of prepositions: indirect object; spatial; locative; temporal; instrumental;
+correlative; comparative; directional; causal; explanatory; and direct object. 
 However, this are also other types of prepositions in Biblical Hebrew.  The specific meanings of individual prepositions can
 be found in a dictionary or lexicon.
- 
+
+.. _preposition-ind-obj:
+
 Indirect Object
 ~~~~~~~~~~~~~~~
 
@@ -79,6 +80,8 @@ When used in this way, the preposition is usually transated into English with "t
   insert transliteration
   And-she-said the-woman **to** _the-serpent
   The woman said **to** the serpent
+
+.. _preposition-spatial:
 
 Spatial
 ~~~~~~~
@@ -100,6 +103,8 @@ This is a common use of the preposition בְּ.
   and-spirit-of God hovering **over**\ \_face-of the-waters
   The Spirit of God was moving **above** the surface of the waters.
 
+.. _preposition-locative:
+
 Locative
 ~~~~~~~~
 
@@ -119,6 +124,8 @@ This is a common use of the prepositions אֶל and מִן.
   insert transliteration
   And-he-sent-him-away Yahweh God **from**-the-garden-of_Eden
   Therefore Yahweh God sent him out **from** the garden of Eden
+
+.. _preposition-temporal:
 
 Temporal
 ~~~~~~~~
@@ -140,6 +147,8 @@ This is a common use of the preposition בְּ.
   **until** you-return to_the-ground
   **until** you return to the ground
 
+.. _preposition-instrumental:
+
 Instrumental
 ~~~~~~~~~~~~
 
@@ -153,12 +162,14 @@ This is a common use of the preposition בְּ.
   **By**-sweat-of your-face you-will-eat break
   **By** the sweat of your face you will eat bread
 
-.. csv-table:: Gen 4:1 –– with the independent preposition ?
+.. csv-table:: GEN 4:1 –– with the independent preposition ?
 
   וַתֹּ֕אמֶר קָנִ֥יתִי אִ֖ישׁ אֶת־יְהוָֽה
   insert transliteration
   And-she-said I-acquired man **with**\_Yahweh
-  She said "I have produced a man **with** Yahweh's help."
+  She said "I have produced a man **with** Yahweh's help.
+
+.. _preposition-correlative:
 
 Correlative
 ~~~~~~~~~~~
@@ -166,7 +177,7 @@ Correlative
 Correlative prepositions are translated into English with terms such as "like", "as", "according to", etc.
 This is the primary use of the preposition כְּ.
 
-.. csv-table:: Gen 4:17 –– with the prefixed preposition כְּ
+.. csv-table:: GEN 4:17 –– with the prefixed preposition כְּ
 
   וַיִּקְרָא֙ שֵׁ֣ם הָעִ֔יר כְּשֵׁ֖ם בְּנ֥וֹ חֲנֽוֹךְ
   insert transliteration
@@ -179,6 +190,8 @@ This is the primary use of the preposition כְּ.
   insert transliteration
   And-he-went Abram **as**-what he-had-spoken to-him Yahweh
   So Abram went **as** Yahweh had told him to do
+
+.. _preposition-comparative:
 
 Comparative
 ~~~~~~~~~~~
@@ -200,13 +213,15 @@ This is a common use of the preposition מִן.
   And-serpent he-was shrewd **from**-all-of animals-of the-field
   Now the serpent was **more** shrewd **than** any other beast of the field
 
+.. _preposition-directional:
+
 Directional
 ~~~~~~~~~~~
 
 Directional prepositions are translated into English with terms such as "to", "toward", etc.
 This is a common use of the preposition לְ.
 
-.. csv-table:: GEN 18:16 –– with the prefixed preposition בְּ
+.. csv-table:: ISA 51:6 –– with the prefixed preposition לְ
 
   שְׂאוּ֩ לַשָּׁמַ֨יִם עֵֽינֵיכֶ֜ם
   insert transliteration
@@ -219,6 +234,8 @@ This is a common use of the preposition לְ.
   insert transliteration
   And-they-looked **on**\_face-of Sodom
   and looked down **toward** Sodom
+
+.. _preposition-causal:
 
 Causal
 ~~~~~~
@@ -240,6 +257,8 @@ This is a secondary use of the prepositions לְ and עַל.
   Lest_they-kill-me men-of the-place **because-of**\_Rebekah
   The men of this place will kill me **to get** Rebekah
 
+.. _preposition-explanatory:
+
 Explanatory
 ~~~~~~~~~~~
 
@@ -260,13 +279,15 @@ This is a common use of the preposition לְ.
   And-I-took [dir.obj]-her to-me **as**-wife
   I took her to be my wife
 
+.. _preposition-dir-obj:
+
 Direct Object
 ~~~~~~~~~~~~~
 
 A rare use of the preposition לְ is to indicate the direct object of the verb. When used in this way,
 the preposition is almost always left untranslated in English.
 
-.. csv-table:: 1 Chr 29:22
+.. csv-table:: 1 CHR 29:22
 
   וַיַּמְלִ֤יכוּ שֵׁנִית֙ לִשְׁלֹמֹ֣ה בֶן־דָּוִ֔יד
   insert transliteration

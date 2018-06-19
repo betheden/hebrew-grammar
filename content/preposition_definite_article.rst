@@ -12,8 +12,7 @@ A preposition introduces a phrase that describes another word/concept within a s
 However, like :ref:`adverbs<adverb>` and :ref:`particles<particle>`, sometimes a prepositional phrase can describe the sentence as a whole.
 In Biblical Hebrew, prepositions can also be used with an infinitive construct verb to show its relationship to the main verb of a sentence.
 
-.. note:: When a word contains both a prefixed preposition and a :ref:`definite article<particle_definite_article>`,
-the ה consonant of the definite article disappears and the shewa under the preposition lengthens,
+.. note:: When a word contains both a prefixed preposition and a :ref:`definite article<particle_definite_article>`, the ה consonant of the definite article disappears and the shewa under the preposition lengthens,
 usually either to a pathah vowel or a qamets vowel.
 
 Article
@@ -43,6 +42,13 @@ prepositions are listed in the article on :ref:`infinitive construct<infinitive_
           use. A dictionary or lexicon will describe the various possible meanings
           of each preposition, but generally will not include a complete list of
           individual usages.
+
+In Biblical Hebrew, there are 11 general types of prepositions: :ref:`indirect object<preposition-ind-obj>`;
+:ref:`spatial<preposition-spatial>`; :ref:`locative<preposition-locative>`; :ref:`temporal<preposition-temporal>`;
+:ref:`instrumental<preposition-instrumental>`; :ref:`correlative<preposition-correlative>`; :ref:`comparative<preposition-comparative>`; 
+:ref:`directional<preposition-directional>`; :ref:`causal<preposition-causal>`; :ref:`explanatory<preposition-explanatory>`; 
+and :ref:`direct object<preposition-dir-obj>`. However, this are also other types of prepositions in Biblical Hebrew.  
+The specific meanings of individual prepositions can be found in a dictionary or lexicon.
 
 Form
 ----
