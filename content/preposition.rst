@@ -110,7 +110,7 @@ This is a common use of the prepositions אֶל and מִן.
 
   וַתָּ֤שָׁב אֵלָיו֙ אֶל־הַתֵּבָ֔ה
   insert transliteration
-  And-she-returned **to** him, **to** the ark
+  And-she-returned **to** him **to** the ark
   and she returned **to** him **in** the ark
   
 .. csv-table:: GEN 3:23 ––  with the independent preposition מִן
@@ -158,7 +158,7 @@ This is a common use of the preposition בְּ.
   וַתֹּ֕אמֶר קָנִ֥יתִי אִ֖ישׁ אֶת־יְהוָֽה
   insert transliteration
   And-she-said I-acquired man **with**\_Yahweh
-  She said, "I have produced a man **with** Yahweh's help."
+  She said "I have produced a man **with** Yahweh's help."
 
 Correlative
 ~~~~~~~~~~~
@@ -178,7 +178,7 @@ This is the primary use of the preposition כְּ.
   וַיֵּ֣לֶךְ אַבְרָ֗ם כַּאֲשֶׁ֨ר דִּבֶּ֤ר אֵלָיו֙ יְהוָ֔ה
   insert transliteration
   And-he-went Abram **as**-what he-had-spoken to-him Yahweh
-  So Abram went, **as** Yahweh had told him to do
+  So Abram went **as** Yahweh had told him to do
 
 Comparative
 ~~~~~~~~~~~
@@ -233,12 +233,12 @@ This is a secondary use of the prepositions לְ and עַל.
   and-**for**-what he-is-fallen your-face
   and **why** are you scowling?
 
-.. csv-table:: ??? –– with the independent preposition עַל
+.. csv-table:: GEN 26:7 –– with the independent preposition עַל
 
-  וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת **עַל**\ ־פְּנֵ֥י הַמָּֽיִם
-  weruah 'elohim merahefeth **'al**-pene hammayim
-  and-spirit-of God hovering **over**\ \_face-of the-waters
-  The Spirit of God was moving **above** the surface of the waters.
+  פֶּן־יַֽהַרְגֻ֜נִי אַנְשֵׁ֤י הַמָּקוֹם֙ עַל־רִבְקָ֔ה 
+  insert transliteration
+  Lest_they-kill-me men-of the-place **because-of**\_Rebekah
+  The men of this place will kill me **to get** Rebekah
 
 Explanatory
 ~~~~~~~~~~~
