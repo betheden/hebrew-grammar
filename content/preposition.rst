@@ -63,7 +63,7 @@ be found in a dictionary or lexicon.
 Indirect Object
 ~~~~~~~~~~~~~~~
 
-A common use of the preposition לְ is to indicate the indirect object of the verb.  
+A common use of the preposition לְ (also אֶל, with verbs of speaking) is to indicate the indirect object or recipient of the verbal action.
 When used in this way, the preposition is usually transated into English with "to" or "for", or it can be left untranslated.
 
 .. csv-table:: GEN 1:5 –– with the prefixed preposition לְ
@@ -123,22 +123,22 @@ This is a common use of the prepositions אֶל and מִן.
 Temporal
 ~~~~~~~~
 
-Temporal prepositions are translated into English with terms such as "in", "at", "before", "after", etc.
+Temporal prepositions are translated into English with terms such as "in", "at", "until", "before", "after", etc.
 This is a common use of the preposition בְּ.
 
 .. csv-table:: GEN 1:1 ––  with the prefixed preposition בְּ
 
   בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
   insert transliteration
-  **In-beginning** he-created God
-  "**In the beginning,** God created"
+  **In**-beginning he-created God
+  **In** the beginning God created
 
-.. csv-table:: ??? ––  with the independent preposition ???
+.. csv-table:: GEN 3:19 ––  with the independent preposition עַד
 
-  בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
+  עַ֤ד שֽׁוּבְךָ֙ אֶל־הָ֣אֲדָמָ֔ה
   insert transliteration
-  **In-beginning** he-created God
-  "**In the beginning,** God created"
+  **until** you-return to_the-ground
+  **until** you return to the ground
 
 Instrumental
 ~~~~~~~~~~~~
@@ -146,19 +146,19 @@ Instrumental
 Instrumental prepositions are translated into English with terms such as "by", "with", "by means of", etc.
 This is a common use of the preposition בְּ.
 
-.. csv-table:: ??? –– with the prefixed preposition בְּ
+.. csv-table:: GEN 3:19 –– with the prefixed preposition בְּ
 
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
+  בְּזֵעַ֤ת אַפֶּ֙יךָ֙ תֹּ֣אכַל לֶ֔חֶם
+  insert transliteration
+  **By**-sweat-of your-face you-will-eat break
+  **By** the sweat of your face you will eat bread
 
-.. csv-table:: ??? –– with the independent preposition ?
+.. csv-table:: Gen 4:1 –– with the independent preposition ?
 
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
+  וַתֹּ֕אמֶר קָנִ֥יתִי אִ֖ישׁ אֶת־יְהוָֽה
+  insert transliteration
+  And-she-said I-acquired man **with**\_Yahweh
+  She said, "I have produced a man **with** Yahweh's help."
 
 Correlative
 ~~~~~~~~~~~
@@ -193,32 +193,32 @@ This is a common use of the preposition מִן.
   And-he-loved also\_[dir-obj]\_Rachel **more-than**-Leah
   but he loved Rachel **more than** Leah
 
-.. csv-table:: ??? –– with the independent preposition ?
+.. csv-table:: GEN 3:1 –– with the prefixed preposition מִן
 
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
+  וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם מִכֹּל֙ חַיַּ֣ת הַשָּׂדֶ֔ה
+  insert transliteration
+  And-serpent he-was shrewd **from**-all-of animals-of the-field
+  Now the serpent was **more** shrewd **than** any other beast of the field
 
 Directional
 ~~~~~~~~~~~
 
-Directional prepositions are translated into English with terms such as "toward", etc.
+Directional prepositions are translated into English with terms such as "to", "toward", etc.
 This is a common use of the preposition לְ.
 
-.. csv-table:: ??? –– with the prefixed preposition בְּ
+.. csv-table:: GEN 18:16 –– with the prefixed preposition בְּ
 
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
+  שְׂאוּ֩ לַשָּׁמַ֨יִם עֵֽינֵיכֶ֜ם
+  insert transliteration
+  you-lift **to**-the-heavens your-eyes
+  Lift up your eyes **to** the sky
 
-.. csv-table:: ??? –– with the independent preposition ?
+.. csv-table:: GEN 18:16 –– with the independent preposition עַל
 
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
+  וַיַּשְׁקִ֖פוּ עַל־פְּנֵ֣י סְדֹ֑ם 
+  insert transliteration
+  And-they-looked **on**\_face-of Sodom
+  and looked down **toward** Sodom
 
 Causal
 ~~~~~~
@@ -243,19 +243,22 @@ This is a secondary use of the prepositions לְ and עַל.
 Explanatory
 ~~~~~~~~~~~
 
-.. csv-table:: ??? –– with the prefixed preposition בְּ
+Explanatory prepositions are often translated into English with terms such as "as", "for", "to", or it can be left untranslated.
+This is a common use of the preposition לְ.
 
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
+.. csv-table:: GEN 1:14 –– with the prefixed preposition לְ
 
-.. csv-table:: ??? –– with the independent preposition ?
+  וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
+  insert transliteration
+  And-they-are **for**-signs and-**for**-seasons and-**for**-days and-years
+  and let them be **as** signs, **for** seasons, **for** days and years
 
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
+.. csv-table:: GEN 12:19 –– with the prefixed preposition לְ
+
+  וָאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה 
+  insert transliteration
+  And-I-took [dir.obj]-her to-me **as**-wife
+  I took her to be my wife
 
 Direct Object
 ~~~~~~~~~~~~~
@@ -263,11 +266,11 @@ Direct Object
 A rare use of the preposition לְ is to indicate the direct object of the verb. When used in this way,
 the preposition is almost always left untranslated in English.
 
-.. csv-table:: ???
+.. csv-table:: 1 Chr 29:22
 
-  הֹ֛וי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר
-  howy mashkime **vabboqer**
-  Woe those-rising-early **in-the-morning**
-  Woe to those who rise up early **in the morning**
+  וַיַּמְלִ֤יכוּ שֵׁנִית֙ לִשְׁלֹמֹ֣ה בֶן־דָּוִ֔יד
+  insert transliteration
+  And-they-crowned second **[dir.obj]**-Solomon son-of_David
+  They made Solomon, David's son, king a second time
 
 
