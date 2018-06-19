@@ -24,9 +24,11 @@ components, but rather as a single grammatical entity with its own range
 of meanings which may or may not be different than the individual
 component words.
 
-Generally, there are eight different kinds of conjunctions in Biblical Hebrew: conjunctive ("and"); alternative ("or");
-contrastive ("but"); causal ("for"); conditional ("if"); concessive ("except"); affirmative ("surely"); restrictive ("only").
-Many conjunctions in Biblical Hebrew have potential to function in multiple categories.
+Generally, there are eight different kinds of conjunctions in Biblical Hebrew: :ref:`conjunctive<conjunction-conjunctive>` ("and");
+:ref:`alternative<conjunction-alternative>` ("or"); :ref:`contrastive<conjunction-contrastive>` ("but");
+:ref:`causal<conjunction-causal>` ("for"); :ref:`conditional<conjunction-conditional>` ("if");
+:ref:`concessive<conjunction-concessive>` ("except"); :ref:`affirmative<conjunction-affirmative>` ("surely");
+:ref:`restrictive<conjunction-restrictive>` ("only"). Many conjunctions in Biblical Hebrew have potential to function in multiple categories.
 
 -וְ
 ---
