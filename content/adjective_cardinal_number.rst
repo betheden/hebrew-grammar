@@ -16,7 +16,7 @@ Article
 
 Biblical Hebrew does not contain numerals ("1", "2", "3", etc.) but
 rather uses words to express numbers ("one", "two", "three", etc.).
-There are two different kinds of numbers: cardinal numbers and :ref:`adjective_ordinal_number`.
+There are two different kinds of numbers: cardinal numbers and :ref:`ordinal numbers<adjective_ordinal_number>`.
 Cardinal numbers are used either to express the name of a number itself
 or to express the quantity of a thing ("one", "two", "three", etc.).
 
