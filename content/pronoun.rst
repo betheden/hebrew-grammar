@@ -8,7 +8,7 @@ Pronoun
 Summary
 -------
 
-A pronoun is a word that refers to a person or a thing, but in an indirect way.  
+A pronoun is a word that refers to a person or a thing in an indirect way.  
 
 Article
 -------

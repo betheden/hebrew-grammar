@@ -12,8 +12,8 @@ A preposition introduces a phrase that describes another word/concept within a s
 However, like :ref:`adverbs<adverb>` and :ref:`particles<particle>`, sometimes a prepositional phrase can describe the sentence as a whole.
 In Biblical Hebrew, prepositions can also be used with an infinitive construct verb to show its relationship to the main verb of a sentence.
 
-.. note:: When a word contains both a prefixed preposition and a :ref:`definite article<particle_definite_article>`, the ה consonant of the definite article disappears and the shewa under the preposition lengthens,
-usually either to a pathah vowel or a qamets vowel.
+.. note:: When a word contains both a prefixed preposition and a :ref:`definite article<particle_definite_article>`, the ה consonant of the definite article disappears
+and the shewa under the preposition lengthens, usually either to a pathah vowel or a qamets vowel.
 
 Article
 -------

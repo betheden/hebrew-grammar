@@ -37,7 +37,7 @@ on :ref:`infinitive construct<infinitive_construct>` verbs.
           must always be translated with great sensitivity to the context of each
           use. A dictionary or lexicon will describe the various possible meanings
           of each preposition, but generally will not include a complete list of
-          individual usages.
+          individual uses.
 
 Form
 ----

@@ -20,14 +20,13 @@ There are two different kinds of numbers: cardinal numbers and :ref:`adjective_o
 Cardinal numbers are used either to express the name of a number itself
 or to express the quantity of a thing ("one", "two", "three", etc.).
 
-Cardinal numbers function as :ref:`adjective-attributive`,
+Cardinal numbers function as :ref:`attributive adjectives<adjective-attributive>`,
 but they do not always follow the same grammatical rules. They may
 appear either before or after the noun they describe, and they may not
-always have the same grammatical form (gender, number, definiteness) as
+always have the same grammatical form (gender, number, :ref:`definiteness<definiteness>`) as
 the noun they describe. As with other adjectives in Biblical Hebrew, a
-cardinal number can function as a noun and can appear in the :ref:`state_absolute`,
-the :ref:`state_construct`,
-and/or the :ref:`state_determined`.
+cardinal number can function as a noun and can appear in either the :ref:`absolute<state_absolute>`
+the :ref:`construct<state_construct>` state.
 
 .. note:: Sometimes a cardinal form ("one", "two", "three", etc.) is used,
           but an ordinal meaning ("first", "second", "third", etc.) is clearly
@@ -71,9 +70,7 @@ The following example is a cardinal number functioning as a noun.
 -----
 
 As would be expected, the number “two” in Biblical Hebrew always takes
-the
-:ref:`number_dual`
-form.
+the :ref:`dual<number_dual>` form.
 
 .. csv-table:: "Two" Paradigm
 
@@ -97,7 +94,7 @@ form.
   pillars **two**
   **two** pillars
 
-The following example is a cardinal number with a :ref:`suffix_pronominal`.
+The following example is a cardinal number with a :ref:`pronominal suffix<suffix_pronominal>`.
 
 .. csv-table:: Example: GEN 3:7
 
@@ -110,7 +107,7 @@ The following example is a cardinal number with a :ref:`suffix_pronominal`.
 ----
 
 .. note:: These numbers have specialized uses when they take either a
-          :ref:`number_dual` ending or a :ref:`number_plural`
+          :ref:`dual<number_dual>` ending or a :ref:`plural<number_plural>`
           ending. When these numbers take a dual ending, they become simple
           multiples ("three-fold", "four-fold", "five-fold", etc.); but when they
           take a plural ending, they become multiples of ten ("thirty", "forty",
