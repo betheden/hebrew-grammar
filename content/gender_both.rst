@@ -9,16 +9,16 @@ Summary
 -------
 
 A word is classified as "both gender" if it contains both a masculine
-and a feminine form, or if a single form is grammatically-masculine in
-some contexts and grammatically-feminine in other contexts.
+and a feminine form, or if a single form is masculine in
+some contexts and feminine in other contexts.
 
 Article
 -------
 
 Some words appear in both a
-:ref:`gender_masculine`
+:ref:`masculine<gender_masculine>`
 and a
-:ref:`gender_feminine`
+:ref:`feminine<gender_feminine>`
 form. Other words have only one form, but that single form can be either
 grammatically-masculine or grammatically-feminine. These kinds of words
 are classified as "gender both", and they are usually nouns or
@@ -56,7 +56,7 @@ takes a grammatically-feminine verb (הָֽיְתָ֥ה).
 A single form that can be either masculine or feminine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In the following example, the noun שֶׁמֶשׁ (sun) can be grammatically
+In the following example, the noun שֶׁמֶשׁ (sun) is grammatically
 feminine.
 
 .. csv-table:: Example: GEN 15:17
@@ -66,7 +66,7 @@ feminine.
   And-it-happened **the-sun** it-went
   When **the sun** had gone down
 
-In the following example, the noun שֶׁמֶשׁ (sun) can be grammatically
+In the following example, the noun שֶׁמֶשׁ (sun) is grammatically
 masculine.
 
 .. csv-table:: Example: GEN 19:23

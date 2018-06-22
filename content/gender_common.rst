@@ -16,16 +16,16 @@ Article
 
 A word is parsed as "common" (in other systems sometimes "unmarked"),
 when it has potential to refer to either a
-:ref:`gender_masculine`
+:ref:`masculine<gender_masculine>`
 or a
-:ref:`gender_feminine`
+:ref:`feminine<gender_feminine>`
 person or thing. Words classified as "common gender" are usually
 pronouns or verbs.
 
 Examples
 --------
 
-The following example is of a :ref:`pronoun_personal` :ref:`person_first`.
+In Biblical Hebrew, :ref:`1st person<person_first>` :ref:`personal pronouns<pronoun_personal>` are "gender common".
 
 .. csv-table:: Example: 1KI 18:22
 
@@ -34,7 +34,7 @@ The following example is of a :ref:`pronoun_personal` :ref:`person_first`.
   **I** I-am-left prophet for-Yahweh
   "I, **I alone**, am left as a prophet of Yahweh"
 
-The following example is of a :ref:`verb` first person.
+In Biblical Hebrew, :ref:`finite verbs<verb-finite>` in 1st person conjugation are "gender common".
 
 .. csv-table:: Example: ISA 2:5
 
@@ -43,8 +43,7 @@ The following example is of a :ref:`verb` first person.
   House-of Jacob come **and-let-us-walk** in-light-of Yahweh.
   "House of Jacob, come, **and let us walk** in the light of Yahweh."
 
-The following example is of the plural "near" form of the
-:ref:`pronoun_demonstrative`.
+In Biblical Hebrew, the plural :ref:`demonstrative pronouns<pronoun_demonstrative>` is "gender common".
 
 .. csv-table:: Example: ISA 28:7
 

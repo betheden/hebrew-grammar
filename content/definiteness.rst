@@ -22,7 +22,7 @@ and :ref:`passive<participle_passive>`) are always intrinsically indefinite, but
 :ref:`definite article<Particle_Definite_Article>` or :ref:`pronominal suffix<Suffix_Pronominal>`, 
 or by being connected to a definite noun in a construct relationship.
 
-Definiteness in Biblical Hebrew serves both a semantic and pragmatic function.  As a general summary, these functions include: 
+As a general summary, definiteness in Biblical Hebrew functions in the following ways: 
 1) to designate a specific person/thing, or a class of person(s)/thing(s) that are intrinsically definite; 
 2) to match a noun to its accompanying descriptor (often with adjectives or participles); 
 3) to introduce a relative clause (often with participles); and/or 
@@ -39,7 +39,7 @@ There are three types of terms that are intrinsically definite:
 :ref:`personal pronouns<pronoun_personal>`,
 and :ref:`demonstrative pronouns<pronoun_demonstrative>`.
 
-:ref:`proper<noun_proper_name>` nouns
+:ref:`Proper<noun_proper_name>` nouns
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 1SA 9:17
@@ -60,7 +60,7 @@ and :ref:`demonstrative pronouns<pronoun_demonstrative>`.
   "So **Joab** left and went throughout all **Israel**. Then he came
      back to **Jerusalem**."
 
-:ref:`personal<pronoun_personal>` pronouns
+:ref:`Personal<pronoun_personal>` pronouns
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JER 12:1
@@ -77,7 +77,7 @@ and :ref:`demonstrative pronouns<pronoun_demonstrative>`.
   Bless-me also\_\ **me** my-father
   "Bless me, **me** also, my father"
 
-:ref:`demonstrative<pronoun_demonstrative>` pronouns
+:ref:`Demonstrative<pronoun_demonstrative>` pronouns
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JDG 7:4
@@ -104,7 +104,7 @@ Biblical Hebrew has three ways to make a term definite: by adding the :ref:`defi
 by adding a :ref:`pronominal suffix<suffix_pronominal>`,
 or by connecting it to a definite term in a construct relationship.
 
-:ref:`definite article<particle_definite_article>` prefix
+:ref:`Definite article<particle_definite_article>` prefix
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: DEU 1:23
@@ -123,7 +123,7 @@ or by connecting it to a definite term in a construct relationship.
 
 .. _state_determined-pronominal-suffix:
 
-:ref:`pronominal<suffix_pronominal>` suffix
+:ref:`Pronominal<suffix_pronominal>` suffix
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2SA 17:23
@@ -144,7 +144,7 @@ or by connecting it to a definite term in a construct relationship.
   "So now, do not give **your daughters to their sons**; do not take
      **their daughters** for **your sons**"
 
-construction with a definite :ref:`noun<noun>`
+Construction with a definite :ref:`noun<noun>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In the example below, "the heavens and the earth" are made definite by

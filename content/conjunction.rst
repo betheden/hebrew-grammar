@@ -9,7 +9,7 @@ Summary
 -------
 
 Conjunctions connect words, phrases, sentences, or paragraphs. The most common conjunctions in English are
-"and," "or," "but," and "for."  Some :ref:`particles<particle>` in Biblical Hebrew are closely related to conjunctions.
+"and," "or," "but," and "for."  Some particles in Biblical Hebrew are closely related to conjunctions.
 
 Article
 -------
@@ -17,7 +17,7 @@ Article
 Biblical Hebrew contains only one primary conjunction (the prefix וְ),
 but a whole family of other words also function as conjunctions. A
 conjunction is a word that shows a relationship between two different
-words, phrases, sentences, or even entire paragraphs. In Biblical Hebrew, particles
+words, phrases, sentences, or even entire paragraphs. In Biblical Hebrew, :ref:`particles<particle>`
 and conjunctions are often combined with each other to form compound conjunctions.
 Compound conjunctions should not be considered merely as the sum of the
 components, but rather as a single grammatical entity with its own range

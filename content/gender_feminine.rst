@@ -8,49 +8,32 @@ Gender Feminine
 Summary
 -------
 
-In Biblical Hebrew, all
-:ref:`noun`,
-finite
-:ref:`adjective`,
-`pronouns <https://git.door43.org/unfoldingWord/en_uhg/src/master/content/pronoun/01.md>`__,
-:ref:`suffix_pronominal`,
-and some
-`particles <https://git.door43.org/unfoldingWord/en_uhg/src/master/content/particle/01.md>`__
-are grammatically marked for gender. This gender marking can be
-:ref:`gender_feminine`,
-:ref:`gender_common`,
-or
-:ref:`gender_both`.
+Nouns, adjectives, finite verbs, participles, pronouns, pronominal suffixes, and some particles change their form is according to
+their grammatical gender, either masculine or feminine. The feminine gender is often marked by a ה (qamets-he) suffix,
+but various other prefixes and suffixes can also indicate feminine gender.
 
 Article
 -------
 
-In Biblical Hebrew, every
-:ref:`noun`
-is classified according to gender, either
-:ref:`gender_masculine`
-or feminine or
-:ref:`gender_both`.
-Adjectives and other descriptors change endings when they refer to a
+In Biblical Hebrew, :ref:`nouns<noun>`, :ref:`adjectives<adjective>`, participles (both active and passive),
+are classified according to gender, either
+:ref:`masculine<gender_masculine>`
+or :ref:`feminine<gender-feminine>` or sometimes
+:ref:`both<gender_both>`.
+Adjectives, participles change endings when they refer to a
 noun. This is because
 :ref:`adjective`
 agree with the gender of the noun they refer to. The gender of a :ref:`verb-finite-verbs`
 agrees with its subject. All references to female persons in Biblical
-Hebrew are grammatically masculine. However, other entities apart from
-people can also be classified as grammatically-masculine. For example,
-the `propernames <https://git.door43.org/unfoldingWord/en_uhg/src/master/content/noun_proper_name/01.md>`__
-of places are often feminine in Biblical Hebrew, as well as body parts
+Hebrew are grammatically feminine. However, other entities apart from people can also be classified as grammatically-feminine.
+For example, the :ref:`proper names <noun_proper_name>` of cities are often feminine in Biblical Hebrew, as well as body parts
 that exist as pairs (hand, foot, etc.).
 
 Form
 ----
 
-Feminine :ref:`number_singular` :ref:`noun`
-and :ref:`adjective`
-usually end in either ה or ת. Feminine
-:ref:`number_dual`
-nouns end in patach-yod-hireq-final mem, as in יָדַיִם (hands). Feminine
-:ref:`number_plural`
+Feminine :ref:`singular<number_singular>` :ref:`nouns<noun>` and :ref:`adjectives<adjective>` usually end in either ה or ת.
+Feminine :ref:`dual<number_dual>` nouns end in patach-yod-hireq-final mem, as in יָדַיִם (hands). Feminine :ref:`plural<number_plural>`
 nouns and adjectives usually end in וֹת, as in תּוֹרוֹת (laws).
 
 .. note:: Some feminine nouns do NOT take feminine endings, even some common
@@ -61,7 +44,7 @@ nouns and adjectives usually end in וֹת, as in תּוֹרוֹת (laws).
 Paradigm
 ~~~~~~~~
 
-Besides nouns, a feminine word can be recognized by a variety of changes
+A feminine term can be recognized by a variety of changes
 to the form. This paradigm shows a sample of the kinds of changes that
 signal a feminine form.
 
