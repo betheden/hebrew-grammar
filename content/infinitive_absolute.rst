@@ -18,20 +18,19 @@ Article
 Of all the verbal conjugations in Biblical Hebrew, the infinitive
 absolute is the simplest in form but the most complex in function,
 demanding the most sensitivity to its context to determine its meaning.
-The infinitive absolute is described as being in the :ref:`state_absolute`
-because it always stands entirely on its own as an independent
-grammatical entity. The form can appear with the conjunction, but it never occurs in any other kind of construction
+The infinitive absolute is described as being in the :ref:`absolute state<state_absolute>`
+because it always stands on its own as an independent grammatical entity. The form can appear with the conjunction, but it never occurs in any other kind of construction
 with a prefix or
-:ref:`suffix`,
+:ref:`suffix<suffix>`,
 an attached preposition, or with a
-:ref:`noun`
+:ref:`noun<noun>`
 in a construct chain. The infinitive absolute generally has only one
 form in each
-:ref:`stem`
+:ref:`stem formation<stem>`
 (Qal, Niphal, Piel, etc.), and it does not conjugate according to
-person, gender, or number like the :ref:`verb-finite-verbs`
+person, gender, or number like the :ref:`finite verb<finite-verb>`
 forms. Grammatically, the infinitive absolute can function as an
-:ref:`adverb`,
+:ref:`adverb<adverb>`,
 a finite verb, a verbal complement, or even as a noun. The context must be carefully
 investigated to discern the precise meaning of an infinitive absolute in
 each instance.

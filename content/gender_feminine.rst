@@ -26,9 +26,9 @@ that exist as pairs (hand, foot, etc.).
 Form
 ----
 
-Feminine :ref:`singular<number_singular>` :ref:`nouns<noun>` and :ref:`adjectives<adjective>` usually end in either ה (qamets-he)
-or ת (seghol-taw, for participles). Feminine :ref:`dual<number_dual>` terms end in ים (patach-yod-hireq-final mem), as in יָדַיִם (hands).
-Feminine :ref:`plural<number_plural>` terms usually end in וֹת (holem-taw), as in תּוֹרוֹת (laws). There is a whole family of 
+Feminine :ref:`singular<number_singular>` :ref:`nouns<noun>` and :ref:`adjectives<adjective>` usually end in either ה- (qamets-he)
+or ת- (seghol-taw, for participles). Feminine :ref:`dual<number_dual>` terms end in יִם- (patach-yod-hireq-final mem), as in יָדַיִם (hands).
+Feminine :ref:`plural<number_plural>` terms usually end in וֹת- (holem-taw), as in תּוֹרוֹת (laws). There is a whole family of 
 :ref:`verbal<verb>` prefixes and suffixes that indicate feminine gender for :ref:`finite<verb-finite>` verbs.
 
 .. note:: Some feminine nouns do NOT take feminine endings, even some common

@@ -17,16 +17,16 @@ Article
 -------
 
 The infinitive construct generally functions as a verbal complement to a
-:ref:`verb-finite-verbs`,
+:ref:`finite verb<verb-finite>`,
 but in rare cases it also functions independently as a :ref:`noun`.
 The infinitive construct is described as being in the construct state
 because it can occur in various constructions with prepositions,
-:ref:`suffix`,
+:ref:`suffix<suffix>`,
 and other
-:ref:`noun`
+:ref:`noun<noun>`
 in a construct chain. The infinitive construct generally has only one
 form in each
-:ref:`stem`
+:ref:`stem formation<stem>`
 (Qal, Niphal, Piel, etc.), and it does not conjugate according to
 person, gender, or number as do the finite verb forms.
 
