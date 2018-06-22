@@ -15,16 +15,10 @@ their grammatical gender, either masculine or feminine. The feminine gender is o
 Article
 -------
 
-In Biblical Hebrew, :ref:`nouns<noun>`, :ref:`adjectives<adjective>`, participles (both active and passive),
-are classified according to gender, either
-:ref:`masculine<gender_masculine>`
-or :ref:`feminine<gender-feminine>` or sometimes
-:ref:`both<gender_both>`.
-Adjectives, participles change endings when they refer to a
-noun. This is because
-:ref:`adjective`
-agree with the gender of the noun they refer to. The gender of a :ref:`verb-finite-verbs`
-agrees with its subject. All references to female persons in Biblical
+In Biblical Hebrew, :ref:`nouns<noun>`, :ref:`adjectives<adjective>` and participles (both :ref:`active<participle_active>` and
+:ref:`passive<participle_active>`) are classified according to gender, either :ref:`masculine<gender_masculine>`, feminine, or
+sometimes :ref:`both<gender_both>`. Grammatical modifiers change endings in order to agree with the gender of the term they
+refer to. A :ref:`finite verb<verb-finite>` with feminine gender indicates a feminine subject. All references to female persons in Biblical
 Hebrew are grammatically feminine. However, other entities apart from people can also be classified as grammatically-feminine.
 For example, the :ref:`proper names <noun_proper_name>` of cities are often feminine in Biblical Hebrew, as well as body parts
 that exist as pairs (hand, foot, etc.).
