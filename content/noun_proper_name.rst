@@ -8,22 +8,22 @@ Noun Proper Name
 Summary
 -------
 
-Proper nouns are names (usually, of people or places).
+Proper names (usually, of people or places) are a special class of noun called "proper nouns".
 
 Article
 -------
 
 In the example below, מֹשֶׁ֗ה "Moses" is a proper noun (because it is a
-name), but אִ֖ישׁ "man" is a :ref:`noun_common`.
+name), but אִ֖ישׁ "man" is a :ref:`common noun<noun_common>`.
 Biblical Hebrew does not have capital letters to signify proper names.
-Proper nouns always appear in the :ref:`state_absolute`
-and are considered :ref:`person_third`
-:ref:`number_singular`
+Proper nouns always appear in the :ref:`absolute state<state_absolute>`
+and are considered :ref:`3rd person<person_third>`
+:ref:`singular<number_singular>`
 when used as subjects of verbs, direct objects, or referred to by
-personal pronouns or pronominal suffixes. They can be either
-:ref:`gender_masculine`
+personal pronouns or pronominal suffixes. Proper names can be either
+:ref:`masculine<gender_masculine>`
 or
-:ref:`gender_feminine`.
+:ref:`feminine<gender_feminine>`.
 
 .. csv-table:: Example: NUM 12:3
 

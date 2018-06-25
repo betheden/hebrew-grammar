@@ -8,30 +8,23 @@ Number Dual
 Summary
 -------
 
-Dual (two, pair) refers to more than a group of items that happens to be
-two, but specifically to things that almost always come in pairs, like
-hands and eyes.
+The dual ending ־ַיִם usually refers to two of an item.
 
 Article
 -------
 
+:ref:`Nouns<noun>` change their form is according to their number, either :ref:`singular<number_singular>`,
+dual, or :ref:`plural<number_plural>`. The dual ending does not only mean "two" but usually refers to a pair of something,
+such as עֵינַ֥יִם (two eyes) or אָזְנַ֣יִם (two ears).  However, sometimes the dual ending is used for a singular noun, such as 
+the noun פַּנַיִם which takes a dual ending but is translated into English as the singular noun "face".
+
+.. note:: Dual nouns always take :ref:`adjectives<adjective>` with a :ref:`plural<number_plural>` ending, not a dual ending.
+
 Form
 ----
 
-Both
-:ref:`gender_masculine`
-and
-:ref:`gender_feminine`
-dual
-:ref:`noun`
-have the same ending, ־ַ֫ יִם ("-ayim"). They have a pataq before the
-yod and a hireq under it.
-
-Dual nouns use
-:ref:`adjective`.
-
-Paradigm
-~~~~~~~~
+Both :ref:`masculine<gender_masculine>` and :ref:`feminine<gender_feminine>` terms take the same ending,
+־ַיִם (pathah-yod-hireq-final mem).
 
 .. csv-table:: Dual Paradigm
 
@@ -41,11 +34,8 @@ Paradigm
   Female dual absolute,יָדַיִם,yadayim,(both) hands
   Feminine dual construct,יְדֵי,yede,(both) hands of
 
-Function
---------
-
-Dual does not just mean two. It means that the two usually come in
-pairs, such as eyes עֵינַ֥יִם or ears אָזְנַ֣יִם.
+Example
+-------
 
 .. csv-table:: Example: DEU 29:4 (DEU 29:3 in Hebrew)
 

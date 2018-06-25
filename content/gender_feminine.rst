@@ -9,32 +9,34 @@ Summary
 -------
 
 Nouns, adjectives, finite verbs, participles, pronouns, pronominal suffixes, and some particles change their form is according to
-their grammatical gender, either masculine or feminine. The feminine gender is often marked by either a ה- (qamets-he) or וֹת-
+their grammatical gender, either masculine or feminine. The feminine gender is often marked by either a ־ָה (qamets-he) or וֹת
 (holem-taw) suffix, but various other prefixes and suffixes can also indicate feminine gender.
 
 Article
 -------
 
-In Biblical Hebrew, :ref:`nouns<noun>`, :ref:`adjectives<adjective>` and participles (both :ref:`active<participle_active>` and
-:ref:`passive<participle_active>`) are classified according to gender, either :ref:`masculine<gender_masculine>`, feminine, or
-sometimes :ref:`both<gender_both>`. Grammatical modifiers change endings in order to agree with the gender of the term they
-refer to. A :ref:`finite verb<verb-finite>` with feminine gender indicates a feminine subject. All references to female persons in Biblical
-Hebrew are grammatically feminine. However, other entities apart from people can also be classified as grammatically-feminine.
-For example, the :ref:`proper names <noun_proper_name>` of cities are often feminine in Biblical Hebrew, as well as body parts
-that exist as pairs (hand, foot, etc.).
-
-Form
-----
-
-Feminine :ref:`singular<number_singular>` :ref:`nouns<noun>` and :ref:`adjectives<adjective>` usually end in either ה- (qamets-he)
-or ת- (seghol-taw, for participles). Feminine :ref:`dual<number_dual>` terms end in יִם- (patach-yod-hireq-final mem), as in יָדַיִם (hands).
-Feminine :ref:`plural<number_plural>` terms usually end in וֹת- (holem-taw), as in תּוֹרוֹת (laws). There is a whole family of 
-:ref:`verbal<verb>` prefixes and suffixes that indicate feminine gender for :ref:`finite<verb-finite>` verbs.
-
+In Biblical Hebrew, :ref:`nouns<noun>` are classified according to gender, either :ref:`masculine<gender_masculine>`, feminine, or
+sometimes :ref:`both<gender_both>`. Grammatical modifiers (such as :ref:`adjectives<adjective>`, :ref:`active<participle_active>`
+and :ref:`passive<participle_passive>` participles, :ref:`pronouns<pronoun>`, :ref:`pronominal suffixes<suffix_pronominal>`)
+change their endings in order to agree with the gender of the term they refer to. A :ref:`finite verb<verb-finite>`
+with feminine gender indicates a feminine subject. All references to female persons in Biblical Hebrew are feminine.
+However, other entities apart from people can also be classified as feminine. For example, the :ref:`proper names <noun_proper_name>`
+of cities are often feminine in Biblical Hebrew, as well as body parts that exist as pairs (hand, foot, etc.).
+Some :ref:`particles<particle>` are also marked for gender in Biblical Hebrew.
+ 
 .. note:: Some feminine nouns do NOT take feminine endings, even some common
           nouns such as אֵם (mother) and אֶרֶץ (earth). They appear to be
           masculine nouns, but they are actually feminine nouns. A dictionary or
           lexicon will indicate the proper gender for each word.
+
+
+Form
+----
+
+Feminine :ref:`singular<number_singular>` :ref:`nouns<noun>` and :ref:`adjectives<adjective>` usually end in either ־ָה (qamets-he)
+or ־ֶת (seghol-taw, for participles). Feminine :ref:`dual<number_dual>` terms end in ־ַיִם (patach-yod-hireq-final mem), as in יָדַיִם (hands).
+Feminine :ref:`plural<number_plural>` terms usually end in וֹת- (holem-taw), as in תּוֹרוֹת (laws). There is a whole family of 
+:ref:`verbal<verb>` prefixes and suffixes that indicate feminine gender for :ref:`finite<verb-finite>` verbs.
 
 Paradigm
 ~~~~~~~~

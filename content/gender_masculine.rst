@@ -12,13 +12,14 @@ However, various prefixes and suffixes can indicate masculine gender.
 Article
 -------
 
-In Biblical Hebrew, :ref:`nouns<noun>`, :ref:`adjectives<adjective>` and participles (both :ref:`active<participle_active>` and
-:ref:`passive<participle_active>`) are classified according to gender, either masculine, :ref:`feminine<gender_feminine>`, or
-sometimes :ref:`both<gender_both>`. Grammatically-descriptive terms (adjectives, participles, etc.) change their form in order to
-agree with the gender of the term they describe. A :ref:`finite verb<verb-finite>` with masculine gender indicates a masculine
-subject. All references to male persons in Biblical Hebrew are grammatically masculine. However, other entities apart from people
-can also be classified as grammatically-feminine. For example, the :ref:`proper names<noun_proper_name>` of nations and tribes
-are usually masculine in Biblical Hebrew. 
+In Biblical Hebrew, :ref:`nouns<noun>` are classified according to gender, either masculine, :ref:`feminine<gender_feminine>`, or
+sometimes :ref:`both<gender_both>`. Grammatical modifiers (such as :ref:`adjectives<adjective>`, :ref:`active<participle_active>`
+and :ref:`passive<participle_passive>` participles, :ref:`pronouns<pronoun>`, :ref:`pronominal suffixes<suffix_pronominal>`)
+change their endings in order to agree with the gender of the term they refer to. A :ref:`finite verb<verb-finite>`
+with masculine gender indicates a masculine subject. All references to male persons in Biblical Hebrew are masculine.
+However, other entities apart from people can also be classified as maculine. For example, the :ref:`proper names <noun_proper_name>`
+of nations and tribes are often masculine in Biblical Hebrew. Some :ref:`particles<particle>` are also marked for gender
+in Biblical Hebrew.
 
 .. note:: Some nouns appear to be masculine but are actually feminine, even some common
           nouns such as אֵם (mother) and אֶרֶץ (earth). These nouns are feminine even though they do NOT take feminine
@@ -28,8 +29,8 @@ Form
 ----
 
 Masculine :ref:`singular<number_singular>` :ref:`nouns<noun>` and :ref:`adjectives<adjective>` have no unique ending;
-they are the standard dictionary form. Masculine :ref:`dual<number_dual>` terms end in יִם- (pataq-yod-hireq-final mem),
-as in אַפַּיִם (nostrils). Masculine :ref:`plural<number_plural>` terms usually end in ים- (hireq-yod-final mem),
+they are the standard dictionary form. Masculine :ref:`dual<number_dual>` terms end in ־ַיִם (pataq-yod-hireq-final mem),
+as in אַפַּיִם (nostrils). Masculine :ref:`plural<number_plural>` terms usually end in ־ִים (hireq-yod-final mem),
 as in אֲנָשִׁים (men). There is a whole family of :ref:`verbal<verb>` prefixes and suffixes that indicate feminine gender for :ref:`finite<verb-finite>` verbs.
 
 Paradigm

@@ -8,30 +8,18 @@ Noun Common
 Summary
 -------
 
-Common nouns are nouns that are not proper names (i.e. names of people
-or places).
+Common nouns are nouns that are not proper names (i.e. names of people or places).
 
 Article
 -------
 
-A common noun is any noun that is not a :ref:`noun_proper_name`.
+A common noun is any noun that is not a :ref:`proper name<noun_proper_name>`.  Common noun change their form according to 
+gender (either :ref:`masculine<gender_masculine>` or :ref:`feminine<gender_feminine>`) number (:ref:`singular<number_singular>`,
+:ref:`dual<number_dual>`, or :ref:`plural<number_plural>`), and state (either :ref:`absolute<state_absolute>` or
+:ref:`construct<state_construct>`).
 
 Form
 ----
-
-Every noun is either
-:ref:`gender_masculine`
-or
-:ref:`gender_feminine`
-by its nature, often the form of a word is a strong indicator which
-gender it is. All nouns are either
-:ref:`number_singular`
-or
-:ref:`number_plural`,
-or in some cases
-:ref:`number_dual`;
-and they appear either in the :ref:`state_absolute`
-or the :ref:`state_construct`.
 
 .. _noun_common-paradigm:
 
@@ -53,8 +41,7 @@ Paradigm
 Examples
 --------
 
-אִ֖ישׁ "man" is a common noun, but מֹשֶׁ֗ה "Moses" is not because it is
-a name.
+אִ֖ישׁ (man) is a common noun, but מֹשֶׁ֗ה (Moses) is not because it is a proper name.
 
 .. csv-table:: Example: NUM 12:3
 
@@ -62,8 +49,3 @@ a name.
   weha'ish mosheh 'nw me'od
   and-the-man Moses humble very
   The truth was that Moses was a very humble person
-
-In Hebrew, nouns do not change their form based on the function (or
-case) they have in a sentence (subject/nominative, direct
-object/accusative, etc.). They only change if they are in construct
-state.

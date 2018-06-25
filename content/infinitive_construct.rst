@@ -18,7 +18,7 @@ Article
 
 The infinitive construct generally functions as a verbal complement to a
 :ref:`finite verb<verb-finite>`,
-but in rare cases it also functions independently as a :ref:`noun`.
+but in rare cases it also functions independently as a :ref:`noun<noun>`.
 The infinitive construct is described as being in the construct state
 because it can occur in various constructions with prepositions,
 :ref:`suffix<suffix>`,
