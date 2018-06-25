@@ -8,22 +8,13 @@ Number Singular
 Summary
 -------
 
-The singular forms refers to a single item, or a single kind of item.  For nouns and adjectives, the singular form is the
-standard form found in a dictionary or lexicon.
+The singular form refers to a single item, or a collection of the same kind of item.  
 
 Article
 -------
 
-A word can be singular if it refers to just one person or object.
-
-If it is a
-:ref:`noun`,
-it refers to the person or object directly. Other words, like
-:ref:`verb`,
-:ref:`pronoun_personal`,
-or :ref:`suffix_pronominal`,
-also signal they refer to only one person or object with the form they
-have.
+In Biblical Hebrew, a word in its singular form usually refers to a single item, or to a collection of items all of the same
+kind. For nouns and adjectives, the singular form is the standard form found in a dictionary or lexicon.
 
 Form
 ----
@@ -34,9 +25,6 @@ Nouns and adjectives
 :ref:`Masuline<gender_masculine>` singular nouns have no special endings.
 
 :ref:`Feminine<gender_feminine>` singular nouns usually end in either ־ָה or ־ֶת.
-
-Paradigm
-^^^^^^^^
 
 .. csv-table:: Singular Noun Paradigm
 
@@ -61,9 +49,6 @@ Besides nouns, a singular word can be recognized by a variety of changes
 to the form. These changes differ greatly from each other and are hard
 to sum up in a simple, helpful way. This paradigm shows a sample of the
 kinds of changes that signal a singular form.
-
-Paradigm
-^^^^^^^^
 
 .. csv-table:: Qal Suffix Conjugation Singular Forms
 
@@ -123,7 +108,7 @@ Common Singular
      trough**"
 
 :ref:`Proper names<noun_proper_name>` are always singular, but can be either common singular or
-:ref:`collective<number_singular-collective>` singular.
+:ref:`collective singular<number_singular-collective>`.
 
 .. csv-table:: Example: OBA 1:1
 
@@ -154,7 +139,7 @@ Sometimes a singular noun can refer to an entire kind of item rather than an ind
   and-[dir.obj] every\_winged **bird** after-its-kind.
   every kind of **bird** that has wings
 
-With some nouns, the singular form can be used as either a :ref:`common<number_singular-common>` singular or a collective
+With some nouns, the singular form can be used as either a :ref:`common singular<number_singular-common>` or a collective
 singular. For example, the noun עוֹף֙ can mean "bird" or "birds".  
 
 .. csv-table:: Example: GEN 1:21 –– common singular of עוֹף
@@ -197,7 +182,8 @@ participles) in singular form describes a singular noun (either :ref:`common<num
 ~~~~~~~~~~~~~~~~~~
 
 A :ref:`finite verb<verb-finite>` (and/or :ref:`verbal participle<participle_active-verbal>`) in singular form
-indicates that the subject of the verb is singular (either common or collective).
+indicates that the subject of the verb is singular (either :ref:`common<number_singular-common>` or
+:ref:`collective<number_singular-collective>`).
 
 .. csv-table:: Example: ??? ?:??
 
@@ -216,7 +202,9 @@ indicates that the subject of the verb is singular (either common or collective)
 Participles
 ~~~~~~~~~~~
 
-
+Generally, all :ref:`nominal<participle_active-nominal>` and :ref:`adjectival<participle_active-adjectival>`
+participles in plural form use the :ref:`common<number_singular-common>` singular. A :ref:`verbal participle<participle_active-verbal>`
+in plural form indicates that the subject of the participle is plural.
 
 .. csv-table:: Example: ??? ?:??
 

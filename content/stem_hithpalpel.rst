@@ -14,8 +14,8 @@ the Hithpael. It expresses the reflexive voice of the Pilpel stem.
 Article
 -------
 
-The Hithpalpel stem is a variation of the :ref:`stem_hithpael`
-and expresses the reflexive voice of the verbal action of the :ref:`stem_pilpel`.
+The Hithpalpel :ref:`stem<stem>` is a variation of the :ref:`Hithpael<stem_hithpael>` stem
+and expresses the :ref:`reflexive<stem-voice-reflexive>` voice of the verbal action of the :ref:`Pilpel<stem_pilpel>` stem.
 The Hithpalpel stem is formed from the Hithpael by dropping the 2nd
 radical and repeating the 1st and 3rd radicals, thus making a form that
 appears to have 4 consonants. It is an extremely rare verbal form in

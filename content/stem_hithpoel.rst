@@ -14,8 +14,8 @@ Hithpael. It expresses the reflexive voice of the Poel stem.
 Article
 -------
 
-The Hithpoel stem is a variation of the :ref:`stem_hithpael`
-and expresses the reflexive voice of the verbal action of the :ref:`stem_poel`.
+The Hithpoel :ref:`stem<stem>` is a variation of the :ref:`Hithpael<stem_hithpael>` stem
+and expresses the :ref:`reflexive<stem-voice-reflexive>` voice of the verbal action of the :ref:`Poel<stem_poel>` stem.
 The Hithpoel stem is formed from the Hithpael stem by a vowel change. It
 is an extremely rare verbal form in Biblical Hebrew. It is recommended
 to *always* consult a dictionary or lexicon for the precise nuance of

@@ -250,7 +250,7 @@ Participles
 ~~~~~~~~~~~
 
 Generally, all :ref:`nominal<participle_active-nominal>` and :ref:`adjectival<participle_active-adjectival>`
-participles in plural form use the common plural. A verbal participle in plural form indicates that the subject of the
+participles in plural form use the common plural. A :ref:`verbal participle<participle_active-verbal>` in plural form indicates that the subject of the
 participle is plural.
 
 .. csv-table:: Example: ??? ?:??

@@ -14,9 +14,9 @@ the Hiphil and expresses causative action in active voice.
 Article
 -------
 
-The Hishtaphel is a :ref:`stem-uncommon-stems`
-that is unrelated to any other stem formation. Similar to the Hiphil, it
-expresses causative action in active voice. In Biblical Hebrew, this
+The Hishtaphel is a :ref:`rare stem formation<stem-uncommon-stems>`
+that is unrelated to any other :ref:`stem<stem>`. Similar to the :ref:`Hiphil<stem_hiphil>`, it
+expresses :ref:`causative<stem-action-causative>` action in :ref:`active<stem-voice-active>` voice. In Biblical Hebrew, this
 stem is used almost exclusively with the common verb חוי / חוה, meaning
 "to prostrate oneself" or "to worship."
 
