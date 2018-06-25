@@ -8,13 +8,13 @@ Number Plural
 Summary
 -------
 
-In Hebrew, a noun is plural if there are two or more of something, or if
-it refers to something really big.
+The plural form of a word refers to two or more of that item.
 
 Article
 -------
 
-A word can be plural if it refers to multiple persons or objects.
+In Biblical Hebrew, a term with plural form usually refers to multiple persons or objects.  However, Biblical Hebrew
+can use the plural form of a word to express any number of different meanings about a singular entity.   
 
 If it is a
 :ref:`noun`,
@@ -31,13 +31,9 @@ Form
 Nouns and adjectives
 ~~~~~~~~~~~~~~~~~~~~
 
-:ref:`gender_feminine`
-plural
-:ref:`noun`
-usually end in ות.
+:ref:`Feminine<gender_feminine>` plural nouns and adjectives usually end in וֹת- (holem waw + taw).
 
-:ref:`gender_masculine`
-plural nouns usually end in ים ִ with a hireq before the yod.
+:ref:`Masculine<gender_masculine>` plural nouns and adjectives usually end in ־ִים (hireq-yod + final mem).
 
 Paradigm
 ^^^^^^^^
@@ -112,10 +108,12 @@ Function
 Noun
 ~~~~
 
-More than one
+.. _number_plural-common:
+
+Common Plural
 ^^^^^^^^^^^^^
 
-This is the normal kind of plural, meaning more than one of a thing.
+The common plural expresses more than one of a thing.
 
 .. csv-table:: Example: ECC 10:7
 
@@ -124,11 +122,13 @@ This is the normal kind of plural, meaning more than one of a thing.
   I-have-seen **servants** on\_\ **horses**.
   I have seen **servants** on **horses**.
 
-Plural of extension
-^^^^^^^^^^^^^^^^^^^
+.. _number_plural-complex:
 
-Some nouns can be singular or plural even though they look plural.
-Heaven/heavens and water/waters are common examples.
+Complex Plural
+^^^^^^^^^^^^^^
+
+Some nouns can be singular or plural even though they appear in plural form.  For example, the term שָׁמַיִם can be translated into
+English as "heaven" or "heavens", and the term מַיִם can be translated in English as "water" or waters", depending on the context.
 
 .. csv-table:: Example: GEN 1:1
 
@@ -144,10 +144,51 @@ Heaven/heavens and water/waters are common examples.
   and-the-Spirit-of God was-moving on\_the-face-of **the-waters**.
   The Spirit of God was moving on the surface of the **waters**.
 
-Abstract plurals
-^^^^^^^^^^^^^^^^
+Biblical Hebrew uses the plural form for actions that have multiple processes, such as
+embalming or committing adultery.
 
-Some plural words in Hebrew are translated as singular in other
+.. csv-table:: Example: GEN 50:3
+
+  כִּ֛י כֵּ֥ן יִמְלְא֖וּ יְמֵ֣י הַחֲנֻטִ֑ים
+  ki ken yimle'u yeme **hahanutim**
+  for so are-filled days-of **the-embalmings**.
+  for that was the full time for **embalming**.
+
+.. csv-table:: Example: JER 13:27
+
+  נִֽאֻפַ֤יִךְ וּמִצְהֲלוֹתַ֙יִךְ֙ ... רָאִ֖יתִי
+  **ni'ufayikh umitshalothayikh** ... ra'ithi
+  **Your-adulteries and-your-neighings** ... I-have-seen
+  I have seen **your adultery and neighing**
+
+.. _number_plural-majestic:
+
+Majestic Plural
+^^^^^^^^^^^^^^^
+
+The plural form can also express a collective, intensive or superlative sense of a singular item (or kind of item).
+For example, the noun אֲלֹהִים (God) appears in the plural form but refers to the singular entity "God".
+
+.. csv-table:: Example: GEN 1:1
+
+  בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
+  insert transliteration
+  In-beginning he-created **God**
+  In the beginning **God** created
+  
+.. csv-table:: Example: Job 40:15
+
+  הִנֵּה־נָ֣א בְ֭הֵמוֹת אֲשֶׁר־עָשִׂ֣יתִי
+  insert transliteration
+  [dem.part]\_[exh.part] **behemoth** [rel.part]\_I-made
+  Look now at **the behemoth**, which I made
+
+.. _number_plural-abstract:
+
+Abstract Plural
+^^^^^^^^^^^^^^^
+
+Some plural nouns in Biblical Hebrew are translated as singular in other
 languages. In English, abstract plurals are often singular and have
 endings like -ness, -hood, and -ship.
 
@@ -165,31 +206,11 @@ endings like -ness, -hood, and -ship.
   for\_I-bore son **to-his-old-ages**
   yet I have borne him a son **in his old age**!
 
-Summing up different parts of an action.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Hebrew uses plurals for actions that have multiple parts, such as
-embalming or committing adultery.
-
-.. csv-table:: Example: GEN 50:3
-
-  כִּ֛י כֵּ֥ן יִמְלְא֖וּ יְמֵ֣י הַחֲנֻטִ֑ים
-  ki ken yimle'u yeme **hahanutim**
-  for so are-filled days-of **the-embalmings**.
-  for that was the full time for **embalming**.
-
-.. csv-table:: Example: JER 13:27
-
-  נִֽאֻפַ֤יִךְ וּמִצְהֲלוֹתַ֙יִךְ֙ ... רָאִ֖יתִי
-  **ni'ufayikh umitshalothayikh** ... ra'ithi
-  **Your-adulteries and-your-neighings** ... I-have-seen
-  I have seen **your adultery and neighing**
-
 Adjectives
 ~~~~~~~~~~
 
-If the noun or person to which the adjective relates is plural, the
-adjective is also plural.
+Generally, plural adjectives (also :ref:`active<participle_active-adjectival>` and :ref:`passive<participle_passive-adjectival>`
+adjectival participles) use the :ref:`common plural<number_plural-common>`. 
 
 .. csv-table:: Example: DEU 8:12
 
@@ -198,11 +219,18 @@ adjective is also plural.
   and-houses **good** you-will-built and-you-will-live
   and when you build **good** houses and live in them
 
+.. csv-table:: Example: ??? ?:??
+
+  וּבָתִּ֥ים **טֹובִ֛ים** תִּבְנֶ֖ה וְיָשָֽׁבְתָּ׃
+  insert transliteration [ADJECTIVAL PARTICIPLE]
+  and-houses **good** you-will-built and-you-will-live
+  and when you build **good** houses and live in them 
+
 Verbs
 ~~~~~
 
-If the noun or person to which the verb relates is plural, the verb is
-also plural.
+A :ref:`finite verb<verb-finite>` and/or :ref:`verbal participle<participle_active-verbal>` in plural form
+indicates that the subject of the verb is plural.
 
 .. csv-table:: Example: JER 43:7
 
@@ -211,8 +239,45 @@ also plural.
   for not **they-listened** to-voice-of Yahweh.
   because **they** did not **listen** to Yahweh's voice.
 
+.. csv-table:: Example: JER 43:7
+
+  כִּ֛י לֹ֥א **שָׁמְע֖וּ** בְּק֣וֹל יְהוָ֑ה
+  insert transliteration [VERBAL PARTICIPLE]
+  for not **they-listened** to-voice-of Yahweh.
+  because **they** did not **listen** to Yahweh's voice.
+
+Participles
+~~~~~~~~~~~
+
+Generally, all :ref:`nominal<participle_active-nominal>` and :ref:`adjectival<participle_active-adjectival>`
+participles in plural form use the common plural. A verbal participle in plural form indicates that the subject of the
+participle is plural.
+
+.. csv-table:: Example: ??? ?:??
+
+  וּבָתִּ֥ים **טֹובִ֛ים** תִּבְנֶ֖ה וְיָשָֽׁבְתָּ׃
+  insert transliteration [NOMINAL PARTICIPLE]
+  and-houses **good** you-will-built and-you-will-live
+  and when you build **good** houses and live in them 
+  
+.. csv-table:: Example: ??? ?:??
+
+  וּבָתִּ֥ים **טֹובִ֛ים** תִּבְנֶ֖ה וְיָשָֽׁבְתָּ׃
+  insert transliteration [ADJECTIVAL PARTICIPLE]
+  and-houses **good** you-will-built and-you-will-live
+  and when you build **good** houses and live in them 
+
+.. csv-table:: Example: JER 43:7
+
+  כִּ֛י לֹ֥א **שָׁמְע֖וּ** בְּק֣וֹל יְהוָ֑ה
+  insert transliteration [VERBAL PARTICIPLE]
+  for not **they-listened** to-voice-of Yahweh.
+  because **they** did not **listen** to Yahweh's voice.
+
 Personal pronouns and suffixes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Generally, pronouns and suffixes use the :ref:`common plural<number_plural-common>`.
 
 .. csv-table:: Example: JOS 2:18
 
