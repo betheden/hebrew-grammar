@@ -86,7 +86,7 @@ The stem formation of a verb performs the following functions:
 Expresses the kind of verbal action
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _action-simple:
+.. _stem-action-simple:
 
 Simple action
 ^^^^^^^^^^^^^
@@ -101,7 +101,7 @@ that is, the verb describes an action being performed by the subject of the verb
   **And-she-said** Sarai to\_Abram
   So Sarai **said** to Abram
 
-.. _action-stative:
+.. _stem-action-stative:
 
 Stative action
 ^^^^^^^^^^^^^^
@@ -116,7 +116,7 @@ that is, the verb describes the subject of the verb as being in a certain state/
   **and-it-was-full** the-earth violence
   **and it was filled** with violence.
 
-.. _action-causative:
+.. _stem-action-causative:
 
 Causative action
 ^^^^^^^^^^^^^^^^
@@ -143,7 +143,7 @@ verbal element.
   and-she-went **and-she-filled** [dir.obj]\_the-skin-of water
   She went **and filled** the skin with water
 
-.. _action-resultative:
+.. _stem-action-resultative:
 
 Resultative action
 ^^^^^^^^^^^^^^^^^^
@@ -158,7 +158,7 @@ result of the verbal action.
   and-he-gave ... and-[dir.obj]\_the-boy **and-he-sent-her-away**
   He gave her the boy and **sent her away**
 
-.. _action-intensive:
+.. _stem-action-intensive:
 
 Intensive action
 ^^^^^^^^^^^^^^^^
@@ -178,7 +178,7 @@ way.
 Expresses the voice of the verb
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _voice-active:
+.. _stem-voice-active:
 
 Active voice
 ^^^^^^^^^^^^
@@ -192,7 +192,7 @@ Active voice means that the subject of the verb is performing the verbal action.
   **And-she-said** Sarai to\_Abram
   So Sarai **said** to Abram
 
-.. _voice-passive:
+.. _stem-voice-passive:
 
 Passive voice
 ^^^^^^^^^^^^^
@@ -210,7 +210,7 @@ the verb itself without any helping verbs.
   **and-he-was-buried** in-garden-of\_his-house
   **and he was buried** in the garden of his own house
 
-.. _voice-reflexive:
+.. _stem-voice-reflexive:
 
 Reflexive voice
 ^^^^^^^^^^^^^^^
@@ -229,7 +229,7 @@ words.
   **Separate-yourselves** from-midst-of the-congregation the-this
   **Separate yourselves** from among this community
 
-.. _voice-middle:
+.. _stem-voice-middle:
 
 Middle voice
 ^^^^^^^^^^^^
@@ -245,7 +245,7 @@ stands somewhere between passive voice and reflexive voice.
   **and-they-will-be-opened** your-eyes
   your eyes **will be opened**
 
-.. _voice-reciprocal:
+.. _stem-voice-reciprocal:
 
 Reciprocal voice
 ^^^^^^^^^^^^^^^^

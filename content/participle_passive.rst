@@ -121,6 +121,8 @@ The following example shows passive participles introducing an entire clause tha
   "But I am a worm and not a man, a **disgrace** to humanity **and
      despised** by the people."
 
+.. _participle_passive-verbal:
+
 .. _participle_passive-verbal-MV:
 
 Functions as a :ref:`finite<verb-finite>` main verb

@@ -59,6 +59,8 @@ When used verbally, the active participle is closely related in meaning to an :r
 They are both often used to describe continuous or repeating action and can function as either a
 :ref:`non-finite<verb-non-finite>` verbal complement or a :ref:`finite<verb-finite>` main verb.
 
+.. _participle_active-verbal:
+
 .. _participle_active-verbal-VC:
 
 Functions as a :ref:`non-finite<verb-non-finite>` verbal complement

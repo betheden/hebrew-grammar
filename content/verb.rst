@@ -146,7 +146,7 @@ doing anything.
 Transitive verbs
 ~~~~~~~~~~~~~~~~
 
-A transitive verb is an action verb which requires an object that
+A transitive verb is a dynamic verb that requires an object that
 receives the verbal action. A sentence with a transitive verb is not
 complete without the object. Stative verbs are never transitive.
 
@@ -225,9 +225,8 @@ supplied in English.
 Helping verbs
 ~~~~~~~~~~~~~
 
-Biblical Hebrew does not use helping verbs, but English does. Often, it is
-necessary to supply a helping verb in English to express the meaning of
-a Hebrew verb.
+Helping verbs are extra verbs that "help" express the meaning of the main verb.  Biblical Hebrew does not use helping verbs,
+but English does. Often, it is necessary to supply a helping verb in English to express the meaning of a Hebrew verb.
 
 helping verbs in questions and negations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
