@@ -8,15 +8,14 @@ Number Dual
 Summary
 -------
 
-The dual ending ־ַיִם usually refers to two of an item.
+The dual ending ־ַיִם usually refers to a pair of items.
 
 Article
 -------
 
 :ref:`Nouns<noun>` change their form is according to their number, either :ref:`singular<number_singular>`,
 dual, or :ref:`plural<number_plural>`. The dual ending does not only mean "two" but usually refers to a pair of something,
-such as עֵינַ֥יִם (two eyes) or אָזְנַ֣יִם (two ears).  However, sometimes the dual ending is used for a singular noun, such as 
-the noun פַּנַיִם which takes a dual ending but is translated into English as the singular noun "face".
+such as עֵינַ֥יִם (two eyes) or אָזְנַ֣יִם (two ears).
 
 .. note:: Dual nouns always take :ref:`adjectives<adjective>` with a :ref:`plural<number_plural>` ending, not a dual ending.
 
