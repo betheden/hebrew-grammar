@@ -8,7 +8,7 @@ Number Singular
 Summary
 -------
 
-The singular form refers to a single item, or a collection of the same kind of item.  
+The singular form of a term refers to a single item, or a collection of items all of the same kind.  
 
 Article
 -------
