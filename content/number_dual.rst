@@ -8,12 +8,12 @@ Number Dual
 Summary
 -------
 
-The dual ending ־ַיִם usually refers to a pair of items.
+The dual form of a term usually refers to a pair of items.
 
 Article
 -------
 
-:ref:`Nouns<noun>` change their form is according to their number, either :ref:`singular<number_singular>`,
+:ref:`Nouns<noun>` change their form according to their number, either :ref:`singular<number_singular>`,
 dual, or :ref:`plural<number_plural>`. The dual ending does not only mean "two" but usually refers to a pair of something,
 such as עֵינַ֥יִם (two eyes) or אָזְנַ֣יִם (two ears).
 
@@ -22,7 +22,7 @@ such as עֵינַ֥יִם (two eyes) or אָזְנַ֣יִם (two ears).
 Form
 ----
 
-Both :ref:`masculine<gender_masculine>` and :ref:`feminine<gender_feminine>` terms take the same ending,
+Both :ref:`masculine<gender_masculine>` and :ref:`feminine<gender_feminine>` terms take the same dual ending,
 ־ַיִם (pathah-yod-hireq-final mem).
 
 .. csv-table:: Dual Paradigm

@@ -42,13 +42,15 @@ Nouns and adjectives
   feminine singular absolute,טוֹבָה,tovah,good
   feminine singular construct,טוֹבַת,tovath,good
 
-Other words
+Other terms
 ~~~~~~~~~~~
 
-Besides nouns, a singular word can be recognized by a variety of changes
+Besides nouns, a singular term can be recognized by a variety of changes
 to the form. These changes differ greatly from each other and are hard
 to sum up in a simple, helpful way. This paradigm shows a sample of the
-kinds of changes that signal a singular form.
+kinds of changes that signal a singular form for :ref:`verbs<verb>`, independent :ref:`personal pronouns<pronoun_personal>`,
+the :ref:`direct object marker<particle_direct_object_marker>` with a pronominal suffix,
+and :ref:`pronominal suffixes<suffix_pronominal>`.
 
 .. csv-table:: Qal Suffix Conjugation Singular Forms
 
@@ -72,7 +74,7 @@ kinds of changes that signal a singular form.
   third person masculine singular,הוּא,hu,he / it
   third person feminine singular,הִיא / הִוא,hi / hiw,she / it
 
-.. csv-table:: Object Pronoun Singular Forms
+.. csv-table:: Direct Object Marker with Pronominal Suffix Singular Forms
 
   Parsing,Hebrew,Transliteration,Gloss
   second person masculine singular,אֹתְךָ,'othekha,you
@@ -243,39 +245,3 @@ in plural form indicates that the subject of the participle is plural.
   **beni** 'avshalowm **beni veni**
   **My-son** Absalom **my-son my-son**
   "**My son** Absalom, **my son**, **my son**!"
-  
-  
-  
-------------------------------------
-
-Material for deletion?
-  
-
-אֱלֹהִים
-^^^^^^^^
-
-Name
-''''
-
-אֱלֹהִים looks like a plural, but every time God is the subject of a
-sentence, the verb is singular, and so are the adjectives that are
-connected with it.
-
-.. csv-table:: Example: GEN 1:1
-
-  בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
-  bereshith bara **'elohim**
-  In-beginning he-created **God**
-  In the beginning **God** created
-
-plural
-''''''
-
-אֱלֹהִים can also mean "gods"
-
-.. csv-table:: Example: JDG 5:8
-
-  יִבְחַר֙ **אֱלֹהִ֣ים** חֲדָשִׁ֔ים
-  yivhar **'elohim** hadashim
-  And-they-chose **gods** new
-  When they chose new **gods**

@@ -8,22 +8,13 @@ Number Plural
 Summary
 -------
 
-The plural form of a word refers to two or more of that item.
+The plural form of a term refers to two or more of that item.
 
 Article
 -------
 
 In Biblical Hebrew, a term with plural form usually refers to multiple persons or objects.  However, Biblical Hebrew
-can use the plural form of a word to express any number of different meanings about a singular entity.   
-
-If it is a
-:ref:`noun`,
-it refers to the persons or objects directly. Other words, like
-:ref:`verb`,
-:ref:`pronoun_personal`,
-or :ref:`suffix_pronominal`,
-also signal they refer to more than one person or object with the form
-they have.
+can use the plural form of a word to express many different meanings about a singular entity.   
 
 Form
 ----
@@ -34,9 +25,6 @@ Nouns and adjectives
 :ref:`Feminine<gender_feminine>` plural nouns and adjectives usually end in וֹת- (holem waw + taw).
 
 :ref:`Masculine<gender_masculine>` plural nouns and adjectives usually end in ־ִים (hireq-yod + final mem).
-
-Paradigm
-^^^^^^^^
 
 .. csv-table:: Plural Noun Paradigm
 
@@ -54,16 +42,15 @@ Paradigm
   feminine plural absolute,טוֹבוֹת,tovoth,good
   feminine plural construct,טוֹבוֹת,tovoth,good
 
-Other words
+Other terms
 ~~~~~~~~~~~
 
-Besides nouns, a plural word can be recognized by a variety of changes
+Besides nouns, a plural term can be recognized by a variety of changes
 to the form. These changes differ greatly from each other and are hard
 to sum up in a simple, helpful way. This paradigm shows a sample of the
-kinds of changes that signal a plural form.
-
-Paradigm
-^^^^^^^^
+kinds of changes that signal a plural form for :ref:`verbs<verb>`, independent :ref:`personal pronouns<pronoun_personal>`,
+the :ref:`direct object marker<particle_direct_object_marker>` with a pronominal suffix,
+and :ref:`pronominal suffixes<suffix_pronominal>`.
 
 .. csv-table:: Qal Suffix Conjugation Plural Forms
 
@@ -86,7 +73,7 @@ Paradigm
   third person masculine plural,הֵם / הֵמָּה,hem / hemmah,they
   third person feminine plural,הֵן / הֵנָּה,hen / hennah,they
 
-.. csv-table:: Object Pronoun Plural Forms
+.. csv-table:: Direct Object Marker with Pronominal Suffix Plural Forms
 
   Parsing,Hebrew,Transliteration,Gloss
   second person masculine plural,אֹתְכֶֶם,'othekhem,you
@@ -105,8 +92,8 @@ Paradigm
 Function
 --------
 
-Noun
-~~~~
+:ref:`Noun<noun>`
+~~~~~~~~~~~~~~~~~
 
 .. _number_plural-common:
 
@@ -121,6 +108,16 @@ The common plural expresses more than one of a thing.
   ra'ithi **'avadim** 'al-**susim**
   I-have-seen **servants** on\_\ **horses**.
   I have seen **servants** on **horses**.
+
+The term אֲלֹהִים can function as a common plural, but it most often functions as a :ref:`majestic<number_plural-majestic>`
+plural (see example below).
+
+.. csv-table:: Example: JDG 5:8
+
+  יִבְחַר֙ **אֱלֹהִ֣ים** חֲדָשִׁ֔ים
+  yivhar **'elohim** hadashim
+  And-they-chose **gods** new
+  When they chose new **gods**
 
 .. _number_plural-complex:
 
@@ -206,8 +203,8 @@ endings like -ness, -hood, and -ship.
   for\_I-bore son **to-his-old-ages**
   yet I have borne him a son **in his old age**!
 
-Adjectives
-~~~~~~~~~~
+:ref:`Adjectives<adjective>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Generally, plural adjectives (also :ref:`active<participle_active-adjectival>` and :ref:`passive<participle_passive-adjectival>`
 adjectival participles) use the :ref:`common plural<number_plural-common>`. 
@@ -226,8 +223,8 @@ adjectival participles) use the :ref:`common plural<number_plural-common>`.
   and-houses **good** you-will-built and-you-will-live
   and when you build **good** houses and live in them 
 
-Verbs
-~~~~~
+:ref:`Verbs<verb>`
+~~~~~~~~~~~~~~~~~~
 
 A :ref:`finite verb<verb-finite>` and/or :ref:`verbal participle<participle_active-verbal>` in plural form
 indicates that the subject of the verb is plural.
@@ -274,8 +271,8 @@ participle is plural.
   for not **they-listened** to-voice-of Yahweh.
   because **they** did not **listen** to Yahweh's voice.
 
-Personal pronouns and suffixes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Personal :ref:`pronouns<pronoun_personal>` and :ref:`suffixes<suffix_pronominal>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Generally, pronouns and suffixes use the :ref:`common plural<number_plural-common>`.
 
