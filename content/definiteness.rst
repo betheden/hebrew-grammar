@@ -360,11 +360,12 @@ material
      iron, and wood for the things to be made of wood**."
 
 Matches an :ref:`adjective<adjective>` to a :ref:`noun<noun>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In Biblical Hebrew, when a definite :ref:`common noun<noun_common>`is followed by a definite 
-:ref:`attributive adjective<adjective-attributive>`, the definiteness of both terms shows that they belong together.  
-In other words, that particular adjective is describing that particular noun.  
+:ref:`attributive adjective<adjective-attributive>`, an :ref:`adjectival participle<participle_active-adjectival>`,
+or a noun in apposition, the definite article on both terms shows that they belong together. In other words,
+that particular adjective is describing that particular noun.  
 
 .. csv-table:: Example: JOS 21:45
 

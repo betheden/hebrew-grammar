@@ -8,21 +8,14 @@ Particle Demonstrative
 Summary
 -------
 
-Demonstrative particles are used to draw attention to the reader or the
-listener.
+Demonstrative particles are used to direct the attention of the reader or the listener.
 
 Article
 -------
 
-Hebrew only has a few demonstrative particles, the two most common ones
-are הִנֵּה and הֵ֣ן. This particle can be preceded by a conjunction.
-While הִנֵּה and הֵ֣ן are often translated, the function of a
-demonstrative particle is to draw attention to what comes immediately
-after it. Because the purpose of this particle is often to draw the
-attention of the reader to the following word, the particle itself can
-often be left untranslated. This is similar to the :ref:`particle_direct_object_marker`
-in the sense that the point of a demonstrative particle is often its
-function and not necessarily its translation value.
+Biblical Hebrew has only a few demonstrative particles, with the two most common ones
+being הִנֵּה and הֵ֣ן. The specific function of a demonstrative particle is to draw attention to what comes immediately
+after it. Similar to the :ref:`exhortation particle<particle_exhortation>`, the demonstrative particle is often left untranslated.
 
 Function
 --------
@@ -51,7 +44,7 @@ The demonstrative particle occurs at the beginning of a clause
   "**See**, his reward is with him"
 
 With a :ref:`suffix_pronominal`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: ISA 65:1
 
