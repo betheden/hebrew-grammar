@@ -22,10 +22,9 @@ its accompanying adjective will be plural. Also, the gender of some
 nouns does not match their apparent form (as in נָשִׁים "women", which is
 grammatically-feminine although it appears grammatically-masculine); in
 these cases, an accompanying adjective will match the gender of the noun
-itself rather than the apparent form. Similarly, if a noun is collective
-(as in עַם, meaning "people") or if a plural noun refers to one person
-(as in אֱלֹהִים, meaning "God"), the accompanying adjective may match
-the implied number rather than the apparent form.
+itself rather than the apparent form. Similarly, for nouns with either :ref:`collective singular<number_singular-collective>`
+(as in עַם, meaning "people") or :ref:`majestic plural<number_plural-majestic>` (as in אֱלֹהִים, meaning "God"),
+the accompanying adjective may match the implied number rather than the apparent form.
 
 Form
 ----

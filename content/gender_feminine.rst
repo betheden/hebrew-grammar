@@ -38,13 +38,6 @@ or ־ֶת (seghol-taw, for participles). Feminine :ref:`dual<number_dual>` terms
 Feminine :ref:`plural<number_plural>` terms usually end in וֹת- (holem-taw), as in תּוֹרוֹת (laws). There is a whole family of 
 :ref:`verbal<verb>` prefixes and suffixes that indicate feminine gender for :ref:`finite<verb-finite>` verbs.
 
-Paradigm
-~~~~~~~~
-
-A feminine term can be recognized by a variety of changes
-to the form. This paradigm shows a sample of the kinds of changes that
-signal a feminine form.
-
 .. csv-table:: Feminine Noun Paradigm
 
   Parsing,Hebrew,Transliteration,Gloss

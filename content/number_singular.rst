@@ -134,12 +134,12 @@ Collective Singular
 Sometimes a singular noun can refer to an entire kind of item rather than an individual entity. For example, the noun עַם
 "(people") is singular and refers to an entire group of people as a single unit.
 
-.. csv-table:: Example: ??? ?:??
+.. csv-table:: Example: EXO 6:7 –– collective singular of עַם
 
-  וְאֵ֨ת כָּל־ע֤וֹף **כָּנָף֙** לְמִינֵ֔הוּ
-  insert transliteration [PEOPLE]
-  and-[dir.obj] every\_winged **bird** after-its-kind.
-  every kind of **bird** that has wings
+  וְלָקַחְתִּ֨י אֶתְכֶ֥ם לִי֙ לְעָ֔ם
+  insert transliteration
+  And-I-take [dir.obj]-you to-me for-**people**
+  I will take you to myself as my **people**
 
 With some nouns, the singular form can be used as either a :ref:`common singular<number_singular-common>` or a collective
 singular. For example, the noun עוֹף֙ can mean "bird" or "birds".  

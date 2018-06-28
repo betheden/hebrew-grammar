@@ -31,15 +31,8 @@ Form
 Masculine :ref:`singular<number_singular>` :ref:`nouns<noun>` and :ref:`adjectives<adjective>` have no unique ending;
 they are the standard dictionary form. Masculine :ref:`dual<number_dual>` terms end in ־ַיִם (pataq-yod-hireq-final mem),
 as in אַפַּיִם (nostrils). Masculine :ref:`plural<number_plural>` terms usually end in ־ִים (hireq-yod-final mem),
-as in אֲנָשִׁים (men). There is a whole family of :ref:`verbal<verb>` prefixes and suffixes that indicate feminine gender for :ref:`finite<verb-finite>` verbs.
-
-Paradigm
-~~~~~~~~
-
-Besides nouns, a masculine word can be recognized by a variety of
-changes to the form. These changes differ greatly from each other and
-are hard to sum up in a simple, helpful way. This paradigm shows a
-sample of the kinds of changes that signal a masculine form.
+as in אֲנָשִׁים (men). There is a whole family of :ref:`verbal<verb>` prefixes and suffixes that indicate feminine gender for
+:ref:`finite<verb-finite>` verbs.
 
 .. csv-table:: Masculine Noun Forms
 
