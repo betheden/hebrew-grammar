@@ -112,14 +112,14 @@ Common Singular
 :ref:`Proper names<noun_proper_name>` are always singular, but can be either common singular or
 :ref:`collective singular<number_singular-collective>`.
 
-.. csv-table:: Example: OBA 1:1
+.. csv-table:: Example: OBA 1:1 –– proper name with common singular
 
   חֲזֹ֖ון עֹֽבַדְיָ֑ה
   hazown **'ovadyah**
   Vision-of **Obadiah**
   The vision of **Obadiah**
 
-.. csv-table:: Example: 1SA 29:1
+.. csv-table:: Example: 1SA 29:1 –– proper names with collective singular and common singular
 
   וְיִשְׂרָאֵ֣ל חֹנִ֔ים בַּעַ֖יִן אֲשֶׁ֥ר **בְּיִזְרְעֶֽאל**\ ׃
   **weyisra'el** honim ba'ayin 'asher **beyizre'el**
@@ -166,19 +166,19 @@ An adjective (also :ref:`active<participle_active-adjectival>` and :ref:`passive
 participles) in singular form describes a singular noun (either :ref:`common<number_singular-common>` or
 :ref:`collective<number_singular-collective>`).
 
-.. csv-table:: Example: 2KI 20:19
+.. csv-table:: Example: 2KI 20:19 –– predicate adjective with common singular
 
   טֹ֥וב דְּבַר־יְהוָ֖ה אֲשֶׁ֣ר דִּבַּ֑רְתָּ
   **towv** devar-yehwah 'asher dibbarta
   **Good** word-of\_Yahweh that you-spoke.
   The word of Yahweh that you have spoken is **good**.
 
-.. csv-table:: Example: ??? ?:??
+.. csv-table:: Example: PRO 28:15 –– adjectival participle with common singular
 
-  טֹ֥וב דְּבַר־יְהוָ֖ה אֲשֶׁ֣ר דִּבַּ֑רְתָּ
-  insert transliteration [ADJECTIVAL PARTICIPLE]
-  **Good** word-of\_Yahweh that you-spoke.
-  The word of Yahweh that you have spoken is **good**.
+  אֲרִי־נֹ֭הֵם וְדֹ֣ב שׁוֹקֵ֑ק
+  insert transliteration
+  lion\_**roaring** and-bear **charging**
+  Like a **roaring** lion or a **charging** bear 
 
 :ref:`Verbs<verb>`
 ~~~~~~~~~~~~~~~~~~
@@ -187,19 +187,19 @@ A :ref:`finite verb<verb-finite>` (and/or :ref:`verbal participle<participle_act
 indicates that the subject of the verb is singular (either :ref:`common<number_singular-common>` or
 :ref:`collective<number_singular-collective>`).
 
-.. csv-table:: Example: ??? ?:??
+.. csv-table:: Example: GEN 1:20 –– finite verb with collective singular
 
-  וַיַּעַל֩ אַבְרָ֨ם מִמִּצְרַ֜יִם
-  **wayya'al** 'avram mimmitsrayim
-  **and-he-went-up** Abram from-Egypt
-  **So** Abram **went up** from Egypt
+  וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ
+  insert tranliteration
+  and-birds **let-them-fly** on\_[def.art]-earth
+  and **let** birds **fly** above the earth
 
-.. csv-table:: Example: ??? ??:??
+.. csv-table:: Example: GEN 1:11 –– verbal participle with collective singular
 
-  וַיַּעַל֩ אַבְרָ֨ם מִמִּצְרַ֜יִם
-  insert transliteration [VERBAL PARTICIPLE]
-  **and-he-went-up** Abram from-Egypt
-  **So** Abram **went up** from Egypt
+  עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע
+  insert transliteration
+  herbs **producing** seed
+  plants **yielding** seed
 
 Participles
 ~~~~~~~~~~~
@@ -208,38 +208,38 @@ Generally, all :ref:`nominal<participle_active-nominal>` and :ref:`adjectival<pa
 participles in plural form use the :ref:`common<number_singular-common>` singular. A :ref:`verbal participle<participle_active-verbal>`
 in plural form indicates that the subject of the participle is plural.
 
-.. csv-table:: Example: ??? ?:??
+.. csv-table:: Example: PSA 104:3 –– nominal participle with common singular
 
-  טֹ֥וב דְּבַר־יְהוָ֖ה אֲשֶׁ֣ר דִּבַּ֑רְתָּ
+  הַֽ֝מְהַלֵּ֗ךְ עַל־כַּנְפֵי־רֽוּחַ
   insert transliteration [NOMINAL PARTICIPLE]
-  **Good** word-of\_Yahweh that you-spoke.
-  The word of Yahweh that you have spoken is **good**.
+  [def.art]-**walker** on_wings-of_wind
+  **you walk** on the wings of the wind
   
-.. csv-table:: Example: ??? ?:??
+.. csv-table:: Example: PRO 28:15 –– adjectival participle with common singular
 
-  טֹ֥וב דְּבַר־יְהוָ֖ה אֲשֶׁ֣ר דִּבַּ֑רְתָּ
-  insert transliteration [ADJECTIVAL PARTICIPLE]
-  **Good** word-of\_Yahweh that you-spoke.
-  The word of Yahweh that you have spoken is **good**.
+  אֲרִי־נֹ֭הֵם וְדֹ֣ב שׁוֹקֵ֑ק
+  insert transliteration
+  lion\_**roaring** and-bear **charging**
+  Like a **roaring** lion or a **charging** bear 
 
-.. csv-table:: Example: ??? ??:??
+.. csv-table:: Example: GEN 1:11 –– verbal participle with collective singular
 
-  וַיַּעַל֩ אַבְרָ֨ם מִמִּצְרַ֜יִם
-  insert transliteration [VERBAL PARTICIPLE]
-  **and-he-went-up** Abram from-Egypt
-  **So** Abram **went up** from Egypt
+  עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע
+  insert transliteration
+  herbs **producing** seed
+  plants **yielding** seed
 
 :ref:`Personal pronouns<pronoun_personal>` and :ref:`suffixes<suffix_pronominal>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. csv-table:: Example: JER 37:2
+.. csv-table:: Example: JER 37:2 –– independent personal pronoun with common singular
 
   וְלֹ֥א שָׁמַ֛ע **ה֥וּא** וַעֲבָדָ֖יו וְעַ֣ם הָאָ֑רֶץ
   welo shama' **hu** wa'avadayw we'am ha'arets
   and-not he-listened **he** and-his-servants and-people-of the-land
   "but he, his servants, and the people of the land did not listen"
 
-.. csv-table:: Example: 2SA 19:4 (2SA 19:1 in Hebrew)
+.. csv-table:: Example: 2SA 19:4 (2SA 19:1 in Hebrew) –– pronominal suffix with common singular
 
   בְּנִ֤י אַבְשָׁלֹום֙ בְּנִ֣י בְנִ֣י
   **beni** 'avshalowm **beni veni**

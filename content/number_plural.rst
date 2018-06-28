@@ -141,8 +141,8 @@ English as "heaven" or "heavens", and the term מַיִם can be translated in E
   and-the-Spirit-of God was-moving on\_the-face-of **the-waters**.
   The Spirit of God was moving on the surface of the **waters**.
 
-Biblical Hebrew uses the plural form for actions that have multiple processes, such as
-embalming or committing adultery.
+Biblical Hebrew can use the plural form for actions that have multiple processes or an action involving a collective noun
+(see example Gen 4:10 below, "bloods" = "bloodshed").
 
 .. csv-table:: Example: GEN 50:3
 
@@ -164,7 +164,7 @@ Majestic Plural
 ^^^^^^^^^^^^^^^
 
 The plural form can also express a collective, intensive or superlative sense of a singular item (or kind of item).
-For example, the noun אֲלֹהִים (God) appears in the plural form but refers to the singular entity "God".
+For example, the noun אֲלֹהִים (God) appears in the plural form but usually refers to the singular entity "God".
 
 .. csv-table:: Example: GEN 1:1
 
@@ -209,19 +209,19 @@ endings like -ness, -hood, and -ship.
 Generally, plural adjectives (also :ref:`active<participle_active-adjectival>` and :ref:`passive<participle_passive-adjectival>`
 adjectival participles) use the :ref:`common plural<number_plural-common>`. 
 
-.. csv-table:: Example: DEU 8:12
+.. csv-table:: Example: DEU 8:12 –– attributive adjective with common plural
 
   וּבָתִּ֥ים **טֹובִ֛ים** תִּבְנֶ֖ה וְיָשָֽׁבְתָּ׃
   uvottim **towvim** tivneh weyashavetta
   and-houses **good** you-will-built and-you-will-live
   and when you build **good** houses and live in them
 
-.. csv-table:: Example: ??? ?:??
+.. csv-table:: Example: JER 33:22 –– adjectival participle with common plural
 
-  וּבָתִּ֥ים **טֹובִ֛ים** תִּבְנֶ֖ה וְיָשָֽׁבְתָּ׃
-  insert transliteration [ADJECTIVAL PARTICIPLE]
-  and-houses **good** you-will-built and-you-will-live
-  and when you build **good** houses and live in them 
+  וְאֶת־הַלְוִיִּ֖ם מְשָׁרְתֵ֥י אֹתִֽי
+  insert transliteration
+  and-[dir.obj]\_[def.art]-Levites **who-serve** [dir.obj]-me
+  and the Levites **who serve** before me
 
 :ref:`Verbs<verb>`
 ~~~~~~~~~~~~~~~~~~
@@ -229,14 +229,14 @@ adjectival participles) use the :ref:`common plural<number_plural-common>`.
 A :ref:`finite verb<verb-finite>` and/or :ref:`verbal participle<participle_active-verbal>` in plural form
 indicates that the subject of the verb is plural.
 
-.. csv-table:: Example: JER 43:7
+.. csv-table:: Example: JER 43:7 –– finite verb with common plural
 
   כִּ֛י לֹ֥א **שָׁמְע֖וּ** בְּק֣וֹל יְהוָ֑ה
   ki lo **shom'u** beqol yehwah
   for not **they-listened** to-voice-of Yahweh.
   because **they** did not **listen** to Yahweh's voice.
 
-.. csv-table:: Example: JER 43:7
+.. csv-table:: Example: ??? ??:? –– verbal participle with common plural
 
   כִּ֛י לֹ֥א **שָׁמְע֖וּ** בְּק֣וֹל יְהוָ֑ה
   insert transliteration [VERBAL PARTICIPLE]
@@ -246,44 +246,43 @@ indicates that the subject of the verb is plural.
 Participles
 ~~~~~~~~~~~
 
-Generally, all :ref:`nominal<participle_active-nominal>` and :ref:`adjectival<participle_active-adjectival>`
-participles in plural form use the common plural. A :ref:`verbal participle<participle_active-verbal>` in plural form indicates that the subject of the
-participle is plural.
+Participles in plural form can generally use the common plural, but not always. A verbal participle in plural form indicates
+that the subject of the participle is plural.
 
-.. csv-table:: Example: ??? ?:??
+.. csv-table:: Example: SNG 3:8 –– :ref:`nominal<participle_active-nominal>` participle with common plural
 
-  וּבָתִּ֥ים **טֹובִ֛ים** תִּבְנֶ֖ה וְיָשָֽׁבְתָּ׃
-  insert transliteration [NOMINAL PARTICIPLE]
-  and-houses **good** you-will-built and-you-will-live
-  and when you build **good** houses and live in them 
+  כֻּלָּם֙ אֲחֻ֣זֵי חֶ֔רֶב
+  insert transliteration
+  all-them **holders-of** sword
+  All of them **are skilled with** a sword 
   
-.. csv-table:: Example: ??? ?:??
+.. csv-table:: Example: Job 35:10 –– :ref:`adjectival<participle_active-adjectival>` participle with majestic plural
 
-  וּבָתִּ֥ים **טֹובִ֛ים** תִּבְנֶ֖ה וְיָשָֽׁבְתָּ׃
-  insert transliteration [ADJECTIVAL PARTICIPLE]
-  and-houses **good** you-will-built and-you-will-live
-  and when you build **good** houses and live in them 
+  אַ֭יֵּה אֱל֣וֹהַּ עֹשָׂ֑י
+  insert transliteration
+  where God **makers-of**-me
+  Where is God my **Maker** 
 
-.. csv-table:: Example: JER 43:7
+.. csv-table:: Example: GEN 4:10 –– :ref:`verbal participle<participle_active-verbal>` participle with complex plural ["bloods" = "bloodshed"]
 
-  כִּ֛י לֹ֥א **שָׁמְע֖וּ** בְּק֣וֹל יְהוָ֑ה
-  insert transliteration [VERBAL PARTICIPLE]
-  for not **they-listened** to-voice-of Yahweh.
-  because **they** did not **listen** to Yahweh's voice.
+  דְּמֵ֣י אָחִ֔יךָ צֹעֲקִ֥ים אֵלַ֖י 
+  insert transliteration
+  bloods-of your-brother **crying-out** to-me
+  Your brother's blood **is calling out** to me
 
 Personal :ref:`pronouns<pronoun_personal>` and :ref:`suffixes<suffix_pronominal>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Generally, pronouns and suffixes use the :ref:`common plural<number_plural-common>`.
 
-.. csv-table:: Example: JOS 2:18
+.. csv-table:: Example: JOS 2:18 –– independent personal pronoun with common plural
 
   הִנֵּ֛ה **אֲנַ֥חְנוּ** בָאִ֖ים בָּאָ֑רֶץ
   hinneh **'anahnu** va'im ba'arets
   behold **we** coming-in in-the-land
   "behold, when **we** come into the land"
 
-.. csv-table:: Example: EZR 9:12
+.. csv-table:: Example: EZR 9:12 –– pronominal suffixes with common plural
 
   "וְ֠עַתָּה **בְּֽנֹותֵיכֶ֞ם** אַל־תִּתְּנ֣וּ **לִבְנֵיהֶ֗ם
      וּבְנֹֽתֵיהֶם֙** אַל־תִּשְׂא֣וּ לִבְנֵיכֶ֔ם"
