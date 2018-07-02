@@ -8,33 +8,26 @@ Particle Direct Object Marker
 Summary
 -------
 
-This particle precedes the noun that functions as the direct object of a
-verb.
+This particle immediately precedes the term that functions as the direct object of a verb.
 
 Article
 -------
 
-As the name suggests, this particle indicates the direct object of some
-verb. It does this by directly preceding the
-:ref:`noun`
-or phrase that functions as the direct object of a finite or non-finite
-:ref:`verb`.
-The direct object marker does not occur before *every* direct object,
-but it usually appears in places where there might be confusion. Thus,
-grammatically speaking, the direct object marker is optional in Biblical
-Hebrew. Many languages, including English, do not have any specific word
-or written symbol that serves a similar function. Therefore, this
-particle is usually not translated.
+As the name suggests, the direct object marker indicates the direct object of some verb. It does this by directly preceding
+the :ref:`noun<noun>` or phrase that functions as the direct object of a :ref:`verb<verb>` (either :ref:`finite<verb-finite>` or
+:ref:`non-finite<verb-non-finite>`). The direct object marker does not occur before *every* direct object, but it usually appears
+in places where there might be confusion. Thus, the direct object marker is not strictly necessary in Biblical Hebrew. Many
+languages, including English, do not have any specific word or symbol that serves a similar function; instead, those languages
+use other means of indicating the direct object of a verb (such as word order). Therefore, in many translations this particle
+is never translated.
 
-The standard form of the direct object marker is אֵת. It can take both
-the attached
-:ref:`conjunction`
-(i.e. the *waw* prefix, "and") and/or a :ref:`suffix_pronominal`.
+The standard form of the direct object marker is אֵת. It can take both the prefixed :ref:`conjunction<conjunction>`
+and/or a :ref:`pronominal suffix<suffix_pronominal>`.
 
-.. note:: the direct object marker is easily confused with the preposition
+.. note:: The direct object marker is easily confused with the preposition
           אֵת ("with") which has an identical standard form. When taking a
           pronominal suffix, however, the two words can be distinguished by the
-          vowel they each select. The direct object marker takes a holem/holem-waw
+          vowel they each select. The direct object marker takes a holem or holem-waw
           vowel with an attached suffix (אוֹתִי or אֹתִי), whereas the preposition
           takes a hireq vowel (אִתִּי) with an attached suffix.
 

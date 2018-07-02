@@ -8,8 +8,7 @@ Particle Negative
 Summary
 -------
 
-Negative particles are terms that negate a word or some aspect of a
-sentence.
+Negative particles are terms that negate some aspect of a sentence, either an individual word or an entire phrase.
 
 Article
 -------
@@ -18,8 +17,8 @@ Article
 -------------
 
 This term is used in verbless clauses to negate an entire clause or
-sentence. It is sometimes classified as a :ref:`noun_common`
-but usually appears in the :ref:`word_order`.
+sentence. It is sometimes classified as a :ref:`noun<noun_common>`
+but usually appears in the verbal position of normal :ref:`word order<word_order>`.
 Literally, the term is translated in English as "there is no" or "there
 is not"; but the English translation is often simplified to "is not"
 (see example below).
@@ -54,10 +53,10 @@ is not"; but the English translation is often simplified to "is not"
 The word לֹא is the standard negative particle in Biblical Hebrew. This
 term often negates verbs, but it has potential to negate other kinds of
 words as well. In English, it is usually translated as "no" or "not".
-When used with :ref:`person_second`
-:ref:`verb_imperfect-direct-negative-commands`
+When used with :ref:`2nd person<person_second>`
+:ref:`imperfect<verb_imperfect-negative-directive`
 verbs to express a negative command, this particle signifies a more
-emphatic command than the use of the negative particle אַל.
+emphatic command than the use of the negative particle אַל (with an imperfect verb).
 
 .. csv-table:: Example: GEN 2:17
 
@@ -72,9 +71,9 @@ emphatic command than the use of the negative particle אַל.
 ---
 
 The term אַַל is almost exclusively used to negate verbs; it is also the
-standard particle used to negate jussive and cohortative verbs. When
-used with :ref:`person_second`
-:ref:`verb_imperfect`
+standard particle used to negate :ref:`jussive<verb_jussive>` and :ref:`cohortative<verb_cohortative>` verbs. When
+used with :ref:`2nd person<person_second>`
+:ref:`imperfect<verb_imperfect>`
 verbs to express a negative command, this particle signifies a less
 emphatic command than the use of the negative particle לֹא.
 
@@ -88,10 +87,10 @@ emphatic command than the use of the negative particle לֹא.
 בִּלְתִּי
 ---------
 
-This term is used (especially with לְ) to negate :ref:`infinitive_construct`
+This term is sometimes used (especially with לְ) to negate :ref:`infinitive construct<infinitive_construct>`
 verbs, and is usually translated in English as "no" or "not".
 
-.. note:: This term is most often used as a concessive conjunction;
+.. note:: This term is most often used as a concessive :ref:`conjunction<conjunction>`;
           a dictionary or lexicon will indicate the specific use of
           this particle in each individual context.
 

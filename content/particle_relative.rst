@@ -8,8 +8,8 @@ Particle Relative
 Summary
 -------
 
-Relative particles introduce phrases that describe nouns (and sometimes
-adjectives or verbs). In English, they are usually translated as “who,”
+Relative particles introduce phrases that usually describe nouns but can also sometimes
+describe adjectives and/or verbs. In English, relative particles are usually translated as “who,”
 “that,” “which,” "when," or "where."
 
 Article
@@ -22,7 +22,7 @@ and sometimes adjectives. When functioning as a relative particle, the
 word כִּי usually immediately follows a verb of seeing or perceiving.
 
 אֲשֶׁר
-------
+----
 
 אֲשֶׁר follows a
 :ref:`noun`
@@ -60,6 +60,28 @@ Sometimes there is no noun as an antecedent.
   "For I know that **whomever** you bless will be blessed, and
      **whomever** you curse will be cursed."
 
+-שֶׁ
+----
+
+-שֶׁ has the same function as אֲשֶׁר, but is a prefix. It also doubles
+the next consonant and follows similar rules regarding the vowel
+patterns as the :ref:`particle_definite_article`.
+
+.. csv-table:: Example: ECC 1:7
+
+  אֶל־מְקֹ֗ום \ **שֶׁ֤הַנְּחָלִים֙** הֹֽלְכִ֔ים
+  'el-meqowm **shehannehalim** holekhim
+  To\_place **where-the-rivers** go
+  To the place **where the rivers** go
+
+.. csv-table:: Example: ECC 1:9
+
+  מַה־\ **שֶּֽׁהָיָה֙** ה֣וּא שֶׁיִּהְיֶ֔ה
+  mah-\ **shehayah** hu **sheyyihyeh**
+  What\_\ **that-has-been** that **which-will-be**
+  **Whatever has been** is **what will be**
+  
+  
 כִּי
 ----
 
@@ -84,24 +106,3 @@ translated as “that” in these cases.
   'attah yada'ti **ki**-yere 'elohim 'attah
   now I-know **that**\ \_fearful-of God you
   now I know **that** you respect and obey God
-
--שֶׁ
-----
-
--שֶׁ has the same function as אֲשֶׁר, but is a prefix. It also doubles
-the next consonant and follows similar rules regarding the vowel
-patterns as the :ref:`particle_definite_article`.
-
-.. csv-table:: Example: ECC 1:7
-
-  אֶל־מְקֹ֗ום \ **שֶׁ֤הַנְּחָלִים֙** הֹֽלְכִ֔ים
-  'el-meqowm **shehannehalim** holekhim
-  To\_place **where-the-rivers** go
-  To the place **where the rivers** go
-
-.. csv-table:: Example: ECC 1:9
-
-  מַה־\ **שֶּֽׁהָיָה֙** ה֣וּא שֶׁיִּהְיֶ֔ה
-  mah-\ **shehayah** hu **sheyyihyeh**
-  What\_\ **that-has-been** that **which-will-be**
-  **Whatever has been** is **what will be**

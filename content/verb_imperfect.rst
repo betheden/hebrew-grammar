@@ -150,8 +150,7 @@ Form
 Function
 --------
 
-The Imperfect conjugation can indicate any of the following kinds of
-actions:
+The Imperfect conjugation can indicate any of the following kinds of actions:
 
 Actions in future time
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -173,7 +172,9 @@ Actions in present time
   why this **you-ask** for-my-name
   Why is it that **you ask** my name?
 
-.. _verb_imperfect-frequentive-or-durative-actions:
+.. _verb_imperfect-frequentive:
+
+.. _verb_imperfect-durative:
 
 Frequentive or durative actions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -195,10 +196,10 @@ specified time frame.
   as-how\_\ **he-picks-clean** the-shepherd [dir.obj]\_his-garment
   just as shepherds **clean** vermin off their clothes
 
-.. _verb_imperfect-direct-negative-commands:
+.. _verb_imperfect-negative-directive:
 
-Direct negative commands (especially with :ref:`particle_negative-lo` to express an emphatic prohibition)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Direct negative commands (with :ref:`לֹא<particle_negative-lo>` to express an emphatic prohibition)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: JER 43:2
 
@@ -206,6 +207,8 @@ Direct negative commands (especially with :ref:`particle_negative-lo` to express
   lo-\ **thavo'u** mitsrayim lagur sham
   not\_\ **you-go** Egypt to-sojourn there
   Do not **go** to Egypt to live there.
+
+.. _verb_imperfect-possibility:
 
 Potential actions
 ~~~~~~~~~~~~~~~~~
@@ -216,6 +219,8 @@ Potential actions
   gam ki-\ **'elekh** bege tsalmaweth
   even if\_\ **I-walk** in-valley-of deep-darkness
   Even though **I walk** through a valley of darkest shadow
+
+.. _verb_imperfect-desirability:
 
 Actions of greater or lesser desirability
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

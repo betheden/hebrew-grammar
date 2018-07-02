@@ -8,26 +8,20 @@ Particle Exhortation
 Summary
 -------
 
-Exhortative particles are small words that can be translated as a sigh
-("och", or "ah"), an interjection ("now", or "please"), or left
-untranslated.
+Exhortative particles strengthen the emotion of a command or request.
 
 Article
 -------
 
-Exhortation
-:ref:`particle`
-are words that add emotive force to a command or request. These
-particles are more specific than
-:ref:`particle_interjection`
-but are in nature quite similar; the difference is that an exhortation
-particle strengthens a specific call to action, while an interjection is
-a more general expression of emotion.
+Exhortation :ref:`particles<particle>` are words that add emotive force to a command or request. These particles are similar to
+:ref:`interjections<particle_interjection>` but function to strengthen a specific call to action, while an interjection is used
+as a more general expression of emotion.  Similar to :ref:`demonstrative<particle_dmonstrative>` particles, exhortation particles
+are sometime left untranslated, depending on the specific context.
 
 נָא
 ---
 
-When used with a command, נָא is usually translated as "now" in English
+When used with a *command*, נָא is usually translated as "now" in English
 (or left untranslated).
 
 .. csv-table:: Example: ISA 51:21
@@ -37,7 +31,7 @@ When used with a command, נָא is usually translated as "now" in English
   Therefore listen\_\ **now** this
   But **now** hear this
 
-When used as part of a request, נָא is usually translated as "please" in
+When used as part of a *request*, נָא is usually translated as "please" in
 English (or left untranslated).
 
 .. csv-table:: Example: AMO 7:2
@@ -62,11 +56,11 @@ untranslated.
 אָנָּא
 ------
 
-This is an even stronger and more emotive form of the particle נָא. The
+This is a stronger and more emotive form of the particle נָא. The
 two particles are sometimes paired together to express extreme urgency
 or desperation, as in the example below. In some instances, this
 particle could also be classified as an
-:ref:`particle_interjection`.
+:ref:`interjection<particle_interjection>`.
 
 .. csv-table:: Example: PSA 118:25
 

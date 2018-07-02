@@ -8,8 +8,8 @@ Particle Definite Article
 Summary
 -------
 
-In Biblical Hebrew, the definite article (the prefix הַ) is added to a
-word to make that word definite, i.e. in the *determined* state.
+In Biblical Hebrew, the definite article (the prefix הַ) is added to a term either to make that term definite, or to match that
+term to the noun it describes, or both.
 
 Article
 -------
@@ -33,40 +33,28 @@ in different languages, so this particle must always be translated according to 
 Form
 ----
 
-Standard form with pathah vowel and daghesh in the following consonant
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-.. csv-table:: Definite Article Standard Form
+.. csv-table:: Standard form, with pathah vowel and daghesh in the following consonan
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
   noun,סוּס,sus,a horse
   noun + definite article,הַסּוּס,hassus,the horse
 
-Alternate form with pathah vowel, no daghesh in gutteral consonant
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-.. csv-table:: Definite Article Alternate Form 1
+.. csv-table:: Alternate form with pathah vowel, no daghesh in gutteral consonant
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
   noun,חֹשֶׁק,hosheq,darkness
   noun + definite article,הַחֹשֶׁק,hahosheq,the darkness
 
-Alternate form with qamets vowel, no daghesh in gutteral consonant
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-.. csv-table:: Definite Article Alternate Form 2
+.. csv-table:: Alternate form with qamets vowel, no daghesh in gutteral consonant
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
   noun,אִישׁ,'ish,a man
   noun + definite article,הָאִישׁ,ha'ish,the man
 
-Alternate form with seghol vowel, no daghesh in gutteral consonant
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-.. csv-table:: Definite Article Alternate Form 3
+.. csv-table:: Alternate form with seghol vowel, no daghesh in gutteral consonant
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

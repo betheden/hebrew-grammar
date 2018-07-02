@@ -40,6 +40,8 @@ functions. For example, כֹּה can function as an adverb of place, an
 adverb of time, or an adverb of manner; פֹּה can function as an adverb
 of time or an adverb of place, etc. 
 
+.. _adverb-place:
+
 describes a place or location
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -69,6 +71,8 @@ describes a place or location
   And-porticos **surrounding surrounding** length
   There were also porticos **all around** the inner wall
 
+.. _adverb-time:
+
 describes time
 ~~~~~~~~~~~~~~
 
@@ -85,6 +89,8 @@ describes time
   
   **Then** he-began to-call-out in-name-of Yahweh
   **At that time** people began to call on the name of Yahweh.
+
+.. _adverb_quantity:
 
 describes quantity
 ~~~~~~~~~~~~~~~~~~
@@ -104,6 +110,8 @@ describes quantity
   "And-he-called-out angel-of Yahweh to\_Abraham **second**
      from\_the-heavens"
   The angel of Yahweh called to Abraham **a second time** from heaven
+
+.. _adverb-manner:
 
 describes manner of action
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -174,7 +182,7 @@ Other words functioning as adverbs
 Because Biblical Hebrew does not contain many adverbs, sometimes other kinds of words can function as adverbs.
 
 :ref:`Particles<particle>` functioning as adverbs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 3:22
 

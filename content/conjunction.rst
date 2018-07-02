@@ -499,11 +499,13 @@ Compound conjunctions
           determined from the context. If in doubt, consult a dictionary or
           lexicon for the exact meaning of any specific occurrence.
 
+.. _conjunction-concessive:
+
 כִּי אִם
 ~~~~~~~~
 
 Sometimes the words כִּי and אִם are paired together to form a compound conjunction that functions most often as a strong contrastive
-or a strong concessive. In English, it is usually translated as "but",
+or a strong concessive ("except"). In English, it is usually translated as "but",
 "but if", or "except". It is recommended to always consult a dictionary
 or lexicon for the exact meaning of any specific occurrence of this
 compound conjunction.
