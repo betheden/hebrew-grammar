@@ -9,20 +9,18 @@ Summary
 -------
 
 Interrogative particles indicate that a sentence is a question. The standard interrogative prefix -הֲ (he with
-hateph pathah vowel) should not be confused with the definite article. The interrogative particles מִי and מָה can also
+hateph pathah vowel) should not be confused with the definite article -הַ (he with pathah vowel). The interrogative particles מִי and מָה can also
 function as interrogative pronouns ("who?" and "what?") or indefinite pronouns ("whoever" and "whatever").
 
 Article
 -------
 
-The interrogative prefix ה-prefix is the standard interrogative particle in Biblie Hebrew and can be differentiated
+The interrogative prefix -הֲ is the standard interrogative particle in Biblie Hebrew and can be differentiated
 from the :ref:`definite article<particle_definite_article>` by the context and the lack of a daghesh in the consonant immediately
 following the prefix. The interrogative prefix, as well as interrogative particles in general, nearly always appear at the
 beginning of a clause to indicate that the clause is a question and not a statement.  However, as in many languages, in Biblical Hebrew a question can be asked rhetorically as a way
 of making a strong statement.  As an example, a person might ask "How can that be?" as a way of expressing a strong sense of
 disbelief in something that has just been said.
-
-There are several different interrogative particles in Biblical Hebrew.
 
 -הֲ
 ----
@@ -149,67 +147,42 @@ an :ref:`indefinite pronoun<pronoun_indefinite>` ("whatever") when used in the m
   **What** you are-doing
   **What** are you doing?
 
-with prepositions
-^^^^^^^^^^^^^^^^^
-
-by what / how (בַּמָּה)
-'''''''''''''''''''''''
-
-.. csv-table:: Example: GEN 15:8
+.. csv-table:: Example: GEN 15:8 –– with preposition בְּ
 
   בַּמָּ֥ה אֵדַ֖ע
   **bammah** 'eda'
   **By-the-what** will-I-know
   **How** will I know?
 
-like what / how many, how much (כַּמָּה)
-''''''''''''''''''''''''''''''''''''''''
-
-.. csv-table:: Example: GEN 47:8
+.. csv-table:: Example: GEN 47:8 –– with preposition כְּ
 
   כַּמָּ֕ה יְמֵ֖י שְׁנֵ֥י חַיֶּֽיךָ
   **kammah** yeme shene hayyeykha
   **Like-what** days-of years-of your-life
   **How long** have you lived?
 
-for what / why (לָמָּה)
-'''''''''''''''''''''''
-
-.. csv-table:: Example: GEN 4:6
-
-  לָ֚מָּה חָ֣רָה לָ֔ךְ **וְלָ֖מָּה** נָפְל֥וּ פָנֶֽיךָ
-  **lommah** harah lakh **welammah** noflu faneykha
-  **For-what** you-angry to-you **and-for-what** has-fallen your-face
-  **Why** are you angry **and why** are you scowling?
-
-until what / how long (עַד־מָה)
-'''''''''''''''''''''''''''''''
-
-.. csv-table:: Example: PSA 79:5
+.. csv-table:: Example: PSA 79:5 —— with preposition עַד
 
   עַד־מָ֣ה יְ֭הוָה תֶּאֱנַ֣ף לָנֶ֑צַח
   **'ad-mah** yehwah te'enaf lanetsah
   **Until\_what** Yahweh will-you-be-angry forever
   "**How long**, Yahweh? Will you stay angry forever?"
 
-upon what / why (עַל־מָה)
-'''''''''''''''''''''''''
-
-.. csv-table:: Example: NUM 22:32
+.. csv-table:: Example: NUM 22:32 –– with preposition עַל
 
   עַל־מָ֗ה הִכִּ֙יתָ֙ אֶת־אֲתֹ֣נְךָ֔
   **'al-mah** hikkitha 'eth-'athonekha
   **On\_what** did-you-strike [dir.obj]\_your-donkey
   **Why** have you struck your donkey?
 
-.. csv-table:: Example: GEN 44:16
+.. csv-table:: Example: GEN 44:16 –– with the prefixed conjunction
 
   וּמַה־נִּצְטַדָּ֑ק
   **wumah**-nnitstaddaq
   **and-what** we-will-justify-ourselves
   **or how** can we justify ourselves?
 
-.. csv-table:: Example: EXO 14:15
+.. csv-table:: Example: EXO 14:15 –– with causal meaning
 
   מַה־תִּצְעַ֖ק אֵלָ֑י
   **mah**-tits'aq 'ela
@@ -262,13 +235,6 @@ These are particles of place and can be translated as "where?" or "where is?".
   **Where** Sarah your-wife
   **Where** is Sarah your wife?
 
-.. csv-table:: Example: Gen 4:9
-
-  אֵ֖י הֶ֣בֶל אָחִ֑יךָ
-  **'e** hevel 'ahikha
-  **Where** Abel your-brother
-  "**Where** is Abel, your brother?"
-
 .. csv-table:: Example: GEN 19:5
 
   אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר־בָּ֥אוּ אֵלֶ֖יךָ
@@ -302,6 +268,13 @@ This is a particle of time and can be translated as "when?". It is often used wi
 
 These are particles of cause and literally mean "for what?", but they are usually translated as "why?".
 
+.. csv-table:: Example: GEN 4:6
+
+  לָ֚מָּה חָ֣רָה לָ֔ךְ **וְלָ֖מָּה** נָפְל֥וּ פָנֶֽיךָ
+  **lommah** harah lakh **welammah** noflu faneykha
+  **For-what** you-angry to-you **and-for-what** has-fallen your-face
+  **Why** are you angry **and why** are you scowling?
+
 .. csv-table:: Example: PSA 42:9 (PSA 42:10 in Hebrew)
 
   "לָמָ֪ה שְׁכַ֫חְתָּ֥נִי **לָֽמָּה**\ ־קֹדֵ֥ר אֵלֵ֗ךְ בְּלַ֣חַץ
@@ -312,10 +285,11 @@ These are particles of cause and literally mean "for what?", but they are usuall
   "**Why** have you forgotten me? You know the hardships that my enemies
      bring on me."
 
-מַדּ֖וּעַ
-----
+Other interrogative particles
+-----------------------------
 
-מַדּ֖וּעַ why?
+מַדּ֖וּעַ (why?)
+~~~~~~~~~~
 
 .. csv-table:: Example: 2KI 8:12
 
@@ -324,10 +298,8 @@ These are particles of cause and literally mean "for what?", but they are usuall
   **Why** my-master is-weeping
   "Sir, **why** are you crying?"
 
-עַד־אָן
------
-
-עַד־אָן how long?
+עַד־אָן (how long?)
+~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: JOB 8:2
 
@@ -336,10 +308,8 @@ These are particles of cause and literally mean "for what?", but they are usuall
   **How\_long** will-you-say\_these-things
   **How much longer** will you talk like this?
 
-אֵ֥י מִזֶּ֖ה
-------
-
-אֵ֥י מִזֶּ֖ה from where?
+אֵ֥י מִזֶּ֖ה (from where?)
+~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: 1SA 25:11
 

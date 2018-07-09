@@ -8,8 +8,7 @@ Person First
 Summary
 -------
 
-First person is used when the narrator or speaker is the subject of the
-sentence.
+The first person form of a term refers to the person(s) writing or speaking.
 
 Article
 -------
@@ -18,8 +17,6 @@ The first person is the person or persons that are speaking.
 If it is a single person,
 it is "I", "me", or "my", if it is a group of people it is "we", "us",
 or "our".
-
-.. note:: The first person is only used in direct speech.
 
 Form
 ----

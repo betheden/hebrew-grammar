@@ -8,24 +8,22 @@ Particle Relative
 Summary
 -------
 
-Relative particles introduce phrases that usually describe nouns but can also sometimes
+Relative particles introduce clauses or phrases that usually describe nouns but can also sometimes
 describe adjectives and/or verbs. In English, relative particles are usually translated as “who,”
 “that,” “which,” "when," or "where."
 
 Article
 -------
 
-Biblical Hebrew utilizes three different particles that introduce
-relative phrases. The particle אֲשֶׁר and the prefix -שֶׁ should be
-considered semantic equivalents; they usually immediately follow nouns,
-and sometimes adjectives. When functioning as a relative particle, the
-word כִּי usually immediately follows a verb of seeing or perceiving.
+Biblical Hebrew utilizes three different particles that introduce relative clauses or phrases. The particle אֲשֶׁר and the
+prefix -שֶׁ function as synonyms: they usually immediately follow nouns and sometimes adjectives. When functioning as a relative
+particle, the word כִּי usually immediately follows a verb of seeing or perceiving.
 
 אֲשֶׁר
 ----
 
 אֲשֶׁר follows a
-:ref:`noun`
+:ref:`noun<noun>`
 and introduces a relative clause. Its translation depends on the noun.
 For example, if the noun is a place, אֲשֶׁר means “where,” if the noun
 is a person, it means “who”, and if the noun is an object, it means
@@ -65,7 +63,7 @@ Sometimes there is no noun as an antecedent.
 
 -שֶׁ has the same function as אֲשֶׁר, but is a prefix. It also doubles
 the next consonant and follows similar rules regarding the vowel
-patterns as the :ref:`particle_definite_article`.
+patterns as the :ref:`definite article<particle_definite_article>`.
 
 .. csv-table:: Example: ECC 1:7
 
@@ -87,7 +85,7 @@ patterns as the :ref:`particle_definite_article`.
 
 .. include:: includes/ci_flexible.txt
 
-Biblical Hebrew uses the particle כִּי to introduce relative clauses
+Biblical Hebrew uses the particle כִּי to introduce relative clauses or phrases
 that describe something that is seen, known, or somehow perceived by a
 person. Therefore, כִּי usually follows verbs of seeing/perceiving where
 a reader might expect to find אֲשֶׁר. In English, it is usually

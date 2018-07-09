@@ -8,8 +8,7 @@ Person Third
 Summary
 -------
 
-Third person is used when the narrator or speaker refers to someone
-besides himself or the reader or listener.
+The third person form of a term refers to a person(s) or thing(s) other than the writer/reader or speaker/listener.
 
 Article
 -------

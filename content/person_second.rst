@@ -8,8 +8,7 @@ Person Second
 Summary
 -------
 
-Second person is used when the narrator or speaker refers to the reader
-or listener.
+The second person form of a term refers to the person(s) being addressed by a writer or speaker.
 
 Article
 -------
