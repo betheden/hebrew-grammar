@@ -22,22 +22,19 @@ future. However, the Imperfect conjugation is also used to describe several
 other kinds of actions as determined by the context. These include
 frequentive or durative actions, negative commands, indirect commands,
 potential actions, and actions of greater or lesser desirability
-(similar to
-:ref:`verb_jussive`
-and
-:ref:`verb_cohortative`).
+(similar to :ref:`Jussive<verb_jussive>` verbs and :ref:`Cohortative<verb_cohortative>` verbs).
 
 The normal Imperfect conjugation with the
-:ref:`conjunction`
-*waw* (וְ "and") as a prefix is different from the :ref:`verb_sequential_imperfect`,
+:ref:`conjunction<conjunction>`
+*waw* (וְ "and") as a prefix is different from the :ref:`Sequential Imperfect<verb_sequential_imperfect>`,
 which utilizes a specialized form of the conjunction and contains a
 different meaning. Sometimes a
-:ref:`verb`
-with Imperfect conjugation occurs within a clause after another :ref:`verb-finite-verbs`
+:ref:`verb<verb>`
+with Imperfect conjugation occurs within a clause after another :ref:`finite verb<verb-finite>`
 (as in Gen 49:27 below, supplying the linking verb *to be*). In these
 cases, the context must determine whether the Imperfect verb is
-complementing the main verb or whether it is communicating its own
-verbal idea.
+functioning as a :ref:`non-finite<verb-non-finite>` verb to complement the preceding main verb, or whether it is functioning as a
+second main verb.
 
 Form
 ----

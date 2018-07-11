@@ -15,14 +15,14 @@ of desirability as determined by the context.
 Article
 -------
 
-The Jussive form looks very similar to the :ref:`verb_imperfect`
+The Jussive form looks very similar to the :ref:`Imperfect<verb_imperfect>`
 but functions in the sentence more like an
-:ref:`verb_imperative`.
+:ref:`Imperative<verb_imperative>`.
 Jussive
-:ref:`verb`
-usually appear in :ref:`person_third`
-forms. (Similarly, imperatives appear only in :ref:`person_second`
-forms, and :ref:`verb_cohortative` appear only in :ref:`person_first`,
+:ref:`verbs<verb>`
+usually appear in :ref:`third person<person_third>`
+forms. (Similarly, Imperative verbs appear only in :ref:`second person<person_second>`
+forms, and :ref:`Cohortative<verb_cohortative>` verbs appear only in the :ref:`first person<person_first>`,
 forms.) A Jussive verb does not carry the full force of a command ("He
 *must* do this!"), but it conveys a stronger meaning than a simple
 suggestion or statement of possibilty ("He *could* do this."). The
@@ -38,7 +38,7 @@ commands. Rather, negative commands are always expressed using either
 the Imperfect conjugation form or the Jussive form. In cases where the
 Jussive form is being used to express a negative command, the verb will
 appear in a 2nd person form rather than a 3rd person form. When used in
-this way, the Jussive form takes the :ref:`particle_negative`
+this way, the Jussive form takes the :ref:`negative particle<particle_negative>` :ref:`particle_negative-al`
 in nearly all instances.
 
 Form

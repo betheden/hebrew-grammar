@@ -17,25 +17,25 @@ Article
 
 In Biblical Hebrew, the Imperative form is used to express positive
 commands or instructions directed to another person(s). Thus, Imperative
-:ref:`verb`
-always appear only in the :ref:`person_second`.
+:ref:`verbs<verb>`
+always appear only in the :ref:`second person<person_second>`.
 (Similarly,
-:ref:`verb_cohortative`
-appear only in the :ref:`person_first`,
+:ref:`Cohortative<verb_cohortative>`
+verbs appear only in the :ref:`first person<person_first>`,
 and
-:ref:`verb_jussive`
-usually appear in the :ref:`person_third`.)
+:ref:`Jussive<verb_jussive>`
+verbs usually appear in the :ref:`third person<person_third>`.)
 Imperative verbs can express actions with varying degrees of
 desirability, including instructions, requests, permissions,
 invitations, assurances, wishes, etc. The context must determine the
 nuanced meaning of each instance of an Imperative verb.
 
 Biblical Hebrew does not use the Imperative form to express negative
-commands. Rather, prohibitions are expressed either with the :ref:`verb_imperfect`
+commands. Rather, prohibitions are expressed either with the :ref:`Imperfect<verb_imperfect>`
 (with :ref:`particle_negative-lo`)
-or with a Jussive verb in the 2nd person (with the :ref:`particle_negative-al`).
-Occasionally, the Imperative form will appear with a :ref:`suffix_paragogic_he`;
-in these cases, the meaning of the ה suffix is unknown.
+or with a Jussive verb in the 2nd person (with :ref:`particle_negative-al`).
+Occasionally, the Imperative form will appear with a :ref:`paragogic ה suffix<suffix_paragogic_he>`;
+in these cases, the meaning of the ה suffix is unknown but probably functions to strengthen the force of the verb in some way.
 
 Form
 ----

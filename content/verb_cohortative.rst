@@ -15,16 +15,16 @@ the context.
 Article
 -------
 
-The Cohortative form looks very similar to the :ref:`verb_imperfect`
-but functions in the sentence more like an
-:ref:`verb_imperative`.
-Cohortative verbs appear only in :ref:`person_first`
-forms. (Similarly, imperatives appear only in :ref:`person_second`
+The Cohortative form looks very similar to the :ref:`Imperfect<verb_imperfect>`
+but functions in a sentence more like an
+:ref:`Imperative<verb_imperative>`.
+Cohortative verbs appear only in :ref:`first person<person_first>`
+forms. (Similarly, imperatives appear only in :ref:`second person<person_second>`
 forms, and
-:ref:`verb_jussive`
-usually appear in :ref:`person_third`
+:ref:`Jussive<verb_jussive>`
+usually appear in :ref:`third person<person_third>`
 forms.) A Cohortative
-:ref:`verb`
+:ref:`verb<verb>`
 does not carry the full force of a command ("We *must* do this!"), but
 it conveys a stronger meaning than a simple suggestion or statement of
 possibilty ("We *could* do this."). The meaning is somewhere in the

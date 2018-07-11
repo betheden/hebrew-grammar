@@ -15,21 +15,21 @@ Article
 -------
 
 The Sequential Perfect conjugation looks very similar to the normal
-:ref:`verb_Perfect`,
+:ref:`Perfect<verb_perfect>` form,
 but it is a separate verbal form and must be treated as such. The
 Sequential Perfect conjugation takes the same verbal endings as the
 normal Perfect conjugation but includes the
-:ref:`conjunction`
+:ref:`conjunction<conjunction>`
 *waw* (וְ "and") as a prefix. A Sequential Perfect
-:ref:`verb`
-does not function like a normal Perfect conjugation verb. Rather, it appears to
-function more like a :ref:`verb_imperfect` verb, because it often appears in a series following a
+:ref:`verb<verb>`
+does not function like a normal Perfect conjugation verb. Rather, it functions more like an :ref:`Imperfect<verb_imperfect>` verb,
+because it often appears in a series following a
 clause with an Imperfect verb. It functions in a variety of other ways as well, because it actually derives its function 
 from a previous verb form that it then imitates. This previous verb can be any of several different forms, allowing the 
 Sequential Perfect verb to function in many different ways (see the examples below). 
 
 There is a difference between (1) the Sequential Perfect conjugation, (2)
-the :ref:`verb_perfect-perfect-copulative`,
+the :ref:`Perfect copulative<verb_perfect-copulative>`,
 and (3) the normal Imperfect conjugation with the conjunction. (1) and (2)
 have an identical form, including the vocalization, so the reader must
 determine from the context which one is being used in any given
@@ -156,8 +156,8 @@ Incomplete actions, in present or future time
   **Then I will light** a fire in the temples of Egypt's gods.
 
 In poetry it can take on a variety of functions, here it clearly
-continues the previous :ref:`verb_imperfect`.
-It signals a :ref:`verb_imperfect-frequentive-or-durative-actions`
+continues the previous :ref:`Imperfect<verb_imperfect>`.
+It expresses an :ref:`habitual<verb_imperfect-frequentive>` action
 that is not (never) completed.
 
 .. csv-table:: Example: PSA 90:6
@@ -186,7 +186,7 @@ Direct or indirect commands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the following example, the sequential suffix conjugation is
-translated with :ref:`verb_imperative` meaning.
+translated with :ref:`imperative<verb_imperative>` meaning.
 
 .. csv-table:: Example: 2SA 7:5
 
@@ -196,7 +196,7 @@ translated with :ref:`verb_imperative` meaning.
   Go **and tell** David my servant
 
 In the following example, the sequential suffix conjugation is
-translated with :ref:`verb_jussive` meaning.
+translated with :ref:`jussive<verb_jussive>` meaning.
 
 .. csv-table:: Example: GEN 31:44
 
@@ -225,7 +225,7 @@ These may include instructions, requests, permissions, invitations,
 assurances, wishes, etc.
 
 In the following example, the sequential suffix conjugation is
-translated with :ref:`verb_cohortative` meaning.
+translated with :ref:`cohortative<verb_cohortative>` meaning.
 
 .. csv-table:: Example: RUT 2:7
 

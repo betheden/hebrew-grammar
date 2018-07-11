@@ -16,7 +16,7 @@ Article
 -------
 
 In Biblical Hebrew a Perfect
-:ref:`verb`
+:ref:`verb<verb>`
 is normally used to describe actions that have occurred in the past or
 actions that are seen as completed (even in present or future time). However,
 the Perfect conjugation is also used to describe a variety of other kinds
@@ -26,10 +26,10 @@ tense. The context must determine the proper meaning for each instance
 of a Perfect verb.
 
 When the
-:ref:`conjunction`
+:ref:`conjunction<conjunction>`
 *waw* (וְ "and") is added to the Perfect conjugation as a prefix, this
-can indicate either the :ref:`verb_perfect-suffix-conjugation-copulative`
-or the :ref:`verb_sequential_perfect`.
+can indicate either the :ref:`Perfect copulative<verb_perfect-copulative>`
+or the :ref:`Sequential Perfect<verb_sequential_perfect>`.
 The meaning of the verb is different in either case, and the context
 must be carefully considered to determine if it is a Perfect
 copulative verb or a Sequential Perfect verb.
@@ -199,13 +199,10 @@ This is an action described as a hypothetical situation.
   Oh if only eating **they-had-eaten** the-day the-people
   How much better if the people **had eaten** freely today
 
-Stative actions (describing a state or condition)
+:ref:`Stative<verb-stative>` actions (describing a state or condition)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This kind of action describes a state or a condition, usually with a
-:ref:`verb-stative-or-non-action-verbs`
-or a passive
-:ref:`stem`.
+This kind of action describes a state or a condition, often (but not always) with a passive :ref:`stem formation<stem>`.
 
 .. csv-table:: Example: LAM 1:1
 
@@ -239,16 +236,16 @@ utterances.
   for\_\ **it-will-be-full** the-earth-of knowledge [dir.obj]\_Yahweh
   "for the earth **will be full** of knowledge of Yahweh"""
 
-.. _verb_perfect-suffix-conjugation-copulative:
+.. _verb_perfect-copulative:
 
 Perfect copulative
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This form adds the
-:ref:`conjunction`
+:ref:`conjunction<conjunction>`
 *waw* (וְ "and") to the normal Perfect conjugation and can express any of
 the above meanings. This form appears identical to the
-:ref:`verb_sequential_perfect`.
+:ref:`Sequential Perfect<verb_sequential_perfect>`.
 
 .. csv-table:: Example: 1KI 12:32
 

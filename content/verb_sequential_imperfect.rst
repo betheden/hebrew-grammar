@@ -16,11 +16,11 @@ Article
 -------
 
 The Sequential Imperfect conjugation of a
-:ref:`verb`
-looks similar to the normal :ref:`verb_imperfect`,
+:ref:`verb<verb>`
+looks similar to the normal :ref:`Imperfect<verb_imperfect>` verb,
 but it is a separate verbal form and must be treated as such. A
 Sequential Imperfect verb does not function like a normal
-Imperfect verb, but it functions similar to a :ref:`verb_Perfect`
+Imperfect verb, but it functions similar to a :ref:`Perfect<verb_perfect>`
 verb. The difference is an added sense of being connected to an earlier
 verb to form a sequence of time or a sequence of thought. In Hebrew
 narratives, the Sequential Imperfect conjugation also serves the function
@@ -30,7 +30,7 @@ sentence.
 The endings of the Sequential Imperfect conjugation are the same as the
 normal Imperfect conjugation but the sequential form also has an extra
 prefix, which is a *specialized* form of the
-:ref:`conjunction`.
+:ref:`conjunction<conjunction>`.
 The difference between the Sequential Imperfect and the normal
 Imperfect conjugation with the conjunction is in the vowel pattern. The
 normal Imperfect conjugation with the conjunction looks exactly like what
@@ -181,13 +181,10 @@ Completed actions, or actions in the past
   **and-he-went-up** Abram from-Egypt
   **So** Abram **went up** from Egypt
 
-Stative actions
-^^^^^^^^^^^^^^^
+:ref:`Stative<verb-stative>` actions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This kind of action describes a state or condition, usually with a
-:ref:`verb-stative-or-non-action-verbs`
-or in a passive
-:ref:`stem`.
+This kind of action describes a state or condition, often (but not always) with a passive :ref:`stem formation<stem>`.
 
 .. csv-table:: Example: GEN 22:19
 
