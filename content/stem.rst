@@ -273,7 +273,7 @@ group.
   **they-have-killed-each-other** the-kings
   the kings **have killed each other**
 
-.. _rare-stems:
+.. _stem-uncommon:
 
 Rare stem formations
 --------------------

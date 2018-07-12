@@ -15,13 +15,13 @@ Piel stem.
 Article
 -------
 
-The Hithpael stem is formed from the :ref:`stem_piel`
+The Hithpael stem is formed from the :ref:`Piel<stem_piel>` stem
 by adding the reflexive prefix (הִתְ) and changing the vowel under the
-1st radical. Like the Piel and Pual
-:ref:`stem`,
+1st radical. Like the Piel and :ref:`Pual<stem_pual>`
+:ref:`stems<stem>`,
 it usually has a daghesh in the 2nd radical of the
-:ref:`verb`.
-Generally speaking, the Hithpael stem expresses the reflexive voice of
+:ref:`verb<verb>`.
+Generally speaking, the Hithpael stem expresses the :ref:`reflexive<stem-voice-reflexive>` voice of
 the meaning of a verb in the Piel stem. However, the Hithpael stem is
 quite flexible in its use and can express other kinds of verbal action,
 depending on the context and the specific verb.
@@ -148,16 +148,15 @@ Function
 The Hithpael stem can express any of the following kinds of verbal
 action:
 
-Expresses the reflexive voice of the Piel stem
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Expresses the :ref:`reflexive<stem-voice-reflexive>` voice of the Piel stem
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-For most verbs that appear in both the Piel and Hithpael stems in
-Biblical Hebrew, the Hithpael stem expresses the same kind of action as
-the Piel stem (simple, intensive, resultative, causative, etc.) but in
-reflexive voice. (See the article on the :ref:`stem_niphal`
-for the definition of reflexive voice.) A good example is the verb
-יָדַע. In the Qal stem, the verb יָדַע means "to know" (simple action,
-active voice). But in the Piel stem, the verb יָדַע means "to make
+For most verbs that appear in both the Piel and Hithpael stems in Biblical Hebrew, the Hithpael stem expresses the same kind of
+action as the Piel stem (:ref:`simple<stem-action-simple>`, :ref:`intensive<stem-action-intensive>`,
+:ref:`resultative<stem-action-resultative>`, :ref:`causative<stem-action-causative>`, etc.) but in
+reflexive voice. A good example is the verb
+יָדַע. In the :ref:`Qal<stem_qal>` stem, the verb יָדַע means "to know" (simple action,
+active voice). But in the :ref:`Piel<stem_piel>` stem, the verb יָדַע means "to make
 known" (causative action, active voice). Thus, in the Hithpael stem, the
 verb יָדַע means "to make oneself known" (causative action, reflexive
 voice).
@@ -191,7 +190,7 @@ Expresses simple reflexive action
 The Hithpael stem can be used to express simple reflexive action in two
 ways. First, the Hithpael stem can express a simple action in reflexive
 voice. In these cases, usually the Hithpael stem functions as the
-reflexive voice of the *Qal* (or perhaps Niphal) stem rather than the
+reflexive voice of the *Qal* (or perhaps :ref:`Niphal<stem_niphal>`) stem rather than the
 *Piel* stem. This is the case with the verb אָבַל ("to mourn"), as shown
 in the example below. Secondly, the Hithpael stem can also express
 simple action of a verb that is reflexive by its very nature. In these
@@ -219,10 +218,9 @@ Expresses various other kinds of verbal action
 
 Sometimes the Hithpael form functions in ways that do not follow the
 strictly the reflexive conventions of the Hithpael stem as listed above.
-Some verbs use the Hithpael stem to describe reciprocal action, middle
-action, passive action, and/or perhaps even stative or other kinds of
-verbal action. (See the article on the :ref:`stem_niphal`
-for the definitions of these kinds of verbal action.) A dictionary or
+Some verbs use the Hithpael stem to describe :ref:`reciprocal<stem-voice-reciprocal>` voice, :ref:`middle<stem-voice-middle>`
+voice, :ref:`passive<stem-voice-passive>` voice, as well as :ref:`stative<verb-stative>` or other kinds of
+verbal action. A dictionary or
 lexicon will indicate the correct meaning in these instances of the
 Hithpael stem.
 

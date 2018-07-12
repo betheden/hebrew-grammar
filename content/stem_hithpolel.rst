@@ -14,11 +14,11 @@ It expresses the reflexive voice of the Polel stem.
 Article
 -------
 
-The Hithpolel stem is a variation of the :ref:`stem_hithpael`
-and expresses the reflexive voice of the verbal action of the :ref:`stem_polel`.
+The Hithpolel stem is a variation of the :ref:`Hithpael<stem_hithpael>`
+and expresses the :ref:`reflexive<stem-voice-reflexive>` voice of the verbal action of the :ref:`Polel<stem_polel>` stem.
 The Hithpolel stem is formed from the Hithpael by dropping the 2nd
 radical and repeating the 3rd radical (with a vowel change). It is a
-rare verbal form in Biblical Hebrew. It is recommended to *always*
+:ref:`rare stem formation<stem-uncommon>` in Biblical Hebrew. It is recommended to *always*
 consult a dictionary or lexicon for the precise nuance of any verb in
 the Hithpolel stem.
 

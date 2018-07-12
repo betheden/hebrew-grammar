@@ -15,18 +15,15 @@ context and the specific verb.
 Article
 -------
 
-The Hiphil form is a verbal
-:ref:`stem`
-formation in Biblical Hebrew, usually indicated by a הִ prefix before
+The Hiphil form is a verbal :ref:`stem formation<stem>` in Biblical Hebrew, usually indicated by a הִ prefix before
 the 1st radical and a hireq-yod (or sometimes tsere) vowel under the 2nd
 radical of the
-:ref:`verb`.
+:ref:`verb<verb>`.
 (This ה changes in the
-:ref:`participle_active`
-and :ref:`verb_imperfect`
+:ref:`participle<participle_active>` and :ref:`Imperfect<verb_imperfect>`
 forms.) The Hiphil stem is generally used to express causative action in
 active voice. In many cases the
-:ref:`noun`
+:ref:`noun<noun>`
 derived from the same root is the object or result of the hiphil verb
 associated with that root. For example, the Hiphil verb הִמְטִיר means
 "to cause to rain down"; the noun מָטָר means "rain".
@@ -151,11 +148,11 @@ Expresses causative action
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Causative action means that the subject of the verb is causing the
-object of the verb either to perform the verbal action (:ref:`verb-dynamic-or-action-verbs`)
-or to be in the state described by the verb (:ref:`verb-stative-or-non-action-verbs`).
+object of the verb either to perform the verbal action (for :ref:`dynamic<verb-dynamic>` verb)
+or to be in the state described by the verb (for :ref:`stative<verb-stative>` verbs).
 The Hiphil stem usually serves this causative function with dynamic
 verbs (and sometimes with stative verbs also). A good example is the
-verb בּוֹא. In the Qal stem, the verb בּוֹא expresses the simple action
+verb בּוֹא. In the :ref:`Qal<stem_qal>` stem, the verb בּוֹא expresses the simple action
 "to come" or "to go". But in the Hiphil stem, the verb בּוֹא expresses
 the causative action "to bring" (meaning, *to cause something to
 come/go*). In English, causative action is expressed using the main verb
@@ -197,7 +194,7 @@ well as the appropriate meaning(s).
   For Baruch son of Neriah **is inciting** you against us
 
 Some verbs express *different* meanings in *different* stem formations.
-A good example is the verb גָּלָה. In the :ref:`stem_qal`,
+A good example is the verb גָּלָה. In the :ref:`Qal<stem_qal>` stem,
 the verb גָּלָה expresses the simple action "to uncover" or "to reveal".
 But in the Hiphil stem, the verb גָּלָה expresses the simple action "to
 exile". Again, this will be indicated by a dictionary or lexicon.
@@ -211,7 +208,7 @@ exile". Again, this will be indicated by a dictionary or lexicon.
 
 Some verbs express the *same* meaning in *multiple* stem formations. A
 good example is the verb יָדַע, which expresses the causative action "to
-make known" (meaning, *to cause to know*) in both the :ref:`stem_piel`
+make known" (meaning, *to cause to know*) in both the :ref:`Piel<stem_piel>` stem
 and the Hiphil stem. This also will be indicated by a dictionary or
 lexicon.
 

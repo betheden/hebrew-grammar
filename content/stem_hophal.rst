@@ -15,21 +15,21 @@ Article
 -------
 
 The Hophal
-:ref:`stem`
+:ref:`stem<stem>`
 is the passive form of the
-:ref:`stem_hiphil`
+:ref:`Hiphil<stem_hiphil>`
 stem formation in Biblical Hebrew. The Hophal stem is usually indicated
 by either a הָ or הֻ prefix to the
 :ref:`verb`.
 (The ה changes in the
-:ref:`participle_active`
-and :ref:`verb_imperfect`
-forms.) The Hophal stem usually expresses the passive voice of the
+:ref:`participle<participle_active>`
+and :ref:`Imperfect<verb_imperfect>`
+forms.) The Hophal stem usually expresses the :ref:`passive<stem-voice-passive>` voice of the
 meaning of a verb in the Hiphil stem. Scholars sometimes disagree
 whether certain verb forms should be classified as belonging to the
 Hophal, the
-:ref:`stem_pual`
-or even the :ref:`stem_qal_passive`
+:ref:`Pual<stem_pual>`
+or even the :ref:`Qal Passive<stem_qal_passive>`
 stem. In English, passive voice is expressed using the helping verb "to
 be." In Biblical Hebrew, the passive nature of the verbal action is
 expressed by the Hophal form of the verb itself without any helping
@@ -128,15 +128,15 @@ Function
 
 The Hophal stem can express any of the following kinds of verbal action:
 
-Expresses the passive voice of the Hiphil stem
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Expresses the :ref:`passive<stem-voice-passive>` voice of the Hiphil stem
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For most verbs that appear in Hiphil stem in Biblical Hebrew, the Hophal
 stem expresses the same kind of simple or causative action as the Hiphil
 stem, but in passive voice. A good example is the verb בּוֹא. In the
-:ref:`stem_qal`,
-the verb בּוֹא means "to come" or "to go" (simple action, active voice).
-But in the Hiphil stem, the verb בּוֹא means "to bring" (causative
+:ref:`Qal<stem_qal>` stem,
+the verb בּוֹא means "to come" or "to go" (:ref:simple<stem-action-simple>` action, :ref:`active<stem-voice-active>` voice).
+But in the :ref:`Hiphil<stem_hiphil>` stem, the verb בּוֹא means "to bring" (:ref:`causative<stem-action-causative>`
 action, active voice). Thus, in the Hophal stem, the verb בּוֹא means
 "to be brought" (causative action, passive voice).
 
@@ -163,15 +163,15 @@ Hiphil stem, means "to declare", for example:
 Expresses simple action in passive voice
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Some verbs use the Hophal stem to express simple passive action. (This
+Some verbs use the Hophal stem to express simple :ref:`passive<stem-voice-passive>` action. (This
 can be true even if the verb also appears in the Hiphil stem in Biblical
 Hebrew; in such cases, the Hophal form does NOT function strictly as a
 passive of the Hiphil stem.) A good example is the verb יָצַק. In the
-Qal stem, the verb יָצַק expresses the simple action "to pour" or "to
-pour out". In the Hiphil stem, the verb יָצַק expresses the same simple
+:ref:`Qal<stem_qal>` stem, the verb יָצַק expresses the simple action "to pour" or "to
+pour out". In the :ref:`Hiphil<stem_Hiphil>` stem, the verb יָצַק expresses the same simple
 action "to pour". In the Hophal stem, the verb יָצַק expresses the
 simple passive "to be poured" (that is, the passive of both the *Qal*
-stem and the *Hiphil* stem). For some verbs, the Hophal and/or Pual
+stem and the *Hiphil* stem). For some verbs, the Hophal and/or :ref:`Pual<stem_pual>`
 forms can both function as a passive of the Qal stem. In all these
 cases, a dictionary or lexicon will indicate the correct meaning.
 
@@ -182,15 +182,15 @@ cases, a dictionary or lexicon will indicate the correct meaning.
   **it-is-poured-out** grace by-your-lips
   grace **is poured** onto your lips
 
-Expresses various kinds of passive or stative action
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Expresses various kinds of passive or :ref:`stative<verb-stative>` action
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Sometimes the Pual form is used with specific verbs or in specific
+Sometimes the Hophal form is used with specific verbs or in specific
 contexts to express a specialized meaning for the verbal action. A
 dictionary or lexicon will indicate the correct meaning.
 
-The Hophal stem of the verb יָלַד ("to give birth")
-refers to someone's birthday, for example:
+For example, the Hophal stem of the verb יָלַד ("to give birth")
+refers to someone's birthday:
 
 .. csv-table:: Example: GEN 40:20
 
@@ -201,7 +201,7 @@ refers to someone's birthday, for example:
   It came about on the third day that it was Pharaoh's **birth**\ day.
 
 The Hophal stem of the verb יָסַד ("to found, establish")
-refers to the foundation of a building, for example:
+refers to the foundation of a building:
 
 .. csv-table:: Example: 2CH 3:3
 
