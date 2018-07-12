@@ -16,14 +16,13 @@ Article
 -------
 
 The Piel form is a verbal
-:ref:`stem`
-formation in Biblical Hebrew, usually indicated by a daghesh in the 2nd
+:ref:`stem formation<stem>` in Biblical Hebrew, usually indicated by a daghesh in the 2nd
 radical of the
-:ref:`verb`.
+:ref:`verb<verb>`.
 The Piel stem is the most flexible in its use of all the various stem
-formations; it can express simple action, intensive action, resultative
-action, causative action, or other kinds of action (all in active voice)
-depending on the context and the specific verb. Some verbs express
+formations; it can express :ref:`simple<stem-action-simple>` action, :ref:`intensive<stem-action-intensive>` action,
+:ref:`resultative<stem-action-resultative>` action, :ref:`causative<stem-action-causative>` action, or other kinds of action
+(all in :ref:`active<stem-voice-active>` voice) depending on the context and the specific verb. Some verbs express
 simple action in the Piel stem; some verbs express intensive action in
 the Piel stem; for some verbs, the Piel stem might express either simple
 action or intensive action, depending on the context; and so on.
@@ -148,12 +147,12 @@ Function
 
 The Piel stem can express any of the following kinds of verbal action:
 
-Expresses simple action
-~~~~~~~~~~~~~~~~~~~~~~~
+Expresses :ref:`simple<stem-action-simple> action
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In Biblical Hebrew, some verbs can express *different* meanings in
 *different* stem formations. A good example is the Hebrew verb נָחַם. In
-the :ref:`stem_niphal`,
+the :ref:`Niphal<stem_niphal>` stem,
 the verb נָחַם usually expresses either stative action ("to be sorry")
 or passive action ("to be comforted"). But in the Piel stem, the verb
 נָחַם expresses the simple action "to comfort". A dictionary or lexicon
@@ -169,7 +168,7 @@ formations.
 
 On the other hand, some verbs express the *same* meaning in *multiple*
 stem formations. A good example is the verb אָסַף, which expresses the
-simple action "to gather" in both the :ref:`stem_qal`
+simple action "to gather" in both the :ref:`Qal<stem_qal>`
 and the Piel stem. This also will be indicated by a dictionary or
 lexicon.
 
@@ -180,12 +179,12 @@ lexicon.
   and-there-is-not man **gathering** [dir.obj]-me to-the-house
   but there is no one **who will take me** into his house
 
-Expresses resultative action
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Expresses :ref:`resultative<stem-action-resultative>` action
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Resultative action means that the primary focus of the verb is on the
 result of the verbal action. A good example is the verb שָׁלַח. In the
-Qal stem, the verb שָׁלַח means "to send" or "to stretch out". But in the
+:ref:`Qal<stem_qal>` stem, the verb שָׁלַח means "to send" or "to stretch out". But in the
 Piel stem, the verb שָׁלַח means "to send away".
 
 .. csv-table:: Example: GEN 21:6
@@ -195,14 +194,14 @@ Piel stem, the verb שָׁלַח means "to send away".
   and-he-gave ... and-[dir.obj]\_the-boy **and-he-sent-her-away**
   He gave her the boy and **sent her away**
 
-Expresses causative action
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Expresses :ref:`causative<stem-action-causative>` action
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Causative action means that the subject of the verb is causing the
-object of the verb either to perform the verbal action (:ref:`verb-dynamic-or-action-verbs`)
-or to be in the state described by the verb (:ref:`verb-stative-or-non-action-verbs`).
+object of the verb either to perform the verbal action (for :ref:`dynamic<verb-dynamic>` verbs)
+or to be in the state described by the verb (for :ref:`stative<verb-stative>` verbs).
 The Piel stem often serves this causative function with stative verbs. A
-good example is the verb מָלֵא. In the Qal stem, the verb מָלֵא
+good example is the verb מָלֵא. In the :ref:`Qal<stem_qal>` stem, the verb מָלֵא
 expresses the stative action "to be full". But in the Piel stem, the
 verb מָלֵא expresses the causative action "to fill" (meaning, *to cause
 something to be full*). In English, causative action is expressed using
@@ -211,10 +210,10 @@ in view. In Biblical Hebrew, the causative nature of the verbal action
 is expressed by the Piel form of the verb itself with no additional
 verbal element.
 
-.. note:: Causative action must be expressed by a :ref:`verb-transitive-verbs`,
-          but non-causative action can be expressed by an :ref:`verb-intransitive-verbs`.
+.. note:: Causative action must be expressed by a :ref:`trasitive verb<verb-transitive>`,
+          but non-causative action can be expressed by an :ref:`intransitive verb<verb-intransitive>`.
           Thus, a verb that is transitive in the Piel stem may be intransitive in
-          the Qal and/or Niphal stems.
+          the Qal and/or :ref:`Niphal<stem-niphal>` stems.
 
 .. csv-table:: Example: JOB 38:12 –– expressing causative action with a dynamic verb
 
@@ -232,11 +231,11 @@ verbal element.
   and-she-went **and-she-filled** [dir.obj]\_the-skin-of water
   She went **and filled** the skin with water
 
-Expresses intensive action
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Expresses :ref:`intensive<stem-action-intensive>` action
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Intensive action means that the verbal action is strengthened in some
-way. A good example is the Hebrew verb שָׁבַר. In the Qal stem, the verb
+way. A good example is the Hebrew verb שָׁבַר. In the :ref:`Qal<stem_qal>` stem, the verb
 שָׁבַר means "to break". But in the Piel stem, the verb שָׁבַר means "to
 shatter" or "to break in pieces". A dictionary or lexicon will indicate
 an intensive nuance in comparison with the meaning of the verb in other

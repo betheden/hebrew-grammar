@@ -9,14 +9,14 @@ Summary
 -------
 
 The Hothpaal is an extremely rare stem formation that is derived from
-the Hithpael. It generally expresses passive action.
+the Hithpael. It generally expresses action in passive voice.
 
 Article
 -------
 
-The Hothpaal stem is a variation of the :ref:`stem_piel`
-and generally expresses passive action. The Hothpaal stem is formed from
-the Hithpael stem by vowel changes and is an extremely rare verbal form
+The Hothpaal stem is a variation of the :ref:`Piel<stem_piel>`
+and generally expresses verbal action in :ref:`passive<stem-voice-passive>` voice. The Hothpaal stem is formed from
+the Hithpael stem by vowel changes and is an extremely :ref:`rare stem formation<stem-uncommon>`
 in Biblical Hebrew. Many of the occurrences of the Hothpaal stem in the
 Hebrew Bible are from the root verb פָּקַד ("to visit, number, or
 appoint").

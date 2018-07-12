@@ -16,12 +16,11 @@ Article
 -------
 
 In Biblical Hebrew, the Qal stem is the simplest of all the verbal
-:ref:`stem`
-formations in both form and function. All the other stem formations are
+:ref:`stem formations<stem>` in both form and function. All the other stem formations are
 derived from the Qal form. It is by far the most common form of a
-:ref:`verb`,
-and it almost always expresses either simple action in active voice (for
-dynamic verbs) or stative action in passive voice (for stative verbs,
+:ref:`verb<verb>`,
+and it almost always expresses either simple action in :ref:`active<stem-voice-active>` voice (for
+:ref:`dynamic<verb-dynamic>` verbs) or stative action in :ref:`passive<stem-voice-passivle>` voice (for :ref:`stative<verb-stative>` verbs,
 which do not have active voice). In English, stative verbs require the
 helping verb "to be" for proper translation value (see example). In
 Biblical Hebrew, the stative nature of the verb is indicated by the verb

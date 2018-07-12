@@ -17,12 +17,12 @@ Article
 Form
 ----
 
-The Pulal stem is a variation of the :ref:`stem_pual`
-and expresses the passive voice of the verbal action of the :ref:`stem_pilel`
-and/or the :ref:`stem_palel`.
+The Pulal :ref:`stem<stem>` is a variation of the :ref:`Pual<stem_pual>`
+and expresses the :ref:`passive<stem-voice-passive>` voice of the verbal action of the :ref:`Pilel<stem_pilel>`
+and/or the :ref:`Palel<stem_palel>` stems.
 The Pulal stem is formed from the Pual by repeating the 3rd radical
 (with a vowel change), thus making a verb that appears to have 4
-consonants. It is an extremely rare verbal form in Biblical Hebrew. Most
+consonants. It is an extremely :ref:`rare stem formation<stem-uncommon>` in Biblical Hebrew. Most
 of the Pulal verbs found in the Hebrew Bible are from the root אָמַל
 ("to be weak").
 

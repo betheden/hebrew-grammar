@@ -15,13 +15,13 @@ Article
 -------
 
 The Tiphil
-:ref:`stem`
-(sometimes called: Tiphal, Tiphel, or Taphel) expresses causative action
-in active voice, similar to the more common
-:ref:`stem_hiphil`
+:ref:`stem<stem>`
+(sometimes called: Tiphal, Tiphel, or Taphel) expresses :ref:`causative<stem-action-causative>` action
+in :ref:`active<stem-voice-active>` voice, similar to the more common
+:ref:`Hiphil<stem_hiphil>`
 stem formation. It differs from the Hiphil by using a ת prefix before
-the 1st radical instead of a ה prefix. It is an extremely rare verbal
-form in Biblical Hebrew.
+the 1st radical instead of a ה prefix. It is an extremely :ref:`rare stem formation<stem-uncommon>`
+in Biblical Hebrew.
 
 .. include:: includes/consult_dictionary.txt
 

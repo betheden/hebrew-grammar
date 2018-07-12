@@ -14,9 +14,9 @@ expresses the same range of meanings.
 Article
 -------
 
-The Poel stem is a variation of the :ref:`stem_piel`
+The Poel :ref:`stem<stem>` is a variation of the :ref:`Piel<stem_piel>`
 and has potential to express the same range of verbal action. The Poel
-stem is formed from the Piel by a vowel change and is a rare verbal form
+stem is formed from the Piel by a vowel change and is a :ref:`rare stem formation<stem-uncommon>`
 in Biblical Hebrew.
 
 .. include:: includes/consult_dictionary.txt

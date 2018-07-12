@@ -14,11 +14,11 @@ expresses the same range of meanings.
 Article
 -------
 
-The Pealal stem is a variation of the :ref:`stem_piel`
+The Pealal :ref:`stem<stem>` is a variation of the :ref:`Piel<stem_piel>`
 and has potential to express the same range of verbal action. The Pealal
 stem is formed from the Piel stem by simply repeating both the 2nd and
 3rd radicals, thus making a verb that appears to have 5 consonants. It
-is an extremely rare verbal form in Biblical Hebrew.
+is an extremely :ref:`rare stem formation<stem-uncommon>` in Biblical Hebrew.
 
 .. include:: includes/consult_dictionary.txt
 

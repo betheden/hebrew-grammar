@@ -14,13 +14,13 @@ expresses the same range of meanings.
 Article
 -------
 
-The Pilel stem is a variation of the :ref:`stem_piel`
+The Pilel :ref:`stem<stem>` is a variation of the :ref:`Piel<stem_piel>`
 and has potential to express the same range of verbal action. It is the
 same stem formation as the
-:ref:`stem_palel`,
-only with a variant vocalization. The Pilel stem is formed from the Piel
+:ref:`Palel<stem_palel>`,
+only with a variant vowel pattern. The Pilel stem is formed from the Piel
 stem by repeating the 3rd radical, thus making a verb that can appear to
-have 4 consonants. It is an extremely rare verbal form in Biblical
+have 4 consonants. It is an extremely :ref:`rare stem formation<stem-uncommon>` in Biblical
 Hebrew.
 
 .. include:: includes/consult_dictionary.txt

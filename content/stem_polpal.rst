@@ -14,12 +14,12 @@ expresses the passive voice of the Pilpel stem.
 Article
 -------
 
-The Polpal stem is a variation of the :ref:`stem_pual`
-and expresses the passive voice of the verbal action of the :ref:`stem_pilpel`.
+The Polpal :ref:`stem<stem>` is a variation of the :ref:`Pual<stem_pual>`
+and expresses the :ref:`passive<stem-voice-passive>` voice of the verbal action of the :ref:`Pilpel<stem_pilpel>` stem.
 The Polpal stem is formed from the Pual by dropping the 2nd radical and
 repeating the 1st and 3rd radicals (with a vowel change), thus making a
-verb that appears to have 4 consonants. It is an extremely rare verbal
-form in Biblical Hebrew.
+verb that appears to have 4 consonants. It is an extremely :ref:`rare stem formation<stem-uncommon>`
+in Biblical Hebrew.
 
 .. include:: includes/consult_dictionary.txt
 

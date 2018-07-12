@@ -8,7 +8,7 @@ Stem Niphal
 Summary
 -------
 
-The Niphal stem generally expresses passive or reflexive action, but it
+The Niphal stem generally expresses passive or reflexive voice, but it
 can also express other kinds of action depending on the context and the
 specific verb.
 
@@ -16,18 +16,18 @@ Article
 -------
 
 The Niphal form is a verbal
-:ref:`stem`
-formation in Biblical Hebrew, usually indicated by a נִ prefix before
+:ref:`stem formation<stem>` in Biblical Hebrew, usually indicated by a נִ prefix before
 the 1st radical of the
-:ref:`verb`.
+:ref:`verb<verb>`.
 (This נ changes in multiple conjugations, see paradigms below.) The
 Niphal stem is extremely flexible in its use in Biblical Hebrew.
-Generally speaking, the Niphal stem expresses either passive or
-reflexive action; but it can also express middle, reciprocal, simple, or
-even stative action, depending on the context and the specific verb.
-Some verbs express passive action in the Niphal stem; some verbs express
-reflexive action in the Niphal stem; for some verbs, the Niphal stem
-might express either passive action or reflexive action, depending on
+Generally speaking, the Niphal stem expresses either :ref:`passive<stem-voice-passive>` or
+:ref:`reflexive<stem-voice-reflexive>` voice; but it can also express :ref:`middle<stem-voice-middle>` voice,
+:ref:`reciprocal<stem-voice-reciprocal>` voice, :ref:`simple<stem-action-simple>` action, or
+even :ref:`stative<verb-stative>` action, depending on the context and the specific verb.
+Some verbs express passive voice in the Niphal stem; some verbs express
+reflexive voice in the Niphal stem; for some verbs, the Niphal stem
+might express either passive voice or reflexive voice, depending on
 the context; and so on.
 
 .. include:: includes/consult_dictionary.txt
@@ -223,8 +223,8 @@ group.
   **they-have-killed-each-other** the-kings
   the kings **have killed each other**
 
-Expresses simple action
-^^^^^^^^^^^^^^^^^^^^^^^
+Expresses :ref:`simple<stem-action-simple>` action
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In Biblical Hebrew, some verbs express different meanings in different
 stem formations. A good example is the Hebrew verb רָאָה. In the Qal
@@ -240,8 +240,8 @@ verbs in the various stem formations.
   **And-he-appeared** Yahweh to\_Abram
   Yahweh **appeared** to Abram
 
-Expresses stative action
-^^^^^^^^^^^^^^^^^^^^^^^^
+Expresses :ref:`stative<verb-stative>` action
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In Biblical Hebrew, some verbs express stative action in the *Niphal*
 stem rather than the *Qal* stem. This is a very rare use of the Niphal

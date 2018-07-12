@@ -14,11 +14,11 @@ expresses the same range of meanings.
 Article
 -------
 
-The Pilpel stem is a variation of the :ref:`stem_piel`
+The Pilpel :ref:`stem<stem>` is a variation of the :ref:`Piel<stem_piel>`
 and has potential to express the same range of verbal action. The Pilpel
 stem is formed from the Piel by dropping the 2nd radical and repeating
 the 1st and 3rd radical, thus making a verb that appears to have 4
-consonants. It is a rare verbal form in Biblical Hebrew. Many of the
+consonants. It is a :ref:`rare stem formation<stem-uncommon>` in Biblical Hebrew. Many of the
 occurrences of the Pilpel stem in the Hebrew Bible are from the root
 verb כּוּל ("to comprehend, contain").
 

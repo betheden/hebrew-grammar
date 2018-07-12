@@ -14,10 +14,10 @@ expresses the passive voice of the Poel stem.
 Article
 -------
 
-The Poal stem is a variation of the :ref:`stem_pual`
-and expresses the passive voice of the verbal action of the :ref:`stem_poel`.
+The Poal :ref:`stem<stem>` is a variation of the :ref:`Pual<stem_pual>`
+and expresses the :ref:`passive<stem-voice-passive>` voice of the verbal action of the :ref:`Poel<stem_poel>`.
 The Poal stem is formed from the Pual by a vowel change. It is an
-extremely rare verbal form in Biblical Hebrew.
+extremely :ref:`rare stem formation<stem-uncommon>` in Biblical Hebrew.
 
 .. include:: includes/consult_dictionary.txt
 

@@ -15,15 +15,14 @@ Article
 -------
 
 The Qal Passive form is a
-:ref:`stem`
-formation in Biblical Hebrew that expresses simple action in passive
-voice. There is some debate among scholars concerning all the
-:ref:`verb`
+:ref:`stem formation<stem>` in Biblical Hebrew that expresses :ref:`simple<stem-action-simple>` action in
+:ref:`passive<stem-voice-passive>` voice. There is some debate among scholars concerning all the
+:ref:`verbs<verb>`
 that are parsed as Qal Passive, because they could also be identified as
 either a
-:ref:`stem_pual`
+:ref:`Pual<stem_pual>`
 or a
-:ref:`stem_hophal`.
+:ref:`Hophal<stem_hophal>`.
 This distinction is not important for meaning or translation.
 
 .. csv-table:: Example: GEN 6:1 –– alternatively identified as Pual

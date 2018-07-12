@@ -15,16 +15,16 @@ Article
 -------
 
 The Pual
-:ref:`stem`
-is the passive form of the :ref:`stem_piel`
+:ref:`stem<stem>`
+is the passive form of the :ref:`Piel<stem_piel>`
 formation in Biblical Hebrew. The Pual stem is usually indicated by a
 daghesh in the middle consonsant of the
 :ref:`verb`
 and a qibbuts vowel under the first consonant. Generally speaking, the
-Pual stem expresses the passive voice of the meaning of a verb in the
+Pual stem expresses the :ref:`passive<stem-voice-passive>` voice of the meaning of a verb in the
 Piel stem. Scholars sometimes disagree whether certain verb forms should
-be classified as belonging to the Pual, the :ref:`stem_hophal`, 
-or the :ref:`stem_qal_passive`.
+be classified as belonging to the Pual, the :ref:`Hophal<stem_hophal>`, 
+or the :ref:`Qal Passive<stem_qal_passive>` stems.
 In English, passive action is expressed using the helping verb "to be."
 In Biblical Hebrew, the passive nature of the verbal action is expressed
 by the Pual form of the verb itself without any helping verbs.
@@ -123,10 +123,11 @@ Expresses the passive voice of the Piel stem
 
 For most verbs that appear in both the Piel and Pual stems in Biblical
 Hebrew, the Pual stem expresses the same kind of action as the Piel stem
-(simple, intensive, resultative, causative, etc.) but in passive voice.
-A good example is the verb בָּקַע. In the :ref:`stem_qal`,
+(:ref:`simple<stem-voice-active>`, intensive :ref:`stem-action-intensive>`, :ref:`resultative<stem-action-resultative>`,
+:ref:`causative<stem-action-causative>`, etc.) but in passive voice.
+A good example is the verb בָּקַע. In the :ref:`Qal<stem_qal>` stem,
 the verb בָּקַע means "to cut open" or "to break open" (simple action,
-active voice). But in the Piel stem, the verb בָּקַע means "to *rip*
+active voice). But in the :ref:`Piel<stem_Piel>` stem, the verb בָּקַע means "to *rip*
 open" (intensive action, active voice). Thus, in the Pual stem, the verb
 בָּקַע means "to be ripped open" (intensive action, passive voice).
 
@@ -153,11 +154,11 @@ means "to gather", for example:
   and-to\_people **being-gathered** from-nations
   and against the people **gathered** from the nations
 
-Expresses simple action in passive voice
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Expresses :ref:`simple<stem-action-simple>` action in :ref:`passive<stem-voice-passive>` voice
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Some verbs use the Pual stem to express simple action in passive voice
-(rather than the :ref:`stem_niphal`).
+(rather than the :ref:`Niphal<stem_niphal>` stem).
 This can be true even if the verb also appears in the Piel stem in
 Biblical Hebrew; in such cases, the Pual form does NOT function as a
 passive of the Piel stem. A good example is the verb יָלַד. In the Qal
@@ -185,8 +186,8 @@ contexts to express a specialized meaning for the verbal action. A
 dictionary or lexicon will indicate the correct meaning in these rare
 instances of the Pual stem.
 
-In the Pual stem, the verb אָכַל ("to eat") means "to be consumed"
-by fire ֹor sword, for example:
+For example, in the Pual stem, the verb אָכַל ("to eat") means "to be consumed"
+by fire ֹor sword:
 
 .. csv-table:: Example: EXO 3:2
 
@@ -197,7 +198,7 @@ by fire ֹor sword, for example:
   "and behold, the bush was burning, but the bush was not **burned up**"
 
 The Pual form of the verb שָׁלַשׁ means "to be three (years old)" or
-"to have three parts", for example:
+"to have three parts":
 
 .. csv-table:: Example: GEN 15:9
 
@@ -210,8 +211,8 @@ The Pual form of the verb שָׁלַשׁ means "to be three (years old)" or
   "Bring me a heifer **three years old**, a female goat **three years
      old**, a ram **three years old**"
 
-The Pual :ref:`participle_passive` of יָדַע ("to know") means an
-*acquaintance* (that is, "one who is known"), for example:
+The Pual :ref:`passive participle<participle_passive>` of יָדַע ("to know") means an
+*acquaintance* (that is, "one who is known"):
 
 .. csv-table:: Example: PSA 88:18 (PSA 88:19 in Hebrew)
 

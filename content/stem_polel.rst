@@ -14,15 +14,15 @@ expresses the same range of meanings.
 Article
 -------
 
-The Polel stem is a variation of the :ref:`stem_piel`
+The Polel :ref:`stem<stem>` is a variation of the :ref:`Piel<stem_piel>`
 and has potential to express the same range of verbal action. The Polel
 stem is formed from the Piel stem by dropping the 2nd radical and
-repeating the 3rd radical (with a vowel change). It is a rare verbal
-form in Biblical Hebrew.
+repeating the 3rd radical (with a vowel change). It is a :ref:`rare stem formation<stem-uncommon>`
+in Biblical Hebrew.
 
 .. include:: includes/consult_dictionary.txt
 
-.. warning:: The Polel stem appears exactly the same as the Polal stem in all
+.. warning:: The Polel stem appears exactly the same as the :ref:`Polal<stem_polal>` stem in all
           conjugations; only the 3rd-person masculine singular forms are
           different.
 

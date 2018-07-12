@@ -14,14 +14,14 @@ expresses the same range of meanings.
 Article
 -------
 
-The Palel stem is a variation of the :ref:`stem_piel`
+The Palel :ref:`stem<stem>` is a variation of the :ref:`Piel<stem_piel>`
 and has potential to express the same range of verbal action. It is the
 same stem formation as the
-:ref:`stem_pilel`,
-only with a variant vocalization. The Palel stem is formed from the Piel
-stem by repeating the 3rd radical (with alternate vowels), thus making a
-verb that appears to have 4 consonants. It is an extremely rare verbal
-form in Biblical Hebrew. Many of the occurrences of the Palel stem in
+:ref:`Pilel<stem_pilel>`,
+only with a variant vowel pattern. The Palel stem is formed from the Piel
+stem by repeating the 3rd radical (with different vowels), thus making a
+verb that appears to have 4 consonants. It is an extremely :ref:`rare stem formation<stem-uncommon>`
+in Biblical Hebrew. Many of the occurrences of the Palel stem in
 the Hebrew Bible are from the root verb שָׁאַן ("to ").
 
 .. include:: includes/consult_dictionary.txt
