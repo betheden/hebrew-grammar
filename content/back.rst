@@ -18,8 +18,8 @@ Gesenius, W., E. Kautzsch, and A. E. Cowley. *Gesenius’ Hebrew Grammar.*
 Dover ed. Dover Books on Language. Mineola, NY: Dover Publications,
 2006.
 
-Joüon, P. and T. Muraoka. *A Grammar of Biblical Hebrew.* Rome:
-Pontifical Bible Institute, 1996.
+Joüon, P. and T. Muraoka. *A Grammar of Biblical Hebrew.* 2nd edition. Rome:
+Pontifical Bible Institute, 2008.
 
 Pratico, G. D., and M. V. Van Pelt. *Basics of Biblical Hebrew Grammar.*
 Grand Rapids, MI: Zondervan, 2007.
@@ -31,7 +31,7 @@ Seow, C. L. *Grammar for Biblical Hebrew,* Revised Edition. Place of
 publication not identified: Abingdon Press, 2013.
 
 Van der Merwe, C.H.J., J.A. Naudé, and J.H. Kroeze. *Biblical Hebrew
-Reference Grammar.* London, England: T&T Clark, 2017.
+Reference Grammar.* 2nd edition. London, England: T&T Clark, 2017.
 
 Waltke, B. K., and M. P. O’Connor. *An Introduction to Biblical Hebrew
 Syntax.* Winona Lake, IN: Eisenbrauns, 1990.

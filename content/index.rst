@@ -75,8 +75,8 @@ unfoldingWord Hebrew Grammar
    stem_polpal
    stem_pual
    stem_pulal
-   stem_qal_passive
    stem_qal
+   stem_qal_passive
    stem_tiphil
    suffix
    suffix_directional_he
