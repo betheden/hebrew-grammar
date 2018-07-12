@@ -15,23 +15,23 @@ express intensity or certainty of verbal action.
 Article
 -------
 
-Of all the verbal conjugations in Biblical Hebrew, the infinitive
-absolute is the simplest in form but the most complex in function,
+Of all the verbal conjugations in Biblical Hebrew, the Infinitive
+Absolute is the simplest in form but the most complex in function,
 demanding the most sensitivity to its context to determine its meaning.
-The infinitive absolute is described as being in the :ref:`absolute state<state_absolute>`
-because it always stands on its own as an independent grammatical entity. The form can appear with the conjunction, but it never occurs in any other kind of construction
+The Infinitive Absolute is described as being in the :ref:`absolute state<state_absolute>`
+because it stands on its own as an independent grammatical entity. The form can appear with the conjunction, but it never occurs in any other kind of construction
 with a prefix or
 :ref:`suffix<suffix>`,
 an attached preposition, or with a
 :ref:`noun<noun>`
-in a construct chain. The infinitive absolute generally has only one
+in a construct chain. The Infinitive Absolute generally has only one
 form in each
 :ref:`stem formation<stem>`
 (Qal, Niphal, Piel, etc.), and it does not conjugate according to
-person, gender, or number like the :ref:`finite verb<finite-verb>`
-forms. Grammatically, the infinitive absolute can function as an
+person, gender, or number like the :ref:`finite<verb-finite>` verb
+forms. Grammatically, the Infinitive Absolute is considered a :ref:`non-finite<verb-non-finite>` verbal form but can function as an
 :ref:`adverb<adverb>`,
-a finite verb, a verbal complement, or even as a noun. The context must be carefully
+a finite main verb, a verbal complement, or even as a noun. The context must be carefully
 investigated to discern the precise meaning of an infinitive absolute in
 each instance.
 
@@ -53,22 +53,22 @@ Form
 Function
 --------
 
-The infinitive absolute can express the following range of meanings.
+The Infinitive Absolute can express the following range of meanings.
 
 Expresses intensity or certainty of verbal action
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In most cases, the infinitive absolute is paired with a finite verb of
+In most cases, the Infinitive Absolute is paired with a finite verb of
 the same root. When used in this way, the infinitive absolute functions
 adverbially, either certifying or intensifying the action of the main
-verb, depending on the context. Normally the infinitive absolute
+verb, depending on the context. Normally an infinitive absolute
 precedes the main verb, except with
-:ref:`verb_imperative`
-and
-:ref:`participle_active`;
-in those cases, the infinitive absolute follows.
+:ref:`Imperative<verb_imperative>` verbs
+and with
+:ref:`participles<participle_active>`;
+in those cases, an infinitive absolute follows.
 
-The following example shows the infinitive absolute expressing intensity of
+The following example shows an infinitive absolute expressing intensity of
 action.
 
 .. csv-table:: Example: GEN 2:16
@@ -78,7 +78,7 @@ action.
   from-every tree-of\_the-garden **eating** you-may-eat
   From every tree in the garden you may **freely** eat.
 
-The following example shows the infinitive absolute expressing certainty of
+The following example shows an infinitive absolute expressing certainty of
 action.
 
 .. csv-table:: Example: GEN 2:17
@@ -88,11 +88,11 @@ action.
   in-day-of your-eating from-it **dying** you-will-die
   "on the day that you eat from it, you will **surely** die."
 
-Functions as a :ref:`verb-finite-verbs`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Functions as a :ref:`finite<verb-finite>` main verb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The infinitive absolute often substitutes for a finite verb. In these
-cases, the infinitive absolute can carry an emotive sense and should be
+The Infinitive Absolute often substitutes for a finite verb. In these
+cases, an infinitive absolute can carry an emotive sense and should be
 treated with great sensitivity to the context for precise nuance of
 meaning. The examples listed below are not comprehensive, but only
 provide a sampling of potential options for the exact meaning.
@@ -105,7 +105,7 @@ provide a sampling of potential options for the exact meaning.
   "Should anyone who wishes to criticize **try to correct** the
      Almighty?"
 
-The following example shows the infinitive absolute continuing the action
+The following example shows an infinitive absolute continuing the action
 of the preceding verb.
 
 .. csv-table:: Example: GEN 41:43
@@ -115,7 +115,7 @@ of the preceding verb.
   **and-placing** [dir.obj]-him over whole\_land-of Egypt
   Pharaoh **put** him over all the land of Egypt.
 
-The following example shows the infinitive absolute functioning as an
+The following example shows an infinitive absolute functioning as an
 emphatic command (either direct or indirect).
 
 .. csv-table:: Example: EXO 20:8
@@ -125,8 +125,8 @@ emphatic command (either direct or indirect).
   **Remember** [dir.obj]\_day the-Sabbath
   **Remember** the Sabbath day
 
-The following example shows the infinitive absolute functioning ambiguously
-(could be :ref:`adverb` or finite verbs).
+The following example shows an infinitive absolute functioning ambiguously
+(could be an :ref:`adverb<adverb>` or a finite verb).
 
 .. csv-table:: Example: HOS 10:4
 
@@ -168,8 +168,8 @@ adverbially.
 Expresses progression or continuance of verbal action (הלךְ)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The infinitive absolute (and sometimes the
-:ref:`participle_active`)
+The Infinitive Absolute (and sometimes the
+:ref:`Participle<participle_active>`)
 of the specific root הלךְ can be used to express a sense of progression
 or continuance of the action of a main verb.
 
@@ -195,10 +195,10 @@ or continuance of the action of a main verb.
   And-he-walked **going and-eating**
   "He ... went on, **eating as he went**"
 
-Functions as a :ref:`noun`
+Functions as a :ref:`noun<noun>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This is an extremely rare use of the infinitive absolute.
+This is an extremely rare use of the Infinitive Absolute.
 
 .. csv-table:: Example: ISA 22:13
 

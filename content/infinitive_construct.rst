@@ -21,9 +21,9 @@ The infinitive construct generally functions as a verbal complement to a
 but in rare cases it also functions independently as a :ref:`noun<noun>`.
 The infinitive construct is described as being in the construct state
 because it can occur in various constructions with prepositions,
-:ref:`suffix<suffix>`,
+:ref:`suffixes<suffix>`,
 and other
-:ref:`noun<noun>`
+:ref:`nouns<noun>`
 in a construct chain. The infinitive construct generally has only one
 form in each
 :ref:`stem formation<stem>`
@@ -43,7 +43,7 @@ Form
   Piel,קַטֵּל,qattel,slaughter
   Hithpael,הִתְקַטֵּל,hitqattel,kill oneself
 
-The infinitive construct is not found in the Hophal or Pual stems in
+The infinitive construct is not found in the :ref:`Hophal<stem_hophal>` or :ref:`Pual<stem_pual>` stems in
 Biblical Hebrew.
 
 Function
@@ -158,11 +158,10 @@ Infinitive construct with preposition עַד to express durative action (until a
   and-he-said myself I-will-remain until **you-return**
   "Yahweh said, ""I will wait until **you return**"""
 
-Functions as a :ref:`noun`
+Functions as a :ref:`noun<noun>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The infinitive construct sometimes functions as an independent
-:ref:`noun`.
+The infinitive construct sometimes functions as an independent noun.
 
 .. csv-table:: Example: 1SA 15:22
 
@@ -193,8 +192,8 @@ The infinitive construct of אמר with preposition לְ is used to introduce di
   and-he-blessed [dir.obj]-them God **to-say**
   "God blessed them, **saying**"
 
-Regarding a :ref:`suffix_pronominal`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Regarding use with a :ref:`pronominal suffix<suffix_pronominal>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When the infinitive construct takes a pronominal suffix, that suffix can
 be either the subject or the object of the infinitive itself (not the
