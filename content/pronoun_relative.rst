@@ -8,19 +8,17 @@ Pronoun Relative
 Summary
 -------
 
-Relative pronouns refer to or introduce nouns or phrases in relative
-clauses. They can be translated as “who,” “that,” “which,” "when," or
-"where."
+Relative pronouns are pronouns which function as a relative particle, that is, to introduce words or phrases that describe a noun.
+Relative pronouns are translated into English as “who", “that", “which", "when", or "where".
 
 Article
 -------
 
-Most relative clauses use :ref:`particle_relative`
-rather than relative pronouns. The main relative pronoun is זוּ, and it
-is most commonly used in poetry.
+In Biblical Hebrew, the terms "relative pronoun" and :ref:`"relative particle"<particle_relative>` are two different names for
+the same thing.  Either term is grammatically correct.  
 
-Intorducing a dependent clause
-------------------------------
+זוּ
+----
 
 .. csv-table:: Example: EXO 15:13
 
@@ -30,10 +28,10 @@ Intorducing a dependent clause
   people you have rescued
 
 זֶה
-~~~
+----
 
-זֶה can also be used as a relative pronoun, but it is actually a
-:ref:`pronoun_demonstrative-function-like-a-relative-pronoun`.
+זֶה is a :ref:`demonstrative<pronoun_demonstrative>` pronoun which sometimes functions as a
+:ref:`relative particle<particle_relative>`.
 
 .. csv-table:: Example: PSA 78:54
 
@@ -41,3 +39,23 @@ Intorducing a dependent clause
   har-\ **zeh** qonthah yeminow
   mountain\_\ **which** has-acquired his-right-hand
   to this mountain **that** his right hand acquired.
+  
+זוֹ / זֹה  
+-------
+
+The two feminine :ref:`demonstratives<pronoun_demonstrative>` זֹה and זוֹ can also function as a :ref:`relative particle<particle_relative>`.
+
+.. csv-table:: Example: ??? ??:??
+
+  הַר־\ **זֶ֝֗ה** קָנְתָ֥ה יְמִינֹֽו׃
+  har-\ **zeh** qonthah yeminow
+  mountain\_\ **which** has-acquired his-right-hand
+  to this mountain **that** his right hand acquired.
+  
+.. csv-table:: Example: ??? ??:??
+
+  הַר־\ **זֶ֝֗ה** קָנְתָ֥ה יְמִינֹֽו׃
+  har-\ **zeh** qonthah yeminow
+  mountain\_\ **which** has-acquired his-right-hand
+  to this mountain **that** his right hand acquired.  
+

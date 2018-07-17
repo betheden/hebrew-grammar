@@ -80,8 +80,6 @@ This phase is nearly complete.
 #### Items to evaluate:
 
 * Add the following to parsing morphology?  causal particle; conditional particle; discourse particle; compound conjunction; particle of existence; particle of non-existence
-* Separate "preposition with definite article" (Rd) into two distinct morphological items, "preposition" (R) + "definite article" (Td)?
-* Re-evaluate: should the category "determined state" be included in the grammar, or should this be called "definite" instead? There is potential for confusion with Aramaic here.  In Hebrew, the "determined state" and "definite" are one and the same thing, but in Aramaic they are not.  Perhaps we should use the term "definite" in UHG in order to avoid confusion with the "determined state" in the UAG. 
 * Parsing for questionable terms: 
 H17 – interjection; 
 H24 – common noun, masculine;

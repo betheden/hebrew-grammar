@@ -8,13 +8,14 @@ Pronoun
 Summary
 -------
 
-A pronoun is a word that refers to a person or a thing in an indirect way.  
+A pronoun is a word that indirectly refers to a person or a thing.  For example: "John" is a proper name, "man" is a common noun,
+and "he" is a pronoun; but all three terms can refer to the same person named "John".
 
 Article
 -------
 
-In Biblical Hebrew, pronouns can function as either a :ref:`noun<noun>`, an :ref:`adjective<adjective>`, or a :ref:`relative particle<particle_relative>`.
-For example, the personal pronoun "he" can be used to refer to a man instead of the :ref:`definite<definiteness>` noun "the man".
+In Biblical Hebrew, a pronoun can function as a :ref:`noun<noun>` (personal pronouns), an :ref:`adjective<adjective>` (demonstrative pronouns),
+or a :ref:`relative particle<particle_relative>` (relative pronouns).
 
 
 Types
@@ -22,35 +23,35 @@ Types
 
 Biblical Hebrew contains the following five types of pronouns.
 
-:ref:`Demonstrative pronoun<pronoun_demonstrative>`
+:ref:`Demonstrative<pronoun_demonstrative>` pronoun
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. include:: pronoun_demonstrative.rst
    :start-after: -------
    :end-before: Article
 
-:ref:`Indefinite pronoun<pronoun_indefinite>`
-^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Indefinite<pronoun_indefinite>` pronoun
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. include:: pronoun_indefinite.rst
    :start-after: -------
    :end-before: Article
 
-:ref:`Interrogative pronoun<pronoun_interrogative>`
+:ref:`Interrogative<pronoun_interrogative>` pronoun
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. include:: pronoun_interrogative.rst
    :start-after: -------
    :end-before: Article
 
-:ref:`Personal pronoun<pronoun_personal>`
+:ref:`Personal<pronoun_personal>` pronoun
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. include:: pronoun_personal.rst
    :start-after: -------
    :end-before: Article
 
-:ref:`Relative pronoun<pronoun_relative>`
+:ref:`Relative<pronoun_relative>` pronoun
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. include:: pronoun_relative.rst
