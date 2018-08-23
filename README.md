@@ -137,8 +137,9 @@ H7946 – adjective;
 H8574 – common noun, masculine; 
 H8577 – common noun, masculine; 
 H8613 – proper name; 
-* Words to revisit in Phase 2:  H4605 – noun, adverb, preposition?  H5439 – noun, adverb, preposition?
-* Textual issues in UHB to re-evaluate.  Song 6:12 –– proper name or not?  When is אוֹיֵב a noun, when a participle?  
+* Words to revisit in Phase 2:  H4605 – noun, adverb, preposition?  H5439 – noun, adverb, preposition?  H7239 – when a noun, when an adjective, also gender marking? H5668 – noun, preposition, conjunction, or passive participle?  
+* Textual issues in UHB to re-evaluate.  Song 6:12 –– proper name or not?  When is אוֹיֵב a noun, when a participle?
+* All attestations of "gender-both" terms need to be evaluated for more specific parsing.  
 
 ### Stage Three
 
