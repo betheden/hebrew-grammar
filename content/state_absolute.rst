@@ -53,8 +53,9 @@ its own, while a construct word cannot. See also: :ref:`infinitive_absolute`.
 Standing alone
 ~~~~~~~~~~~~~~
 
-In Biblical Hebrew, when a term stands alone and is not grammatically connected to any other word, it appears in the absolute
-state.    
+In Biblical Hebrew, when a term stands alone and is not grammatically connected to another word, it appears in the absolute
+state either with or without the definite article.  This category includes terms such as a subject/object of a verb or
+relative phrase, items in a list, adverbial nouns, and others. 
 
 .. csv-table:: Example: GEN 1:1
 
@@ -66,14 +67,22 @@ state.
 
    Both "God", the subject, and "the heavens" and "the earth", the two
    direct objects, are in the absolute state.
+   
+   
+Object of a preposition
+~~~~~~~~~~~~~~~~~~~~~~~
+
+The absolute state can take a prefix but not a suffix. Therefore, a term functioning as the object of a preposition can
+appear in the absolute state with a prefixed preposition, provided that there is no pronominal suffix.  A term with both a
+prefixed preposition and a pronominal suffix would necessarily appear in the construct state.
 
 
 Concluding term of a :ref:`construct chain<state_construct>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If a word in the absolute state is connected with a word in the
-construct state, it forms a so-called construct chain, in which case the
-word in the absolute state is always at the end of the chain.
+The final word in a construct always appears in the absolute state either with or without the definite article.  This term is
+often called the "absolute noun."  If an absolute noun is definite, then the whole construct chain is definite.  If the absolute
+is indefinite, then the defininte noun make the whole construct indefinite.
 
 Indefinite construct chains
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
