@@ -8,29 +8,32 @@ State Absolute
 Summary
 -------
 
-The absolute state is the standard form of the noun. It can either
-appear by itself, or at the end of a construct chain.
+The absolute state is the standard form of a word (noun, adjective, participle, or infinitive) in contrast to a modified form
+called the construct state.  The absolute state is used when a word neither takes a suffix nor is connected to a subsequent word
+by a construct relationship.
 
 Article
 -------
 
+Nouns, adjectives, participles and infinitives can appear in either the absolute state or the construct state.  The absolute
+state is the standard form and consists of the longer ending as opposed to the shorter construct ending.  The most fundamental
+difference between the two forms is that the construct form can take an attached suffix, but the absolute form cannot.
+Nouns, adjectives and participles can appear in either the absolute or the construct state for both masculine and feminine terms
+in both singular and plural forms. Because infinitives do not change form for either gender or number, there is only one
+infinitive construct form and one infinitive absolute form for any given verb in Biblical Hebrew.  It should be noted
+both the infinitive construct and infinitive absolute can have variant spellings or forms.  However, these variations are due to
+other linguistic factors, not because of changes to the form based on gender or number.
+
+Note: The absolute state and construct state forms of many masculine singular nouns appear exactly alike.
+
 Form
 ----
 
-A
-:ref:`noun`
-(or
-:ref:`adjective`)
-in the absolute state has the standard dictionary form in the
-:ref:`number_singular`,
-or the standard
-:ref:`number_plural`
-form. It can have a preposition, but it cannot have a :ref:`suffix_pronominal`.
 
 Paradigm
 ~~~~~~~~
 
-.. csv-table:: Absolute State Examples
+.. csv-table:: Absolute State Paradigm
 
   Parsing,Hebrew,Transliteration,Gloss
   "Noun, masculine singular absolute",סוּס,sus,stallion
@@ -38,7 +41,7 @@ Paradigm
   "Noun, feminine singular absolute",סוּסָה,susah,mare
   "Noun, feminine plural absolute",סוּסוֹת,susoth,mares
 
-Function
+Examples
 --------
 
 The absolute state is the normal form of the noun, or adjective, and it
@@ -47,11 +50,11 @@ forces it to become a :ref:`state_construct`.
 The absolute state means that the word is independent and can stand on
 its own, while a construct word cannot. See also: :ref:`infinitive_absolute`.
 
-By itself
-~~~~~~~~~
+Standing alone
+~~~~~~~~~~~~~~
 
-If a noun occurs "by itself" as the only word of a subject or object, it
-is in the absolute state.
+In Biblical Hebrew, when a term stands alone and is not grammatically connected to any other word, it appears in the absolute
+state.    
 
 .. csv-table:: Example: GEN 1:1
 
@@ -64,20 +67,16 @@ is in the absolute state.
    Both "God", the subject, and "the heavens" and "the earth", the two
    direct objects, are in the absolute state.
 
-:ref:`noun_proper_name`
-^^^^^^^^^^^^^^^^^^^^^^^
 
-Names, or proper nouns, are always in the absolute state.
-
-As part of a :ref:`state_construct` chain
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Concluding term of a :ref:`construct chain<state_construct>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If a word in the absolute state is connected with a word in the
 construct state, it forms a so-called construct chain, in which case the
 word in the absolute state is always at the end of the chain.
 
-Indefinite
-^^^^^^^^^^
+Indefinite construct chains
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If all nouns form a construct chain and both are indefinite you can
 sometimes translate with an indefinite article.
@@ -99,8 +98,8 @@ sometimes translate with an indefinite article.
    In this example "a man of war" is an idiomatic expression, so the
    smooth translation reads "a warrior".
 
-:ref:`state_determined`
-~~~~~~~~~~~~~~~~~~~~~~~
+Definite construct chains
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If the final, absolute, noun in a constuct chain is definite, the whole
 chain is definite.
