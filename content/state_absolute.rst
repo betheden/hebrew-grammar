@@ -9,22 +9,22 @@ Summary
 -------
 
 The absolute state is the standard form of a word (noun, adjective, participle, or infinitive) in contrast to a modified form
-called the construct state.  The absolute state is used when a word neither takes a suffix nor is connected to a subsequent word
-by a construct relationship.
+called the construct state.  A word in the absolute state can take a prefix but not a suffix.
 
 Article
 -------
 
-Nouns, adjectives, participles and infinitives can appear in either the absolute state or the construct state.  The absolute
-state is the standard form and consists of the longer ending as opposed to the shorter construct ending.  The most fundamental
-difference between the two forms is that the construct form can take an attached suffix, but the absolute form cannot.
-Nouns, adjectives and participles can appear in either the absolute or the construct state for both masculine and feminine terms
-in both singular and plural forms. Because infinitives do not change form for either gender or number, there is only one
-infinitive construct form and one infinitive absolute form for any given verb in Biblical Hebrew.  It should be noted
-both the infinitive construct and infinitive absolute can have variant spellings or forms.  However, these variations are due to
-other linguistic factors, not because of changes to the form based on gender or number.
+:ref:`Nouns<noun>`, :ref:`adjectives<adjective>`, :ref:`participles<participle_active>` and
+:ref:`infinitives<infinitive_absolute>` can appear in either the absolute state or the :ref:`construct state<state_construct>`.
+The absolute state is the standard form and consists of a longer ending as opposed to the shorter construct ending.  The most fundamental
+difference between the two forms is that the construct form can take an attached :ref:`suffix<suffix>`, but the absolute form
+cannot. Nouns, adjectives and participles can appear in either the absolute or the construct state for both 
+:ref:`masculine<gender_masculine>` and :ref:`feminine<gender_feminine>` terms in both singular and plural forms. Because
+infinitives do not change form for either gender or number, there isusually only one
+:ref:`infinitive construct<infinitive_construct>` form and one :ref:`infinitive absolute<infinitive_absolute>`
+form of a verb in Biblical Hebrew.
 
-Note: The absolute state and construct state forms of many masculine singular nouns appear exactly alike.
+.. note:: Many masculine singular nouns appear exactly alike in both the absolute state and the construct state.
 
 Form
 ----
@@ -44,18 +44,30 @@ Paradigm
 Examples
 --------
 
-The absolute state is the normal form of the noun, or adjective, and it
-will always be in the absolute state unless something in the context
-forces it to become a :ref:`state_construct`.
-The absolute state means that the word is independent and can stand on
-its own, while a construct word cannot. See also: :ref:`infinitive_absolute`.
 
 Standing alone
 ~~~~~~~~~~~~~~
 
 In Biblical Hebrew, when a term stands alone and is not grammatically connected to another word, it appears in the absolute
-state either with or without the definite article.  This category includes terms such as a subject/object of a verb or
-relative phrase, items in a list, adverbial nouns, and others. 
+state.  This category includes terms such as a subject/object of a verb or
+relative phrase, adjectives, adverbial nouns, etc. 
+
+.. csv-table:: Example: GEN 1:1
+
+  בָּרָ֣א **אֱלֹהִ֑ים** אֵ֥ת **הַשָּׁמַ֖יִם** וְאֵ֥ת **הָאָֽרֶץ**\ ׃
+  bara **'elohim** 'eth **hashamayim** we'eth **ha'arets**
+  "he-created **God** [dir.obj] **the-heavens** and-[dir.obj]
+     **the-earth**."
+  **God** created **the heavens** and **the earth**.
+   
+   
+Appearing with a prefix
+~~~~~~~~~~~~~~~~~~~~~~~
+
+The absolute state cannot take a suffix but can take a prefix, including a conjunction, preposition, definite article, or
+even a relative particle. For example, a term functioning as the object of a preposition can appear in the absolute state with
+a prefixed preposition, provided that there is no pronominal suffix.  A term with both a prefixed preposition and a pronominal
+suffix would necessarily appear in the construct state.
 
 .. csv-table:: Example: GEN 1:1
 
@@ -65,30 +77,19 @@ relative phrase, items in a list, adverbial nouns, and others.
      **the-earth**."
   **God** created **the heavens** and **the earth**.
 
-   Both "God", the subject, and "the heavens" and "the earth", the two
-   direct objects, are in the absolute state.
-   
-   
-Object of a preposition
-~~~~~~~~~~~~~~~~~~~~~~~
+.. _state_absolute-absolute-noun:
 
-The absolute state can take a prefix but not a suffix. Therefore, a term functioning as the object of a preposition can
-appear in the absolute state with a prefixed preposition, provided that there is no pronominal suffix.  A term with both a
-prefixed preposition and a pronominal suffix would necessarily appear in the construct state.
-
-
-Concluding term of a :ref:`construct chain<state_construct>`
+Concluding term of a :ref:`construct chain<state_construct-construct-chain>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The final word in a construct always appears in the absolute state either with or without the definite article.  This term is
-often called the "absolute noun."  If an absolute noun is definite, then the whole construct chain is definite.  If the absolute
-is indefinite, then the defininte noun make the whole construct indefinite.
+The final word in a construct chain always appears in the absolute state either with or without the definite article.  This term is
+often called the "absolute noun."  If the absolute noun in a construct chain is :ref:`definite<definiteness>`, then the
+entire construct chain is definite.  If the absolute noun is indefinite, then the entire construct chain is indefinite.
 
-Indefinite construct chains
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _state_absolute-indefinite-chain:
 
-If all nouns form a construct chain and both are indefinite you can
-sometimes translate with an indefinite article.
+Indefinite construct chain
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2SA 17:25
 
@@ -104,14 +105,24 @@ sometimes translate with an indefinite article.
   man-of **war**
   a **warr**\ ior
 
-   In this example "a man of war" is an idiomatic expression, so the
-   smooth translation reads "a warrior".
+.. csv-table:: Example: 2SA 17:25
 
-Definite construct chains
-^^^^^^^^^^^^^^^^^^^^^^^^^
+  וַעֲמָשָׂ֣א **בֶן**\ ־אִ֗ישׁ וּשְׁמֹו֙ יִתְרָ֣א
+  wa'amasa **ven**-'ish ushemow yithra
+  and-Amasa **son-of**\ \_man and-his-name Jether
+  Amasa was **a son of** a man named Jether
 
-If the final, absolute, noun in a constuct chain is definite, the whole
-chain is definite.
+.. csv-table:: Example: EXO 15:3
+
+  אִ֣ישׁ מִלְחָמָ֑ה
+  **'ish** milhamah
+  **man-of** war
+  **a** warr\ **ior**
+
+.. _state_absolute-definite-chain:
+
+Definite construct chain
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2SA 14:26
 
@@ -120,12 +131,16 @@ chain is definite.
   in-weight-of **the-king**.
   by the weight of **the king**'s standard.
 
-"weight" is in the construct state, and "the king" is both definite and
-absolute. Because the absolute noun is definite, the construct noun is
-also definite.
+.. csv-table:: Example: JOS 4:9
 
-Genitive relationships
-^^^^^^^^^^^^^^^^^^^^^^
+  אֲר֣וֹן הַבְּרִ֑ית
+  **'aron** habberith
+  **ark-of** the-covenant
+  **the ark** of the covenant
 
-For more examples on how to translate a construct chain, see
-:ref:`state_construct-translating-a-construct-chain`.
+.. csv-table:: Example: 1SA 20:27
+
+  בֵּ֣ן לְיִשַׁי֮
+  **ben** leyishay
+  **son-of** Jesse
+  **the son** of Jesse
