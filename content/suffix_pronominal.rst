@@ -114,21 +114,13 @@ suffix automatically makes the noun
 
 .. _suffix_pronominal-prepositions:
 
-Attached to a finite :ref:`verb`
---------------------------------
-
-Form
-~~~~
+Attached to a :ref:`finite verb<verb-finite>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The forms that pronominal suffixes take after a verb can differ
 slightly, but never much, from the standard suffixes in the
 :ref:`noun_common-paradigm`
 above.
-
-.. _suffix_pronominal-direclty-to-the-verb:
-
-Directly to the verb
-^^^^^^^^^^^^^^^^^^^^
 
 The pronominal suffix can be attached to any verb conjugation, except
 for the :ref:`infinitive_absolute`.
@@ -160,14 +152,7 @@ for the :ref:`infinitive_absolute`.
 Attached to a :ref:`preposition<preposition>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-Form
-~~~~
-
-The forms that pronominal suffixes take after a preposition can differ
-slightly, but never much, from the standard suffixes in the
-:ref:`noun_common-paradigm`
-above.
+SENTENCE/PARAGRAPH
 
 בְּ
 ^^^^
