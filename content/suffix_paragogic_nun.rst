@@ -8,19 +8,22 @@ Suffix Paragogic Nun
 Summary
 -------
 
-The Paragogic Nun is a נ (which looks like this at the end of a word: ן)
-at the end of an Imperfect verb. It adds no extra meaning.
+The paragogic נ (nun) suffix can only attach to a finite verb, and its meaning is unknown.
 
 Article
 -------
 
+This suffix is an unexplained feature of Biblical Hebrew grammar with no discernible meaning or function.
+
 Form
 ----
 
-The Paragogic Nun is a נ that is sometimes found at the end of a plural
-:ref:`verb_imperfect`
-(and therefore looks like this: ן). It seems to give the verb some extra
-emphasis, but it does not change the meaning or the translation.
+The paragogic נ (nun) is a simple consonant appearing either as a suffix or an infix.  When appearing as a suffix, it stands at
+the end of the word, following the verb conjugation ending (as in the examples below).  When appearing as an infix, the paragogic
+נ (nun) is usually represented by a daghesh forte inside the initial letter of a pronominal suffix. 
+
+Examples
+--------
 
 .. csv-table:: Example: EXO 15:14
 

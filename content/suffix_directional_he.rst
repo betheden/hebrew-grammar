@@ -8,23 +8,27 @@ Suffix Directional He
 Summary
 -------
 
-The Directional He at the end of a noun indicates direction (to or
-toward).
+The directional (he) suffix at the end of a term expresses the concept of movement (either in space or in time) toward the word
+(usually a person or thing) that takes the suffix.
 
 Article
 -------
 
+This suffix should not be confused with the third person feminine singular :ref:`pronominal suffix<suffix_pronominal>`,
+although it looks very similar. The directional ה (he) suffix is never accented, nor does it affect the vowel pattern of a word
+in any way.  This is in contrast to the third person feminine singular pronominal suffix, which can take the accent and affects
+the vocalization of the word to which it is attached.
+
 Form
 ----
 
-The Directional He is a ה, preceded by a Qamets, that is sometimes found
-at the end of a
-:ref:`noun`,
-and is sometimes called a "locative-ה". It describes direction; to or
-toward.
+This suffix consists of a ה (he) consonant preceded by a qamets vowel. 
 
-In space
+Function
 --------
+
+Expresses spatial movement
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 15:5
 
@@ -33,8 +37,9 @@ In space
   Look\_now **to-the-heavens**
   Look **toward heaven**
 
-In time
--------
+
+Expresses temporal movement
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: EXO 13:10
 
