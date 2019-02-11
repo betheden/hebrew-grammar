@@ -8,16 +8,12 @@ Suffix Pronominal
 Summary
 -------
 
-Pronominal Suffixes are suffixes that refer to a person or an object at
-the end of a noun, a particle, a verb, or a direct object marker. This
-suffix can have the meaning of a genitive (such as possession), a direct
-object, or an indirect object.
+Pronominal suffixes refer to a person(s) or thing(s) and can be attached to nouns, verbs, prepositions, participles,
+infinitives, even some particles. A pronominal suffix nearly always functions as either a personal pronoun (for example,
+"I" or "me" in English) or a possessive pronoun (for example, "my" or "mine" in English).
 
 Article
 -------
-
-Form
-----
 
 Pronominal
 :ref:`suffix`
@@ -39,16 +35,10 @@ The person or object to which the suffix refers can indicate possession
 (as with nouns), or be a direct or indirect object (as with prepositions
 and verbs), depending on the context.
 
-.. _suffix_pronominal-nouns:
+Form
+----
 
-:ref:`noun`
------------
 
-Nouns must be in the
-:ref:`state_construct`
-form before a pronominal suffix can be added, and having a pronominal
-suffix automatically makes the noun
-:ref:`state_determined-pronominal-suffix`.
 
 Paradigm
 ~~~~~~~~
@@ -83,8 +73,19 @@ Paradigm
   masculine plural third person,סוּסֵיהֶם,susehem,their horses
   feminine plural third person,סוּסֵיהֶן,susehen,their horses
 
-Examples
-~~~~~~~~
+Function
+-----------
+
+.. _suffix_pronominal-nouns:
+
+Attached to a :ref:`noun<noun>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nouns must be in the
+:ref:`state_construct`
+form before a pronominal suffix can be added, and having a pronominal
+suffix automatically makes the noun
+:ref:`state_determined-pronominal-suffix`.
 
 .. csv-table:: Example: 2SA 17:23
 
@@ -113,224 +114,8 @@ Examples
 
 .. _suffix_pronominal-prepositions:
 
-Prepositions
-------------
-
-Form
-~~~~
-
-The forms that pronominal suffixes take after a preposition can differ
-slightly, but never much, from the standard suffixes in the
-:ref:`noun_common-paradigm`
-above.
-
-ב
-^
-
-In, into
-
-.. csv-table:: Example: 1SA 25:28
-
-  וְרָעָ֛ה לֹא־תִמָּצֵ֥א **בְךָ֖** מִיָּמֶֽיךָ׃
-  wera'ah lo-thimmatse **vekha** miyyameykha
-  and-evil not\_will-be-found **in-you** from-your-days
-  and evil will not be found **in you** so long as you live.
-
-.. csv-table:: Example: JOB 39:12
-
-  הֲתַאֲמִ֣ין בֹּ֖ו
-  hatha'amin **bow**
-  Do-you-believe **in-him**
-  Will you depend **on him**?
-
-כ
-^
-
-Like, just as
-
-.. csv-table:: Example: 2KI 17:15
-
-  אֲשֶׁ֨ר צִוָּ֤ה יְהוָה֙ אֹתָ֔ם לְבִלְתִּ֖י עֲשֹׂ֥ות כָּהֶֽם׃
-  'asher tsiwwah yehwah 'otham levilti 'asowth **kahem**
-  "whom had-commanded Yahweh [dir.obj]-them to-abstain doing
-     **like-them**"
-  those that Yahweh had commanded them not to do **like them**.
-
-.. csv-table:: Example: ISA 46:9
-
-  וְאֶ֥פֶס **כָּמֹֽונִי**\ ׃
-  we'efes **kamowni**
-  and no-one **like-me**
-  and there is no one **like me**.
-
-ל and אֶל
-^^^^^^^^^
-
-To, toward
-
-Possession
-''''''''''
-
-.. csv-table:: Example: EXO 19:5
-
-  כִּי־\ **לִ֖י** כָּל־הָאָֽרֶץ׃
-  ki-\ **li** kol-ha'arets
-  for\_\ **to-me** all\_the-earth
-  for all the earth is **mine**.
-
-Indirect Object
-'''''''''''''''
-
-.. csv-table:: Example: EXO 9:13
-
-  וְאָמַרְתָּ֣ אֵלָ֗יו
-  we'amarta **'elayw**
-  and-say **to-him**
-  and say **to him**
-
-.. csv-table:: Example: JDG 11:36
-
-  וַתֹּ֣אמֶר אֵלָ֗יו
-  wattomer **'elayw**
-  And-she-said **to-him**
-  She said **to him**
-
-עַל
-^^^
-
-On, upon, over
-
-.. csv-table:: Example: DEU 17:14
-
-  אָשִׂ֤ימָה **עָלַי֙** מֶ֔לֶךְ
-  'asimah **'alay** melekh
-  I-will-set **over-me** king
-  I will set a king **over myself**
-
-.. csv-table:: Example: ISA 62:5
-
-  יָשִׂ֥ישׂ **עָלַ֖יִךְ** אֱלֹהָֽיִךְ׃
-  yasis **'alayikh** 'elohayikh
-  he-will-rejoice **over-you** your-God.
-  your God will rejoice **over you**.
-
-אַחַר
-^^^^^
-
-After, behind
-
-.. csv-table:: Example: 2CH 8:8
-
-  אֲשֶׁ֨ר נֹותְר֤וּ **אַחֲרֵיהֶם֙** בָּאָ֔רֶץ
-  'asher nowthru **'aharehem** ba'arets
-  who were-left **after-them** in-the-land
-  who were left **after them** in the land
-
-.. csv-table:: Example: JER 9:16 (JER 9:15 in Hebrew)
-
-  וְשִׁלַּחְתִּ֤י **אַֽחֲרֵיהֶם֙** אֶת־הַחֶ֔רֶב
-  weshillahti **'aharehem** 'eth-haherev
-  and-I-will-send-out **after-them** [dir.obj]\_the-sword
-  I will send out a sword **after them**
-
-תַּחַת
-^^^^^^
-
-Beneath, under, in place of
-
-.. csv-table:: Example: DEU 28:23
-
-  וְהָאָ֥רֶץ אֲשֶׁר־\ **תַּחְתֶּ֖יךָ** בַּרְזֶֽל׃
-  weha'arets 'asher-**tahteykha** barzel
-  and-the-earth which\_\ **under-you** will-be-iron.
-  and the earth that is **under you** will be iron.
-
-.. csv-table:: Example: PSA 47:3 (PSA 47:4 in Hebrew)
-
-  יַדְבֵּ֣ר עַמִּ֣ים תַּחְתֵּ֑ינוּ
-  yadber 'ammim **tahtenu**
-  He-will-drive-back peoples **beneath-us**
-  He subdues peoples **under us**
-
-עַד
-^^^
-
-Unto, until, as far as
-
-.. csv-table:: Example: NUM 23:18
-
-  הַאֲזִ֥ינָה **עָדַ֖י** בְּנֹ֥ו צִפֹּֽר׃
-  ha'azinah **'aday** benow tsippor
-  Listen **unto-me** son-of Zippor.
-  "Listen **to me**, you son of Zippor."
-
-.. csv-table:: Example: AMO 4:10
-
-  וְלֹֽא־שַׁבְתֶּ֥ם עָדַ֖י
-  welo-shavtem **'aday**
-  And-not you-have-returned **unto-me**
-  Yet you have not returned **to me**
-
-מִן
-^^^
-
-From
-
-.. csv-table:: Example: GEN 22:12
-
-  וְלֹ֥א חָשַׂ֛כְתָּ אֶת־בִּנְךָ֥ אֶת־יְחִידְךָ֖ **מִמֶּֽנִּי**\ ׃
-  welo hasakhta 'eth-binkha 'eth-yehidekha **mimmenni**
-  "and-not you-witheld [dir.obj]\_your-son [dir.obj]\_your-only
-     **from-me**."
-  "you have not withheld your son, your only son, **from me**."
-
-.. csv-table:: Example: 1CH 29:14
-
-  כִּֽי־\ **מִמְּךָ֣** הַכֹּ֔ל
-  ki-\ **mimmekha** hakkol
-  for\_\ **from-you** the-all
-  all things come **from you**
-
-עִם
-^^^
-
-With
-
-.. csv-table:: Example: PSA 50:18
-
-  וַתִּ֣רֶץ עִמֹּ֑ו
-  wattirets **'immow**
-  and-you-are-pleased **with-him**
-  you agree **with him**
-
-.. csv-table:: Example: ZEC 14:5
-
-  כָּל־קְדֹשִׁ֖ים **עִמָּֽךְ**\ ׃
-  kol-qedoshim **'immakh**
-  all\_holy-ones **with-him**
-  all the holy ones will be **with him**
-
-אֵת
-^^^
-
-With
-
-.. csv-table:: Example: PSA 12:4
-
-  שְׂפָתֵ֣ינוּ אִתָּ֑נוּ
-  sefathenu **'ittanu**
-  our-lips **with-us**.
-  our lips speak and they **make us prevail**.
-
-.. csv-table:: Example: PRO 1:11
-
-  לְכָ֪ה אִ֫תָּ֥נוּ
-  lekhah **'ittanu**
-  walk **with-us**
-  come **with us**
-
-:ref:`verb`
-------------------------------------------------------------------------------
+Attached to a finite :ref:`verb`
+--------------------------------
 
 Form
 ~~~~
@@ -372,8 +157,231 @@ for the :ref:`infinitive_absolute`.
 
 .. _suffix_pronominal-with-a-direct-object-marker:
 
-With a :ref:`particle_direct_object_marker` (אֵת)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Attached to a :ref:`preposition<preposition>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Form
+~~~~
+
+The forms that pronominal suffixes take after a preposition can differ
+slightly, but never much, from the standard suffixes in the
+:ref:`noun_common-paradigm`
+above.
+
+בְּ
+^^^^
+
+.. csv-table:: Example: 1SA 25:28
+
+  וְרָעָ֛ה לֹא־תִמָּצֵ֥א **בְךָ֖** מִיָּמֶֽיךָ׃
+  wera'ah lo-thimmatse **vekha** miyyameykha
+  and-evil not\_will-be-found **in-you** from-your-days
+  and evil will not be found **in you** so long as you live.
+
+.. csv-table:: Example: JOB 39:12
+
+  הֲתַאֲמִ֣ין בֹּ֖ו
+  hatha'amin **bow**
+  Do-you-believe **in-him**
+  Will you depend **on him**?
+
+כְּ
+^^^^
+
+.. csv-table:: Example: 2KI 17:15
+
+  אֲשֶׁ֨ר צִוָּ֤ה יְהוָה֙ אֹתָ֔ם לְבִלְתִּ֖י עֲשֹׂ֥ות כָּהֶֽם׃
+  'asher tsiwwah yehwah 'otham levilti 'asowth **kahem**
+  "whom had-commanded Yahweh [dir.obj]-them to-abstain doing
+     **like-them**"
+  those that Yahweh had commanded them not to do **like them**.
+
+.. csv-table:: Example: ISA 46:9
+
+  וְאֶ֥פֶס **כָּמֹֽונִי**\ ׃
+  we'efes **kamowni**
+  and no-one **like-me**
+  and there is no one **like me**.
+
+לְ and אֶל
+^^^^^^^^
+
+.. csv-table:: Example: EXO 19:5
+
+  כִּי־\ **לִ֖י** כָּל־הָאָֽרֶץ׃
+  ki-\ **li** kol-ha'arets
+  for\_\ **to-me** all\_the-earth
+  for all the earth is **mine**.
+
+.. csv-table:: Example: EXO 9:13
+
+  וְאָמַרְתָּ֣ אֵלָ֗יו
+  we'amarta **'elayw**
+  and-say **to-him**
+  and say **to him**
+
+.. csv-table:: Example: JDG 11:36
+
+  וַתֹּ֣אמֶר אֵלָ֗יו
+  wattomer **'elayw**
+  And-she-said **to-him**
+  She said **to him**
+
+עַל
+^^^^
+
+.. csv-table:: Example: DEU 17:14
+
+  אָשִׂ֤ימָה **עָלַי֙** מֶ֔לֶךְ
+  'asimah **'alay** melekh
+  I-will-set **over-me** king
+  I will set a king **over myself**
+
+.. csv-table:: Example: ISA 62:5
+
+  יָשִׂ֥ישׂ **עָלַ֖יִךְ** אֱלֹהָֽיִךְ׃
+  yasis **'alayikh** 'elohayikh
+  he-will-rejoice **over-you** your-God.
+  your God will rejoice **over you**.
+
+אַחַר
+^^^^
+
+.. csv-table:: Example: 2CH 8:8
+
+  אֲשֶׁ֨ר נֹותְר֤וּ **אַחֲרֵיהֶם֙** בָּאָ֔רֶץ
+  'asher nowthru **'aharehem** ba'arets
+  who were-left **after-them** in-the-land
+  who were left **after them** in the land
+
+.. csv-table:: Example: JER 9:16 (JER 9:15 in Hebrew)
+
+  וְשִׁלַּחְתִּ֤י **אַֽחֲרֵיהֶם֙** אֶת־הַחֶ֔רֶב
+  weshillahti **'aharehem** 'eth-haherev
+  and-I-will-send-out **after-them** [dir.obj]\_the-sword
+  I will send out a sword **after them**
+
+תַּחַת
+^^^^
+
+.. csv-table:: Example: DEU 28:23
+
+  וְהָאָ֥רֶץ אֲשֶׁר־\ **תַּחְתֶּ֖יךָ** בַּרְזֶֽל׃
+  weha'arets 'asher-**tahteykha** barzel
+  and-the-earth which\_\ **under-you** will-be-iron.
+  and the earth that is **under you** will be iron.
+
+.. csv-table:: Example: PSA 47:3 (PSA 47:4 in Hebrew)
+
+  יַדְבֵּ֣ר עַמִּ֣ים תַּחְתֵּ֑ינוּ
+  yadber 'ammim **tahtenu**
+  He-will-drive-back peoples **beneath-us**
+  He subdues peoples **under us**
+
+עַד
+^^^^
+
+.. csv-table:: Example: NUM 23:18
+
+  הַאֲזִ֥ינָה **עָדַ֖י** בְּנֹ֥ו צִפֹּֽר׃
+  ha'azinah **'aday** benow tsippor
+  Listen **unto-me** son-of Zippor.
+  "Listen **to me**, you son of Zippor."
+
+.. csv-table:: Example: AMO 4:10
+
+  וְלֹֽא־שַׁבְתֶּ֥ם עָדַ֖י
+  welo-shavtem **'aday**
+  And-not you-have-returned **unto-me**
+  Yet you have not returned **to me**
+
+מִן
+^^^^
+
+.. csv-table:: Example: GEN 22:12
+
+  וְלֹ֥א חָשַׂ֛כְתָּ אֶת־בִּנְךָ֥ אֶת־יְחִידְךָ֖ **מִמֶּֽנִּי**\ ׃
+  welo hasakhta 'eth-binkha 'eth-yehidekha **mimmenni**
+  "and-not you-witheld [dir.obj]\_your-son [dir.obj]\_your-only
+     **from-me**."
+  "you have not withheld your son, your only son, **from me**."
+
+.. csv-table:: Example: 1CH 29:14
+
+  כִּֽי־\ **מִמְּךָ֣** הַכֹּ֔ל
+  ki-\ **mimmekha** hakkol
+  for\_\ **from-you** the-all
+  all things come **from you**
+
+עִם
+^^^^
+
+.. csv-table:: Example: PSA 50:18
+
+  וַתִּ֣רֶץ עִמֹּ֑ו
+  wattirets **'immow**
+  and-you-are-pleased **with-him**
+  you agree **with him**
+
+.. csv-table:: Example: ZEC 14:5
+
+  כָּל־קְדֹשִׁ֖ים **עִמָּֽךְ**\ ׃
+  kol-qedoshim **'immakh**
+  all\_holy-ones **with-him**
+  all the holy ones will be **with him**
+
+אֵת
+^^^^
+
+.. csv-table:: Example: PSA 12:4
+
+  שְׂפָתֵ֣ינוּ אִתָּ֑נוּ
+  sefathenu **'ittanu**
+  our-lips **with-us**.
+  our lips speak and they **make us prevail**.
+
+.. csv-table:: Example: PRO 1:11
+
+  לְכָ֪ה אִ֫תָּ֥נוּ
+  lekhah **'ittanu**
+  walk **with-us**
+  come **with us**
+
+Attached to a participle
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+SENTENCE/PARAGRAPH
+
+Attached to an infinitive construct
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SENTENCE/PARAGRAPH
+
+as object of the infinitive
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+When attached to an infinitive construct, the pronominal suffix can function as the object of the verbal action.
+
+EXAMPLE
+
+as subject of the infinitive
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+When attached to an infinitive construct, the pronominal suffix can function as the subject of the verbal action described by
+the infinitive. In these cases, often the object of the infinitive will appear immediately after with the direct object marker.
+
+EXAMPLE
+
+Attached to a particle
+~~~~~~~~~~~~~~~~~~~~~~
+
+SENTENCE/PARAGRAPH
+
+the :ref:`direct object marker<particle_direct_object_marker>` (אֵת)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
 
 .. csv-table:: Example: 1SA 17:9
 
@@ -388,3 +396,15 @@ With a :ref:`particle_direct_object_marker` (אֵת)
   we'attem 'azavtem **'owthi**
   And-you have-left **[dir.obj]-me**
   Yet you abandoned **me**
+
+
+the particle הִנֵּה
+^^^^^^^^^^^^^^^^
+
+
+as object of the particle
+
+
+as subject of a following participle
+
+
