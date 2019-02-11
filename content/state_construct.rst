@@ -24,7 +24,7 @@ and :ref:`plural<number_plural>` forms. Because infinitives do not change form f
 usually only one :ref:`infinitive construct<infinitive_construct>` form and one :ref:`infinitive absolute<infinitive_absolute>`
 form of a verb in Biblical Hebrew.
 
-Note: Many masculine singular nouns appear exactly alike in both the absolute state and the construct state. 
+.. note:: Many masculine singular nouns appear exactly alike in both the absolute state and the construct state. 
 
 The construct state serves a unique function in Biblical Hebrew to grammatically link a word to the following word(s),making
 a single grammatical unit called a :ref:`construct chain<state_construct-construct-chain>`. Words in a construct chain are often
