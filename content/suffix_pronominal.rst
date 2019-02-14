@@ -15,25 +15,13 @@ infinitives, even some particles. A pronominal suffix nearly always functions as
 Article
 -------
 
-Pronominal
-:ref:`suffix`
-refer to a person or an object and can therefore be
-:ref:`gender_masculine`
-or
-:ref:`number_singular`
-or
-:ref:`number_plural`,
-and be in
-:ref:`person_second`,
-or
-:ref:`person_third`
-person, depending on who or what they are referring to.
+A pronominal :ref:`suffix<suffix>` refers to a person(s) or a thing(s) and can change form according to gender
+(:ref:`masculine<gender_masculine>` or 
+:ref:`feminine<gender_feminine>`), number (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`), and person
+(:ref:`first<person_first>`, :ref:`second<person_second>`, or :ref:`third<person_third>` person).
+These various suffixes look quite similar to their corresponding :ref:`personal pronouns<pronoun_personal>`.
 
-The suffixes look similar to the corresponding :ref:`pronoun_personal`,
-and in many languages will have to be translated with a separate word.
-The person or object to which the suffix refers can indicate possession
-(as with nouns), or be a direct or indirect object (as with prepositions
-and verbs), depending on the context.
+.. note:: In Biblical Hebrew, all nouns that take a pronominal suffix are :ref:`definite<definiteness>` nouns.
 
 Form
 ----
@@ -112,7 +100,7 @@ suffix automatically makes the noun
   "So now, do not give **your daughters to their sons**; do not take
      **their daughters for your sons**"
 
-.. _suffix_pronominal-prepositions:
+.. _suffix_pronominal-verbs:
 
 Attached to a :ref:`finite verb<verb-finite>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -147,7 +135,7 @@ for the :ref:`infinitive_absolute`.
   strangers **will-swallow-him**
   foreigners **will devour it**
 
-.. _suffix_pronominal-with-a-direct-object-marker:
+.. _suffix_pronominal-prepositions:
 
 Attached to a :ref:`preposition<preposition>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -354,7 +342,8 @@ as subject of the infinitive
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When attached to an infinitive construct, the pronominal suffix can function as the subject of the verbal action described by
-the infinitive. In these cases, often the object of the infinitive will appear immediately after with the direct object marker.
+the infinitive. In these cases, often the object of the infinitive (with the direct object marker) will appear immediately
+following the infinitive.
 
 EXAMPLE
 
@@ -388,8 +377,22 @@ the particle הִנֵּה
 
 
 as object of the particle
+.........................
+
+In these cases, the pronominal suffix functions as the object of the verbal action expressed by the demonstrative particle.
+
+.. csv-table:: Example: ISA 65:1
+
+  אָמַ֨רְתִּי֙ **הִנֵּ֣נִי הִנֵּ֔נִי** אֶל־גֹּ֖וי לֹֽא־קֹרָ֥א
+     בִשְׁמִֽי׃
+  'amartiy **hinneni hinneni** 'el-gowy lo-qora vishmi
+  I-said **look-me look-me** to\_nation not\_called by-my-name.
+  I said ""**Here I am! Here I am!**"" to a nation that did not call on my name.
 
 
 as subject of a following participle
+....................................
 
+Sometimes, a pronominal suffix attached to the particle hnh functions as the subject of a participle that immediately follows
+the particle.
 
