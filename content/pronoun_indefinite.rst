@@ -8,31 +8,30 @@ Pronoun Indefinite
 Summary
 -------
 
-An indefinite pronoun is a pronoun that doesn’t refer to anyone or
-anything specific. Indefinite pronouns are usually translated as “who" or "whoever” (when referring to persons), or
-“what” or "whatever" (when referring to objects).
+An indefinite pronoun is a pronoun that refers to a person(s) or thing(s) in general but not to any specific person or thing in
+particular.  In English, they are usually translated as "whoever” (in reference to persons) or "whatever" (when referring to
+things).
 
 Article
 -------
 
-There are two indefinite articles in Hebrew: מִי (for persons), and מָה
-(for objects). They are identical in form to the :ref:`pronoun_interrogative`.
-The context will make clear which one it is.
+Biblical Hebrew contains two indefinite pronouns, the pronoun מִי (in reference to persons) and the pronoun מָה
+(in reference to things). These pronouns can also as :ref:`interrogative pronoun<pronoun_interrogative>`, especially when they
+appear at the beginning of a clause/sentence. However, this is not a universal rule; the specific use of these pronouns must
+always be determined from the context. Indefinite pronouns function in a sentence almost exactly like a
+:ref:`relative pronoun<pronoun_relative>` (see examples below).
 
 Form
 ----
 
-Indefinite pronouns do not change their form based on number, gender, or
-person. Their vowels can change a little bit based on with which sound
-the next word begins.
+Indefinite pronouns do not change their form based on number, gender, or person. However, the vowels can change depending on the
+vocalization of the word immediately following the pronoun.
 
-Regarding a person (מִי)
------------------------
+Examples
+--------
 
-Who / Whoever
-
-As a subject
-~~~~~~~~~~~~
+Personal indefinite pronoun (מִי)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: JDG 7:3
 
@@ -48,18 +47,12 @@ As a subject
   **Who** to-Yahweh to-me.
   "**Whoever** is on Yahweh's side, come to me"
 
-Embedded question
-^^^^^^^^^^^^^^^^^
-
 .. csv-table:: Example: GEN 21:26
 
   לֹ֣א יָדַ֔עְתִּי **מִ֥י** עָשָׂ֖ה אֶת־הַדָּבָ֣ר הַזֶּ֑ה
   lo yada'ti **mi** 'asah 'eth-haddavar hazzeh
   Not I-know **who** did [dir.obj]\_the-thing the-this.
   I do not know **who** has done this thing.
-
-When followed by the :ref:`particle_relative` אֲשֶׁר.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: EXO 32:33
 
@@ -75,13 +68,8 @@ When followed by the :ref:`particle_relative` אֲשֶׁר.
   **Who** the-man which begins to-fight with-sons-of Ammon?
   **Who** is the man who will begin to fight the Ammonites?
 
-Regarding an thing (מָה)
-------------------------
-
-What / Whatever
-
-As a subject
-~~~~~~~~~~~~
+Impersonal indefinite pronoun (מָה)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: 1SA 20:4
 
@@ -96,9 +84,6 @@ As a subject
   **mah**-yyar'eni wehiggadti lakh
   **What**\ \_he-shows-me and-I-will-tell to-you.
   **Whatever** he shows me I will tell you.
-
-When followed by the relative particle -שׁ.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: ECC 3:15
 

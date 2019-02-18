@@ -8,14 +8,19 @@ Pronoun Interrogative
 Summary
 -------
 
-An interrogative pronoun is a pronoun that introduces a question.
+An interrogative pronoun is a pronoun that appears at the beginning of a clause/sentence and indicates that the clause/sentence
+is an interrogative question rather than an indicative statement.
 
 Article
 -------
 
-In Biblical Hebrew, a family of interrogative particles function as interrogative pronouns, and some scholars call them "interrogative pronouns" instead of "interrogative particles."  
-Two of the most common ones (מִי and מָה) can also function as an 
-:ref:`pronoun_indefinite`,
-in which case the context has to make clear which one it is.  As a general rule, the particles מִי or מָה function as interrogative pronouns when they appear at the beginning of a sentence or clause, and function as indefinite pronouns when they appear in the middle of a sentence or clause.  However, this is not a universal rule.
+In Biblical Hebrew, a family of :ref:`interrogative particles<particle_interrogative>` function as interrogative pronouns,
+and many scholars use the terms "interrogative pronouns" and "interrogative particles" interchangeably. The two most common
+interrogative particles are מִי (personal interrogative pronoun, referring to a person) and מָה (impersonal interrogative pronoun,
+referring to a thing).  These two pronouns can also function as :ref:`indefinite pronouns<pronoun_indefinite>`, especially when
+they appear in the middle of a clause/sentence rather than at the beginning. As a general rule, the particles מִי or מָה function
+as interrogative pronouns when they appear at the beginning of a clause/sentence, and function as indefinite pronouns when they
+appear in the middle of a sentence or clause. However, this is not a universal rule; the specific use of these pronouns must
+always be determined from the context.  
 
 
