@@ -20,8 +20,9 @@ A pronominal :ref:`suffix<suffix>` refers to a person(s) or a thing(s) and can c
 :ref:`feminine<gender_feminine>`), number (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`), and person
 (:ref:`first<person_first>`, :ref:`second<person_second>`, or :ref:`third<person_third>` person).
 These various suffixes look quite similar to their corresponding :ref:`personal pronouns<pronoun_personal>`.
+Only nouns in the :ref:`construct state<state_construct>`can take a pronominal suffix.
 
-.. note:: In Biblical Hebrew, all nouns that take a pronominal suffix are :ref:`definite<definiteness>` nouns.
+.. note:: In Biblical Hebrew, a noun always becomes :ref:`definite<definiteness>` when a pronominal suffix is attached to it.
 
 Form
 ----
@@ -69,11 +70,8 @@ Function
 Attached to a :ref:`noun<noun>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Nouns must be in the
-:ref:`state_construct`
-form before a pronominal suffix can be added, and having a pronominal
-suffix automatically makes the noun
-:ref:`state_determined-pronominal-suffix`.
+When attached to a noun, a pronominal suffix always functions as an attributive adjective describing the person(s) or thing(s)
+in possession of that noun.
 
 .. csv-table:: Example: 2SA 17:23
 
@@ -105,13 +103,8 @@ suffix automatically makes the noun
 Attached to a :ref:`finite verb<verb-finite>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The forms that pronominal suffixes take after a verb can differ
-slightly, but never much, from the standard suffixes in the
-:ref:`noun_common-paradigm`
-above.
-
-The pronominal suffix can be attached to any verb conjugation, except
-for the :ref:`infinitive_absolute`.
+A pronominal suffix can be attached to any finite verb conjugation to indicate the direct object of the verb.  In these cases,
+the pronominal suffix always functions as a :ref:`personal pronouns<pronoun_personal>`.
 
 .. csv-table:: Example: GEN 37:14
 
@@ -140,7 +133,8 @@ for the :ref:`infinitive_absolute`.
 Attached to a :ref:`preposition<preposition>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SENTENCE/PARAGRAPH
+Similar to verbs, a pronominal suffix attached to a preposition is always the object of that preposition, functioning as a
+:ref:`personal pronouns<pronoun_personal>`.
 
 בְּ
 ^^^^
