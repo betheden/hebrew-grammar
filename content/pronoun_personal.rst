@@ -8,14 +8,16 @@ Pronoun Personal
 Summary
 -------
 
-A personal pronoun replaces a proper noun with "he", "she", "we",
-"they", etc.
+In Biblical Hebrew, a personal pronoun is a word that indirectly refers to a particular person(s) or thing(s).  In English, the
+following words are personal pronouns: "I", "we", "you", "he", "she", "they", "them".  
 
 Article
 -------
 
-Independent personal pronouns are separate words, while :ref:`suffix_pronominal`
-are attached to other words.
+In Biblical Hebrew, personal pronouns change form according to gender (:ref:`masculine<gender_masculine>`, number
+(:ref:`feminine<gender_feminine>`, and person (:ref:`first<person_first>`, :ref:`second<person_second>`, or
+:ref:`third<person_third>`.  Grammatically they are very similar to :ref:`pronominal suffixes<suffix_pronominal>`, but they
+stand alone rather than attaching to other kinds of words; also, they are more limited in their function.  
 
 Form
 ----
@@ -41,26 +43,10 @@ Paradigm
 Function
 --------
 
-Subject
-~~~~~~~
+As a general :ref:`noun<noun>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-When the personal pronoun does the action of the verb.
-
-For emphasis
-^^^^^^^^^^^^
-
-Since the person doing the action is already implied in the verb form,
-the personal pronoun is not necessary. If it is present, it is often for
-emphasis.
-
-.. csv-table:: Example: 1KI 18:22 - to emphasize the loneliness of the prophet
-
-  אֲנִ֞י נֹותַ֧רְתִּי נָבִ֛יא לַיהוָ֖ה
-  **'ani** nowtharti navi layhwah
-  **I** I-am-left prophet for-Yahweh
-  "I, **I alone**, am left as a prophet of Yahweh"
-
-.. csv-table:: Example: ISA 41:10 - to emphasize God's promise
+.. csv-table:: Example: ISA 41:10
 
   "אַל־תִּירָא֙ כִּ֣י עִמְּךָ־\ **אָ֔נִי** אַל־תִּשְׁתָּ֖ע
      כִּֽי־\ **אֲנִ֣י** אֱלֹהֶ֑יךָ"
@@ -68,12 +54,6 @@ emphasis.
   Not\_fear for with-you\_\ **I** not\_be-anxious for\_\ **I** your-God
   "Do not fear, for **I** am with you. Do not be anxious, for **I** am
      your God."
-
-In a verbless clause
-^^^^^^^^^^^^^^^^^^^^
-
-In a verbless clause, the implied subject cannot be known from the verb,
-so then a personal pronoun is necessary.
 
 .. csv-table:: Example: EXO 6:2
 
@@ -89,8 +69,26 @@ so then a personal pronoun is necessary.
   righteous **you**
   **you** are righteous
 
-With a :ref:`participle_active`
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+As subject of a finite verb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sometimes an independent personal pronoun appears as the subject of a finite verb even though the pronominal subject is
+already indicated by the verb form iteself.  In these cases, the personal pronoun functions to emphasize the personal role of
+the subject in performing the verbal action.  When used in this way, the personal pronoun is often translated reflexively in
+English: "myself", "yourself", etc.
+
+.. csv-table:: Example: 1KI 18:22
+
+  אֲנִ֞י נֹותַ֧רְתִּי נָבִ֛יא לַיהוָ֖ה
+  **'ani** nowtharti navi layhwah
+  **I** I-am-left prophet for-Yahweh
+  "I, **I alone**, am left as a prophet of Yahweh"
+
+
+
+As subject of a :ref:`verbal participle<participle_active>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: DEU 8:1
 
@@ -99,10 +97,12 @@ With a :ref:`participle_active`
   **I** am-commanding-you
   **I** am giving you
 
-Repeating the :ref:`suffix_pronominal`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In apposition with a :ref:`noun<noun>` or :ref:`pronominal suffix<suffix_pronominal>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This is done for emphasis.
+Sometimes a personal pronoun simply repeats a noun or pronominal suffix that has appeared earlier in the sentence. The specific
+function of the repeated pronoun must be discerned from the context in these cases, but often the repetition expresses some
+kind of emphasis on the identified person(s) or thing(s) within the sentence.
 
 .. csv-table:: Example: GEN 27:34
 
@@ -111,28 +111,12 @@ This is done for emphasis.
   Bless-me also\_\ **me** my-father
   "Bless me, **me** also, my father"
 
-   Here the pronominal suffix indicates the object of the verb.
-
-Special cases sometimes left untranslated
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Just mentioned
-^^^^^^^^^^^^^^
-
 .. csv-table:: Example: EZR 7:6
 
   ה֤וּא עֶזְרָא֙ עָלָ֣ה מִבָּבֶ֔ל
   **hu** 'ezra' 'alah mibbavel
   **He** Ezra came-up from-Babylon
   Ezra came up from Babylon
-
-   Or: "It was this Ezra, the one just mentioned, that came up from
-   Babylon"
-
-Explanation
-~~~~~~~~~~~
-
-Explains what it follows, or introduces a parenthetical comment.
 
 .. csv-table:: Example: GEN 36:1
 
