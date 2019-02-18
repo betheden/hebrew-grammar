@@ -8,29 +8,19 @@ Pronoun Demonstrative
 Summary
 -------
 
-Demonstrative pronouns specifically refer to a person or thing that is presumed familiar to the reader or listener.
-Demonstrative pronouns are usually translated into English with the words "this", "that", "these", or "those".
+A demonstrative pronoun refers to a specific person(s) or thing(s) in particular. In English, the following words are
+demonstrative pronouns: "this", "that", "these", "those".
 
 Article
 -------
 
-A demonstrative :ref:`pronoun` refers to a :ref:`noun` or phrase that is presumed familiar to the reader or listener. For
-example if it has been mentioned earlier in the sentence. It can also
-function as a demonstrative
-:ref:`adjective`,
-in which case it commonly follows the noun, even if in English it always
-precedes the noun.
-
-Demonstrative pronouns are also one of the types of words that are
-:ref:`state_determined-demonstrative-pronouns`,
-even if they can additionally have a :ref:`particle_definite_article`.
+In Biblical Hebrew, demonstrative :ref:`pronouns<pronoun>` can function either as :ref:`nouns<noun>` or
+:ref:`adjectives<adjective>`. Demonstrative pronouns can change form according to gender (:ref:`masculine<gender_masculine>`
+or :ref:`feminine<gender_feminine>`) and number (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`) but NOT
+according to person (i.e. :ref:`first<person_first>`, :ref:`second<second_persons>`, or :ref:`third<person_third>` person).
 
 Form
 ----
-
-Biblical Henrew contains four common demonstrative pronouns that have separate endings for :ref:`singular<number_singular>`
-and :ref:`plural<number_plural>`, as well as :ref:`masculine<gender_masculine>` and :ref:`feminine<gender_feminine>`.
-Demonstrative pronouns in Biblical Hebrew do not have separate forms for first, second, or third person.
 
 Paradigm
 ~~~~~~~~
@@ -47,21 +37,14 @@ Paradigm
   masculine plural far,הֵם / הֵמָּה,hemmah / hem,those
   feminine plural far,הֵנָּה,hennah,those
 
-Note, the "far" forms are identical to the :ref:`personal pronoun<pronoun_personal>`,
-so context will decide how to understand that word.
+.. note:: The "far" demonstrative pronouns are identical to certain :ref:`personal pronouns<pronoun_personal>`and must be distinguished by the context.
+
 
 Function
 --------
 
-Functions as a noun
-~~~~~~~~~~~~~~~~~~~
-
-First / second mention
-^^^^^^^^^^^^^^^^^^^^^^
-
-זֶה is used for items when they are first mentioned.
-
-הוּא is used for items that have already been mentioned.
+As a :ref:`noun<noun>`
+~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: JDG 7:4
 
@@ -73,9 +56,6 @@ First / second mention
      will-go with-you"
   "If I say to you, ""**This one** will go with you,"" **he** will go with
      you"
-
-   הוּא here can be understood and translated as either a demonstrative
-   pronoun, or a personal pronoun.
 
 Reciprocal
 ^^^^^^^^^^
@@ -93,9 +73,6 @@ group interacting with each other.
 Apposition to a noun
 ^^^^^^^^^^^^^^^^^^^^
 
-When a demonstrative pronoun qualifies a person, it is for emphasis or
-to draw attention to the presence of that person.
-
 .. csv-table:: Example: GEN 27:21
 
   הַֽאַתָּ֥ה \ **זֶ֛ה** בְּנִ֥י
@@ -104,15 +81,15 @@ to draw attention to the presence of that person.
   you are my **true** son
 
 
-Functions as an :ref:`adjective<adjective>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+As an :ref:`adjective<adjective>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Attributive<adjective-attributive>` use
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+as an :ref:`attributive<adjective-attributive>` adjective
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When it is used as an attributive adjective, the demonstrative pronoun
-often follows the noun, and both the noun and adjective can have a
-:ref:`definite article<particle_definite_article>`.
+When used as an attributive adjective, a demonstrative pronoun often follows the noun, and both terms can take the
+:ref:`definite article<particle_definite_article>`. Sometimes neither the noun nor the demonstrative pronoun takes
+the definite article. In either case, the demonstrative pronoun makes the described noun :ref:`definite<definiteness>`.
 
 .. csv-table:: Example: ISA 18:23
 
@@ -120,9 +97,6 @@ often follows the noun, and both the noun and adjective can have a
   haddevarim **ha'elleh**
   the-words **the-these**
   **these** words
-
-Sometimes neither the noun nor the demonstrative pronoun have a definite
-article.
 
 .. csv-table:: Example: JOS 2:20
 
@@ -138,8 +112,8 @@ article.
   And-behold **this** angel
   Suddenly an angel
 
-:ref:`Predicative<adjective-predicate>` use
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+as a :ref:`Predicative<adjective-predicate>` adjective
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JDG 4:14
 
@@ -150,8 +124,8 @@ article.
 
 .. _pronoun_demonstrative-relative:
 
-Functions as a :ref:`relative particle<particle_relative>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+As a :ref:`relative particle<particle_relative>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: PSA 74:2
 
@@ -167,11 +141,6 @@ Functions as a :ref:`relative particle<particle_relative>`
   Leviathan **this**\ \_you-formed
   "Leviathan, **which** you formed"
 
-Redundant use
-~~~~~~~~~~~~~
-
-The demonstrative pronoun does not always need to be translated.
-
 .. csv-table:: Example: GEN 47:6
 
   אֶ֤רֶץ מִצְרַ֙יִם֙ לְפָנֶ֣יךָ הִ֔וא
@@ -179,4 +148,3 @@ The demonstrative pronoun does not always need to be translated.
   Land-of Egypt to-your-face **that**
   The land of Egypt is before you
 
-The above example may also be translated as "This land of Egypt before you".
