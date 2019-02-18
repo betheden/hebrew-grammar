@@ -70,8 +70,9 @@ Function
 Attached to a :ref:`noun<noun>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-When attached to a noun, a pronominal suffix always functions as an attributive adjective describing the person(s) or thing(s)
-in possession of that noun.
+When attached to a noun, a pronominal suffix functions as a personal pronoun in a :ref:`construct relationship<state_construct-chain>`
+with the noun to which it is attached.  Very often, the pronoun functions as a possessive
+:ref:`attributive adjective<adjective-attributive>` indentifying the person(s) or thing(s) in possession of that noun.
 
 .. csv-table:: Example: 2SA 17:23
 
@@ -104,7 +105,7 @@ Attached to a :ref:`finite verb<verb-finite>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A pronominal suffix can be attached to any finite verb conjugation to indicate the direct object of the verb.  In these cases,
-the pronominal suffix always functions as a :ref:`personal pronouns<pronoun_personal>`.
+the pronominal suffix always functions as a :ref:`personal pronoun<pronoun_personal>`.
 
 .. csv-table:: Example: GEN 37:14
 
@@ -134,7 +135,7 @@ Attached to a :ref:`preposition<preposition>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Similar to verbs, a pronominal suffix attached to a preposition is always the object of that preposition, functioning as a
-:ref:`personal pronouns<pronoun_personal>`.
+:ref:`personal pronoun<pronoun_personal>`.
 
 בְּ
 ^^^^
@@ -301,6 +302,9 @@ Similar to verbs, a pronominal suffix attached to a preposition is always the ob
 אֵת
 ^^^^
 
+When the preposition אֵת takes a pronominal suffix, it can be distinguished from the direct object marker. The preposition will
+take a hireq vowel with a daghesh in the *taw* consonant (see examples below).
+
 .. csv-table:: Example: PSA 12:4
 
   שְׂפָתֵ֣ינוּ אִתָּ֑נוּ
@@ -318,12 +322,11 @@ Similar to verbs, a pronominal suffix attached to a preposition is always the ob
 Attached to a participle
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-SENTENCE/PARAGRAPH
+When attached to a participle, the pronominal suffix can function as a personal pronoun, a possessive adjective, or as a noun
+in construct relationship with the particle.
 
 Attached to an infinitive construct
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-SENTENCE/PARAGRAPH
 
 as object of the infinitive
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -341,6 +344,11 @@ following the infinitive.
 
 EXAMPLE
 
+as possessive adjective describing the infinitive
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+EXAMPLE
+
 Attached to a particle
 ~~~~~~~~~~~~~~~~~~~~~~
 
@@ -348,8 +356,8 @@ SENTENCE/PARAGRAPH
 
 the :ref:`direct object marker<particle_direct_object_marker>` (אֵת)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
+When the direct object marker takes a pronominal suffix, it can be distinguished from the preposition אֵת.  The direct object
+marker will take a holem vowel without a daghesh in the *taw* consonant (see examples below).
 
 .. csv-table:: Example: 1SA 17:9
 
@@ -368,7 +376,8 @@ the :ref:`direct object marker<particle_direct_object_marker>` (אֵת)
 
 the particle הִנֵּה
 ^^^^^^^^^^^^^^^^
-
+When attached to the :ref:`demonstrative particle<particle_demonstrative>` הִנֵּה, a pronominal suffix can function as either
+the object of the particle or the subject of a verbal participle that immediately follows the particle.
 
 as object of the particle
 .........................
@@ -384,9 +393,9 @@ In these cases, the pronominal suffix functions as the object of the verbal acti
   I said ""**Here I am! Here I am!**"" to a nation that did not call on my name.
 
 
-as subject of a following participle
-....................................
+as subject of a participle
+..........................
 
-Sometimes, a pronominal suffix attached to the particle hnh functions as the subject of a participle that immediately follows
+Sometimes, a pronominal suffix attached to the particle הִנֵּה functions as the subject of a participle that immediately follows
 the particle.
 
