@@ -15,9 +15,10 @@ Article
 
 In English, the third person pronouns include: "I", "me", or "my", for singular; and "we", "us",
 or "our," for plural.  In Biblical Hebrew, terms which are marked for first person do not change form according to gender
-(:ref:`masculine<gender_masculine>` and :ref:`feminine<gender_feminine`>), but they do change form according to number (:ref:`number_singular` or
-:ref:`number_plural`). In Biblical Hebrew, :ref:`verbs<verb>`, :ref:`pronouns<pronoun_personal>`,
-and :ref:`pronominal suffixes<suffix_pronominal>` can all be marked for first person.
+(:ref:`masculine<gender_masculine>` and :ref:`feminine<gender_feminine>`), but they do change form according to number 
+(:ref:`singular<number_singular>` or :ref:`plural<number_plural>`). In Biblical Hebrew,
+:ref:`verbs<verb>`, :ref:`pronouns<pronoun_personal>`, and :ref:`pronominal suffixes<suffix_pronominal>`
+can all be marked for first person.
 
 Form
 ----

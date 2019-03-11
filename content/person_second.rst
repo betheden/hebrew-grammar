@@ -15,7 +15,7 @@ Article
 
 In English, the second person pronouns are "you" and "your," used for both singular and plural. In Biblical Hebrew, terms which
 are marked for second personal can change form according to both gender (:ref:`masculine<gender_masculine>` and
-:ref:`feminine<gender_feminine`>) and number (:ref:`number_singular` or :ref:`number_plural`).  In Biblical Hebrew, 
+:ref:`feminine<gender_feminine>`) and number (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`).  In Biblical Hebrew, 
 :ref:`verbs<verb>`, :ref:`pronouns<pronoun_personal>`, and :ref:`pronominal suffixes<suffix_pronominal>` can all be marked
 for third person.
 
@@ -103,7 +103,7 @@ Examples
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 As :ref:`attached to a verb<suffix_pronominal-verbs>`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2CH 15:2
 
@@ -113,6 +113,7 @@ As :ref:`attached to a verb<suffix_pronominal-verbs>`
   "If **you seek him**, he will be found **by you**"
 
 As :ref:`attached to a noun<suffix_pronominal-nouns>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 1CH 29:12
 
