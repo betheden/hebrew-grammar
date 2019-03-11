@@ -28,10 +28,9 @@ formal address. For more information, see `translationAcademy <http://ufw.io/aca
 Form
 ----
 
-When a word is in the second person, it can be recognized by a variety
-of changes to the form. These changes differ greatly from each other and
-are hard to sum up in a simple, helpful way. The paradigm below shows a
-sample of the kinds of changes that signal a second person.
+In Biblical Hebrew, a term marked for second person can be recognized by a variety of
+changes to the form. These changes differ greatly from each other, so it is difficult to sum them up 
+in a simple, helpful way. The paradigm below shows a sample of the kinds of changes that signal a second person form.
 
 Paradigm
 ~~~~~~~~
@@ -100,15 +99,11 @@ Examples
   righteous **you**
   **you** are righteous
 
-:ref:`suffix_pronominal` marked for second person
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Pronominal suffix<suffix_pronominal>` marked for second person
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-As subject of a :ref:`verb`
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-Either :ref:`suffix_pronominal-direclty-to-the-verb`,
-or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
+As :ref:`attached to a verb<suffix_pronominal-verbs>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2CH 15:2
 
@@ -117,23 +112,7 @@ or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
   And-if\_\ **you-seek-him** he-will-be-found **by-you**
   "If **you seek him**, he will be found **by you**"
 
-:ref:`suffix_pronominal-prepositions`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. csv-table:: Example: GEN 6:20
-
-  שְׁנַ֧יִם מִכֹּ֛ל יָבֹ֥אוּ אֵלֶ֖יךָ
-  shenayim mikkol yavo'u **'eleykha**
-  two of-all will-come **to-you**
-  two of every sort will come **to you**
-
-Possession
-~~~~~~~~~~
-
-Indicating possession is done by the :ref:`suffix_pronominal`:
-
-:ref:`suffix_pronominal-nouns`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+As :ref:`attached to a noun<suffix_pronominal-nouns>`
 
 .. csv-table:: Example: 1CH 29:12
 
@@ -142,8 +121,16 @@ Indicating possession is done by the :ref:`suffix_pronominal`:
   **and-in-your-hand** power and-strength.
   **In your hand** is power and might.
 
-:ref:`suffix_pronominal-prepositions`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+As :ref:`attached to a preposition<suffix_pronominal-prepositions>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: Example: GEN 6:20
+
+  שְׁנַ֧יִם מִכֹּ֛ל יָבֹ֥אוּ אֵלֶ֖יךָ
+  shenayim mikkol yavo'u **'eleykha**
+  two of-all will-come **to-you**
+  two of every sort will come **to you**
 
 .. csv-table:: Example: PSA 74:16
 

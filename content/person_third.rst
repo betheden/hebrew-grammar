@@ -15,8 +15,8 @@ Article
 
 In English, the third person pronouns include: "he", "him", "his", "she", or "her", for singular; and "they", "them",
 or "their," for plural.  In Biblical Hebrew, terms which are marked for third person can change form according to both gender
-(:ref:`masculine<gender_masculine>` and :ref:`feminine<gender_feminine`>) and number (:ref:`number_singular` or
-:ref:`number_plural`). In Biblical Hebrew, :ref:`verbs<verb>`, :ref:`pronouns<pronoun_personal>`,
+(:ref:`masculine<gender_masculine>` and :ref:`feminine<gender_feminine>`) and number (:ref:`singular<number_singular>` or
+:ref:`plural<number_plural>`). In Biblical Hebrew, :ref:`verbs<verb>`, :ref:`pronouns<pronoun_personal>`,
 and :ref:`pronominal suffixes<suffix_pronominal>` can all be marked for third person.
 
 
@@ -98,16 +98,8 @@ Examples
 :ref:`Pronominal suffix<suffix_pronominal>` marked for third person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The object in a sentence is the person (or object) that receives the
-action of the verb.
-
-This is done by the 
-
-As direct object of a :ref:`verb`
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-Either :ref:`suffix_pronominal-direclty-to-the-verb`,
-or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
+As attached to a :ref:`verb<verb>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: GEN 37:14
 
@@ -117,8 +109,8 @@ or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
   "**So he sent him out** of the Valley of Hebron, and he went to
      Shechem."
 
-As possessive adjective discribing a noun :ref:`suffix_pronominal-nouns`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+As attached to a :ref:`noun<suffix_pronominal-nouns>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2SA 17:23
 
@@ -127,8 +119,8 @@ As possessive adjective discribing a noun :ref:`suffix_pronominal-nouns`
   And-he-stood-up and-went to\_\ **his-house** to\_\ **his-city**
   He went **home** to **his own city**
 
-As object of a preposition:ref:`suffix_pronominal-prepositions`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+As attached to a :ref:`preposition<suffix_pronominal-prepositions>`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOB 39:12
 
