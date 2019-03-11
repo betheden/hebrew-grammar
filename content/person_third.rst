@@ -98,7 +98,7 @@ Examples
 :ref:`Pronominal suffix<suffix_pronominal>` marked for third person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As attached to a :ref:`verb<verb>`
+As :ref:`attached to a verb<verb>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: GEN 37:14
@@ -109,7 +109,7 @@ As attached to a :ref:`verb<verb>`
   "**So he sent him out** of the Valley of Hebron, and he went to
      Shechem."
 
-As attached to a :ref:`noun<suffix_pronominal-nouns>`
+As :ref:`attached to a noun<suffix_pronominal-nouns>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2SA 17:23
@@ -119,7 +119,7 @@ As attached to a :ref:`noun<suffix_pronominal-nouns>`
   And-he-stood-up and-went to\_\ **his-house** to\_\ **his-city**
   He went **home** to **his own city**
 
-As attached to a :ref:`preposition<suffix_pronominal-prepositions>`
+As :ref:`attached to a preposition<suffix_pronominal-prepositions>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JOB 39:12
