@@ -13,18 +13,19 @@ The third person form of a term refers to a person(s) or thing(s) other than the
 Article
 -------
 
-The third person is the person "he", "him", "his", "she", or "her", or
-group of people "they", "them", or "their", that is spoken about.
+In English, the third person pronouns include: "he", "him", "his", "she", or "her", for singular; and "they", "them",
+or "their," for plural.  In Biblical Hebrew, terms which are marked for third person can change form according to both gender
+(:ref:`masculine<gender_masculine>` and :ref:`feminine<gender_feminine`>) and number (:ref:`number_singular` or
+:ref:`number_plural`). In Biblical Hebrew, :ref:`verbs<verb>`, :ref:`pronouns<pronoun_personal>`,
+and :ref:`pronominal suffixes<suffix_pronominal>` can all be marked for third person.
 
-The third person can be used in both direct and indirect speech.
 
 Form
 ----
 
-When a word is in the third person, it can be recognized by a variety of
-changes to the form. These changes differ greatly from each other and
-are hard to sum up in a simple, helpful way. The paradigm below shows a
-sample of the kinds of changes that signal a third person.
+In Biblical Hebrew, a term marked for third person can be recognized by a variety of
+changes to the form. These changes differ greatly from each other, so it is difficult to sum them up 
+in a simple, helpful way. The paradigm below shows a sample of the kinds of changes that signal a third person form.
 
 Paradigm
 ~~~~~~~~
@@ -68,35 +69,14 @@ Paradigm
   third person masculine plural",לָהֶם / -הֶם / - ָם,lahem / -hem / -am,(to) them
   third person feminine plural",לָהֶן / -הֶן / - ָן,lahen / -hen / -an,(to) them
 
-Hebrew distinguishes between
-:ref:`gender_masculine`
-and
-:ref:`gender_feminine`
-in both
-:ref:`number_singular`
-and
-:ref:`number_plural`.
-It does not have a neutral "it," but since all nouns have a msculine or
-feminine gender, it does not need a neutral form.
 
-The third person can be found in
-:ref:`verb`
-forms, :ref:`pronoun_personal`,
-and :ref:`suffix_pronominal`.
 
-Function
+
+Examples
 --------
 
-A third person can be used as a subject, an object, or to indicate
-possession.
-
-Subject
-~~~~~~~
-
-The subject in a sentence is the person who does the action.
-
-In the :ref:`verb` form
-^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Finite verb<verb-finite>` marked for third person
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 12:1
 
@@ -105,8 +85,8 @@ In the :ref:`verb` form
   **and-he-said** Yahweh to\_Abram
   **Now** Yahweh **said** to Abram
 
-As a :ref:`pronoun_personal`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Personal pronoun<pronoun_personal>` marked for third person
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: GEN 36:1
 
@@ -115,15 +95,15 @@ As a :ref:`pronoun_personal`
   Esau **he** Edom
   Esau (**also called** Edom)
 
-Object
-~~~~~~
+:ref:`Pronominal suffix<suffix_pronominal>` marked for third person
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The object in a sentence is the person (or object) that receives the
 action of the verb.
 
-This is done by the :ref:`suffix_pronominal`:
+This is done by the 
 
-Related to a :ref:`verb`
+As direct object of a :ref:`verb`
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 Either :ref:`suffix_pronominal-direclty-to-the-verb`,
@@ -137,22 +117,7 @@ or by being attached to a :ref:`suffix_pronominal-with-a-direct-object-marker`.
   "**So he sent him out** of the Valley of Hebron, and he went to
      Shechem."
 
-:ref:`suffix_pronominal-prepositions`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. csv-table:: Example: JOB 39:12
-
-  הֲתַאֲמִ֣ין בֹּ֖ו
-  hatha'amin **bow**
-  Do-you-believe **in-him**?
-  Will you depend **on him**?
-
-Possession
-~~~~~~~~~~
-
-Indicating possession is done by the :ref:`suffix_pronominal`:
-
-:ref:`suffix_pronominal-nouns`
+As possessive adjective discribing a noun :ref:`suffix_pronominal-nouns`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: 2SA 17:23
@@ -162,8 +127,15 @@ Indicating possession is done by the :ref:`suffix_pronominal`:
   And-he-stood-up and-went to\_\ **his-house** to\_\ **his-city**
   He went **home** to **his own city**
 
-:ref:`suffix_pronominal-prepositions`
+As object of a preposition:ref:`suffix_pronominal-prepositions`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: Example: JOB 39:12
+
+  הֲתַאֲמִ֣ין בֹּ֖ו
+  hatha'amin **bow**
+  Do-you-believe **in-him**?
+  Will you depend **on him**?
 
 .. csv-table:: Example: 2KI 17:15
 

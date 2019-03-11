@@ -13,10 +13,17 @@ The second person form of a term refers to the person(s) being addressed by a wr
 Article
 -------
 
-The second person is the person(s) that is spoken to. Both for a single
-person and for a group of people, English uses "you", or "your".
+In English, the second person pronouns are "you" and "your," used for both singular and plural. In Biblical Hebrew, terms which
+are marked for second personal can change form according to both gender (:ref:`masculine<gender_masculine>` and
+:ref:`feminine<gender_feminine`>) and number (:ref:`number_singular` or :ref:`number_plural`).  In Biblical Hebrew, 
+:ref:`verbs<verb>`, :ref:`pronouns<pronoun_personal>`, and :ref:`pronominal suffixes<suffix_pronominal>` can all be marked
+for third person.
 
-.. note:: The second person is only used in direct speech.
+Neither English nor Hebrew have a formal second person address. In many languages (including German, Spanish, and French),
+a speaker addresses God using an informal address. In some other languages, such as Dutch, a speaker addresses God using a
+formal address. For more information, see `translationAcademy <http://ufw.io/academy/>`_ and
+`translationNotes <http://ufw.io/academy/>`_.
+
 
 Form
 ----
@@ -69,45 +76,12 @@ Paradigm
   second person masculine plural,לָכֶם / -כֶם,lakhem / -khem,(to) you
   second person feminine plural,לָכֶן / -כֶן,lakhen / -khen,(to) you
 
-English does not have a distinction between
-:ref:`number_singular`
-and
-:ref:`number_plural`
-in the second person (except for in the reflexive "yourself" and
-"yourselves") but the Hebrew does. So if the context in English is
-unclear, the Hebrew can help out. The Hebrew also distinguishes between
-:ref:`gender_masculine`
-and
-:ref:`gender_feminine`
-in the second person.
 
-Neither English nor Hebrew have a formal second person address.
-Translators are free to use their own judgement to translate formally or
-informally. If a speaker is addressing God, many languages (including
-German, Spanish, and French) address God with the informal voice while
-capitalizing the first letter of the personal pronoun. Some other
-languages (like Dutch), speak to God in the formal voice.
-See also `translationAcademy <http://ufw.io/academy/>`_ and
-`translationNotes <http://ufw.io/academy/>`_.
-
-The second person can be found in
-:ref:`verb`
-forms, :ref:`pronoun_personal`,
-and :ref:`suffix_pronominal`.
-
-Function
+Examples
 --------
 
-A second person can be used as a subject, an object, or to indicate
-possession.
-
-Subject
-~~~~~~~
-
-The subject in a sentence is the person who does the action.
-
-In the :ref:`verb` form
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Finite verb<verb-finite>` marked for second person
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: JER 43:10
 
@@ -116,8 +90,8 @@ In the :ref:`verb` form
   from-upwards-of to-the-stones the-these that **you-have-buried**.
   over these stones that **you have buried**.
 
-As a :ref:`pronoun_personal`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`Personal pronoun<pronoun_personal>` marked for second person
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: JER 12:1
 
@@ -126,15 +100,11 @@ As a :ref:`pronoun_personal`
   righteous **you**
   **you** are righteous
 
-Object
-~~~~~~
+:ref:`suffix_pronominal` marked for second person
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The object in a sentence is the person (or object) that receives the
-action of the verb.
 
-This is done by the :ref:`suffix_pronominal`:
-
-Related to a :ref:`verb`
+As subject of a :ref:`verb`
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 Either :ref:`suffix_pronominal-direclty-to-the-verb`,
