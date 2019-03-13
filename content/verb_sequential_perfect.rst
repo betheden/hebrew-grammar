@@ -8,8 +8,9 @@ Verb Sequential Perfect
 Summary
 -------
 
-A Sequential Perfect verb often appears to function like an Imperfect verb, but it usually connects to some earlier
-verb of a different conjugation which it then imitates in function. 
+A Sequential Perfect verb often expresses the same kinds of action as the *Imperfect conjugation*, but it also connects to an
+earlier verb to form either a sequence of time or a sequence of thought.  However, in Biblical Hebrew a Sequential Perfect
+verb has an additional and unique potential to express the same kind of action as the verb immediately preceding it.
 
 Article
 -------
@@ -24,9 +25,12 @@ normal Perfect conjugation but includes the
 :ref:`verb<verb>`
 does not function like a normal Perfect conjugation verb. Rather, it functions more like an :ref:`Imperfect<verb_imperfect>` verb,
 because it often appears in a series following a
-clause with an Imperfect verb. It functions in a variety of other ways as well, because it actually derives its function 
-from a previous verb form that it then imitates. This previous verb can be any of several different forms, allowing the 
-Sequential Perfect verb to function in many different ways (see the examples below). 
+clause with an Imperfect verb.
+
+.. note:: The Sequential Pefect conjugation has an additional function that is unique among all verbal conjugations in Biblical Hebrew.
+A Sequential Verb often, but not always, expresses the same kind of action as the preceding verb.  This is often the case when
+a Sequential Perfect verbs are used to express a sequence of incomplete actions, a sequence of imperatives, or a sequence of
+verbal actions expressing possibility or desirability.
 
 There is a difference between (1) the Sequential Perfect conjugation, (2)
 the :ref:`Perfect copulative<verb_perfect-copulative>`,
@@ -185,7 +189,7 @@ specified timeframe.
 Direct or indirect commands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In the following example, the sequential suffix conjugation is
+In the following example, the Sequential Perfect conjugation is
 translated with :ref:`imperative<verb_imperative>` meaning.
 
 .. csv-table:: Example: 2SA 7:5
@@ -195,7 +199,7 @@ translated with :ref:`imperative<verb_imperative>` meaning.
   go **and-say** to\_my-servant to\_David
   Go **and tell** David my servant
 
-In the following example, the sequential suffix conjugation is
+In the following example, the Sequential Perfect conjugation is
 translated with :ref:`jussive<verb_jussive>` meaning.
 
 .. csv-table:: Example: GEN 31:44
@@ -224,7 +228,7 @@ Actions of greater or lesser desirability
 These may include instructions, requests, permissions, invitations,
 assurances, wishes, etc.
 
-In the following example, the sequential suffix conjugation is
+In the following example, the Sequential Perfect conjugation is
 translated with :ref:`cohortative<verb_cohortative>` meaning.
 
 .. csv-table:: Example: RUT 2:7

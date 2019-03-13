@@ -200,7 +200,7 @@ This is an action described as a hypothetical situation.
   How much better if the people **had eaten** freely today
 
 :ref:`Stative<verb-stative>` actions (describing a state or condition)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This kind of action describes a state or a condition, often (but not always) with a passive :ref:`stem formation<stem>`.
 
@@ -226,7 +226,7 @@ This is an action that is performed by speaking it.
 Prophetic actions
 ~~~~~~~~~~~~~~~~~
 
-This is a very rare use of the suffix conjugation verb, occurring in prophetic
+This is a very rare use of the Perfect conjugation, occurring in prophetic
 utterances.
 
 .. csv-table:: Example: ISA 11:9
@@ -239,7 +239,7 @@ utterances.
 .. _verb_perfect-copulative:
 
 Perfect copulative
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 This form adds the
 :ref:`conjunction<conjunction>`
