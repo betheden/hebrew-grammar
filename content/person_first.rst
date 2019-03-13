@@ -13,7 +13,7 @@ The first person form of a term refers to the person(s) writing or speaking.
 Article
 -------
 
-In English, the third person pronouns include: "I", "me", or "my", for singular; and "we", "us",
+In English, the first person pronouns include: "I", "me", or "my", for singular; and "we", "us",
 or "our," for plural.  In Biblical Hebrew, terms which are marked for first person do not change form according to gender
 (:ref:`masculine<gender_masculine>` and :ref:`feminine<gender_feminine>`), but they do change form according to number 
 (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`). In Biblical Hebrew,

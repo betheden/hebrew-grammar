@@ -92,8 +92,8 @@ and :ref:`pronominal suffixes<suffix_pronominal>`.
 Function
 --------
 
-:ref:`Noun<noun>`
-~~~~~~~~~~~~~~~~~
+:ref:`Nouns<noun>` marked as plural
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _number_plural-common:
 
@@ -203,8 +203,8 @@ endings like -ness, -hood, and -ship.
   for\_I-bore son **to-his-old-ages**
   yet I have borne him a son **in his old age**!
 
-:ref:`Adjectives<adjective>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Adjectives<adjective>` marked as plural
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Generally, plural adjectives (also :ref:`active<participle_active-adjectival>` and :ref:`passive<participle_passive-adjectival>`
 adjectival participles) use the :ref:`common plural<number_plural-common>`. 
@@ -223,8 +223,8 @@ adjectival participles) use the :ref:`common plural<number_plural-common>`.
   and-[dir.obj]\_[def.art]-Levites **who-serve** [dir.obj]-me
   and the Levites **who serve** before me
 
-:ref:`Verbs<verb>`
-~~~~~~~~~~~~~~~~~~
+:ref:`Verbs<verb>` marked as plural
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A :ref:`finite verb<verb-finite>` and/or :ref:`verbal participle<participle_active-verbal>` in plural form
 indicates that the subject of the verb is plural.
@@ -243,8 +243,8 @@ indicates that the subject of the verb is plural.
   for not **they-listened** to-voice-of Yahweh.
   because **they** did not **listen** to Yahweh's voice.
 
-Participles
-~~~~~~~~~~~
+Participles marked as plural
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Participles in plural form can generally use the common plural, but not always. A verbal participle in plural form indicates
 that the subject of the participle is plural.
@@ -270,8 +270,8 @@ that the subject of the participle is plural.
   bloods-of your-brother **crying-out** to-me
   Your brother's blood **is calling out** to me
 
-Personal :ref:`pronouns<pronoun_personal>` and :ref:`suffixes<suffix_pronominal>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Personal :ref:`pronouns<pronoun_personal>` and :ref:`suffixes<suffix_pronominal>` marked as plural
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Generally, pronouns and suffixes use the :ref:`common plural<number_plural-common>`.
 
