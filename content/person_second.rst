@@ -82,6 +82,9 @@ Examples
 :ref:`Finite verb<verb-finite>` marked for second person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+A :ref:`finite verb<verb-finite>` (and/or :ref:`verbal participle<participle_active-verbal>`) in second person form
+indicates that the subject of the verb is the person(s) being addressed by the writer/speaker.
+
 .. csv-table:: Example: JER 43:10
 
   מִמַּ֛עַל לָאֲבָנִ֥ים הָאֵ֖לֶּה אֲשֶׁ֣ר טָמָ֑נְתִּי
@@ -92,6 +95,9 @@ Examples
 :ref:`Personal pronoun<pronoun_personal>` marked for second person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+A second person indpendent personal pronoun refers either to the person being addressed by the writer/speaker (for singular)
+or to an entire group to which that person belongs (for plural).
+
 .. csv-table:: Example: JER 12:1
 
   צַדִּ֤יק אַתָּה֙
@@ -101,6 +107,9 @@ Examples
 
 :ref:`Pronominal suffix<suffix_pronominal>` marked for second person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A second person pronominal suffix usually functions either as a personal pronoun (for verbs and prepositions) or as a possessive
+adjective (for nouns).
 
 As :ref:`attached to a verb<suffix_pronominal-verbs>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

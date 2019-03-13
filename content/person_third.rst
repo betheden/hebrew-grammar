@@ -8,7 +8,8 @@ Person Third
 Summary
 -------
 
-The third person form of a term refers to a person(s) or thing(s) other than the writer/reader or speaker/listener.
+The third person form of a term refers to a person(s) or thing(s) other than the writer/speaker and the person being addressed
+by the writer/speaker.
 
 Article
 -------
@@ -78,6 +79,9 @@ Examples
 :ref:`Finite verb<verb-finite>` marked for third person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+A :ref:`finite verb<verb-finite>` (and/or :ref:`verbal participle<participle_active-verbal>`) in third person form
+indicates that the subject of the verb is someone/something other than the writer/speaker or the person being addressed.
+
 .. csv-table:: Example: GEN 12:1
 
   וַיֹּ֤אמֶר יְהוָה֙ אֶל־אַבְרָ֔ם
@@ -88,6 +92,9 @@ Examples
 :ref:`Personal pronoun<pronoun_personal>` marked for third person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+A third person indpendent personal pronoun refers either to a person/thing (for singular) or group of persons/things (for plural)
+other than the writer/speaker and the person being addressed by the writer/speaker.
+
 .. csv-table:: Example: GEN 36:1
 
   עֵשָׂ֖ו \ **ה֥וּא** אֱדֽוֹם
@@ -97,6 +104,9 @@ Examples
 
 :ref:`Pronominal suffix<suffix_pronominal>` marked for third person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A third person pronominal suffix usually functions either as a personal pronoun (for verbs and prepositions) or as a possessive
+adjective (for nouns).
 
 As :ref:`attached to a verb<verb>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

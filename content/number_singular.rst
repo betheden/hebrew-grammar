@@ -200,8 +200,8 @@ indicates that the subject of the verb is singular (either :ref:`common<number_s
   herbs **producing** seed
   plants **yielding** seed
 
-Participles
-~~~~~~~~~~~
+Participles marked as singular
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Generally, all :ref:`nominal<participle_active-nominal>` and :ref:`adjectival<participle_active-adjectival>`
 participles in plural form use the :ref:`common<number_singular-common>` singular. A :ref:`verbal participle<participle_active-verbal>`
@@ -228,8 +228,8 @@ in plural form indicates that the subject of the participle is plural.
   herbs **producing** seed
   plants **yielding** seed
 
-:ref:`Personal pronouns<pronoun_personal>` and :ref:`suffixes<suffix_pronominal>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Personal pronouns<pronoun_personal>` and :ref:`pronominal suffixes<suffix_pronominal>` marked as singular
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: JER 37:2 –– independent personal pronoun with common singular
 

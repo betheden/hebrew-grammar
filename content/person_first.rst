@@ -68,6 +68,9 @@ Examples
 :ref:`Finite verb<verb-finite>` marked for first person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+A :ref:`finite verb<verb-finite>` (and/or :ref:`verbal participle<participle_active-verbal>`) in first person form
+indicates that the subject of the verb is the writer/speaker of the verb.
+
 .. csv-table:: Example: GEN 28:15
 
   עַ֚ד אֲשֶׁ֣ר אִם־\ **עָשִׂ֔יתִי** אֵ֥ת אֲשֶׁר־דִּבַּ֖רְתִּי לָֽךְ
@@ -79,6 +82,9 @@ Examples
 :ref:`Personal pronoun<pronoun_personal>` marked for first person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+A first person indpendent personal pronoun refers either to the writer/speaker (for singular) or to an entire group to which
+the writer/speaker belongs (for plural).
+
 .. csv-table:: Example: EXO 6:2
 
   אֲנִ֥י יְהוָֽה
@@ -86,8 +92,11 @@ Examples
   **I** Yahweh.
   **I** am Yahweh.
 
-:ref:`Pronominal suffix<suffix_pronominal>` marked for third person
+:ref:`Pronominal suffix<suffix_pronominal>` marked for first person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A first person pronominal suffix usually functions either as a personal pronoun (for verbs and prepositions) or as a possessive
+adjective (for nouns).
 
 As :ref:`attached to a verb<suffix_pronominal-verbs>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
