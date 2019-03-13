@@ -17,6 +17,11 @@ Article
 
 .. include:: includes/participle_article.txt
 
+Passive participles express verbal action in either :ref:`passive voice<stem-voice-passive>` or
+:ref:`reflexive voice<stem-voice-reflexive>`.  Passive voice means that the person/thing described by the
+participle receives the action expressed by the participle itself.  Reflexive voice means that the person/thing described by
+the participle both performs and receives the action expressed by the participle itself.
+
 .. note:: Only the :ref:`Qal<stem_qal>` stem
           has a distinct passive form for the participle; in all other cases, the
           passive (or sometimes reflexive) meaning is determined by the :ref:`stem formation<stem>`
