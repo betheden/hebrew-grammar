@@ -22,7 +22,7 @@ Form
 Nouns and adjectives
 ~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Masuline<gender_masculine>` singular nouns have no special endings.
+:ref:`Masculine<gender_masculine>` singular nouns have no special endings.
 
 :ref:`Feminine<gender_feminine>` singular nouns usually end in either ־ָה or ־ֶת.
 
@@ -49,7 +49,6 @@ Besides nouns, a singular term can be recognized by a variety of changes
 to the form. These changes differ greatly from each other and are hard
 to sum up in a simple, helpful way. This paradigm shows a sample of the
 kinds of changes that signal a singular form for :ref:`verbs<verb>`, independent :ref:`personal pronouns<pronoun_personal>`,
-the :ref:`direct object marker<particle_direct_object_marker>` with a pronominal suffix,
 and :ref:`pronominal suffixes<suffix_pronominal>`.
 
 .. csv-table:: Qal Suffix Conjugation Singular Forms
@@ -90,11 +89,11 @@ and :ref:`pronominal suffixes<suffix_pronominal>`.
   third person masculine singular,לוֹ / -וֹ,lo / -o,(to) him
   third person feminine singular,לָהּ / - ָהּ,lah / -ah,(to) her
 
-Function
+Examples
 --------
 
-:ref:`Noun<noun>`
-~~~~~~~~~~~~~~~~~
+:ref:`Nouns<noun>` marked as singular
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _number_singular-common:
 
@@ -159,8 +158,8 @@ singular. For example, the noun עוֹף֙ can mean "bird" or "birds".
   "**but birds** were eating them from the top basket that was on my
      head"
 
-:ref:`Adjectives<adjective>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Adjectives<adjective>` marked as singular
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 An adjective (also :ref:`active<participle_active-adjectival>` and :ref:`passive<participle_passive-adjectival>` adjectival
 participles) in singular form describes a singular noun (either :ref:`common<number_singular-common>` or
@@ -180,8 +179,8 @@ participles) in singular form describes a singular noun (either :ref:`common<num
   lion\_**roaring** and-bear **charging**
   Like a **roaring** lion or a **charging** bear 
 
-:ref:`Verbs<verb>`
-~~~~~~~~~~~~~~~~~~
+:ref:`Verbs<verb>` marked as singular
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A :ref:`finite verb<verb-finite>` (and/or :ref:`verbal participle<participle_active-verbal>`) in singular form
 indicates that the subject of the verb is singular (either :ref:`common<number_singular-common>` or
