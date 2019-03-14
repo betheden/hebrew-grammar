@@ -15,9 +15,9 @@ Article
 -------
 
 The Hishtaphel is a :ref:`rare stem formation<stem-uncommon>`
-that is unrelated to any other :ref:`stem<stem>`. Similar to the :ref:`Hiphil<stem_hiphil>`, it
-expresses :ref:`causative<stem-action-causative>` action in :ref:`active<stem-voice-active>` voice. In Biblical Hebrew, this
-stem is used almost exclusively with the common verb חוי / חוה, meaning
+that is unrelated to any other :ref:`stem<stem>`. Many scholars believe this stem is derived from Ugaritic and is similar to the
+:ref:`Hiphil<stem_hiphil>`, expressing :ref:`causative<stem-action-causative>` action in :ref:`active<stem-voice-active>` voice. 
+However, In Biblical Hebrew this stem is used almost exclusively with the common verb חוי / חוה, meaning
 "to prostrate oneself" (simple action with reflexive voice) or "to worship" (simple action with active voice).
 
 Form
