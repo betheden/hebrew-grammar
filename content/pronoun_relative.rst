@@ -8,14 +8,16 @@ Pronoun Relative
 Summary
 -------
 
-Relative pronouns are pronouns which function as a relative particle, that is, to introduce words or phrases that describe a noun.
-Relative pronouns are translated into English as “who", “that", “which", "when", or "where".
+Relative pronouns are pronouns which function as a relative particle, that is, to introduce a phrase or clause that describes a noun.
 
 Article
 -------
 
-In Biblical Hebrew, the terms "relative pronoun" and :ref:`"relative particle"<particle_relative>` are two different names for
-the same thing.  Either term is grammatically correct.  
+Either term is correct.  In English, the relative pronouns include: “who", "what", “that", “which", "when", or "where".
+In most cases, Biblical Hebrew simply uses either the :ref:`relative particle<particle_relative>` אֲשֶׁר or the prefix -שֶׁ to
+introduce a relative clause.  However, in rare instances Biblical Hebrew uses certain other pronouns to serve this same function.
+
+.. note:: In Biblical Hebrew, the terms "relative pronoun" and "relative particle" are two different names for the same thing.  
 
 זוּ
 ----
