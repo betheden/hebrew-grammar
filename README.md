@@ -1,14 +1,11 @@
 <a href="https://uhg.readthedocs.io/"><img src="https://readthedocs.org/projects/uhg/badge/?version=latest"></a>
 
-# unfoldingWord Hebrew Grammar
+<img src="https://cdn.door43.org/assets/uw-icons/logo-uhg-256.png" alt="drawing" width="100"/>
+# unfoldingWord® Hebrew Grammar
 
-These are the source files for the [unfoldingWord Hebrew Grammar](https://uhg.readthedocs.io/).
+These are the source files for the [unfoldingWord® Hebrew Grammar](https://uhg.readthedocs.io/).
 
-The unfoldingWord Hebrew Grammar (UHG) is a Biblical Hebrew reference grammar based on the [morphology codes](http://openscriptures.github.io/morphhb/parsing/HebrewMorphologyCodes.html) that appear in the [Open Scriptures Hebrew Bible](https://github.com/openscriptures/morphhb). It enables the global Church to gain the best possible understanding of the Hebrew grammar of the Old Testament.
-
-## Downloads
-
-Coming soon...
+The unfoldingWord® Hebrew Grammar (UHG) is a Biblical Hebrew reference grammar based on the [morphology codes](http://openscriptures.github.io/morphhb/parsing/HebrewMorphologyCodes.html) that appear in the [Open Scriptures Hebrew Bible](https://github.com/openscriptures/morphhb). It enables the global Church to gain the best possible understanding of the Hebrew grammar of the Old Testament.
 
 ## Contributing
 

@@ -191,7 +191,7 @@ an :ref:`indefinite pronoun<pronoun_indefinite>` ("whatever") when used in the m
 
 
 איך and איכה
------------
+------------
 
 These are particles of manner and can be translated as "how?", "why?", or even "how!".
 
@@ -217,7 +217,7 @@ These are particles of manner and can be translated as "how?", "why?", or even "
   **How** do you advise me
 
 אי and איה
----------
+----------
 
 These are particles of place and can be translated as "where?" or "where is?".
 
@@ -244,7 +244,7 @@ These are particles of place and can be translated as "where?" or "where is?".
   
 
 מָתַי
-----
+---
 
 This is a particle of time and can be translated as "when?". It is often used with the preposition עַד in the compound particle
 עַד־מָתַי which literally means "until when?" but is usually translated "how long?".
@@ -263,8 +263,8 @@ This is a particle of time and can be translated as "when?". It is often used wi
   **How\_long** God will-throw-insults enemy
   "God, **how long** will our enemies make fun of you?"
 
-לָמָ֪ה and לָֽמָּה‮‬
-------------
+לָמָ֪ה and לָֽמָּה
+-----------
 
 These are particles of cause and literally mean "for what?", but they are usually translated as "why?".
 
@@ -289,7 +289,7 @@ Other interrogative particles
 -----------------------------
 
 מַדּ֖וּעַ (why?)
-~~~~~~~~~~
+~~~~~~~~~~~
 
 .. csv-table:: Example: 2KI 8:12
 
@@ -299,7 +299,7 @@ Other interrogative particles
   "Sir, **why** are you crying?"
 
 עַד־אָן (how long?)
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: JOB 8:2
 
@@ -309,7 +309,7 @@ Other interrogative particles
   **How much longer** will you talk like this?
 
 אֵ֥י מִזֶּ֖ה (from where?)
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Example: 1SA 25:11
 

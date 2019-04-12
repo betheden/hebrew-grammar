@@ -88,7 +88,7 @@ also singular. If the noun is definite, the adjective is also definite; and so o
 
 .. _adjective-predicative:
 
-Predicative adjectives are adjectives that describe nouns using a :ref:`linking verb<verb-linking-verb>`. 
+Predicative adjectives are adjectives that describe nouns using a :ref:`linking verb<verb-linking-verbs>`. 
 Often the linking verb is not present in the Hebrew text and must be supplied when translating into English. 
 Like attributive adjectives, a predicative adjective usually has the same form as the noun it
 describes in both gender and number. Unlike attributive adjectives, however, a predicative
@@ -114,7 +114,7 @@ adjective can be indefinite even if it describes a :ref:`definite<definiteness>`
 .. _adjective-nominal:
 
 Functions as a :ref:`noun<noun>`
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Rather than describing a noun, sometimes an adjective itself functions as a noun in the sentence. This is called a nominal adjective.
 
@@ -135,7 +135,7 @@ Rather than describing a noun, sometimes an adjective itself functions as a noun
 .. _adjective-adverbial:
 
 Functions as an :ref:`adverb<adverb>`
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Sometimes an adjective functions as an adverb, meaning that it describes a verb instead of a noun.  This is called an adverbial adjective.
 

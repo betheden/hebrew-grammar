@@ -17,12 +17,12 @@ dublin_core:
   description: 'An open-licensed Hebrew grammar (reference first, eventually for teaching), providing information about Hebrew grammatical elements. It enables the global Church to gain the best possible understanding of the grammar of the original texts of the Old Testament.'
   format: 'text/x-rst'
   identifier: 'uhg'
-  issued: '2018-01-26'
+  issued: '2019-04-12'
   language:
     identifier: 'en'
     title: 'English'
     direction: 'ltr'
-  modified: '2018-01-26'
+  modified: '2019-04-12'
   publisher: 'unfoldingWord'
   relation:
     - 'en/uhb'
@@ -31,15 +31,16 @@ dublin_core:
     -
       identifier: 'uhg'
       language: 'en'
-      version: '0'
+      version: '1'
   subject: 'Hebrew Grammar'
-  title: 'unfoldingWord Hebrew Grammar'
+  title: 'unfoldingWord® Hebrew Grammar'
   type: 'man'
-  version: '0'
+  version: '1'
 
 checking:
-  checking_entity: []
-  checking_level: '1'
+  checking_entity:
+    - 'unfoldingWord'
+  checking_level: '3'
 
 projects:
   -
@@ -47,5 +48,5 @@ projects:
     identifier: 'content'
     path: './content'
     sort: 0
-    title: 'unfoldingWord Hebrew Grammar'
+    title: 'unfoldingWord® Hebrew Grammar'
     versification:

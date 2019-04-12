@@ -93,7 +93,7 @@ Function
 --------
 
 :ref:`Nouns<noun>` marked as plural
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _number_plural-common:
 

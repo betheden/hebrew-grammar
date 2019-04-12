@@ -20,7 +20,7 @@ A pronominal :ref:`suffix<suffix>` refers to a person(s) or a thing(s) and can c
 :ref:`feminine<gender_feminine>`), number (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`), and person
 (:ref:`first<person_first>`, :ref:`second<person_second>`, or :ref:`third<person_third>` person).
 These various suffixes look quite similar to their corresponding :ref:`personal pronouns<pronoun_personal>`.
-Only nouns in the :ref:`construct state<state_construct>`can take a pronominal suffix.
+Only nouns in the :ref:`construct state<state_construct>` can take a pronominal suffix.
 
 .. note:: In Biblical Hebrew, a noun always becomes :ref:`definite<definiteness>` when a pronominal suffix is attached to it.
 
@@ -70,7 +70,7 @@ Function
 Attached to a :ref:`noun<noun>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-When attached to a noun, a pronominal suffix functions as a personal pronoun in a :ref:`construct relationship<state_construct-chain>`
+When attached to a noun, a pronominal suffix functions as a personal pronoun in a :ref:`construct relationship<state_construct-construct-chain>`
 with the noun to which it is attached.  Very often, the pronoun functions as a possessive
 :ref:`attributive adjective<adjective-attributive>` indentifying the person(s) or thing(s) in possession of that noun.
 

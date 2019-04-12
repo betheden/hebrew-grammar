@@ -82,9 +82,9 @@ Non-finite verbs
 Properly speaking, non-finite verbs are verbal complements that require
 a finite verb to form a complete sentence. The non-finite verb forms in Biblical Hebrew include
 the :ref:`infinitive_absolute`, the :ref:`infinitive_construct`, and the participles (both
-:ref:`active<participle_active>`and :ref:`passive<participle_passive>`).
+:ref:`active <participle_active>` and :ref:`passive <participle_passive>`).
 Non-finite verbs can sometimes describe an action or an event in such a
-way that the word functions like a :ref:`noun<noun`>.
+way that the word functions like a :ref:`noun <noun>`.
 
 .. note:: In Biblical Hebrew, the non-finite verb forms are sometimes used
           as finite verbs, and the imperfect form is sometimes used as a non-finite verb.

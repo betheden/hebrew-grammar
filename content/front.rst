@@ -2,13 +2,18 @@
 
 .. _front:
 
-unfoldingWord Hebrew Grammar
-============================
+.. image:: https://cdn.door43.org/assets/uw-icons/logo-uhg-256.png
+   :height: 100px
+   :width: 100px
+   :alt: unfoldingWord® Hebrew Grammar Logo
+
+unfoldingWord® Hebrew Grammar
+=============================
 
 Introduction
 ------------
 
-The unfoldingWord Hebrew Grammar (UHG) is a Biblical Hebrew reference grammar
+The unfoldingWord® Hebrew Grammar (UHG) is a Biblical Hebrew reference grammar
 based on the `morphology codes <http://openscriptures.github.io/morphhb/parsing/HebrewMorphologyCodes.html>`__
 that appear in the `Open Scriptures Hebrew Bible (OSHB) <https://github.com/openscriptures/morphhb>`__. It enables the
 global Church to gain the best possible understanding of the Hebrew
@@ -55,12 +60,12 @@ The work was completed using an online content creation and translation
 platform, the `Door43 Content Service <https://git.door43.org>`__.
 Because of this, all the work is under revision control, you can go back
 and see the `commit history <https://git.door43.org/unfoldingWord/en_uhg/commits/branch/master>`__
-if you'd like (it totals over 2500 commits at the time of writing).
+if you'd like (it totals over 2700 commits at the time of writing).
 
 Future
 ------
 
-We plan to extend the UHG, in conjunction with the unfoldingWord Hebrew
+We plan to extend the UHG, in conjunction with the unfoldingWord® Hebrew
 Bible, to cover higher level syntactic and semantic information. Rather
 than replacing the existing form-centric morphology of the OSHB, we
 would add another parsing layer on top of it that focuses on the
@@ -75,20 +80,23 @@ idea here would be to provide a resource that could easily be translated
 and adapted into other Gateway Languages.
 
 If either of these ideas intrigue you, let us know at
-https://unfoldingword.org/contact/, we'd love to have your involvement!
+https://www.unfoldingword.org/contact/, we'd love to have your involvement!
 
 Downloads
 ---------
 
 The latest version of the UHG may be downloaded in the following formats:
 
-- `UHG HTML <https://readthedocs.org/projects/uhg/downloads/htmlzip/latest/>`__
+- `UHG HTML zip file <https://readthedocs.org/projects/uhg/downloads/htmlzip/latest/>`__
+- `UHG HTML Epub file <https://readthedocs.org/projects/uhg/downloads/epub/latest/>`__
 - `UHG reStructuredText source files <https://git.door43.org/unfoldingWord/en_uhg/archive/master.zip>`__
+
+PDF is not currently offered due to complications with mixing RTL and LTR text.
 
 Contributors
 ------------
 
-This resource was designed by the `unfoldingWord Project <https://unfoldingword.org/>`__ and built by the `Door43 World Missions Community <https://door43.org/>`__. At least the following
+This resource was designed by `unfoldingWord <https://www.unfoldingword.org/>`__ and built by the `Door43 World Missions Community <https://door43.org/>`__. At least the following
 people were instrumental in the creation of the UHG:
 
 -  Bram van den Heuvel (BA Theology, Utrecht University; MA Biblical
@@ -118,47 +126,14 @@ people were instrumental in the creation of the UHG:
 License
 -------
 
-Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*unfoldingWord® Hebrew Grammar*
 
-This is a human-readable summary of (and not a substitute for) the
-`license <http://creativecommons.org/licenses/by-sa/4.0/>`__.
+*Copyright © 2019 by unfoldingWord*
 
-You are free to:
-^^^^^^^^^^^^^^^^
+This work is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit `http://creativecommons.org/licenses/by-sa/4.0/ <http://creativecommons.org/licenses/by-sa/4.0/>`__ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
--  **Share** — copy and redistribute the material in any medium or
-   format
--  **Adapt** — remix, transform, and build upon the material
+unfoldingWord® is a registered trademark of unfoldingWord. Use of the unfoldingWord name or logo requires the written permission of unfoldingWord. Under the terms of the CC BY-SA license, you may copy and redistribute this unmodified work as long as you keep the unfoldingWord® trademark intact. If you modify a copy or translate this work, thereby creating a derivative work, you must remove the unfoldingWord® trademark.
 
-for any purpose, even commercially.
+On the derivative work, you must indicate what changes you have made and attribute the work as follows: “The original work by unfoldingWord is available from `unfoldingword.org/uhg <https://www.unfoldingword.org/uhg>`__)”. You must also make your derivative work available under the same license (CC BY-SA).
 
-The licensor cannot revoke these freedoms as long as you follow the
-license terms.
-
-Under the following conditions:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
--  **Attribution** — You must attribute the work as follows: “Original
-   work available at https://unfoldingword.org/uhg/.” Attribution
-   statements in derivative works should not in any way suggest that we
-   endorse you or your use of this work.
--  **ShareAlike** — If you remix, transform, or build upon the material,
-   you must distribute your contributions under the same license as the
-   original.
-
-**No additional restrictions** — You may not apply legal terms or
-technological measures that legally restrict others from doing anything
-the license permits.
-
-Notices:
-^^^^^^^^
-
-You do not have to comply with the license for elements of the material
-in the public domain or where your use is permitted by an applicable
-exception or limitation.
-
-No warranties are given. The license may not give you all of the
-permissions necessary for your intended use. For example, other rights
-such as publicity, privacy, or moral rights may limit how you use the
-material.
+If you would like to notify unfoldingWord regarding your translation of this work, please contact us at `unfoldingword.org/contact/ <https://www.unfoldingword.org/contact/>`__.

@@ -80,7 +80,7 @@ suffix would necessarily appear in the construct state.
 .. _state_absolute-absolute-noun:
 
 Concluding term of a :ref:`construct chain<state_construct-construct-chain>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The final word in a construct chain always appears in the absolute state either with or without the definite article.  This term is
 often called the "absolute noun."  If the absolute noun in a construct chain is :ref:`definite<definiteness>`, then the
