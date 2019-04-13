@@ -17,7 +17,7 @@ Article
 In Biblical Hebrew, demonstrative :ref:`pronouns<pronoun>` can function either as :ref:`nouns<noun>` or
 :ref:`adjectives<adjective>`. Demonstrative pronouns can change form according to gender (:ref:`masculine<gender_masculine>`
 or :ref:`feminine<gender_feminine>`) and number (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`) but NOT
-according to person (i.e. :ref:`first<person_first>`, :ref:`second<second_persons>`, or :ref:`third<person_third>` person).
+according to person (i.e. :ref:`first<person_first>`, :ref:`second<person_second>`, or :ref:`third<person_third>` person).
 
 Form
 ----
@@ -112,7 +112,7 @@ the definite article. In either case, the demonstrative pronoun makes the descri
   And-behold **this** angel
   Suddenly an angel
 
-as a :ref:`Predicative<adjective-predicate>` adjective
+as a :ref:`Predicative<adjective-predicative>` adjective
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JDG 4:14
