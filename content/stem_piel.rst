@@ -213,7 +213,7 @@ verbal element.
 .. note:: Causative action must be expressed by a :ref:`trasitive verb<verb-transitive>`,
           but non-causative action can be expressed by an :ref:`intransitive verb<verb-intransitive>`.
           Thus, a verb that is transitive in the Piel stem may be intransitive in
-          the Qal and/or :ref:`Niphal<stem-niphal>` stems.
+          the Qal and/or :ref:`Niphal<stem_niphal>` stems.
 
 .. csv-table:: Example: JOB 38:12 –– expressing causative action with a dynamic verb
 

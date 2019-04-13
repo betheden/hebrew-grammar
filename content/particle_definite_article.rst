@@ -86,7 +86,7 @@ One way that a term can be made definite in Biblical Hebrew is to add the defini
 Matches an :ref:`adjective<adjective>` to a :ref:`noun<noun>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In Biblical Hebrew, when a definite :ref:`common noun<noun_common>`is followed by a definite 
+In Biblical Hebrew, when a definite :ref:`common noun<noun_common>` is followed by a definite 
 :ref:`attributive adjective<adjective-attributive>`, an :ref:`adjectival participle<participle_active-adjectival>`,
 or a noun in apposition, the definite article on both terms shows that they belong together. In other words,
 that particular adjective is describing that particular noun.  

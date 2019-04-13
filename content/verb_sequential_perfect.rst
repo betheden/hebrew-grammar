@@ -28,9 +28,9 @@ because it often appears in a series following a
 clause with an Imperfect verb.
 
 .. note:: The Sequential Pefect conjugation has an additional function that is unique among all verbal conjugations in Biblical Hebrew.
-A Sequential Verb often, but not always, expresses the same kind of action as the preceding verb.  This is often the case when
-a Sequential Perfect verbs are used to express a sequence of incomplete actions, a sequence of imperatives, or a sequence of
-verbal actions expressing possibility or desirability.
+   A Sequential Verb often, but not always, expresses the same kind of action as the preceding verb.  This is often the case when
+   a Sequential Perfect verbs are used to express a sequence of incomplete actions, a sequence of imperatives, or a sequence of
+   verbal actions expressing possibility or desirability.
 
 There is a difference between (1) the Sequential Perfect conjugation, (2)
 the :ref:`Perfect copulative<verb_perfect-copulative>`,

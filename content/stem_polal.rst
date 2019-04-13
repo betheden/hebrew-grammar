@@ -15,7 +15,7 @@ Article
 -------
 
 The Polal :ref:`stem<stem>` is a variation of the :ref:`Pual<stem_pual>`
-and expresses the :ref:`passive<stem-passive>` voice of the verbal action of the :ref:`Polel<stem_polel>` stem.
+and expresses the :ref:`passive<stem-voice-passive>` voice of the verbal action of the :ref:`Polel<stem_polel>` stem.
 The Polal stem is formed from the Pual by dropping the 2nd radical and
 repeating the 3rd radical (with a vowel change). It is an extremely :ref:`rare stem formation<stem-uncommon>`
 in Biblical Hebrew.

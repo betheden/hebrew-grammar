@@ -19,7 +19,7 @@ In Biblical Hebrew, :ref:`nouns<noun>` and :ref:`pronouns<pronoun>` either can b
 or can be made definite by some linguistic marking or grammatical construction.  
 Generally speaking, :ref:`adjectives<adjective>` and participles (both :ref:`active<participle_active>`
 and :ref:`passive<participle_passive>`) are always intrinsically indefinite, but they can be made definite by an attached 
-:ref:`definite article<Particle_Definite_Article>` or :ref:`pronominal suffix<Suffix_Pronominal>`, 
+:ref:`definite article<particle_definite_article>` or :ref:`pronominal suffix<suffix_pronominal>`, 
 or by being connected to a definite noun in a construct relationship.
 
 As a general summary, definiteness in Biblical Hebrew functions in the following ways: 
@@ -362,7 +362,7 @@ material
 Matches an :ref:`adjective<adjective>` to a :ref:`noun<noun>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In Biblical Hebrew, when a definite :ref:`common noun<noun_common>`is followed by a definite 
+In Biblical Hebrew, when a definite :ref:`common noun<noun_common>` is followed by a definite 
 :ref:`attributive adjective<adjective-attributive>`, an :ref:`adjectival participle<participle_active-adjectival>`,
 or a noun in apposition, the definite article on both terms shows that they belong together. In other words,
 that particular adjective is describing that particular noun.  
@@ -387,8 +387,8 @@ Introduces a verbal relative clause
 When the definite article is used in front of a :ref:`verb<verb>`,
 it refers to the person(s) doing the action described by the verb and is translated very much like a :ref:`particle_relative`.
 The definite article is used in this way usually with infinitives (:ref:`construct<infinitive_construct>`
-or :ref:`absolute<infinitive_absolute>`) or participles (:ref:`active<active_participle-nominal>`
-or :ref:`passive<passive_participle-nominal>`), and only rarely with finite verbal forms.
+or :ref:`absolute<infinitive_absolute>`) or participles (:ref:`active<participle_active-nominal>`
+or :ref:`passive<participle_passive-nominal>`), and only rarely with finite verbal forms.
 
 with a :ref:`non-finite<verb-non-finite>` verb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -54,7 +54,7 @@ The word לֹא is the standard negative particle in Biblical Hebrew. This
 term often negates verbs, but it has potential to negate other kinds of
 words as well. In English, it is usually translated as "no" or "not".
 When used with :ref:`2nd person<person_second>`
-:ref:`imperfect<verb_imperfect-negative-directive`
+:ref:`imperfect<verb_imperfect-negative-directive>`
 verbs to express a negative command, this particle signifies a more
 emphatic command than the use of the negative particle אַל (with an imperfect verb).
 

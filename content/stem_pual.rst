@@ -123,7 +123,7 @@ Expresses the passive voice of the Piel stem
 
 For most verbs that appear in both the Piel and Pual stems in Biblical
 Hebrew, the Pual stem expresses the same kind of action as the Piel stem
-(:ref:`simple<stem-voice-active>`, intensive :ref:`stem-action-intensive>`, :ref:`resultative<stem-action-resultative>`,
+(:ref:`simple<stem-voice-active>`, :ref:`intensive<stem-action-intensive>`, :ref:`resultative<stem-action-resultative>`,
 :ref:`causative<stem-action-causative>`, etc.) but in passive voice.
 A good example is the verb בָּקַע. In the :ref:`Qal<stem_qal>` stem,
 the verb בָּקַע means "to cut open" or "to break open" (simple action,

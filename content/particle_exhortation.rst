@@ -15,7 +15,7 @@ Article
 
 Exhortation :ref:`particles<particle>` are words that add emotive force to a command or request. These particles are similar to
 :ref:`interjections<particle_interjection>` but function to strengthen a specific call to action, while an interjection is used
-as a more general expression of emotion.  Similar to :ref:`demonstrative<particle_dmonstrative>` particles, exhortation particles
+as a more general expression of emotion.  Similar to :ref:`demonstrative<particle_demonstrative>` particles, exhortation particles
 are sometime left untranslated, depending on the specific context.
 
 נָא
