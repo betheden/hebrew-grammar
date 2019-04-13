@@ -69,7 +69,7 @@ a person within the narrative is observing at that moment (see GEN 1:31 and GEN 
   **Look** his-reward with-him
   "**See**, his reward is with him"
 
- .. csv-table:: Example: GEN 1:31
+.. csv-table:: Example: GEN 1:31
 
    וַיַּ֤רְא אֱלֹהִים֙ אֶת־כָּל־אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה־ט֖וֹב מְאֹ֑ד 
   insert transliteration

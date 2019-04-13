@@ -33,7 +33,7 @@ in different languages, so this particle must always be translated according to 
 Form
 ----
 
-.. csv-table:: Standard form, with pathah vowel and daghesh in the following consonan
+.. csv-table:: Standard form, with pathah vowel and daghesh in the following consonant
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss

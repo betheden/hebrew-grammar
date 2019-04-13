@@ -30,20 +30,20 @@ Generally, there are eight different kinds of conjunctions in Biblical Hebrew: :
 :ref:`concessive<conjunction-concessive>` ("except"); :ref:`affirmative<conjunction-affirmative>` ("surely");
 :ref:`restrictive<conjunction-restrictive>` ("only"). Many conjunctions in Biblical Hebrew have potential to function in multiple categories.
 
--וְ
----
-
 Sentences in Biblical Hebrew often begin with the conjunction ו (as either a consonant or a shureq vowel).
 This conjunction וְ ("and") cannot stand alone as an independent word but must be connected to another word as a prefix.
 This can be added to a :ref:`noun<noun>`, a :ref:`verb<verb>`, a :ref:`pronoun<pronoun>`, or a :ref:`particle<particle>`.
 The shewa in וְ can lengthen to a vowel, usually pathah (when paired with the definite article) or qamets 
 (when paired with both the article and a ה prefix), but others are also possible.
 
-.. note:: This conjunction is often left untranslated when it begins a
+.. note:: The conjunction וְ is often left untranslated when it begins a
           sentence or clause, or when it appears within the sequential verbal
           forms (:ref:`verb_sequential_perfect` and :ref:`verb_sequential_imperfect`).
           Also, the conjunction is often added between every item of a list in
           Biblical Hebrew; but in English the וְ is not translated for each item.
+
+-וְ
+----
 
 Form
 ~~~~
@@ -168,9 +168,9 @@ An affirmative conjunction connects two words/phrases/sentences in such a way th
 
 
 ֹאו
----
+----
 
-The word אוֹ is the standard alternative conjunction in Biblical Hebrew,
+The word אוֹ is the standard :ref:`alternative<conjunction-alternative>` conjunction in Biblical Hebrew,
 usually translated as "or" in English.
 
 .. csv-table:: Example: EXO 21:32
@@ -375,8 +375,8 @@ something that has happened in the past in certain circumstances.
   "**If** he said, 'The speckled animals will be your wages,' then all
      the flock bore speckled young."
 
-Alternative
-~~~~~~~~~~~
+:ref:`Alternative<conjunction-alternative>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This use of the conjunction אִם is often found in a question and is
 usually translated as "or" in English.
@@ -396,7 +396,7 @@ in a sentence. However, when עַתָּה appears at the beginning of a
 sentence or clause, it usually functions not as an adverb but as a
 conjunction, either standing alone or as a compound conjunction (when
 paired with the prefix וְ or with particles such as גַּם or כִּי). In
-either case, the term functions as a type of causal conjunction, indicating that
+either case, the term functions as a type of :ref:`causal<conjunction-causal>` conjunction, indicating that
 what follows is based upon what has come before. This conjunction must
 be translated always with great sensitivity to the context to express
 the correct nuance; in English, this conjunction can be translated as
@@ -439,7 +439,7 @@ contexts.
 לֽוּ
 ----
 
-This term is a conditional conjunction, similar to אִם but used only to
+This term is a :ref:`conditional<conjunction-conditional>` conjunction, similar to אִם but used only to
 express hypothetical conditions. The word can also appear in the
 alternate forms לוּא and לֻא. This conjunction either: 1) expresses a
 condition that cannot (or probably will not) happen, usually translated
@@ -464,7 +464,7 @@ only" in English.
 פֶּן
 ----
 
-This term is also a conditional conjunction, and it expresses a certain
+This term is also a :ref:`conditional<conjunction-conditional>` conjunction, and it expresses a certain
 kind of hypothetical condition. The word can be used in two different
 ways: either 1) in warnings to express a potential condition that will
 take place if the warning is not heeded, usually translated "lest" in
@@ -487,6 +487,19 @@ that...not" (or similar phrasing) in English.
   "Be-guarded to-you **so-that-not**\ \_you-speak with\_Jacob from-good
      until\_bad."
   Be careful **that** you speak to Jacob **neither** good **nor** bad.
+
+.. _conjunction-restrictive:
+
+רַק
+----
+
+The word רַק is the standard restrictive conjunction in Biblical Hebrew.  A restrictive conjunction sets apart a clause or phrase
+as unique within its context. Sometimes this restrictive function emphasizes a particular item as the most important or most
+prominent; in these cases, the conjunction is similar in meaning to an :ref:`affirmative<conjunction-affirmative>` conjunction.
+At other times, however, this restrictive function introduces a particular limitation to something previously expressed; in
+these cases, this conjunction is similar in meaning to a :ref:`concessive<conjunction-concessive>` conjunction.  
+
+
 
 .. _conjunction-compound:
 
@@ -521,7 +534,7 @@ compound conjunction.
 ~~~~~~~~
 
 Sometimes the words אַף and כִּי are paired together to form a compound
-conjunction that functions as a strong affirmative.  This compound
+conjunction that functions as a strong :ref:`affirmative<conjunction-affirmative>`.  This compound
 conjunction can appear with or without the prefix conjunction וְ
 ("and").
 
