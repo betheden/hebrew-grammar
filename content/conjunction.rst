@@ -122,9 +122,7 @@ translated as “or” in English.
 
 .. csv-table:: Example: EXO 20:10
 
-  "לֹֽ֣א־תַעֲשֶׂ֨ה כָל־מְלָאכָ֜ה אַתָּ֣ה ׀ **וּבִנְךָֽ֣־וּבִתֶּ֗ךָ**
-     עַבְדְּךָ֤ **וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖** אֲשֶׁ֥ר
-     בִּשְׁעָרֶֽיךָ׃"
+  לֹֽ֣א־תַעֲשֶׂ֨ה כָל־מְלָאכָ֜ה אַתָּ֣ה ׀ **וּבִנְךָֽ֣־וּבִתֶּ֗ךָ**  עַבְדְּךָ֤ **וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖** אֲשֶׁ֥ר  בִּשְׁעָרֶֽיךָ׃
   "lo-tha'aseh khol-melakhah 'attah **uvinkha-wwvittekha** 'avdekha
      **wa'amathekha uvehemtekha wegerekha** 'asher bish'areykha"
   "Not\_you-shall-do any\_work you **nor-your-son\_nor-your-daughter**
@@ -161,10 +159,8 @@ An affirmative conjunction connects two words/phrases/sentences in such a way th
 
   וְהֶ֨בֶל הֵבִ֥יא גַם־ה֛וּא מִבְּכֹר֥וֹת צֹאנ֖וֹ וּמֵֽחֶלְבֵהֶ֑ן
   wehevel hevi gam-hu mibbekhoroth tsono **umehelvehen**
-  "And-Abel brought also\_he from-firstborn-of his-flock
-     **even-from-fat**"
-  "As for Abel, he brought some of the firstborn of his flock **and some
-     of the fat**"
+  "And-Abel brought also\_he from-firstborn-of his-flock **even-from-fat**"
+  "As for Abel, he brought some of the firstborn of his flock **and some of the fat**"
 
 
 ֹאו

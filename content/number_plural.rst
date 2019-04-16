@@ -284,11 +284,7 @@ Generally, pronouns and suffixes use the :ref:`common plural<number_plural-commo
 
 .. csv-table:: Example: EZR 9:12 –– pronominal suffixes with common plural
 
-  "וְ֠עַתָּה **בְּֽנֹותֵיכֶ֞ם** אַל־תִּתְּנ֣וּ **לִבְנֵיהֶ֗ם
-     וּבְנֹֽתֵיהֶם֙** אַל־תִּשְׂא֣וּ לִבְנֵיכֶ֔ם"
-  "we'attah **benowthekhem** 'al-tittenu **livnehem uvenothehem**
-     'al-tis'u **livnekhem**"
-  "And-now **your-daughters** not\_give **to-their-sons
-     and-their-daughters** not\_take **for-your-sons**"
-  "So now, do not give **your daughters to their sons**; do not take
-     **their daughters for your sons**"
+   וְ֠עַתָּה **בְּֽנֹותֵיכֶ֞ם** אַל־תִּתְּנ֣וּ **לִבְנֵיהֶ֗ם וּבְנֹֽתֵיהֶם֙** אַל־תִּשְׂא֣וּ לִבְנֵיכֶ֔ם
+  "we'attah **benowthekhem** 'al-tittenu **livnehem uvenothehem** 'al-tis'u **livnekhem**"
+  "And-now **your-daughters** not\_give **to-their-sons and-their-daughters** not\_take **for-your-sons**"
+  "So now, do not give **your daughters to their sons**; do not take **their daughters for your sons**"

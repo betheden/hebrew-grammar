@@ -147,8 +147,8 @@ Function
 
 The Piel stem can express any of the following kinds of verbal action:
 
-Expresses :ref:`simple<stem-action-simple> action
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Expresses :ref:`simple<stem-action-simple>` action
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In Biblical Hebrew, some verbs can express *different* meanings in
 *different* stem formations. A good example is the Hebrew verb נָחַם. In

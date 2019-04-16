@@ -212,8 +212,7 @@ Because Biblical Hebrew does not contain many adverbs, sometimes other kinds of 
 
 .. csv-table:: Example: 1SA 3:12
 
-  "אָקִ֣ים אֶל־עֵלִ֔י אֵ֛ת כָּל־אֲשֶׁ֥ר דִּבַּ֖רְתִּי אֶל־בֵּיתֹ֑ו
-     **הָחֵ֖ל וְכַלֵּֽה**\ ׃"
+  אָקִ֣ים אֶל־עֵלִ֔י אֵ֛ת כָּל־אֲשֶׁ֥ר דִּבַּ֖רְתִּי אֶל־בֵּיתֹ֑ו הָחֵ֖ל וְכַלֵּֽה
   "'aqim 'el-'eli 'eth kol-'asher dibbarti 'el-bethow **hahel
      wekhalleh**"
   "I-will-fulfill to\_Eli [dir.obj] all\_that I-have-spoken

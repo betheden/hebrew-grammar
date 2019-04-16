@@ -69,7 +69,7 @@ When used in this way, the preposition is usually transated into English with "t
 
 .. csv-table:: GEN 1:5 –– with the prefixed preposition לְ
 
-  וַיִּקְרָ֨א אֱלֹהִ֤ים׀ **לָ**אֹור֙ יֹ֔ום
+  וַיִּקְרָ֨א אֱלֹהִ֤ים׀ **לָ** אֹור֙ יֹ֔ום
   wayyiqra 'elohim **la'owr** yowm
   And-he-called **to**-the-light day
   "God called the light ""day"""

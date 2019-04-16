@@ -28,7 +28,7 @@ Examples
   
   דַּבֶּר־נָ֤א אֶל־עֲבָדֶ֙יךָ֙ אֲרָמִ֔ית 
   transliteration
-  Speak_[exh.prtc] to_your-servants **Aramaic**
+  Speak\_[exh.prtc] to_your-servants **Aramaic**
   Please speak to your servants **in the Aramean language, Aramaic**
 
 .. csv-table:: ISA 36:11

@@ -86,15 +86,12 @@ In the following example, the infinitive construct is expressing
 the complementary action of the main verb.
 
 .. csv-table:: Example: EXO 3:8
-
-  "וָאֵרֵ֞ד **לְהַצִּיל֣וֹ**\ ׀ מִיַּ֣ד מִצְרַ֗יִם **וּֽלְהַעֲלֹתוֹ֮**
-     מִן־הָאָ֣רֶץ הַהִוא֒"
-  "wa'ered **lehatsilo** miyyad mitsrayim **uleha'alotho** min-ha'arets
-     hahiw'"
+ 
+  וָאֵרֵ֞ד **לְהַצִּיל֣וֹ**\ ׀ מִיַּ֣ד מִצְרַ֗יִם **וּֽלְהַעֲלֹתוֹ֮** מִן־הָאָ֣רֶץ הַהִוא֒
+  "wa'ered **lehatsilo** miyyad mitsrayim **uleha'alotho** min-ha'arets hahiw'"
   "and-I-have-come-down **to-deliver-them** from-hand-of Egypt
      **and-to-bring-them-up** from-the-land the-that"
-  "I have come down **to free them** from the Egyptians' power and **to
-     bring them up** from that land"
+  "I have come down **to free them** from the Egyptians' power and **to bring them up** from that land"
 
 In the following example, the infinitive construct is expressing
 complementary action, but with a more nuanced meaning.
@@ -131,8 +128,7 @@ Infinitive construct with preposition בְּ to express simultaneous action:
 
 .. csv-table:: Example: 1SA 2:27
 
-  "הֲנִגְלֹ֤ה נִגְלֵ֙יתִי֙ אֶל־בֵּ֣ית אָבִ֔יךָ **בִּֽהְיוֹתָ֥ם**
-     בְּמִצְרַ֖יִם"
+  הֲנִגְלֹ֤ה נִגְלֵ֙יתִי֙ אֶל־בֵּ֣ית אָבִ֔יךָ **בִּֽהְיוֹתָ֥ם** בְּמִצְרַ֖יִם
   hanigloh niglethiy 'el-beth 'avikha **biheyotham** bemitsrayim
   "[quest.]-indeed I-revealed-myself to\_house-of your-father
      **while-they-were** in-Egypt"

@@ -37,7 +37,7 @@ Paradigm
   masculine plural far,הֵם / הֵמָּה,hemmah / hem,those
   feminine plural far,הֵנָּה,hennah,those
 
-.. note:: The "far" demonstrative pronouns are identical to certain :ref:`personal pronouns<pronoun_personal>`and must be distinguished by the context.
+.. note:: The "far" demonstrative pronouns are identical to certain :ref:`personal pronouns<pronoun_personal>` and must be distinguished by the context.
 
 
 Function

@@ -40,8 +40,7 @@ Example
 
 .. csv-table:: Example: JER 46:8
 
-  "מִצְרַ֨יִם֙ כַּיְאֹ֣ר יַֽעֲלֶ֔ה וְכַנְּהָרֹ֖ות **יִתְגֹּ֣עֲשׁוּ**
-     מָ֑יִם"
+  מִצְרַ֨יִם֙ כַּיְאֹ֣ר יַֽעֲלֶ֔ה וְכַנְּהָרֹ֖ות **יִתְגֹּ֣עֲשׁוּ** מָ֑יִם
   mitsrayim kay'or ya'aleh wekhanneharowth **yithgo'ashu** mayim
   "Egypt like-the-Nile rises and-like-the-rivers
      **going-back-and-forth** waters"

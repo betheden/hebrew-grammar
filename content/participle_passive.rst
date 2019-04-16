@@ -118,8 +118,7 @@ The following example shows passive participles introducing an entire clause tha
 
 .. csv-table:: Example: PSA 22:7
 
-  "וְאָנֹכִ֣י תוֹלַ֣עַת וְלֹא־אִ֑ישׁ **חֶרְפַּ֥ת** אָ֝דָ֗ם **וּבְז֥וּי**
-     עָֽם׃"
+  וְאָנֹכִ֣י תוֹלַ֣עַת וְלֹא־אִ֑ישׁ **חֶרְפַּ֥ת** אָ֝דָ֗ם **וּבְז֥וּי** עָֽם׃
   we'anokhi thola'ath welo-'ish **herpath** 'adam **uvezuy** 'am
   "and-I worm and-not\_man **scorned-of** humanity **and-despised-of**
      people"

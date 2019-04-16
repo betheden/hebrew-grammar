@@ -105,8 +105,7 @@ Common Singular
   יָדַ֥ע שֹׁור֙ קֹנֵ֔הוּ וַחֲמֹ֖ור אֵב֣וּס בְּעָלָ֑יו
   yada' **showr qonehu wahamowr 'evus be'alayw**
   He-knows **ox his-owner and-the-donkey manger-of his-master**
-  "The **ox** knows **his owner**, **and the donkey his master's feeding
-     trough**"
+  "The **ox** knows **his owner**, **and the donkey his master's feeding trough**"
 
 :ref:`Proper names<noun_proper_name>` are always singular, but can be either common singular or
 :ref:`collective singular<number_singular-collective>`.

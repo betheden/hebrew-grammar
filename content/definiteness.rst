@@ -135,8 +135,7 @@ or by connecting it to a definite term in a construct relationship.
 
 .. csv-table:: Example: EZR 9:12
 
-  "וְ֠עַתָּה **בְּֽנֹותֵיכֶ֞ם** אַל־תִּתְּנ֣וּ **לִבְנֵיהֶ֗ם
-     וּבְנֹֽתֵיהֶם֙** אַל־תִּשְׂא֣וּ לִבְנֵיכֶ֔ם"
+   וְ֠עַתָּה **בְּֽנֹותֵיכֶ֞ם** אַל־תִּתְּנ֣וּ **לִבְנֵיהֶ֗ם וּבְנֹֽתֵיהֶם֙** אַל־תִּשְׂא֣וּ לִבְנֵיכֶ֔ם
   "we'attah **benowthekhem** 'al-tittenu **livnehem uvenothehem**
      'al-tis'u **livnekhem**"
   "And-now **your-daughters** not\_give **to-their-sons
@@ -225,8 +224,7 @@ Sometimes a definite term refers to an item that has been mentioned previously i
 
 .. csv-table:: Example: ZEC 3:5
 
-  "וָאֹמַ֕ר יָשִׂ֛ימוּ צָנִ֥יף טָהֹ֖ור עַל־רֹאשֹׁ֑ו וַיָּשִׂימוּ֩
-     **הַצָּנִ֨יף הַטָּהֹ֜ור** עַל־רֹאשֹׁ֗ו"
+  וָאֹמַ֕ר יָשִׂ֛ימוּ צָנִ֥יף טָהֹ֖ור עַל־רֹאשֹׁ֑ו וַיָּשִׂימוּ֩ **הַצָּנִ֨יף הַטָּהֹ֜ור** עַל־רֹאשֹׁ֗ו 
   "wa'omar yasimu tsanif tahowr 'al-roshow wayyasimu **hatsanif
      hattahowr** 'al-roshow"
   "And-I-said put turban clean on\_his-head and-they-put **the-turban
@@ -236,8 +234,7 @@ Sometimes a definite term refers to an item that has been mentioned previously i
 
 .. csv-table:: Example: JDG 4:15
 
-  "וַיָּ֣הָם יְ֠הוָה אֶת־סִֽיסְרָ֨א וְאֶת־כָּל־הָרֶ֧כֶב
-     וְאֶת־כָּל־הַֽמַּחֲנֶ֛ה"
+  וַיָּ֣הָם יְ֠הוָה אֶת־סִֽיסְרָ֨א וְאֶת־כָּל־הָרֶ֧כֶב וְאֶת־כָּל־הַֽמַּחֲנֶ֛ה
   "wayyahom yehwah 'eth-sisera we'eth-kol-harekhev
      we'eth-kol-\ **hammahaneh**"
   "And-he-confused Yahweh [dir.obj]\_Sisera
@@ -315,8 +312,7 @@ In the example below, the definite article is incorporated in the prepositions �
   וְהָיָ֥ה כַצַּדִּ֖יק כָּרָשָׁ֑ע
   wehayah **khatsaddiq karasha'**
   and-they-are **like-the-righteous like-the-wicked**
-  "so that **the righteous** should be treated **the same as the
-     wicked**"
+  "so that **the righteous** should be treated **the same as the wicked**"
 
 Sometimes the definite article is used in this way when a person directly addresses another person.
 
@@ -349,15 +345,9 @@ material
   "הֲכִינֹ֣ותִי לְבֵית־אֱלֹהַ֗י הַזָּהָ֣ב׀ לַ֠זָּהָב וְהַכֶּ֨סֶף
      לַכֶּ֜סֶף וְהַנְּחֹ֣שֶׁת לַנְּחֹ֗שֶׁת הַבַּרְזֶל֙ לַבַּרְזֶ֔ל
      וְהָעֵצִ֖ים לָעֵצִ֑ים"
-  "hakhinowthi leveth-'elohay **hazzahav lazzahov wehakkesef lakkesef
-     wehannehosheth lannehosheth habbarzel labbarzel weha'etsim la'etsim**"
-  "I-have-provided for-house-of\_my-God **the-gold for-the-gold
-     and-the-silver for-the-silver and-the-bronze for-the-bronze the-iron
-     for-the-iron and-the-wood for-the-wood**."
-  "I have provided for the temple of my God: **gold for the things to be
-     made of gold, silver for the things to be made of silver, bronze for
-     the things to be made of bronze, iron for the things to be made of
-     iron, and wood for the things to be made of wood**."
+  "hakhinowthi leveth-'elohay **hazzahav lazzahov wehakkesef lakkesef wehannehosheth lannehosheth habbarzel labbarzel weha'etsim la'etsim**"
+  "I-have-provided for-house-of\_my-God **the-gold for-the-gold and-the-silver for-the-silver and-the-bronze for-the-bronze the-iron for-the-iron and-the-wood for-the-wood**."
+  "I have provided for the temple of my God: **gold for the things to be made of gold, silver for the things to be made of silver, bronze for the things to be made of bronze, iron for the things to be made of iron, and wood for the things to be made of wood**."
 
 Matches an :ref:`adjective<adjective>` to a :ref:`noun<noun>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

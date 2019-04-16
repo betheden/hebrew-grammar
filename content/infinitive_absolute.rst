@@ -177,8 +177,7 @@ or continuance of the action of a main verb.
 
   וַיָּשֻׁ֧בוּ הַמַּ֛יִם מֵעַ֥ל הָאָ֖רֶץ הָל֣וֹךְ וָשׁ֑וֹב
   wayyashuvu hammayim me'al ha'arets **halokh washov**
-  "and-they-returned the-waters from-over the-earth **going
-     and-returning**"
+  "and-they-returned the-waters from-over the-earth **going and-returning**"
   The flood waters receded from off the earth **continually**.
 
 .. csv-table:: Example: 2SA 18:25
