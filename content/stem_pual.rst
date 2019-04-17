@@ -202,7 +202,7 @@ The Pual form of the verb שָׁלַשׁ means "to be three (years old)" or
 
 .. csv-table:: Example: GEN 15:9
 
-  "קְחָ֥ה לִי֙ עֶגְלָ֣ה **מְשֻׁלֶּ֔שֶׁת** וְעֵ֥ז **מְשֻׁלֶּ֖שֶׁת**
+  "**קְחָ֥ה לִי֙ עֶגְלָ֣ה **מְשֻׁלֶּ֔שֶׁת** וְעֵ֥ז **מְשֻׁלֶּ֖שֶׁת
      וְאַ֣יִל מְשֻׁלָּ֑שׁ"
   "qehah liy 'eglah **meshullesheth** we'ez **meshullesheth** we'ayil
      **meshullash**"

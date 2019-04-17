@@ -46,7 +46,7 @@ and :ref:`demonstrative pronouns<pronoun_demonstrative>`.
 
   וּשְׁמוּאֵ֖ל רָאָ֣ה אֶת־\ **שָׁא֑וּל וַיהוָ֣ה** עָנָ֔הוּ
   **ushemu'el** ra'ah 'eth-**sha'ul wayhwah** 'anahu
-  **And-Samuel** saw [dir.obj]\_**Saul and-Yahweh** answered-him
+  **And-Samuel** saw [dir.obj]\_\ **Saul and-Yahweh** answered-him
   "**When Samuel** saw **Saul**, **Yahweh** told him"
 
 .. csv-table:: Example: 1CH 21:4
@@ -135,11 +135,11 @@ or by connecting it to a definite term in a construct relationship.
 
 .. csv-table:: Example: EZR 9:12
 
-   וְ֠עַתָּה **בְּֽנֹותֵיכֶ֞ם** אַל־תִּתְּנ֣וּ **לִבְנֵיהֶ֗ם וּבְנֹֽתֵיהֶם֙** אַל־תִּשְׂא֣וּ לִבְנֵיכֶ֔ם
+  וְ֠עַתָּה **בְּֽנֹותֵיכֶ֞ם** אַל־תִּתְּנ֣וּ **לִבְנֵיהֶ֗ם וּבְנֹֽתֵיהֶם֙** אַל־תִּשְׂא֣וּ לִבְנֵיכֶ֔ם
   "we'attah **benowthekhem** 'al-tittenu **livnehem uvenothehem**
      'al-tis'u **livnekhem**"
-  "And-now **your-daughters** not\_give **to-their-sons
-     and-their-daughters** not\_take **for-your-sons**"
+  "And-now **your-daughters** not\_give **to-their-sons and-their-daughters**
+     not\_take **for-your-sons**"
   "So now, do not give **your daughters to their sons**; do not take
      **their daughters** for **your sons**"
 
@@ -225,12 +225,12 @@ Sometimes a definite term refers to an item that has been mentioned previously i
 .. csv-table:: Example: ZEC 3:5
 
   וָאֹמַ֕ר יָשִׂ֛ימוּ צָנִ֥יף טָהֹ֖ור עַל־רֹאשֹׁ֑ו וַיָּשִׂימוּ֩ **הַצָּנִ֨יף הַטָּהֹ֜ור** עַל־רֹאשֹׁ֗ו 
-  "wa'omar yasimu tsanif tahowr 'al-roshow wayyasimu **hatsanif
-     hattahowr** 'al-roshow"
-  "And-I-said put turban clean on\_his-head and-they-put **the-turban
-     the-clean** on\_his-head"
-  "I said, ""Let them put a clean turban on his head!"" So they set **a
-     clean turban** on his head"
+  "wa'omar yasimu tsanif tahowr 'al-roshow wayyasimu
+     **hatsanif hattahowr** 'al-roshow"
+  "And-I-said put turban clean on\_his-head and-they-put
+     **the-turban the-clean** on\_his-head"
+  "I said, ""Let them put a clean turban on his head!"" So they set
+     **a clean turban** on his head"
 
 .. csv-table:: Example: JDG 4:15
 
@@ -239,14 +239,14 @@ Sometimes a definite term refers to an item that has been mentioned previously i
      we'eth-kol-\ **hammahaneh**"
   "And-he-confused Yahweh [dir.obj]\_Sisera
      and-[dir.obj]\_all\_the-chariots and-[dir.obj]\_all\_\ **the-army**."
-  "Yahweh made Sisera's army confused, all his chariots, and all **his
-     army**."
+  "Yahweh made Sisera's army confused, all his chariots, and all
+     **his army**."
 
 .. csv-table:: Example: 1SA 16:23
 
   וְלָקַ֥ח דָּוִ֛ד אֶת־הַכִּנּ֖וֹר
   welaqah dawid 'eth-**hakkinnor**
-  and-he-took David [dir.obj]\_**the-harp**
+  and-he-took David [dir.obj]\_\ **the-harp**
   David took **his harp**
 
 Sometimes a definite term refers to an unidentified item with the assumption that the reader already understands the referent, 
@@ -256,7 +256,7 @@ either from the context of the narrative or from simple knowledge of the world.
 
   וַיְשַׁלַּ֖ח אֶת־הָֽעֹרֵ֑ב
   wayshallah 'eth-**ha'orev**
-  He-sent [dir.obj]\_**the-raven**
+  He-sent [dir.obj]\_\ **the-raven**
   He sent out **a raven**
 
 .. csv-table:: Example: GEN 22:6
@@ -265,7 +265,7 @@ either from the context of the narrative or from simple knowledge of the world.
   "wayyiqqah 'avraham 'eth-'atse ha'olah ... wayyiqqah beyado
      'eth-**ha'esh** we'eth-\ **hamma'akheleth**"
   "And-he-took Abraham [dir.obj]\_wood-for the-burnt-offering ...
-     and-he-took in-his-hand [dir.obj]\_**the-fire**
+     and-he-took in-his-hand [dir.obj]\_\ **the-fire**
      and-[dir.obj]\_\ **the-knife**"
   "Then Abraham took the wood for the burnt offering ... he took in his
      own hand **the fire** and **the knife**"
@@ -283,7 +283,7 @@ either from the context of the narrative or from simple knowledge of the world.
      וְכָל־צְבָאָ֗ם **הָאָ֜רֶץ** וְכָל־אֲשֶׁ֤ר עָלֶ֨יהָ֙"
   "'asitha 'eth-**hashamayim** sheme **hashamayim** wekhol-tseva'am
      **ha'arets** wekhol-'asher 'aleyha"
-  "You-have-made [dir.obj]\_**the-heavens** heaven-of **the-heavens**
+  "You-have-made [dir.obj]\_\ **the-heavens** heaven-of **the-heavens**
      en-all\_their-host **the-earth** en-all\_that-is on-it"
   "You have made **heaven**, **the** highest **heavens**, with all their
      host, and **the earth** and everything on it"
@@ -337,7 +337,7 @@ material
 
   וַיִּקַּ֣ח אָ֠סָא אֶת־כָּל־הַכֶּ֨סֶף וְהַזָּהָ֜ב
   wayyiqqah 'asa 'eth-kol-**hakkesef wehazzahav**
-  And-he-took Asa [dir.obj]\_all\_**the-silver and-the-gold**
+  And-he-took Asa [dir.obj]\_all\_\ **the-silver and-the-gold**
   Then Asa took all **the silver and gold**
 
 .. csv-table:: Example: 1CH 29:2

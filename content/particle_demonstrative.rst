@@ -71,9 +71,9 @@ a person within the narrative is observing at that moment (see GEN 1:31 and GEN 
 
 .. csv-table:: Example: GEN 1:31
 
-   וַיַּ֤רְא אֱלֹהִים֙ אֶת־כָּל־אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה־ט֖וֹב מְאֹ֑ד 
+  וַיַּ֤רְא אֱלֹהִים֙ אֶת־כָּל־אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה־ט֖וֹב מְאֹ֑ד 
   insert transliteration
-  And-he-saw God [dir.obj]\_all\_that he-made **and-behold**\_good very
+  And-he-saw God [dir.obj]\_all\_that he-made **and-behold** \_good very
   God saw everything that he had made. **Behold,** it was very good.
 
 .. csv-table:: Example: GEN 8:13

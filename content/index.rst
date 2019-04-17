@@ -1,5 +1,11 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/index.rst
 
+.. image:: https://cdn.door43.org/assets/uw-icons/logo-uhg-256.png
+   :height: 100px
+   :width: 100px
+   :alt: unfoldingWord® Hebrew Grammar Logo
+   :align: center
+
 unfoldingWord Hebrew Grammar
 ============================
 

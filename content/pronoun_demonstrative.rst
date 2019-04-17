@@ -113,7 +113,7 @@ the definite article. In either case, the demonstrative pronoun makes the descri
   Suddenly an angel
 
 as a :ref:`Predicative<adjective-predicative>` adjective
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: Example: JDG 4:14
 

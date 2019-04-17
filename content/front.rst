@@ -6,6 +6,7 @@
    :height: 100px
    :width: 100px
    :alt: unfoldingWord® Hebrew Grammar Logo
+   :align: center
 
 unfoldingWord® Hebrew Grammar
 =============================
