@@ -25,6 +25,7 @@ Examples
 --------
 
 .. csv-table:: ISA 36:11
+  :delim: tab
   
   דַּבֶּר־נָ֤א אֶל־עֲבָדֶ֙יךָ֙ אֲרָמִ֔ית 
   transliteration
