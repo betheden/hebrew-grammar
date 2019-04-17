@@ -175,7 +175,7 @@ participles) in singular form describes a singular noun (either :ref:`common<num
 
   אֲרִי־נֹ֭הֵם וְדֹ֣ב שׁוֹקֵ֑ק
   insert transliteration
-  lion\_**roaring** and-bear **charging**
+  lion\_\ **roaring** and-bear **charging**
   Like a **roaring** lion or a **charging** bear 
 
 :ref:`Verbs<verb>` marked as singular
@@ -217,7 +217,7 @@ in plural form indicates that the subject of the participle is plural.
 
   אֲרִי־נֹ֭הֵם וְדֹ֣ב שׁוֹקֵ֑ק
   insert transliteration
-  lion\_**roaring** and-bear **charging**
+  lion\_\ **roaring** and-bear **charging**
   Like a **roaring** lion or a **charging** bear 
 
 .. csv-table:: Example: GEN 1:11 –– verbal participle with collective singular

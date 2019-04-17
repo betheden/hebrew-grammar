@@ -190,6 +190,7 @@ For example, in the Pual stem, the verb אָכַל ("to eat") means "to be consu
 by fire ֹor sword:
 
 .. csv-table:: Example: EXO 3:2
+  :delim: tab
 
   וְהִנֵּ֤ה הַסְּנֶה֙ בֹּעֵ֣ר בָּאֵ֔שׁ וְהַסְּנֶ֖ה אֵינֶ֥נּוּ אֻכָּֽל
   wehinneh hasseneh bo'er ba'esh wehasseneh 'enennu **'ukkal**
@@ -201,6 +202,7 @@ The Pual form of the verb שָׁלַשׁ means "to be three (years old)" or
 "to have three parts":
 
 .. csv-table:: Example: GEN 15:9
+  :delim: tab
 
   "**קְחָ֥ה לִי֙ עֶגְלָ֣ה **מְשֻׁלֶּ֔שֶׁת** וְעֵ֥ז **מְשֻׁלֶּ֖שֶׁת
      וְאַ֣יִל מְשֻׁלָּ֑שׁ"
@@ -208,8 +210,8 @@ The Pual form of the verb שָׁלַשׁ means "to be three (years old)" or
      **meshullash**"
   "Take to-me heifer **being-three** and-female-goat **being-three**
      and-ram **being-three**"
-  "Bring me a heifer **three years old**, a female goat **three years
-     old**, a ram **three years old**"
+  "Bring me a heifer **three years old**, a female goat
+     **three years old**, a ram **three years old**"
 
 The Pual :ref:`passive participle<participle_passive>` of יָדַע ("to know") means an
 *acquaintance* (that is, "one who is known"):

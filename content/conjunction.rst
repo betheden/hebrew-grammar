@@ -126,11 +126,11 @@ translated as “or” in English.
   "lo-tha'aseh khol-melakhah 'attah **uvinkha-wwvittekha** 'avdekha
      **wa'amathekha uvehemtekha wegerekha** 'asher bish'areykha"
   "Not\_you-shall-do any\_work you **nor-your-son\_nor-your-daughter**
-     your-male-servant **nor-your-female-servant nor-your-cattle
-     nor-foreigner** who in-your-gates."
-  "On it you must not do any work, you, **or your son, or your daughter,
-     or your male servant, or your female servant, or your cattle, or the
-     foreigner** who is within your gates."
+     your-male-servant
+     **nor-your-female-servant nor-your-cattle nor-foreigner** who in-your-gates."
+  "On it you must not do any work, you,
+     **or your son, or your daughter, or your male servant, or your female servant, or your cattle, or the foreigner**
+     who is within your gates."
 
 .. _conjunction-contrastive:
 

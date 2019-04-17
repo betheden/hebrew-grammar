@@ -44,5 +44,5 @@ Example
   mitsrayim kay'or ya'aleh wekhanneharowth **yithgo'ashu** mayim
   "Egypt like-the-Nile rises and-like-the-rivers
      **going-back-and-forth** waters"
-  "Egypt rises like the Nile, like rivers of water that **rise and
-     fall**"
+  "Egypt rises like the Nile, like rivers of water that
+     **rise and fall**"

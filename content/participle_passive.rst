@@ -122,8 +122,8 @@ The following example shows passive participles introducing an entire clause tha
   we'anokhi thola'ath welo-'ish **herpath** 'adam **uvezuy** 'am
   "and-I worm and-not\_man **scorned-of** humanity **and-despised-of**
      people"
-  "But I am a worm and not a man, a **disgrace** to humanity **and
-     despised** by the people."
+  "But I am a worm and not a man, a **disgrace** to humanity
+     **and despised** by the people."
 
 .. _participle_passive-verbal:
 

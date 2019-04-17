@@ -132,8 +132,8 @@ Infinitive construct with preposition בְּ to express simultaneous action:
   hanigloh niglethiy 'el-beth 'avikha **biheyotham** bemitsrayim
   "[quest.]-indeed I-revealed-myself to\_house-of your-father
      **while-they-were** in-Egypt"
-  "Did I not reveal myself to the house of your ancestor, **when they
-     were** in Egypt?"
+  "Did I not reveal myself to the house of your ancestor,
+     **when they were** in Egypt?"
 
 Infinitive construct with preposition כְּ to express commencing action:
 

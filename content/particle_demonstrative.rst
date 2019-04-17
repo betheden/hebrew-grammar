@@ -70,6 +70,7 @@ a person within the narrative is observing at that moment (see GEN 1:31 and GEN 
   "**See**, his reward is with him"
 
 .. csv-table:: Example: GEN 1:31
+  :delim: tab
 
   וַיַּ֤רְא אֱלֹהִים֙ אֶת־כָּל־אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה־ט֖וֹב מְאֹ֑ד 
   insert transliteration
@@ -77,6 +78,7 @@ a person within the narrative is observing at that moment (see GEN 1:31 and GEN 
   God saw everything that he had made. **Behold,** it was very good.
 
 .. csv-table:: Example: GEN 8:13
+  :delim: tab
 
   וַיַּ֕רְא וְהִנֵּ֥ה חָֽרְב֖וּ פְּנֵ֥י הָֽאֲדָמָֽה
   insert transliteration
