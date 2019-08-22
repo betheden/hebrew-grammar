@@ -149,11 +149,12 @@ English.
 
 .. _conjunction-affirmative:
 
-Affirmative
+Explicative
 ^^^^^^^^^^^
 
-An affirmative conjunction connects two words/phrases/sentences in such a way that the second either strengthens or adds to the first. This kind of conjunction is often translated
-“even” (or is sometimes left untranslated) in English.
+An affirmative conjunction connects two words/phrases/sentences in such a way that the second
+restates the first, sometimes with a nuance of either strengthening or adding to the first.
+This kind of conjunction is often translated “even” (or is sometimes left untranslated) in English.
 
 .. csv-table:: Example: GEN 4:4
 

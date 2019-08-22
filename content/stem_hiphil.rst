@@ -117,11 +117,11 @@ Paradigm
   masculine singular third person,יַקְטֵל,yaqtel,may he cause to kill
   feminine singular third person,תַּקְטֵל,taqtel,may she cause to kill
   masculine singular second person,תַּקְטֵל,taqtel,may you cause to kill
-  feminine singular second person,תַּקְטֵלִי,taqteli,may you cause to kill
-  masculine plural third person,יַקְטֵלוּ,yaqtelu,may they cause to kill
-  feminine plural third person,תַּקְטֵלְנָה,taqtelenah,may they cause to kill
-  masculine plural second person,תַּקְטֵלוּ,taqtelu,may you cause to kill
-  feminine plural second person,תַּקְטֵלְנָה,taqtelenah,may you cause to kill
+  feminine singular second person,תַּקְטִילִי,taqteli,may you cause to kill
+  masculine plural third person,יַקְטִילוּ,yaqtelu,may they cause to kill
+  feminine plural third person,תַּקְטִילְנָה,taqtelenah,may they cause to kill
+  masculine plural second person,תַּקְטִילוּ,taqtelu,may you cause to kill
+  feminine plural second person,תַּקְטִילְנָה,taqtelenah,may you cause to kill
 
 .. csv-table:: Hiphil Cohortative Paradigm
   :header-rows: 1
