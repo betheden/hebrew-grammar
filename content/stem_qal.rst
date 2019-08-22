@@ -273,7 +273,7 @@ Examples
 
 .. csv-table:: Example: GEN 6:11 –– expressing stative action (stative verb)
 
-  וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס
+  כִּֽי־מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
   **wattimmale** ha'arets hamas
-  **and-it-was-full** the-earth violence
-  **and it was filled** with violence.
+  for **it-is-full** the-earth violence
+  for the earth **is full** of violence
