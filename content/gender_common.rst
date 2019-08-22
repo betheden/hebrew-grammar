@@ -43,7 +43,7 @@ In Biblical Hebrew, :ref:`finite verbs<verb-finite>` in 1st person conjugation a
   House-of Jacob come **and-let-us-walk** in-light-of Yahweh.
   "House of Jacob, come, **and let us walk** in the light of Yahweh."
 
-In Biblical Hebrew, the plural :ref:`demonstrative pronouns<pronoun_demonstrative>` is "gender common".
+In Biblical Hebrew, the plural :ref:`demonstrative pronoun<pronoun_demonstrative>` is "gender common".
 
 .. csv-table:: Example: ISA 28:7
 

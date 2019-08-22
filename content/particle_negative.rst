@@ -65,6 +65,13 @@ emphatic command than the use of the negative particle אַל (with an imperfect
   **not** you-eat from-it
   you may **not** eat from it
 
+.. csv-table:: Example: JER 43:2
+
+  לֹֽא־\ **תָבֹ֥אוּ** מִצְרַ֖יִם לָג֥וּר שָֽׁם
+  lo-\ **thavo'u** mitsrayim lagur sham
+  not\_\ **you-go** Egypt to-sojourn there
+  Do not **go** to Egypt to live there.
+
 .. _particle_negative-al:
 
 אַל
