@@ -271,7 +271,7 @@ Examples
   **And-she-said** Sarai to\_Abram
   So Sarai **said** to Abram
 
-.. csv-table:: Example: GEN 6:11 –– expressing stative action (stative verb)
+.. csv-table:: Example: GEN 6:13 –– expressing stative action (stative verb)
 
   כִּֽי־מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
   **wattimmale** ha'arets hamas
