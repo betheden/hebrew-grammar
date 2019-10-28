@@ -87,16 +87,16 @@ Form
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
-  masculine singular third person,וַיַּקְטִיל,wayyaqtil,(and) he caused to kill
-  feminine singular third person,וַתַּקְטִיל,wattaqtil,(and) she caused to kill
-  masculine singular second person,וַתַּקְטִיל,wattaqtil,(and) you caused to kill
+  masculine singular third person,וַיַּקְטֵל,wayyaqtil,(and) he caused to kill
+  feminine singular third person,וַתַּקְטֵל,wattaqtil,(and) she caused to kill
+  masculine singular second person,וַתַּקְטֵל,wattaqtil,(and) you caused to kill
   feminine singular second person,וַתַּקְטִילִי,wattaqtili,(and) you caused to kill
-  common singular first person,וָאַקְטִיל,wa'aqtil,(and) I caused to kill
+  common singular first person,וָאַקְטֵל,wa'aqtil,(and) I caused to kill
   masculine plural third person,וַיַּקְטִילוּ,wayyaqtilu,(and) they caused to kill
   feminine plural third person,וַתַּקְטֵלְנָה,wattaqtelenah,(and) they caused to kill
   masculine plural second person,וַתַּקְטִילוּ,wattaqtilu,(and) you caused to kill
   feminine plural second person,וַתַּקְטֵלְנָה,wattaqtelenah,(and) you caused to kill
-  common plural first person,וַנַּקְטִיל,wannaqtil,(and) we caused to kill
+  common plural first person,וַנַּקְטֵל,wannaqtil,(and) we caused to kill
 
 .. csv-table:: Hophal Sequential Imperfect Paradigm
   :header-rows: 1

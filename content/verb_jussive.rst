@@ -79,9 +79,9 @@ Form
   feminine singular second person,תַּקְטִילִי,taqteli,you will be caused to kill
   feminine singular third person,תַּקְטֵל,taqtel,may she cause to kill
   masculine plural third person,יַקְטִילוּ,yaqtelu,may they cause to kill
-  feminine plural third person,תַּקְטִילְנָה,taqtelenah,may they cause to kill
+  feminine plural third person,תַּקְטֵלְנָה,taqtelenah,may they cause to kill
   masculine plural second person,תַּקְטִילוּ,taqtelu,you will be caused to kill
-  feminine plural second person,תַּקְטִילְנָה,taqtelenah,you will be caused to kill
+  feminine plural second person,תַּקְטֵלְנָה,taqtelenah,you will be caused to kill
 
 .. csv-table:: Hophal Jussive Paradigm
   :header-rows: 1
