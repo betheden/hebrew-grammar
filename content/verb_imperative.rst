@@ -99,6 +99,20 @@ Direct commands or instructions
   **qah** beyodkha 'avanim gedoloth
   **Take** in-your-hand stones large
   **Take** some large stones in your hand
+  
+.. csv-table:: Example: ISA 60:1
+
+  ק֥וּמִי א֖וֹרִי כִּ֣י בָ֣א אוֹרֵ֑ךְ
+  **qumiy 'oriy** kiy ba' 'orekh
+  **Arise shine** for it-has-come your-light
+  **Arise, shine;** for your light has come
+  
+.. csv-table:: Example: JON 1:2
+
+  ק֠וּם לֵ֧ךְ אֶל־נִֽינְוֵ֛ה
+  **qum** lekh 'el-niyneveh
+  **Rise go** to_Nineveh
+  Get up, go to Nineveh
 
 Actions of greater or lesser desirability
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,7 +137,7 @@ Actions of greater or lesser desirability
   עֻ֥צוּ עֵצָ֖ה וְתֻפָ֑ר
   **'utsu** 'etsah wethufar
   **Advise** counsel and-it-will-be-made-ineffectual
-  "**Form** a plan, but it will not be carried out"""
+  **Form** a plan, but it will not be carried out
 
 .. csv-table:: Example: 1KI 2:22
 
